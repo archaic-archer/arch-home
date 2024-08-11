@@ -1,0 +1,23 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "https://schema.org/Book",
+    "title": "PROJECTS",
+    "author": "Prasanna Chandra",
+    "numberOfPages": 941
+  },
+  "readingOrder": [
+    {
+      "type": "application/pdf",
+      "title": "PROJECTS (Prasanna Chandra)",
+      "href": "publication.pdf"
+    }
+  ],
+  "resources": [
+    {
+      "type": "image/png",
+      "rel": "cover",
+      "href": "cover.png"
+    }
+  ]
+}

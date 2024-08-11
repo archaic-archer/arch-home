@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/hdd1/Backup/SEMESTER_CONTENT_II-IV/2.SEM_III" added="2024-08-08T17:59:24.424978Z" modified="2024-08-08T17:59:24.424986Z" visited="2024-08-08T17:59:24.424978Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2024-08-08T17:59:24.424985Z" count="2"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pc/Downloads" added="2024-08-08T17:59:24.424982Z" modified="2024-08-08T17:59:24.424983Z" visited="2024-08-08T17:59:24.424982Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2024-08-08T17:59:24.424983Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pc/Pictures" added="2024-08-08T17:59:24.424986Z" modified="2024-08-08T17:59:24.424988Z" visited="2024-08-08T17:59:24.424986Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2024-08-08T17:59:24.424987Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pc" added="2024-08-08T17:59:24.424989Z" modified="2024-08-08T17:59:24.424990Z" visited="2024-08-08T17:59:24.424989Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2024-08-08T17:59:24.424990Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/pc/Wallpapers" added="2024-08-08T17:59:24.424991Z" modified="2024-08-08T17:59:24.424992Z" visited="2024-08-08T17:59:24.424991Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2024-08-08T17:59:24.424992Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

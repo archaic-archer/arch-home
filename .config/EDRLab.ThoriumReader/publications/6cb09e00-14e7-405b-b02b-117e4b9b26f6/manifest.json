@@ -1,0 +1,24 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "https://schema.org/Book",
+    "title": "Project Management for Engineering, Business and Technology",
+    "author": "Nicholas, John M. & Steyn, Herman",
+    "modified": "2020-09-02T13:46:13.056Z",
+    "numberOfPages": 755
+  },
+  "readingOrder": [
+    {
+      "type": "application/pdf",
+      "title": "Project Management for Engineering, Business and Technology (John M. Nicholas Herman Steyn)",
+      "href": "publication.pdf"
+    }
+  ],
+  "resources": [
+    {
+      "type": "image/png",
+      "rel": "cover",
+      "href": "cover.png"
+    }
+  ]
+}

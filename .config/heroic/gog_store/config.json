@@ -1,0 +1,53 @@
+{
+	"isLoggedIn": true,
+	"userData": {
+		"country": "IN",
+		"currencies": [
+			{
+				"code": "USD",
+				"symbol": "$"
+			}
+		],
+		"selectedCurrency": {
+			"code": "USD",
+			"symbol": "$"
+		},
+		"preferredLanguage": {
+			"code": "en",
+			"name": "English"
+		},
+		"ratingBrand": "",
+		"isLoggedIn": true,
+		"checksum": {
+			"cart": null,
+			"games": "b691142d3520515d34100c48ffc661f4",
+			"wishlist": null,
+			"reviews_votes": null,
+			"games_rating": null
+		},
+		"updates": {
+			"messages": 0,
+			"pendingFriendRequests": 0,
+			"unreadChatMessages": 0,
+			"products": 1,
+			"forum": 0,
+			"total": 1
+		},
+		"userId": "57769183354454",
+		"username": "archaic_archer",
+		"galaxyUserId": "57769183322910252",
+		"avatar": "https://images.gog.com/587bf85b2c59291f6f61e47a7aebd4309f0961398f24da72a86bee14d7c7bd9c",
+		"walletBalance": {
+			"currency": "USD",
+			"amount": 0
+		},
+		"purchasedItems": {
+			"games": 2,
+			"movies": 0
+		},
+		"wishlistedItems": 0,
+		"friends": [],
+		"personalizedProductPrices": [],
+		"personalizedSeriesPrices": []
+	}
+}

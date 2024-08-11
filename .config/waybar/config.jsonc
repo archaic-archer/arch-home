@@ -1,0 +1,237 @@
+// -*- mode: jsonc -*-
+{
+    "height": 30, 
+    "spacing": 4,
+
+    "modules-left": [
+        "custom/menu",
+        "sway/workspaces",
+        "sway/mode",
+        "sway/scratchpad"
+    ],
+    "modules-center": [
+	"sway/window"
+    ],
+    "modules-right": [
+        "privacy",
+	"mpris",
+        "idle_inhibitor",
+	"pulseaudio",
+        "power-profiles-daemon",
+        "cpu",
+        "memory",
+        "backlight",
+        "battery",
+        "clock",
+	"keyboard-state",
+	"tray",
+        "custom/notification",
+    	"custom/powermenu"
+    ],
+    
+    "keyboard-state": {
+        "numlock": true,
+        "capslock": true,
+        "format": "{name} {icon}",
+        "format-icons": {
+            "locked": "",
+            "unlocked": ""
+        }
+    },
+
+
+    "sway/mode": {
+        "format": "<span style=\"italic\">{}</span>"
+    },
+
+    "sway/scratchpad": {
+        "format": "{icon} {count}",
+        "show-empty": false,
+        "format-icons": ["", ""],
+        "tooltip": true,
+        "tooltip-format": "{app}: {title}"
+    },
+        "idle_inhibitor": {
+        "format": "{icon}",
+        "format-icons": {
+            "activated": "",
+            "deactivated": ""
+        }
+    },
+    
+    "window": {
+	"max-length": 50
+    },
+
+    "tray": {
+        "icon-size": 21,
+        "spacing": 10
+    },
+
+    "clock": {
+        "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>",
+        "format-alt": "{:%Y-%m-%d}"
+    },
+    
+    "cpu": {
+        "format": "{usage}% ",
+        "tooltip": false
+    },
+
+    "memory": {
+        "format": "{}% "
+    },
+
+    "backlight": {
+        "format": "{percent}% {icon}",
+        "format-icons": ["", "", "", "", "", "", "", "", ""]
+    },
+
+    "battery": {
+        "states": {
+            "good": 95,
+            "warning": 30,
+            "critical": 15 }, "format": "{capacity}% {icon}",
+        "format-full": "{capacity}% {icon}",
+        "format-charging": "{capacity}% ",
+        "format-plugged": "{capacity}% ",
+        "format-alt": "{time} {icon}",
+        "format-good": "", // An empty format will hide the module
+        "format-full": "",
+        "format-icons": ["", "", "", "", ""]
+    },
+ 
+    "power-profiles-daemon": {
+      "format": "{icon}",
+      "tooltip-format": "Power profile: {profile}\nDriver: {driver}",
+      "tooltip": true,
+      "format-icons": {
+        "default": "",
+        "performance": "",
+        "balanced": "",
+        "power-saver": ""
+      }
+    },
+
+    "network": {
+        "format-wifi": "{essid} ({signalStrength}%) ",
+        "format-ethernet": "{ipaddr}/{cidr} ",
+        "tooltip-format": "{ifname} via {gwaddr} ",
+        "format-linked": "{ifname} (No IP) ",
+        "format-disconnected": "Disconnected ⚠",
+        "format-alt": "{ifname}: {ipaddr}/{cidr}"
+    },
+
+    "pulseaudio": {
+        "format": "{volume}% {icon} {format_source}",
+        "format-bluetooth": "{volume}% {icon} {format_source}",
+        "format-bluetooth-muted": " {icon} {format_source}",
+        "format-muted": " {format_source}",
+        "format-source": "{volume}% ",
+        "format-source-muted": "",
+        "format-icons": {
+            "headphone": "",
+            "hands-free": "",
+            "headset": "",
+            "phone": "",
+            "portable": "",
+            "car": "",
+            "default": ["", "", ""]
+        },
+        "on-click": "pavucontrol"
+    },
+    
+    "sway/workspaces": {
+        "format": "{icon}",
+        "format-icons": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "urgent": ""
+        },
+	"persistent-workspaces": {
+		"1": [], 
+		"2": [], 
+		"3": [], 
+		"4": [], 
+		"5": [] 
+	},
+},
+
+  "custom/notification": {
+    "tooltip": false,
+    "format": "{icon}",
+    "format-icons": {
+      "notification": "<span foreground='red'><sup></sup></span>",
+      "none": "",
+      "dnd-notification": "<span foreground='red'><sup></sup></span>",
+      "dnd-none": "",
+      "inhibited-notification": "<span foreground='red'><sup></sup></span>",
+      "inhibited-none": "",
+      "dnd-inhibited-notification": "<span foreground='red'><sup></sup></span>",
+      "dnd-inhibited-none": ""
+    },
+    "return-type": "json",
+    "exec-if": "which swaync-client",
+    "exec": "swaync-client -swb",
+    "on-click": "swaync-client -t -sw",
+    "on-click-right": "swaync-client -d -sw",
+    "escape": true
+  },
+   "mpris": {
+	"format": "{player_icon} {dynamic}",
+	"format-paused": "{status_icon} <i>{dynamic}</i>",
+	"player-icons": {
+		"default": "▶",
+		"mpv": "🎵",
+		"firefox": ""
+	},
+	"status-icons": {
+		"paused": "⏸"
+	},
+	"max-length": 25,
+	"on-click-middle": "playerctl play-pause",
+	"on-click": "playerctl next",
+	"on-click-right": "playerctl previous"
+  },
+   
+    "custom/powermenu": {
+        "format": " ⏻ {}",
+        "return-type": "json",
+        "max-length": 40,
+     	"on-click": "~/.config/rofi/powermenu/powermenu.sh"	
+    },
+
+ "privacy": {
+                "icon-spacing": 4,
+                "icon-size": 18,
+                "transition-duration": 250,
+                "modules": [
+                     {
+                          "type": "screenshare",
+                          "tooltip": true,
+                          "tooltip-icon-size": 24
+                     },
+                    {
+                          "type": "audio-in",
+                          "tooltip": true,
+                          "tooltip-icon-size": 24
+                     }
+                ]
+           },   
+    "custom/menu": {
+        "format": " {}",
+        "return-type": "json",
+        "max-length": 40,
+     	"on-click": "~/.config/rofi/AppMenu/launcher.sh"
+
+    }
+     
+
+
+
+    
+        }
+

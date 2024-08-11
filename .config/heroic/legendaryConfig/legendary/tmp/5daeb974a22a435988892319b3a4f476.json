@@ -1,0 +1,33 @@
+{
+  "data": {
+    "de": {
+      "description": "Includes the additional voice over languages available.",
+      "name": "Deutsch",
+      "tags": [
+        "german"
+      ]
+    },
+    "es": {
+      "description": "Includes the additional voice over languages available.",
+      "name": "espa\u00f1ol",
+      "tags": [
+        "spanish"
+      ]
+    },
+    "fr": {
+      "description": "Includes the additional voice over languages available.",
+      "name": "fran\u00e7ais",
+      "tags": [
+        "french"
+      ]
+    },
+    "it": {
+      "description": "Includes the additional voice over languages available.",
+      "name": "italiano",
+      "tags": [
+        "italian"
+      ]
+    }
+  },
+  "version": 1
+}

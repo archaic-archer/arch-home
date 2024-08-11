@@ -1,0 +1,1825 @@
+{
+	"epic_7763cb8916654651a50593a813ae7c38": {
+		"id": "55487533934182361",
+		"game_id": "54042137783814867",
+		"platform_id": "epic",
+		"external_id": "7763cb8916654651a50593a813ae7c38",
+		"dlcs_ids": [],
+		"dlcs": [],
+		"parent_id": null,
+		"supported_operating_systems": [
+			{
+				"slug": "windows",
+				"name": "Windows"
+			},
+			{
+				"slug": "osx",
+				"name": "macOS"
+			}
+		],
+		"available_languages": [
+			{
+				"code": "en-US"
+			}
+		],
+		"first_release_date": null,
+		"game": {
+			"id": "54042137783814867",
+			"parent_id": null,
+			"dlcs_ids": [
+				"56415551955720499",
+				"56479225631042414"
+			],
+			"first_release_date": "2001-12-11T00:00:00+0000",
+			"releases": [
+				{
+					"id": "55224248698873879",
+					"platform_id": "ngameboy",
+					"external_id": "51e7522c",
+					"release_per_platform_id": "ngameboy_51e7522c"
+				},
+				{
+					"id": "55452158702012736",
+					"platform_id": "psn",
+					"external_id": "CUSA30891_00",
+					"release_per_platform_id": "psn_CUSA30891_00"
+				},
+				{
+					"id": "55486004430528485",
+					"platform_id": "xboxone",
+					"external_id": "1871788890",
+					"release_per_platform_id": "xboxone_1871788890"
+				},
+				{
+					"id": "55487533934182361",
+					"platform_id": "epic",
+					"external_id": "7763cb8916654651a50593a813ae7c38",
+					"release_per_platform_id": "epic_7763cb8916654651a50593a813ae7c38"
+				},
+				{
+					"id": "55487777058352986",
+					"platform_id": "psn",
+					"external_id": "PPSA05594_00",
+					"release_per_platform_id": "psn_PPSA05594_00"
+				},
+				{
+					"id": "55490560241444357",
+					"platform_id": "psn",
+					"external_id": "PPSA05595_00",
+					"release_per_platform_id": "psn_PPSA05595_00"
+				},
+				{
+					"id": "55927537086616650",
+					"platform_id": "gog",
+					"external_id": "1074396890",
+					"release_per_platform_id": "gog_1074396890"
+				},
+				{
+					"id": "56160277582532999",
+					"platform_id": "nswitch",
+					"external_id": "0100956016464000",
+					"release_per_platform_id": "nswitch_0100956016464000"
+				},
+				{
+					"id": "56783766427897450",
+					"platform_id": "epic",
+					"external_id": "aa493b0ab7dd46858cee86af7a047e30",
+					"release_per_platform_id": "epic_aa493b0ab7dd46858cee86af7a047e30"
+				},
+				{
+					"id": "54042137783814867",
+					"platform_id": "generic",
+					"external_id": "54042137783814867",
+					"release_per_platform_id": "generic_54042137783814867"
+				}
+			],
+			"title": {
+				"*": "Kao the Kangaroo",
+				"en-US": "Kao the Kangaroo"
+			},
+			"sorting_title": {
+				"*": "Kao the Kangaroo",
+				"en-US": "Kao the Kangaroo"
+			},
+			"type": "game",
+			"developers_ids": [
+				"51141433080431393"
+			],
+			"developers": [
+				{
+					"id": "51141433080431393",
+					"name": "Titus Software",
+					"slug": "titus-software"
+				}
+			],
+			"publishers_ids": [
+				"51141433080431393"
+			],
+			"publishers": [
+				{
+					"id": "51141433080431393",
+					"name": "Titus Software",
+					"slug": "titus-software"
+				}
+			],
+			"genres_ids": [
+				"51071842251704278"
+			],
+			"genres": [
+				{
+					"id": "51071842251704278",
+					"name": {
+						"*": "Adventure",
+						"en-US": "Adventure"
+					},
+					"slug": "adventure"
+				}
+			],
+			"themes_ids": [],
+			"themes": [],
+			"screenshots": [
+				{
+					"url_format": "https://images.gog.com/fae0885603ab319a193bcee38d18e5c80083d5e4d3d9b646934c98c2c262d821{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/ebcae9c6d51f38fab367eeccfbda0ba09abd36f55c52c2f3c7fc0dd3abe8c726{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/9d8d3170ddecdf0c6be1209dc3f97f3497755c4cd633ce0b837bbe46e729f001{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/f171424b4936ba6b797b08386cb917043bf189f48943244c0d1f16226968ec89{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/94f33680b6eda7142cf6ed5211e7a87748ae51af612fffd2fef60666d1ec0998{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/2a7ad56570f4386469ccd95a29babda979bfacec7750a638b422f2a6dba9c0ab{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/f0c04f5f0b0a4c5429235bafc55f265871e1bef90289a56c7c0d4c9a0b4675e0{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/30048686c2f39d1c2cd2221a955e00fa8822012e874a9265e6402e5709a0999e{formatter}.{ext}?namespace=gamesdb"
+				}
+			],
+			"videos": [
+				{
+					"provider": "youtube",
+					"video_id": "NegPkvI3kwI",
+					"thumbnail_id": "NegPkvI3kwI",
+					"name": "Gameplay Video"
+				}
+			],
+			"artworks": [],
+			"summary": {
+				"*": "Kao is a young kangaroo living with his family in the jungle when they are one day captured by a ruthless hunter and his goons. It's up to Kao to drive the invaders from his home and save his family.",
+				"en-US": "Kao is a young kangaroo living with his family in the jungle when they are one day captured by a ruthless hunter and his goons. It's up to Kao to drive the invaders from his home and save his family."
+			},
+			"visible_in_library": true,
+			"aggregated_rating": null,
+			"game_modes": [
+				{
+					"id": "53051895165351137",
+					"name": "Single player",
+					"slug": "single-player"
+				}
+			],
+			"horizontal_artwork": {
+				"url_format": "https://images.gog.com/18e712ff93bf0c9ce6a1a0f8e3b37c45a2c12075b592bc772591121c21a54a7d{formatter}.{ext}?namespace=gamesdb"
+			},
+			"background": {
+				"url_format": "https://images.gog.com/18e712ff93bf0c9ce6a1a0f8e3b37c45a2c12075b592bc772591121c21a54a7d{formatter}.{ext}?namespace=gamesdb"
+			},
+			"vertical_cover": {
+				"url_format": "https://images.gog.com/d0c6dc62c9f72fbaa55dcb2b7700a8c55996c1ec4e0e84636bbbbd5045c7a0a9{formatter}.{ext}?namespace=gamesdb"
+			},
+			"cover": {
+				"url_format": "https://images.gog.com/d0c6dc62c9f72fbaa55dcb2b7700a8c55996c1ec4e0e84636bbbbd5045c7a0a9{formatter}.{ext}?namespace=gamesdb"
+			},
+			"logo": {
+				"url_format": "https://images.gog.com/45cfd1df12c7fd10a8e8822a3cde12316fd9e659528e1ba284ad1b9befd23b60{formatter}.{ext}?namespace=gamesdb"
+			},
+			"icon": {
+				"url_format": "https://images.gog.com/fb81a87bf0d03e948467025acb9fa427c4fcc805aeb079b6c818924da01d89f5{formatter}.{ext}?namespace=gamesdb"
+			},
+			"square_icon": {
+				"url_format": "https://images.gog.com/de3a8f0d46b4119fd30ee9b503b099536b016e9df4a1b5132f88c41d15a04f5f{formatter}.{ext}?namespace=gamesdb"
+			},
+			"global_popularity_all_time": 0,
+			"global_popularity_current": 0,
+			"series": {
+				"id": "53028639783445411",
+				"name": "Kao the Kangaroo",
+				"slug": "kao-the-kangaroo"
+			}
+		},
+		"title": {
+			"*": "Kao the Kangaroo",
+			"en-US": "Kao the Kangaroo"
+		},
+		"sorting_title": {
+			"*": "Kao the Kangaroo",
+			"en-US": "Kao the Kangaroo"
+		},
+		"type": "game",
+		"summary": {
+			"*": "Kao is a young kangaroo living with his family in the jungle when they are one day captured by a ruthless hunter and his goons. It's up to Kao to drive the invaders from his home and save his family.",
+			"en-US": "Kao is a young kangaroo living with his family in the jungle when they are one day captured by a ruthless hunter and his goons. It's up to Kao to drive the invaders from his home and save his family."
+		},
+		"videos": [],
+		"game_modes": [
+			{
+				"id": "53051895165351137",
+				"name": "Single player",
+				"slug": "single-player"
+			}
+		],
+		"icon": {
+			"url_format": "https://images.gog.com/fb81a87bf0d03e948467025acb9fa427c4fcc805aeb079b6c818924da01d89f5{formatter}.{ext}?namespace=gamesdb"
+		},
+		"logo": {
+			"url_format": "https://images.gog.com/45cfd1df12c7fd10a8e8822a3cde12316fd9e659528e1ba284ad1b9befd23b60{formatter}.{ext}?namespace=gamesdb"
+		},
+		"series": {
+			"id": "53028639783445411",
+			"name": "Kao the Kangaroo",
+			"slug": "kao-the-kangaroo"
+		},
+		"etag": "W/\"9cedfeeae10c3d8f07df02051ab584f8\""
+	},
+	"__timestamp": {
+		"epic_7763cb8916654651a50593a813ae7c38": "Fri Aug 09 2024 18:16:22 GMT+0530 (India Standard Time)",
+		"epic_9d2d0eb64d5c44529cece33fe2a46482": "Fri Aug 09 2024 18:58:35 GMT+0530 (India Standard Time)",
+		"epic_5daeb974a22a435988892319b3a4f476": "Fri Aug 09 2024 23:28:36 GMT+0530 (India Standard Time)"
+	},
+	"epic_9d2d0eb64d5c44529cece33fe2a46482": {
+		"id": "53333714508302270",
+		"game_id": "51152930335439509",
+		"platform_id": "epic",
+		"external_id": "9d2d0eb64d5c44529cece33fe2a46482",
+		"dlcs_ids": [],
+		"dlcs": [],
+		"parent_id": null,
+		"supported_operating_systems": [
+			{
+				"slug": "windows",
+				"name": "Windows"
+			}
+		],
+		"available_languages": [
+			{
+				"code": "en-US"
+			}
+		],
+		"first_release_date": null,
+		"game": {
+			"id": "51152930335439509",
+			"parent_id": null,
+			"dlcs_ids": [
+				"52826212173022033",
+				"52938840044465799",
+				"53020305852368169",
+				"53031387339449962",
+				"53081302723556241",
+				"53081527597565706",
+				"53223346760885121",
+				"53283584380350773",
+				"53283588505978184"
+			],
+			"first_release_date": "2013-09-17T00:00:00+0000",
+			"releases": [
+				{
+					"id": "51152930324099832",
+					"platform_id": "steam",
+					"external_id": "271590",
+					"release_per_platform_id": "steam_271590"
+				},
+				{
+					"id": "51402523775405443",
+					"platform_id": "xboxone",
+					"external_id": "972249091",
+					"release_per_platform_id": "xboxone_972249091"
+				},
+				{
+					"id": "51701641659186460",
+					"platform_id": "xboxone",
+					"external_id": "1050025307",
+					"release_per_platform_id": "xboxone_1050025307"
+				},
+				{
+					"id": "52087047218403965",
+					"platform_id": "psn",
+					"external_id": "CUSA00411_00",
+					"release_per_platform_id": "psn_CUSA00411_00"
+				},
+				{
+					"id": "52087283516976027",
+					"platform_id": "psn",
+					"external_id": "NPWR03885_00",
+					"release_per_platform_id": "psn_NPWR03885_00"
+				},
+				{
+					"id": "52145329747913600",
+					"platform_id": "psn",
+					"external_id": "CUSA00419_00",
+					"release_per_platform_id": "psn_CUSA00419_00"
+				},
+				{
+					"id": "52484280339285965",
+					"platform_id": "psn",
+					"external_id": "CUSA00880_00",
+					"release_per_platform_id": "psn_CUSA00880_00"
+				},
+				{
+					"id": "52637704993849432",
+					"platform_id": "egg",
+					"external_id": "G2",
+					"release_per_platform_id": "egg_G2"
+				},
+				{
+					"id": "52662390283236809",
+					"platform_id": "egg",
+					"external_id": "11",
+					"release_per_platform_id": "egg_11"
+				},
+				{
+					"id": "52677177260488104",
+					"platform_id": "beamdog",
+					"external_id": "11",
+					"release_per_platform_id": "beamdog_11"
+				},
+				{
+					"id": "52677204154038787",
+					"platform_id": "riot",
+					"external_id": "11",
+					"release_per_platform_id": "riot_11"
+				},
+				{
+					"id": "52740118182414484",
+					"platform_id": "rockstar",
+					"external_id": "11",
+					"release_per_platform_id": "rockstar_11"
+				},
+				{
+					"id": "52826200039969260",
+					"platform_id": "humble",
+					"external_id": "grandtheftauto5_steam",
+					"release_per_platform_id": "humble_grandtheftauto5_steam"
+				},
+				{
+					"id": "52833862481586842",
+					"platform_id": "psvita",
+					"external_id": "CUSA00419_00",
+					"release_per_platform_id": "psvita_CUSA00419_00"
+				},
+				{
+					"id": "52961398397418309",
+					"platform_id": "test",
+					"external_id": "CUSA00419_00",
+					"release_per_platform_id": "test_CUSA00419_00"
+				},
+				{
+					"id": "53102902228045391",
+					"platform_id": "humble",
+					"external_id": "grandtheftauto5_preorder2_steam",
+					"release_per_platform_id": "humble_grandtheftauto5_preorder2_steam"
+				},
+				{
+					"id": "53136971987000399",
+					"platform_id": "humble",
+					"external_id": "grandtheftauto5_preorder3_steam",
+					"release_per_platform_id": "humble_grandtheftauto5_preorder3_steam"
+				},
+				{
+					"id": "53228548089115862",
+					"platform_id": "humble",
+					"external_id": "gta5_cesp_whale_bundle_row_rockstar_social_0",
+					"release_per_platform_id": "humble_gta5_cesp_whale_bundle_row_rockstar_social_0"
+				},
+				{
+					"id": "53236254158220337",
+					"platform_id": "itch",
+					"external_id": "e7b068c64c0da60f2931baaf038d6b5e7aec82c1a51e68ceb1cad17d",
+					"release_per_platform_id": "itch_e7b068c64c0da60f2931baaf038d6b5e7aec82c1a51e68ceb1cad17d"
+				},
+				{
+					"id": "53236254161991628",
+					"platform_id": "itch",
+					"external_id": "7feb88e53ee5cb7d899e47e44418fb7b7b1b62163b5e0bb16e5608b8",
+					"release_per_platform_id": "itch_7feb88e53ee5cb7d899e47e44418fb7b7b1b62163b5e0bb16e5608b8"
+				},
+				{
+					"id": "53236254178977720",
+					"platform_id": "itch",
+					"external_id": "ebe70101db64499dbfed4a893e432649eb94648f5c1ff5b12a470b2d",
+					"release_per_platform_id": "itch_ebe70101db64499dbfed4a893e432649eb94648f5c1ff5b12a470b2d"
+				},
+				{
+					"id": "53236432263532775",
+					"platform_id": "itch",
+					"external_id": "XFxSYWlkc2VydmVyXGdcTXkgRHJpdmVcRml0R2lybCBHYW1lc1xHcmFuZCBUaGVmdCBBdXRvIFYgW0ZpdEdpcmwgQ29yZVBhY2td",
+					"release_per_platform_id": "itch_XFxSYWlkc2VydmVyXGdcTXkgRHJpdmVcRml0R2lybCBHYW1lc1xHcmFuZCBUaGVmdCBBdXRvIFYgW0ZpdEdpcmwgQ29yZVBhY2td"
+				},
+				{
+					"id": "53257651929697635",
+					"platform_id": "origin",
+					"external_id": "42ffe7a6b151645e41895cb295271faa29e547ff",
+					"release_per_platform_id": "origin_42ffe7a6b151645e41895cb295271faa29e547ff"
+				},
+				{
+					"id": "53257651945685834",
+					"platform_id": "origin",
+					"external_id": "ece1e2d54239e1f8668725551781317bea69cb37",
+					"release_per_platform_id": "origin_ece1e2d54239e1f8668725551781317bea69cb37"
+				},
+				{
+					"id": "53257651948564922",
+					"platform_id": "origin",
+					"external_id": "3826eb5a358580154a4aa9a85deaf6837a4bdca4",
+					"release_per_platform_id": "origin_3826eb5a358580154a4aa9a85deaf6837a4bdca4"
+				},
+				{
+					"id": "53257744300670887",
+					"platform_id": "origin",
+					"external_id": "2f7157e718a89f411a8dcfff2296053662924701326263e3bcef1419dd9285d2",
+					"release_per_platform_id": "origin_2f7157e718a89f411a8dcfff2296053662924701326263e3bcef1419dd9285d2"
+				},
+				{
+					"id": "53257744304749027",
+					"platform_id": "origin",
+					"external_id": "2371ab164654a42a3adddab3a729d71496a2b748d837ce3fc2ad8c34cbee3e33",
+					"release_per_platform_id": "origin_2371ab164654a42a3adddab3a729d71496a2b748d837ce3fc2ad8c34cbee3e33"
+				},
+				{
+					"id": "53257744312965096",
+					"platform_id": "origin",
+					"external_id": "959d7b1f21eeeb4902004239c04a9107aa44a22bcc37723cbf90ebf4d16e3d9d",
+					"release_per_platform_id": "origin_959d7b1f21eeeb4902004239c04a9107aa44a22bcc37723cbf90ebf4d16e3d9d"
+				},
+				{
+					"id": "53283438338303433",
+					"platform_id": "humble",
+					"external_id": "gta5_cesp_greatwhite_bundle_row_rockstar_social_0",
+					"release_per_platform_id": "humble_gta5_cesp_greatwhite_bundle_row_rockstar_social_0"
+				},
+				{
+					"id": "53283700125761849",
+					"platform_id": "humble",
+					"external_id": "gta5_cesp_megalodon_bundle_row_rockstar_social_0",
+					"release_per_platform_id": "humble_gta5_cesp_megalodon_bundle_row_rockstar_social_0"
+				},
+				{
+					"id": "53333714508302270",
+					"platform_id": "epic",
+					"external_id": "9d2d0eb64d5c44529cece33fe2a46482",
+					"release_per_platform_id": "epic_9d2d0eb64d5c44529cece33fe2a46482"
+				},
+				{
+					"id": "53350790215047690",
+					"platform_id": "vision",
+					"external_id": "BLES01807",
+					"release_per_platform_id": "vision_BLES01807"
+				},
+				{
+					"id": "53437755596305918",
+					"platform_id": "origin",
+					"external_id": "9f3c8225f4f8ee5ada3c720e81cbbe5d01c0014c",
+					"release_per_platform_id": "origin_9f3c8225f4f8ee5ada3c720e81cbbe5d01c0014c"
+				},
+				{
+					"id": "53472660593207242",
+					"platform_id": "steam",
+					"external_id": "100002",
+					"release_per_platform_id": "steam_100002"
+				},
+				{
+					"id": "53486384865240560",
+					"platform_id": "origin",
+					"external_id": "412021",
+					"release_per_platform_id": "origin_412021"
+				},
+				{
+					"id": "53992078885628782",
+					"platform_id": "test",
+					"external_id": "/grand-theft-auto-v-free-2021-download/",
+					"release_per_platform_id": "test_/grand-theft-auto-v-free-2021-download/"
+				},
+				{
+					"id": "54005340482360163",
+					"platform_id": "itch",
+					"external_id": "871001",
+					"release_per_platform_id": "itch_871001"
+				},
+				{
+					"id": "54024455695294028",
+					"platform_id": "test",
+					"external_id": "grand-theft-auto-v",
+					"release_per_platform_id": "test_grand-theft-auto-v"
+				},
+				{
+					"id": "54027326173450553",
+					"platform_id": "playfire",
+					"external_id": "grand-theft-auto-v",
+					"release_per_platform_id": "playfire_grand-theft-auto-v"
+				},
+				{
+					"id": "54872009118549708",
+					"platform_id": "beamdog",
+					"external_id": "GAME_FROM_DATA_FILE-3-20211027014142",
+					"release_per_platform_id": "beamdog_GAME_FROM_DATA_FILE-3-20211027014142"
+				},
+				{
+					"id": "54872036798320017",
+					"platform_id": "rockstar",
+					"external_id": "GAME_FROM_DATA_FILE-3-20211027015527",
+					"release_per_platform_id": "rockstar_GAME_FROM_DATA_FILE-3-20211027015527"
+				},
+				{
+					"id": "54872103454372235",
+					"platform_id": "beamdog",
+					"external_id": "GAME_FROM_DATA_FILE-3-20211027022834",
+					"release_per_platform_id": "beamdog_GAME_FROM_DATA_FILE-3-20211027022834"
+				},
+				{
+					"id": "54872168316803315",
+					"platform_id": "rockstar",
+					"external_id": "GAME_FROM_DATA_FILE-3-20211027030013",
+					"release_per_platform_id": "rockstar_GAME_FROM_DATA_FILE-3-20211027030013"
+				},
+				{
+					"id": "55254228628703601",
+					"platform_id": "psn",
+					"external_id": "PPSA03420_00",
+					"release_per_platform_id": "psn_PPSA03420_00"
+				},
+				{
+					"id": "55254865337612938",
+					"platform_id": "psn",
+					"external_id": "PPSA01721_00",
+					"release_per_platform_id": "psn_PPSA01721_00"
+				},
+				{
+					"id": "55257557953753309",
+					"platform_id": "psn",
+					"external_id": "PPSA03421_00",
+					"release_per_platform_id": "psn_PPSA03421_00"
+				},
+				{
+					"id": "55403729238171973",
+					"platform_id": "beamdog",
+					"external_id": "00000000-0000-0000-0000-000000003639",
+					"release_per_platform_id": "beamdog_00000000-0000-0000-0000-000000003639"
+				},
+				{
+					"id": "55406709863082083",
+					"platform_id": "beamdog",
+					"external_id": "9d2d0eb64d5c44529cece33fe2a46482",
+					"release_per_platform_id": "beamdog_9d2d0eb64d5c44529cece33fe2a46482"
+				},
+				{
+					"id": "55407077035780074",
+					"platform_id": "humble",
+					"external_id": "9d2d0eb64d5c44529cece33fe2a46482",
+					"release_per_platform_id": "humble_9d2d0eb64d5c44529cece33fe2a46482"
+				},
+				{
+					"id": "55420956010662433",
+					"platform_id": "egg",
+					"external_id": "9d2d0eb64d5c44529cece33fe2a46482",
+					"release_per_platform_id": "egg_9d2d0eb64d5c44529cece33fe2a46482"
+				},
+				{
+					"id": "55905759604995492",
+					"platform_id": "psx",
+					"external_id": "PPSA01721_00",
+					"release_per_platform_id": "psx_PPSA01721_00"
+				},
+				{
+					"id": "56131596143618382",
+					"platform_id": "vision",
+					"external_id": "Grand Theft Auto V (USA) (En,Fr,De).txt",
+					"release_per_platform_id": "vision_Grand Theft Auto V (USA) (En,Fr,De).txt"
+				},
+				{
+					"id": "56140854165014470",
+					"platform_id": "test",
+					"external_id": "271590",
+					"release_per_platform_id": "test_271590"
+				},
+				{
+					"id": "56207655196917263",
+					"platform_id": "itch",
+					"external_id": "9d2d0eb64d5c44529cece33fe2a46482",
+					"release_per_platform_id": "itch_9d2d0eb64d5c44529cece33fe2a46482"
+				},
+				{
+					"id": "56529120285377569",
+					"platform_id": "psn",
+					"external_id": "PPSA04263_00",
+					"release_per_platform_id": "psn_PPSA04263_00"
+				},
+				{
+					"id": "56542565719337608",
+					"platform_id": "psn",
+					"external_id": "PPSA04264_00",
+					"release_per_platform_id": "psn_PPSA04264_00"
+				},
+				{
+					"id": "51152930335439509",
+					"platform_id": "generic",
+					"external_id": "51152930335439509",
+					"release_per_platform_id": "generic_51152930335439509"
+				}
+			],
+			"title": {
+				"*": "Grand Theft Auto V",
+				"en-US": "Grand Theft Auto V"
+			},
+			"sorting_title": {
+				"*": "Grand Theft Auto 5",
+				"en-US": "Grand Theft Auto 5"
+			},
+			"type": "game",
+			"developers_ids": [
+				"51141403371262646"
+			],
+			"developers": [
+				{
+					"id": "51141403371262646",
+					"name": "Rockstar North",
+					"slug": "rockstar-north"
+				}
+			],
+			"publishers_ids": [
+				"51141378963222653",
+				"51141403383330252"
+			],
+			"publishers": [
+				{
+					"id": "51141378963222653",
+					"name": "Take-Two Interactive",
+					"slug": "take-two-interactive"
+				},
+				{
+					"id": "51141403383330252",
+					"name": "Rockstar Games",
+					"slug": "rockstar-games"
+				}
+			],
+			"genres_ids": [
+				"51071842251704278",
+				"51141224821260861",
+				"51141224875811235"
+			],
+			"genres": [
+				{
+					"id": "51071842251704278",
+					"name": {
+						"*": "Adventure",
+						"en-US": "Adventure"
+					},
+					"slug": "adventure"
+				},
+				{
+					"id": "51141224821260861",
+					"name": {
+						"*": "Shooter",
+						"en-US": "Shooter"
+					},
+					"slug": "shooter"
+				},
+				{
+					"id": "51141224875811235",
+					"name": {
+						"*": "Racing",
+						"en-US": "Racing"
+					},
+					"slug": "racing"
+				}
+			],
+			"themes_ids": [
+				"51071842227872529",
+				"51071842231533391",
+				"51141224799400616",
+				"51141225990825995"
+			],
+			"themes": [
+				{
+					"id": "51071842227872529",
+					"name": {
+						"*": "Open world",
+						"en-US": "Open world"
+					},
+					"slug": "open-world"
+				},
+				{
+					"id": "51071842231533391",
+					"name": {
+						"*": "Action",
+						"en-US": "Action"
+					},
+					"slug": "action"
+				},
+				{
+					"id": "51141224799400616",
+					"name": {
+						"*": "Comedy",
+						"en-US": "Comedy"
+					},
+					"slug": "comedy"
+				},
+				{
+					"id": "51141225990825995",
+					"name": {
+						"*": "Sandbox",
+						"en-US": "Sandbox"
+					},
+					"slug": "sandbox"
+				}
+			],
+			"screenshots": [
+				{
+					"url_format": "https://images.gog.com/0f1a5e5bb73cda7bdaaf46560cc098c0bd0cf3ba1e44e599406e276aee084464{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/4dbd06014baac2fc29e1994b838a523e7830d91c453cb84e03cc698f11a6ff47{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/f18f3a567a47e3696b14049ee532fe47bff9c8a8c90266f2285da518606089f9{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/527f9bc3a60a4ba255305617a09f4cd72e42e996f635af2cff083f0bc21624d1{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/6f48ff593df0aebce6faf8d987a00df7cfb8f214a41a262839a74b54ca95d13c{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/1693669bc065f1f6f7e1a0470bc833ddfe3d3f9f84516a1f80c376a5937f156d{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/b7d008b4f32f48722a2ab2fc1e407d7928eff53b4b92db990893b52bfb75f415{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/fcccb2e58989684d83397699f79dcb4a1bb004244f322f444738345daf2dbaba{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/82ed2cbdac8a459e4c1208f60cec92733a68672294fdcdbe550290d360c332ae{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/ca0f909849cacb4d645924f6e15be8b8dcab675198bbb8ba8bcac70465462235{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/f389360ccb1d5f43bfa662465b8606e640f029b309c299ce27d6d18f30ee470b{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/8681f575c6556674b09673bb4fb2cb0f413c56ac4c450c874816eb1e75d1352c{formatter}.{ext}?namespace=gamesdb"
+				}
+			],
+			"videos": [
+				{
+					"provider": "youtube",
+					"video_id": "N-xHcvug3WI",
+					"thumbnail_id": "N-xHcvug3WI",
+					"name": "Gameplay video"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "QkkoHAzjnUs",
+					"thumbnail_id": "QkkoHAzjnUs",
+					"name": "Trailer"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "PIF_fqFZEuk",
+					"thumbnail_id": "PIF_fqFZEuk",
+					"name": "Next-gen Launch Trailer"
+				}
+			],
+			"artworks": [
+				{
+					"url_format": "https://images.gog.com/cf21f8c90a2453fb8a6c21cce1dab95bff9bc0836a9fb3cdcf2fe134b699ca5b{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/32aab971286c1d8491253c2c9ce7b1c7dfa0886f2cb641f49e87f30d9239ac69{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/25c7b96bda1258e2eff298da051c547ca2aeff74c28912980a3dad416e3ce82d{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/87c7b7c468e48aabf2c4ce70eaa3fe8e4009dfbc2581fbce8bdcfad551a58453{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/139dae84d788de6efac28edad713346287540f9f40abe96f8b5229a21c2fe22d{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/c244353d916db4eba10c62f17b1ba5af2704b886b8996d77fa293d9b50a355ca{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/b4c682380b447ea5a80a9025b843a4efb519ea79cc3afd5554a729b9277c824c{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/4332981a1c6d5e298dec55a8d2a1689f7c14f39073729da35e6e51db5e000fbe{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/17e01b0bb2904b24ae1ef04e385273a925580c65f24891c2af3dcb367770047f{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/db03b1ccfe6c918230a1ded514b11b2b21077f3e79a607b0e5268b882de1eb2e{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/9f907a208e16216da1ed68e920ffa6863e9dd61688ed7678e3b55c5c5f06f79c{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/3eaba840cea59fafddf28e442f2c8aac855706a31bdbe93b4718826aefe1b159{formatter}.{ext}?namespace=gamesdb"
+				}
+			],
+			"summary": {
+				"*": "Grand Theft Auto V is a vast open world game set in Los Santos, a sprawling sun-soaked metropolis struggling to stay afloat in an era of economic uncertainty and cheap reality TV. The game blends storytelling and gameplay in new ways as players repeatedly jump in and out of the lives of the game’s three lead characters, playing all sides of the game’s interwoven story.",
+				"en-US": "Grand Theft Auto V is a vast open world game set in Los Santos, a sprawling sun-soaked metropolis struggling to stay afloat in an era of economic uncertainty and cheap reality TV. The game blends storytelling and gameplay in new ways as players repeatedly jump in and out of the lives of the game’s three lead characters, playing all sides of the game’s interwoven story."
+			},
+			"visible_in_library": true,
+			"aggregated_rating": 88.1379,
+			"game_modes": [
+				{
+					"id": "53051895165351137",
+					"name": "Single player",
+					"slug": "single-player"
+				},
+				{
+					"id": "53051898010278634",
+					"name": "Co-operative",
+					"slug": "co-operative"
+				},
+				{
+					"id": "53051908711988230",
+					"name": "Multiplayer",
+					"slug": "multiplayer"
+				}
+			],
+			"horizontal_artwork": {
+				"url_format": "https://images.gog.com/79b33f20eeb88783a4bdcafd659e07f0cb8f21ad7fe075c609c00bb1f0c0a7d2{formatter}.{ext}?namespace=gamesdb"
+			},
+			"background": {
+				"url_format": "https://images.gog.com/79b33f20eeb88783a4bdcafd659e07f0cb8f21ad7fe075c609c00bb1f0c0a7d2{formatter}.{ext}?namespace=gamesdb"
+			},
+			"vertical_cover": {
+				"url_format": "https://images.gog.com/2d5277bd1949774a1b79e18157c84817968c4d6893ccda316a6e503e84799eab{formatter}.{ext}?namespace=gamesdb"
+			},
+			"cover": {
+				"url_format": "https://images.gog.com/2d5277bd1949774a1b79e18157c84817968c4d6893ccda316a6e503e84799eab{formatter}.{ext}?namespace=gamesdb"
+			},
+			"logo": {
+				"url_format": "https://images.gog.com/6f77914749ac144643774062fc355131863d0a716566b4bc7ba037769f5050f6{formatter}.{ext}?namespace=gamesdb"
+			},
+			"square_icon": {
+				"url_format": "https://images.gog.com/d60b6efc6e687d66821c52d8b31c3b60cfb30d83d3e32f5c2c94ab108a65f13f{formatter}.{ext}?namespace=gamesdb"
+			},
+			"global_popularity_all_time": 0,
+			"global_popularity_current": 16,
+			"series": {
+				"id": "53060454139469563",
+				"name": "Grand Theft Auto",
+				"slug": "grand-theft-auto"
+			}
+		},
+		"title": {
+			"*": "Grand Theft Auto V",
+			"en-US": "Grand Theft Auto V"
+		},
+		"sorting_title": {
+			"*": "Grand Theft Auto 5",
+			"en-US": "Grand Theft Auto 5"
+		},
+		"type": "game",
+		"summary": {
+			"*": "Grand Theft Auto V is a vast open world game set in Los Santos, a sprawling sun-soaked metropolis struggling to stay afloat in an era of economic uncertainty and cheap reality TV. The game blends storytelling and gameplay in new ways as players repeatedly jump in and out of the lives of the game’s three lead characters, playing all sides of the game’s interwoven story.",
+			"en-US": "Grand Theft Auto V is a vast open world game set in Los Santos, a sprawling sun-soaked metropolis struggling to stay afloat in an era of economic uncertainty and cheap reality TV. The game blends storytelling and gameplay in new ways as players repeatedly jump in and out of the lives of the game’s three lead characters, playing all sides of the game’s interwoven story."
+		},
+		"videos": [],
+		"game_modes": [
+			{
+				"id": "53051895165351137",
+				"name": "Single player",
+				"slug": "single-player"
+			},
+			{
+				"id": "53051898010278634",
+				"name": "Co-operative",
+				"slug": "co-operative"
+			},
+			{
+				"id": "53051908711988230",
+				"name": "Multiplayer",
+				"slug": "multiplayer"
+			}
+		],
+		"logo": {
+			"url_format": "https://images.gog.com/6f77914749ac144643774062fc355131863d0a716566b4bc7ba037769f5050f6{formatter}.{ext}?namespace=gamesdb"
+		},
+		"series": {
+			"id": "53060454139469563",
+			"name": "Grand Theft Auto",
+			"slug": "grand-theft-auto"
+		},
+		"etag": "W/\"0dfac947f795990c3b15d72260b4e2e7\""
+	},
+	"epic_5daeb974a22a435988892319b3a4f476": {
+		"id": "56540118764714744",
+		"game_id": "51152851744634822",
+		"platform_id": "epic",
+		"external_id": "5daeb974a22a435988892319b3a4f476",
+		"dlcs_ids": [],
+		"dlcs": [],
+		"parent_id": null,
+		"supported_operating_systems": [
+			{
+				"slug": "windows",
+				"name": "Windows"
+			}
+		],
+		"available_languages": [
+			{
+				"code": "en-US"
+			}
+		],
+		"first_release_date": null,
+		"game": {
+			"id": "51152851744634822",
+			"parent_id": null,
+			"dlcs_ids": [],
+			"first_release_date": "2012-02-07T00:00:00+0000",
+			"releases": [
+				{
+					"id": "51152851606249507",
+					"platform_id": "steam",
+					"external_id": "22380",
+					"release_per_platform_id": "steam_22380"
+				},
+				{
+					"id": "51437516367561110",
+					"platform_id": "gog",
+					"external_id": "1454587428",
+					"release_per_platform_id": "gog_1454587428"
+				},
+				{
+					"id": "51605904754915830",
+					"platform_id": "steam",
+					"external_id": "22490",
+					"release_per_platform_id": "steam_22490"
+				},
+				{
+					"id": "51701640182469638",
+					"platform_id": "xboxone",
+					"external_id": "209558529",
+					"release_per_platform_id": "xboxone_209558529"
+				},
+				{
+					"id": "52376176229103567",
+					"platform_id": "uplay",
+					"external_id": "585",
+					"release_per_platform_id": "uplay_585"
+				},
+				{
+					"id": "52700036658959132",
+					"platform_id": "uplay",
+					"external_id": "586",
+					"release_per_platform_id": "uplay_586"
+				},
+				{
+					"id": "52843137171407447",
+					"platform_id": "humble",
+					"external_id": "fallout_newvegasultimate_steam",
+					"release_per_platform_id": "humble_fallout_newvegasultimate_steam"
+				},
+				{
+					"id": "52931012312435443",
+					"platform_id": "humble",
+					"external_id": "fallout_newvegas_steam",
+					"release_per_platform_id": "humble_fallout_newvegas_steam"
+				},
+				{
+					"id": "53236254109662464",
+					"platform_id": "itch",
+					"external_id": "525701ee84334401ab01cf40a0343c7f7ee65a3587b918be07551d53",
+					"release_per_platform_id": "itch_525701ee84334401ab01cf40a0343c7f7ee65a3587b918be07551d53"
+				},
+				{
+					"id": "53236432266542821",
+					"platform_id": "itch",
+					"external_id": "XFxSYWlkc2VydmVyXGdcTXkgRHJpdmVcRml0R2lybCBHYW1lc1xGYWxsb3V0IC0gTmV3IFZlZ2FzIFtGaXRHaXJsIFJlcGFja10=",
+					"release_per_platform_id": "itch_XFxSYWlkc2VydmVyXGdcTXkgRHJpdmVcRml0R2lybCBHYW1lc1xGYWxsb3V0IC0gTmV3IFZlZ2FzIFtGaXRHaXJsIFJlcGFja10="
+				},
+				{
+					"id": "53257651915483240",
+					"platform_id": "origin",
+					"external_id": "699d7f3eed80adfbfc0b595d9df5ff46f3a8bbfe",
+					"release_per_platform_id": "origin_699d7f3eed80adfbfc0b595d9df5ff46f3a8bbfe"
+				},
+				{
+					"id": "53257744262607748",
+					"platform_id": "origin",
+					"external_id": "d108e560b205da73e8d35c37dd0cde018e6a3bde37249d2ff8905a9c646d57d0",
+					"release_per_platform_id": "origin_d108e560b205da73e8d35c37dd0cde018e6a3bde37249d2ff8905a9c646d57d0"
+				},
+				{
+					"id": "53376897977019259",
+					"platform_id": "psx",
+					"external_id": "Fallout New Vegas",
+					"release_per_platform_id": "psx_Fallout New Vegas"
+				},
+				{
+					"id": "53508773791753633",
+					"platform_id": "psn",
+					"external_id": "BLUS30500_00",
+					"release_per_platform_id": "psn_BLUS30500_00"
+				},
+				{
+					"id": "53690423140333765",
+					"platform_id": "psx",
+					"external_id": "Fallout: New Vegas",
+					"release_per_platform_id": "psx_Fallout: New Vegas"
+				},
+				{
+					"id": "53921640399529390",
+					"platform_id": "bethesda",
+					"external_id": "34",
+					"release_per_platform_id": "bethesda_34"
+				},
+				{
+					"id": "53992078651868446",
+					"platform_id": "test",
+					"external_id": "/fallout-new-vegas-free-download/",
+					"release_per_platform_id": "test_/fallout-new-vegas-free-download/"
+				},
+				{
+					"id": "54143737256515074",
+					"platform_id": "xboxone",
+					"external_id": "1112737760",
+					"release_per_platform_id": "xboxone_1112737760"
+				},
+				{
+					"id": "54484456765404805",
+					"platform_id": "xboxone",
+					"external_id": "1655237678",
+					"release_per_platform_id": "xboxone_1655237678"
+				},
+				{
+					"id": "55054377804171334",
+					"platform_id": "humble",
+					"external_id": "fallout_newvegas_new_steam",
+					"release_per_platform_id": "humble_fallout_newvegas_new_steam"
+				},
+				{
+					"id": "55170339151838471",
+					"platform_id": "fanatical",
+					"external_id": "fallout-new-vegas",
+					"release_per_platform_id": "fanatical_fallout-new-vegas"
+				},
+				{
+					"id": "56454259808030980",
+					"platform_id": "test",
+					"external_id": "22380",
+					"release_per_platform_id": "test_22380"
+				},
+				{
+					"id": "56540118764714744",
+					"platform_id": "epic",
+					"external_id": "5daeb974a22a435988892319b3a4f476",
+					"release_per_platform_id": "epic_5daeb974a22a435988892319b3a4f476"
+				},
+				{
+					"id": "56544204900616771",
+					"platform_id": "epic",
+					"external_id": "ee9a44b4530942499ef1c8c390731fce",
+					"release_per_platform_id": "epic_ee9a44b4530942499ef1c8c390731fce"
+				},
+				{
+					"id": "56544204901715921",
+					"platform_id": "epic",
+					"external_id": "4fa3d8d9b2cb4714a19a38d1a598be8f",
+					"release_per_platform_id": "epic_4fa3d8d9b2cb4714a19a38d1a598be8f"
+				},
+				{
+					"id": "56544204904129510",
+					"platform_id": "epic",
+					"external_id": "c8dae1ab0570475a8b38a9041e614840",
+					"release_per_platform_id": "epic_c8dae1ab0570475a8b38a9041e614840"
+				},
+				{
+					"id": "56544204906760148",
+					"platform_id": "epic",
+					"external_id": "b290229eb58045cbab9501640f3278f3",
+					"release_per_platform_id": "epic_b290229eb58045cbab9501640f3278f3"
+				},
+				{
+					"id": "56544204908621789",
+					"platform_id": "epic",
+					"external_id": "7dcfb9cd9d134728b2646466c34c7b3b",
+					"release_per_platform_id": "epic_7dcfb9cd9d134728b2646466c34c7b3b"
+				},
+				{
+					"id": "56549711999067405",
+					"platform_id": "epic",
+					"external_id": "562d4a2c1b3147b089a7c453e3ddbcbe",
+					"release_per_platform_id": "epic_562d4a2c1b3147b089a7c453e3ddbcbe"
+				},
+				{
+					"id": "51152851744634822",
+					"platform_id": "generic",
+					"external_id": "51152851744634822",
+					"release_per_platform_id": "generic_51152851744634822"
+				}
+			],
+			"title": {
+				"*": "Fallout: New Vegas",
+				"en-US": "Fallout: New Vegas"
+			},
+			"sorting_title": {
+				"*": "Fallout New Vegas",
+				"en-US": "Fallout New Vegas"
+			},
+			"type": "game",
+			"developers_ids": [
+				"51141416983524598"
+			],
+			"developers": [
+				{
+					"id": "51141416983524598",
+					"name": "Obsidian Entertainment",
+					"slug": "obsidian-entertainment"
+				}
+			],
+			"publishers_ids": [
+				"51464195918462220"
+			],
+			"publishers": [
+				{
+					"id": "51464195918462220",
+					"name": "Bethesda Softworks",
+					"slug": "bethesda-softworks"
+				}
+			],
+			"genres_ids": [
+				"51071842242881003",
+				"51141224821260861"
+			],
+			"genres": [
+				{
+					"id": "51071842242881003",
+					"name": {
+						"*": "Role-playing (RPG)",
+						"en-US": "Role-playing (RPG)"
+					},
+					"slug": "role-playing-rpg"
+				},
+				{
+					"id": "51141224821260861",
+					"name": {
+						"*": "Shooter",
+						"en-US": "Shooter"
+					},
+					"slug": "shooter"
+				}
+			],
+			"themes_ids": [
+				"51071842227872529",
+				"51071842231533391",
+				"51141225463821636",
+				"51141226418224461"
+			],
+			"themes": [
+				{
+					"id": "51071842227872529",
+					"name": {
+						"*": "Open world",
+						"en-US": "Open world"
+					},
+					"slug": "open-world"
+				},
+				{
+					"id": "51071842231533391",
+					"name": {
+						"*": "Action",
+						"en-US": "Action"
+					},
+					"slug": "action"
+				},
+				{
+					"id": "51141225463821636",
+					"name": {
+						"*": "Science fiction",
+						"en-US": "Science fiction"
+					},
+					"slug": "science-fiction"
+				},
+				{
+					"id": "51141226418224461",
+					"name": {
+						"*": "Survival",
+						"en-US": "Survival"
+					},
+					"slug": "survival"
+				}
+			],
+			"screenshots": [
+				{
+					"url_format": "https://images.gog.com/a265abda9fd8fbc9c1015022c320f1abbee7b84061095a803a86ab0fa92e4c6f{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/e43ce0ba5b972a26edd7927dd2223ad58251c79f4f5eaeb2daef710ea5c4db0f{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/05fe9aa00237fab637fd2b97873bb43d4b63634e7b5ebf10623ae80161620167{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/34ccb45340abdad32586c41cd4c235ee2fff7733408a440541030e0a29d0573d{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/3bc5472431182be2b773ec4fe57e0efded7daffc2b0a950faeff74f50b22a65e{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/b2481ee1e7bbcd461bb021ac30df65a9c20c7ac230799786efa0ff929699aa88{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/f9a3dffcf3fd3156495f0f225768df014a6a820a17f1a063f7e271bca78f7bf0{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/03a16fecae72acacd88f4a9a44f34b807f29f14aaafce87211f7ce4347c7af78{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/92ffc0eac6809b37c448f36cbfdfcdaf375bb48de646ee5cc08d4554b63bcea7{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/57ff2924819bdd3c6b52db4b26710904e8045c8959695ec871e7771c305cf3ae{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/f54a7df0dc64c265b1cd7545e6d40da08af080cd040f226963c225fe720ca92c{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/3857dc679f7b2a1aa1a4f177764936f5ae3600e098a2d6ee95358b38e4344ba1{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/ceb19a23c57c6e22ebe066d3543838a7dca841a876b4540a2f592864c778afe1{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/36512241b53155b689877531452f92bb4fa363dd7a098871151188dc1ce95e4d{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/0c074fc599023b2faa8b9d2f2a7ea31d5484e55140ec1334648b84d9e3235c52{formatter}.{ext}?namespace=gamesdb"
+				}
+			],
+			"videos": [
+				{
+					"provider": "youtube",
+					"video_id": "IZy_SUcdEpQ",
+					"thumbnail_id": "IZy_SUcdEpQ",
+					"name": "Announcement Trailer"
+				}
+			],
+			"artworks": [
+				{
+					"url_format": "https://images.gog.com/7a669bcc41d843914e1e44109fbc4dffd964253103beb08750262eb848e67724{formatter}.{ext}?namespace=gamesdb"
+				}
+			],
+			"summary": {
+				"*": "Welcome back to New Vegas! \r\n \r\nWith the Ultimate Edition, Bethesda Softworks offers you the chance to double-down and get the complete package of New Vegas fun. Fallout: New Vegas Ultimate Edition includes the full suite of highly acclaimed add-on content: Dead Money, Honest Hearts, Old World Blues, and Lonesome Road. To sweeten the pot, you’ll be armed with the latest cache of unique weapons, ammo types and recipes from the most recent add-on packs: Courier’s Stash and Gun Runners Arsenal. Whether you’re a seasoned explorer of the Mojave or playing the game for the first time, you’ll find there are more friends and enemies to make, more consequences to your actions and more opportunities to live in glory or infamy throughout the Wasteland. The choices you make will be as crucial to your survival as ever. \r\n \r\nEnjoy your stay.",
+				"en-US": "Welcome back to New Vegas!\n\nWith the introduction of the Ultimate Edition Bethesda Softworks presents the definitive edition of Fallout: New Vegas. This complete package, which includes the Dead Money, Honest Hearts, Old World Blues and Lonesome Road add-on packs, allows you to experience everything that New Vegas has to offer. To sweeten the pot, you'll be armed with the latest cache of unique weapons, ammo types and recipes from the most recent add-on packs Courier's Stash and Gun Runners Arsenal.\n\nWhether you're a seasoned explorer of the Mojave or playing the game for the first time you will find there are more friends, and enemies, to make, more consequences to be responsible for and more opportunities to live in glory, or infamy, throughout the Wasteland. The choices you make will be as influential as ever.\n\nEnjoy your stay."
+			},
+			"visible_in_library": true,
+			"aggregated_rating": null,
+			"game_modes": [
+				{
+					"id": "53051895165351137",
+					"name": "Single player",
+					"slug": "single-player"
+				}
+			],
+			"horizontal_artwork": {
+				"url_format": "https://images.gog.com/e2e63bb22e866c8563f002850c3dd345721c1eb50a54ee141569fbe60f544fd8{formatter}.{ext}?namespace=gamesdb"
+			},
+			"background": {
+				"url_format": "https://images.gog.com/e2e63bb22e866c8563f002850c3dd345721c1eb50a54ee141569fbe60f544fd8{formatter}.{ext}?namespace=gamesdb"
+			},
+			"vertical_cover": {
+				"url_format": "https://images.gog.com/602f85ba5c82e939d25b74762a08cc6c6efc2efb6215144d618cd7d6c73293bc{formatter}.{ext}?namespace=gamesdb"
+			},
+			"cover": {
+				"url_format": "https://images.gog.com/602f85ba5c82e939d25b74762a08cc6c6efc2efb6215144d618cd7d6c73293bc{formatter}.{ext}?namespace=gamesdb"
+			},
+			"logo": {
+				"url_format": "https://images.gog.com/696f9f0650509ecc49ff2d16504eb22deae7d12814f88ca09fb8d833cd45e243{formatter}.{ext}?namespace=gamesdb"
+			},
+			"square_icon": {
+				"url_format": "https://images.gog.com/6d431fe490d54f2906d087b17135adf6c6cab52dda333c31a51c60d9209538b7{formatter}.{ext}?namespace=gamesdb"
+			},
+			"global_popularity_all_time": 0,
+			"global_popularity_current": 0,
+			"series": {
+				"id": "53028465292951257",
+				"name": "Fallout",
+				"slug": "fallout"
+			}
+		},
+		"title": {
+			"*": "Fallout: New Vegas",
+			"en-US": "Fallout: New Vegas"
+		},
+		"sorting_title": {
+			"*": "Fallout New Vegas",
+			"en-US": "Fallout New Vegas"
+		},
+		"type": "game",
+		"summary": {
+			"*": "Welcome back to New Vegas! \r\n \r\nWith the Ultimate Edition, Bethesda Softworks offers you the chance to double-down and get the complete package of New Vegas fun. Fallout: New Vegas Ultimate Edition includes the full suite of highly acclaimed add-on content: Dead Money, Honest Hearts, Old World Blues, and Lonesome Road. To sweeten the pot, you’ll be armed with the latest cache of unique weapons, ammo types and recipes from the most recent add-on packs: Courier’s Stash and Gun Runners Arsenal. Whether you’re a seasoned explorer of the Mojave or playing the game for the first time, you’ll find there are more friends and enemies to make, more consequences to your actions and more opportunities to live in glory or infamy throughout the Wasteland. The choices you make will be as crucial to your survival as ever. \r\n \r\nEnjoy your stay.",
+			"en-US": "Welcome back to New Vegas!\n\nWith the introduction of the Ultimate Edition Bethesda Softworks presents the definitive edition of Fallout: New Vegas. This complete package, which includes the Dead Money, Honest Hearts, Old World Blues and Lonesome Road add-on packs, allows you to experience everything that New Vegas has to offer. To sweeten the pot, you'll be armed with the latest cache of unique weapons, ammo types and recipes from the most recent add-on packs Courier's Stash and Gun Runners Arsenal.\n\nWhether you're a seasoned explorer of the Mojave or playing the game for the first time you will find there are more friends, and enemies, to make, more consequences to be responsible for and more opportunities to live in glory, or infamy, throughout the Wasteland. The choices you make will be as influential as ever.\n\nEnjoy your stay."
+		},
+		"videos": [],
+		"game_modes": [
+			{
+				"id": "53051895165351137",
+				"name": "Single player",
+				"slug": "single-player"
+			}
+		],
+		"logo": {
+			"url_format": "https://images.gog.com/696f9f0650509ecc49ff2d16504eb22deae7d12814f88ca09fb8d833cd45e243{formatter}.{ext}?namespace=gamesdb"
+		},
+		"series": {
+			"id": "53028465292951257",
+			"name": "Fallout",
+			"slug": "fallout"
+		},
+		"etag": "W/\"0e2ed565474cadc350dd83b325085c08\""
+	},
+	"gog_1106508737": {
+		"id": "56949075998261816",
+		"game_id": "53319454471728597",
+		"platform_id": "gog",
+		"external_id": "1106508737",
+		"dlcs_ids": [],
+		"dlcs": [],
+		"parent_id": null,
+		"supported_operating_systems": [
+			{
+				"slug": "windows",
+				"name": "Windows"
+			},
+			{
+				"slug": "linux",
+				"name": "Linux"
+			},
+			{
+				"slug": "osx",
+				"name": "macOS"
+			}
+		],
+		"available_languages": [
+			{
+				"code": "pt-BR"
+			},
+			{
+				"code": "cs-CZ"
+			},
+			{
+				"code": "de-DE"
+			},
+			{
+				"code": "en-US"
+			},
+			{
+				"code": "fr-FR"
+			},
+			{
+				"code": "it-IT"
+			},
+			{
+				"code": "pl-PL"
+			},
+			{
+				"code": "sv-SE"
+			}
+		],
+		"first_release_date": "2023-11-13T00:00:00+0000",
+		"game": {
+			"id": "53319454471728597",
+			"parent_id": null,
+			"dlcs_ids": [],
+			"first_release_date": "2023-11-13T00:00:00+0000",
+			"releases": [
+				{
+					"id": "53319454461450370",
+					"platform_id": "steam",
+					"external_id": "1293170",
+					"release_per_platform_id": "steam_1293170"
+				},
+				{
+					"id": "56502322877792062",
+					"platform_id": "gog",
+					"external_id": "1830367721",
+					"release_per_platform_id": "gog_1830367721"
+				},
+				{
+					"id": "56949075998261816",
+					"platform_id": "gog",
+					"external_id": "1106508737",
+					"release_per_platform_id": "gog_1106508737"
+				},
+				{
+					"id": "53319454471728597",
+					"platform_id": "generic",
+					"external_id": "53319454471728597",
+					"release_per_platform_id": "generic_53319454471728597"
+				}
+			],
+			"title": {
+				"*": "Bzzzt",
+				"en-US": "Bzzzt"
+			},
+			"sorting_title": {
+				"*": "Bzzzt",
+				"en-US": "Bzzzt"
+			},
+			"type": "game",
+			"developers_ids": [
+				"54046603195362070"
+			],
+			"developers": [
+				{
+					"id": "54046603195362070",
+					"name": "KO.DLL",
+					"slug": "ko-dot-dll"
+				}
+			],
+			"publishers_ids": [
+				"51153139547664644"
+			],
+			"publishers": [
+				{
+					"id": "51153139547664644",
+					"name": "CINEMAX, s.r.o.",
+					"slug": "cinemax-sro"
+				}
+			],
+			"genres_ids": [
+				"51071842251704278",
+				"51121492616405278",
+				"51141224662579279"
+			],
+			"genres": [
+				{
+					"id": "51071842251704278",
+					"name": {
+						"*": "Adventure",
+						"en-US": "Adventure"
+					},
+					"slug": "adventure"
+				},
+				{
+					"id": "51121492616405278",
+					"name": {
+						"*": "Indie",
+						"en-US": "Indie"
+					},
+					"slug": "indie"
+				},
+				{
+					"id": "51141224662579279",
+					"name": {
+						"*": "Platform",
+						"en-US": "Platform"
+					},
+					"slug": "platform"
+				}
+			],
+			"themes_ids": [
+				"51071842231533391"
+			],
+			"themes": [
+				{
+					"id": "51071842231533391",
+					"name": {
+						"*": "Action",
+						"en-US": "Action"
+					},
+					"slug": "action"
+				}
+			],
+			"screenshots": [
+				{
+					"url_format": "https://images.gog.com/44d0471bde47aa0af5c5eecbbf54d622cb97d1ae32043e11c559d875ac4a5a58{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/5bccf644c961af9510b363f001a69e8f527a1fdb364ef3685193c1bffe995b00{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/85fcd978cd2cae5d98490134d1ce393667b93404e4386e18414db8af7dc12654{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/37fe70933a0949140bcced4ab927d2fa08c905e9c9ca05c5fdc0048ec7f433ec{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/cf79efac0b073ed78502dede62c06d5e9ce46375608a3f5623f79d8822df2778{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/5ae53ff2e13e9e3a477d277815e71e698890caea117539667305ec1944b52ab1{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/b77953af5b160a5fdc95a7fb57ab6a93295493fcdf6f3b308801b4a2250366d8{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/7c0cf71944a390347b0971a18856af09ae7a5a2fa6a921f277f365d45b641a31{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/92b6c84505ae9b970805ab621c5c90af805f634d83fdb27cfabfa660d6739bb7{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/0518d0d2cd03ec37844ed1d2ec5e14b59e14e7414cc63825ee9a601d0e38bc08{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/e162c67647e19d10a56c9bf1af070cfa0953d3707d17ec8efbed1d04ecd78eca{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/b414781e0d8593911c91e2f720b907703e4dfdad44cc80345c0d6c467f9d17ad{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/78c9f4fff7e4d6991dc8c05998693bd2f5b99c82ad129b7664c04c8f1b9f9efc{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/2722ec53d4fb4898ac579f4a4a9efeca83a2f1930e21edd2f2abe7de4a075a57{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/ba6baa0a2ab74d4668a65f2ac0de39f3f2a1c6974c22a3c02ad24022aa9ff765{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/fd2afab1f6e2cb8aaab8abf8242cd50497a81d8d13c352606f52bfab277215e1{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/994dda95fe5d5dc5cce28ef7dff9f5f3121f3ba0e66d74d9c8a9f76e87f55beb{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/88bb5b53e9b3269c22f8e2c3a824b9094f987fd50eeb77481ae3b8ad9d71bfc0{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/236a4ecdd27e0d1916662cf0697aaf74cc9c80a62455afeaffc2460b19d5049d{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/9b1f6540539a04e5bb4969b123e0c8623b34c595e4fed9431f709de14d2aa057{formatter}.{ext}?namespace=gamesdb"
+				}
+			],
+			"videos": [
+				{
+					"provider": "youtube",
+					"video_id": "HjPs5qrgdiA",
+					"thumbnail_id": "HjPs5qrgdiA",
+					"name": "Trailer"
+				}
+			],
+			"artworks": [
+				{
+					"url_format": "https://images.gog.com/16ddb4f7c8f3d36d5e32c7c1777ce56ef4d0af6b0c749b14c118a81ca6574435{formatter}.{ext}?namespace=gamesdb"
+				}
+			],
+			"summary": {
+				"*": "Bzzzt is a fast-paced 2D platformer highly inspired by games from 80's. You become an artificial intelligence ZX8000 and in your newly obtained robotic body, you must prove your abilities in a series of testing chambers filled with deadly traps.",
+				"en-US": "Bzzzt is a fast-paced 2D platformer highly inspired by games from 80's. You become an artificial intelligence ZX8000 and in your newly obtained robotic body, you must prove your abilities in a series of testing chambers filled with deadly traps."
+			},
+			"visible_in_library": true,
+			"aggregated_rating": null,
+			"game_modes": [
+				{
+					"id": "53051895165351137",
+					"name": "Single player",
+					"slug": "single-player"
+				}
+			],
+			"horizontal_artwork": {
+				"url_format": "https://images.gog.com/3d0a47ab113e0c2470ff06659c321e80573471b04bade8f9a7f341f2eaab737c{formatter}.{ext}?namespace=gamesdb"
+			},
+			"background": {
+				"url_format": "https://images.gog.com/3d0a47ab113e0c2470ff06659c321e80573471b04bade8f9a7f341f2eaab737c{formatter}.{ext}?namespace=gamesdb"
+			},
+			"vertical_cover": {
+				"url_format": "https://images.gog.com/c64be80221770b9ad72cb818bc67367133fe28c755947ecf847f7cc2cb3d47f8{formatter}.{ext}?namespace=gamesdb"
+			},
+			"cover": {
+				"url_format": "https://images.gog.com/c64be80221770b9ad72cb818bc67367133fe28c755947ecf847f7cc2cb3d47f8{formatter}.{ext}?namespace=gamesdb"
+			},
+			"logo": {
+				"url_format": "https://images.gog.com/bd1942f44ae66bc398b0b1de7b72fc42e423b46d19505cdcb179740c7d1edf5a{formatter}.{ext}?namespace=gamesdb"
+			},
+			"icon": {
+				"url_format": "https://images.gog.com/0bda166535f7ea790522a0aacbd49d4bc1d0599582933064228da15b36276fa3{formatter}.{ext}?namespace=gamesdb"
+			},
+			"square_icon": {
+				"url_format": "https://images.gog.com/0d291689542ec06758fb66c4134e876a5ada20de43e994c4c930e7144682b64d{formatter}.{ext}?namespace=gamesdb"
+			},
+			"global_popularity_all_time": 0,
+			"global_popularity_current": 0
+		},
+		"title": {
+			"*": "Bzzzt Demo",
+			"en-US": "Bzzzt"
+		},
+		"sorting_title": {
+			"*": "Bzzzt Demo",
+			"en-US": "Bzzzt Demo"
+		},
+		"type": "game",
+		"summary": {
+			"*": "Bzzzt is a fast-paced 2D platformer highly inspired by games from 80's. You become an artificial intelligence ZX8000 and in your newly obtained robotic body, you must prove your abilities in a series of testing chambers filled with deadly traps.",
+			"en-US": "Bzzzt is a fast-paced 2D platformer highly inspired by games from 80's. You become an artificial intelligence ZX8000 and in your newly obtained robotic body, you must prove your abilities in a series of testing chambers filled with deadly traps."
+		},
+		"videos": [],
+		"game_modes": [
+			{
+				"id": "53051895165351137",
+				"name": "Single player",
+				"slug": "single-player"
+			}
+		],
+		"icon": {
+			"url_format": "https://images.gog.com/0bda166535f7ea790522a0aacbd49d4bc1d0599582933064228da15b36276fa3{formatter}.{ext}?namespace=gamesdb"
+		},
+		"logo": {
+			"url_format": "https://images.gog.com/bd1942f44ae66bc398b0b1de7b72fc42e423b46d19505cdcb179740c7d1edf5a{formatter}.{ext}?namespace=gamesdb"
+		},
+		"etag": "W/\"95a0f00bea75f5537ef46fdf948a349c\""
+	},
+	"__timestamp.gog_1106508737": "Sat Aug 10 2024 18:42:00 GMT+0530 (India Standard Time)",
+	"gog_1491728574": {
+		"id": "57612625522707877",
+		"game_id": "57612625525066547",
+		"platform_id": "gog",
+		"external_id": "1491728574",
+		"dlcs_ids": [],
+		"dlcs": [],
+		"parent_id": null,
+		"supported_operating_systems": [
+			{
+				"slug": "windows",
+				"name": "Windows"
+			}
+		],
+		"available_languages": [
+			{
+				"code": "en-US"
+			}
+		],
+		"first_release_date": null,
+		"game": {
+			"id": "57612625525066547",
+			"parent_id": null,
+			"dlcs_ids": [],
+			"first_release_date": "2024-07-25T00:00:00+0000",
+			"releases": [
+				{
+					"id": "57612625525066547",
+					"platform_id": "generic",
+					"external_id": "57612625525066547",
+					"release_per_platform_id": "generic_57612625525066547"
+				}
+			],
+			"title": {
+				"*": "Fallout: London",
+				"en-US": "Fallout: London"
+			},
+			"sorting_title": {
+				"*": "Fallout London",
+				"en-US": "Fallout London"
+			},
+			"type": "game",
+			"developers_ids": [
+				"57798181372308317"
+			],
+			"developers": [
+				{
+					"id": "57798181372308317",
+					"name": "Team FOLON®",
+					"slug": "team-folon-r"
+				}
+			],
+			"publishers_ids": [
+				"57798181372308317"
+			],
+			"publishers": [
+				{
+					"id": "57798181372308317",
+					"name": "Team FOLON®",
+					"slug": "team-folon-r"
+				}
+			],
+			"genres_ids": [
+				"51071842242881003",
+				"51141224821260861"
+			],
+			"genres": [
+				{
+					"id": "51071842242881003",
+					"name": {
+						"*": "Role-playing (RPG)",
+						"en-US": "Role-playing (RPG)"
+					},
+					"slug": "role-playing-rpg"
+				},
+				{
+					"id": "51141224821260861",
+					"name": {
+						"*": "Shooter",
+						"en-US": "Shooter"
+					},
+					"slug": "shooter"
+				}
+			],
+			"themes_ids": [],
+			"themes": [],
+			"screenshots": [
+				{
+					"url_format": "https://images.gog.com/7ec3f09e043adc7309c98a8a7bebb8b57f7c4662798b6d9202caad721fc79e2d{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/150d5179e719885c1fd2c78e290d41ccd0545396cdafef932d87c451f80f6c27{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/1ce21469ece50f09ae7b3e1fb783a3583863c638ec66127b17733d56383212c3{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/560273b9769e5101734ba129554fdbc1a23db6b52b8eab73aca121cc9d0f2dfe{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/db45558bb8ef3820ddc101b3d465ce54e9c12936eb9974b264004f918220ba5d{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/f5d6c3b8f7e3cc18870c46410edf2a83857f6d4df1e117b7f7900bf676c7c2c6{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/d06695f57d66597899f632e600c526ff4eabea3391486e2e7d52aa09ebb6d606{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/fe9d9d04732d272c04317f4c72ddb0058886ef29e24ca2f530b948ccff43fd95{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/4707667c5f9f91def9a02563fd6eaab830f41b36bf0026b32088cb6e57732228{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/3259eefe8191c0e5755993a1cbdf899883089be4454d28bf8e8b5e06662e9f7e{formatter}.{ext}?namespace=gamesdb"
+				}
+			],
+			"videos": [
+				{
+					"provider": "youtube",
+					"video_id": "8t2mF_PM11A",
+					"thumbnail_id": "8t2mF_PM11A",
+					"name": "Launch Trailer"
+				}
+			],
+			"artworks": [],
+			"summary": {
+				"*": "There has never been a better time to sample the capital’s delights! Fallout: London lets you explore the wonders of the city 160 years after the bombs have dropped, and 40 years before the events of Fallout 3. You can now reimagine Fallout in a London-centric universe, interacting with a brave new world of London-based locations, stories, factions, creatures, weapons, and gameplay mechanics.",
+				"en-US": "There has never been a better time to sample the capital’s delights! Fallout: London lets you explore the wonders of the city 160 years after the bombs have dropped, and 40 years before the events of Fallout 3. You can now reimagine Fallout in a London-centric universe, interacting with a brave new world of London-based locations, stories, factions, creatures, weapons, and gameplay mechanics."
+			},
+			"visible_in_library": true,
+			"aggregated_rating": null,
+			"game_modes": [],
+			"horizontal_artwork": {
+				"url_format": "https://images.gog.com/cf617036eb8a76b8a3df76d0cb56da6f22b3ea941331a68b95a46fa95bfb6533{formatter}.{ext}?namespace=gamesdb"
+			},
+			"background": {
+				"url_format": "https://images.gog.com/cf617036eb8a76b8a3df76d0cb56da6f22b3ea941331a68b95a46fa95bfb6533{formatter}.{ext}?namespace=gamesdb"
+			},
+			"vertical_cover": {
+				"url_format": "https://images.gog.com/a763950d7039103bebdcd6ebd92144ee19ddecbbd4d9cdfee4775aadc965fb01{formatter}.{ext}?namespace=gamesdb"
+			},
+			"cover": {
+				"url_format": "https://images.gog.com/a763950d7039103bebdcd6ebd92144ee19ddecbbd4d9cdfee4775aadc965fb01{formatter}.{ext}?namespace=gamesdb"
+			},
+			"logo": {
+				"url_format": "https://images.gog.com/a557fa41364e6d06bfe3fca629755b8371af04082645186fd6fdd55c70aaf147{formatter}.{ext}?namespace=gamesdb"
+			},
+			"square_icon": {
+				"url_format": "https://images.gog.com/6215b457aefcbe90737be746b9668d04d54141a3b4cd7dd2176ae79cd4d4475b{formatter}.{ext}?namespace=gamesdb"
+			},
+			"global_popularity_all_time": 0,
+			"global_popularity_current": 0
+		},
+		"title": {
+			"*": "Fallout: London",
+			"en-US": "Fallout: London"
+		},
+		"sorting_title": {
+			"*": "Fallout London",
+			"en-US": "Fallout London"
+		},
+		"type": "game",
+		"summary": {
+			"*": "There has never been a better time to sample the capital’s delights! Fallout: London lets you explore the wonders of the city 160 years after the bombs have dropped, and 40 years before the events of Fallout 3. You can now reimagine Fallout in a London-centric universe, interacting with a brave new world of London-based locations, stories, factions, creatures, weapons, and gameplay mechanics.",
+			"en-US": "There has never been a better time to sample the capital’s delights! Fallout: London lets you explore the wonders of the city 160 years after the bombs have dropped, and 40 years before the events of Fallout 3. You can now reimagine Fallout in a London-centric universe, interacting with a brave new world of London-based locations, stories, factions, creatures, weapons, and gameplay mechanics."
+		},
+		"videos": [],
+		"game_modes": [],
+		"logo": {
+			"url_format": "https://images.gog.com/a557fa41364e6d06bfe3fca629755b8371af04082645186fd6fdd55c70aaf147{formatter}.{ext}?namespace=gamesdb"
+		}
+	},
+	"__timestamp.gog_1491728574": "Sat Aug 10 2024 18:42:00 GMT+0530 (India Standard Time)"
+}

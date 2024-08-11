@@ -1,0 +1,44 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 7
+    },
+    "auditLog": "/home/pc/.config/ticktick/logs/electron/.4b42de22785386d52fc250ee31777e148af60c44-audit.json",
+    "files": [
+        {
+            "date": 1721405475836,
+            "name": "/home/pc/.config/ticktick/logs/electron/electron-2024-07-19.log",
+            "hash": "8c0f0f16e00a40ffae7d92d90ed9421d"
+        },
+        {
+            "date": 1721573410173,
+            "name": "/home/pc/.config/ticktick/logs/electron/electron-2024-07-21.log",
+            "hash": "4f4d5200b41fe51bd27499ff4ab6f2aa"
+        },
+        {
+            "date": 1721655479614,
+            "name": "/home/pc/.config/ticktick/logs/electron/electron-2024-07-22.log",
+            "hash": "f06b619fd0ef2640b47f321607a62282"
+        },
+        {
+            "date": 1722054369232,
+            "name": "/home/pc/.config/ticktick/logs/electron/electron-2024-07-27.log",
+            "hash": "decbced77ae7d1ecd752137c8b480470"
+        },
+        {
+            "date": 1722575813780,
+            "name": "/home/pc/.config/ticktick/logs/electron/electron-2024-08-02.log",
+            "hash": "e5f0e8b046dbc033785808e145dd4970"
+        },
+        {
+            "date": 1723045533227,
+            "name": "/home/pc/.config/ticktick/logs/electron/electron-2024-08-07.log",
+            "hash": "6eebf660e01f6b4b45bcabe4d213262b"
+        },
+        {
+            "date": 1723182374272,
+            "name": "/home/pc/.config/ticktick/logs/electron/electron-2024-08-09.log",
+            "hash": "cbb4bc1ef5d79387594cf769d7db770c"
+        }
+    ]
+}

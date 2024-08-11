@@ -1,0 +1,1058 @@
+(23:28:11) INFO:    [Legendary]:        Legendary location: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary
+(23:28:11) INFO:    [Gog]:              GOGDL location: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl
+(23:28:11) INFO:    [Connection]:       Connectivity: check-online
+(23:28:11) INFO:    [Connection]:       Pinging external endpoints
+(23:28:11) INFO:    [Gog]:              Checking for existing gog manifests
+(23:28:12) INFO:    [Backend]:          DRM module staus {
+  "oimompecagnajdejgnnjijobebaeigek": {
+    "status": "new",
+    "title": "Widevine Content Decryption Module",
+    "version": "4.10.2710.0"
+  }
+}
+(23:28:12) WARNING: [Backend]:          Protocol already registered.
+(23:28:12) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/pc/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary --version
+(23:28:13) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/pc/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/pc/.config/heroic/gog_store/auth.json --version
+(23:28:13) INFO:    [Nile]:             Running command: NILE_CONFIG_PATH=/home/pc/.config/heroic/nile_config /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/nile --version
+(23:28:13) INFO:    [Connection]:       Connectivity: online
+(23:28:13) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/pc/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/pc/.config/heroic/gog_store/auth.json auth
+(23:28:13) ERROR:   [Gog]:              Unable to syncQueued playtime, userData not present
+(23:28:13) INFO:    [Backend]:          
+System Information:
+CPU: 8x Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+Memory: 12.27 GB (used: 1.33 GB)
+GPUs:
+  GPU 0:
+    Name: Advanced Micro Devices, Inc. [AMD/ATI] Jet PRO [Radeon R5 M230 / R7 M260DX / Radeon 520/610 Mobile]
+    IDs: D=6665 V=1002 SD=0841 SV=1028
+    Driver: amdgpu
+  GPU 1:
+    Name: Intel Corporation UHD Graphics 620
+    IDs: D=5917 V=8086 SD=0841 SV=1028
+    Driver: i915
+OS: Arch Linux 6.10.3-arch1-2 (linux)
+
+The current system is not a Steam Deck
+We are not running inside a Flatpak container
+
+Software Versions:
+  Heroic: 2.14.1 Flame Emperor Sabo
+  Legendary: 0.20.34 Direct Intervention
+  gogdl: 1.0.1
+  Nile: 1.0.2 Jonathan Joestar
+
+(23:28:13) INFO:    [Backend]:          AreWeAntiCheatYet data downloaded
+(23:28:13) INFO:    [Frontend]:         Refreshing undefined Library
+(23:28:13) WARNING: [Backend]:          refresh not implemented on Sideload Library Manager
+(23:28:13) INFO:    [Legendary]:        Refreshing library...
+(23:28:13) INFO:    [Legendary]:        Refreshing Epic Games...
+(23:28:13) INFO:    [Backend]:          Frontend Ready
+(23:28:13) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/pc/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+(23:28:13) INFO:    [Backend]:          Checking for new Heroic Updates
+(23:28:13) INFO:    [Backend]:          Checking for current version changelog
+(23:28:15) INFO:    [Winetricks]:       Downloading Winetricks
+(23:28:16) INFO:    [Legendary]:        Game list updated, got 48 games & DLCs
+(23:28:16) WARNING: [Backend]:          listUpdateableGames not implemented on Sideload Library Manager
+(23:28:16) INFO:    [Legendary]:        Checking for game updates: LEGENDARY_CONFIG_PATH=/home/pc/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+(23:28:17) INFO:    [WineDownloader]:   Updating wine versions info
+(23:28:17) INFO:    [WineDownloader]:   Fetching upstream information...
+(23:28:18) INFO:    [Backend]:          Starting the Download Queue
+(23:28:19) INFO:    [WineDownloader]:   wine versions updated
+(23:28:19) INFO:    [Legendary]:        Found 0 games to update
+(23:28:35) INFO:    [ExtraGameInfo]:    Getting ExtraGameInfo data for Fallout New Vegas
+(23:28:35) INFO:    [ExtraGameInfo]:    Getting PCGamingWiki data for Fallout New Vegas
+(23:28:35) INFO:    [ExtraGameInfo]:    Getting HowLongToBeat data for Fallout New Vegas
+(23:28:35) INFO:    [ExtraGameInfo]:    Getting GamesDB data for Fallout New Vegas
+(23:28:35) INFO:    [ExtraGameInfo]:    Getting ExtraGameInfo data for Fallout New Vegas
+(23:28:35) INFO:    [ExtraGameInfo]:    Getting PCGamingWiki data for Fallout New Vegas
+(23:28:35) INFO:    [ExtraGameInfo]:    Getting HowLongToBeat data for Fallout New Vegas
+(23:28:35) INFO:    [ExtraGameInfo]:    Getting GamesDB data for Fallout New Vegas
+(23:28:35) INFO:    [Legendary]:        Getting more details with 'legendary info'
+(23:28:35) INFO:    [Legendary]:        Getting more details with 'legendary info'
+(23:28:35) ERROR:   [Legendary]:        Error: Request failed with status code 403
+    at createError (/opt/Heroic/resources/app.asar/node_modules/axios/lib/core/createError.js:16:15)
+    at settle (/opt/Heroic/resources/app.asar/node_modules/axios/lib/core/settle.js:17:12)
+    at IncomingMessage.handleStreamEnd (/opt/Heroic/resources/app.asar/node_modules/axios/lib/adapters/http.js:322:11)
+    at IncomingMessage.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1408:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+(23:28:36) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/pc/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary info 5daeb974a22a435988892319b3a4f476 --json --platform Windows
+(23:28:36) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/pc/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary info 5daeb974a22a435988892319b3a4f476 --json --platform Windows
+(23:28:36) ERROR:   [ExtraGameInfo]:    Got AxiosError when sending HowLongToBeat request for Fallout New Vegas: {
+  "message": "Request failed with status code 404",
+  "name": "Error",
+  "stack": "Error: Request failed with status code 404\n    at createError (/opt/Heroic/resources/app.asar/node_modules/axios/lib/core/createError.js:16:15)\n    at settle (/opt/Heroic/resources/app.asar/node_modules/axios/lib/core/settle.js:17:12)\n    at IncomingMessage.handleStreamEnd (/opt/Heroic/resources/app.asar/node_modules/axios/lib/adapters/http.js:322:11)\n    at IncomingMessage.emit (node:events:526:35)\n    at endReadableNT (node:internal/streams/readable:1408:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)",
+  "config": {
+    "transitional": {
+      "silentJSONParsing": true,
+      "forcedJSONParsing": true,
+      "clarifyTimeoutError": false
+    },
+    "transformRequest": [
+      null
+    ],
+    "transformResponse": [
+      null
+    ],
+    "timeout": 0,
+    "xsrfCookieName": "XSRF-TOKEN",
+    "xsrfHeaderName": "X-XSRF-TOKEN",
+    "maxContentLength": -1,
+    "maxBodyLength": -1,
+    "headers": {
+      "Accept": "*/*",
+      "Content-Type": "application/json",
+      "User-Agent": "HeroicGamesLauncher/2.14.1",
+      "Referer": "https://howlongtobeat.com/",
+      "Content-Length": 356
+    },
+    "method": "post",
+    "url": "https://www.howlongtobeat.com/api/search",
+    "data": "{\"searchType\":\"games\",\"searchTerms\":[\"Fallout\",\"New\",\"Vegas\"],\"searchPage\":1,\"size\":20,\"searchOptions\":{\"games\":{\"userId\":0,\"platform\":\"\",\"sortCategory\":\"popular\",\"rangeCategory\":\"main\",\"rangeTime\":{\"min\":0,\"max\":0},\"gameplay\":{\"perspective\":\"\",\"flow\":\"\",\"genre\":\"\"},\"modifier\":\"\"},\"users\":{\"sortCategory\":\"postcount\"},\"filter\":\"\",\"sort\":0,\"randomizer\":0}}"
+  },
+  "status": 404
+}
+(23:28:36) INFO:    [Legendary]:        Getting Info from Epic API
+(23:28:36) ERROR:   [ExtraGameInfo]:    Got AxiosError when sending HowLongToBeat request for Fallout New Vegas: {
+  "message": "Request failed with status code 404",
+  "name": "Error",
+  "stack": "Error: Request failed with status code 404\n    at createError (/opt/Heroic/resources/app.asar/node_modules/axios/lib/core/createError.js:16:15)\n    at settle (/opt/Heroic/resources/app.asar/node_modules/axios/lib/core/settle.js:17:12)\n    at IncomingMessage.handleStreamEnd (/opt/Heroic/resources/app.asar/node_modules/axios/lib/adapters/http.js:322:11)\n    at IncomingMessage.emit (node:events:526:35)\n    at endReadableNT (node:internal/streams/readable:1408:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)",
+  "config": {
+    "transitional": {
+      "silentJSONParsing": true,
+      "forcedJSONParsing": true,
+      "clarifyTimeoutError": false
+    },
+    "transformRequest": [
+      null
+    ],
+    "transformResponse": [
+      null
+    ],
+    "timeout": 0,
+    "xsrfCookieName": "XSRF-TOKEN",
+    "xsrfHeaderName": "X-XSRF-TOKEN",
+    "maxContentLength": -1,
+    "maxBodyLength": -1,
+    "headers": {
+      "Accept": "*/*",
+      "Content-Type": "application/json",
+      "User-Agent": "HeroicGamesLauncher/2.14.1",
+      "Referer": "https://howlongtobeat.com/",
+      "Content-Length": 356
+    },
+    "method": "post",
+    "url": "https://www.howlongtobeat.com/api/search",
+    "data": "{\"searchType\":\"games\",\"searchTerms\":[\"Fallout\",\"New\",\"Vegas\"],\"searchPage\":1,\"size\":20,\"searchOptions\":{\"games\":{\"userId\":0,\"platform\":\"\",\"sortCategory\":\"popular\",\"rangeCategory\":\"main\",\"rangeTime\":{\"min\":0,\"max\":0},\"gameplay\":{\"perspective\":\"\",\"flow\":\"\",\"genre\":\"\"},\"modifier\":\"\"},\"users\":{\"sortCategory\":\"postcount\"},\"filter\":\"\",\"sort\":0,\"randomizer\":0}}"
+  },
+  "status": 404
+}
+(23:28:37) DEBUG:   [Backend]:          ProtonDB data for 22380 {"bestReportedTier":"platinum","confidence":"strong","score":0.81,"tier":"gold","total":580,"trendingTier":"platinum"}
+(23:28:37) DEBUG:   [Backend]:          SteamDeck data for 22380 {"success":1,"results":{"appid":22380,"resolved_category":2,"resolved_items":[{"display_type":3,"loc_token":"#SteamDeckVerified_TestResult_LauncherInteractionIssues"},{"display_type":3,"loc_token":"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"},{"display_type":3,"loc_token":"#SteamDeckVerified_TestResult_NativeResolutionNotDefault"},{"display_type":4,"loc_token":"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"},{"display_type":4,"loc_token":"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"},{"display_type":4,"loc_token":"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"},{"display_type":4,"loc_token":"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"},{"display_type":1,"loc_token":"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"}],"steam_deck_blog_url":"","search_id":null}}
+(23:28:42) DEBUG:   [Backend]:          ProtonDB data for 22380 {"bestReportedTier":"platinum","confidence":"strong","score":0.81,"tier":"gold","total":580,"trendingTier":"platinum"}
+(23:28:42) DEBUG:   [Backend]:          SteamDeck data for 22380 {"success":1,"results":{"appid":22380,"resolved_category":2,"resolved_items":[{"display_type":3,"loc_token":"#SteamDeckVerified_TestResult_LauncherInteractionIssues"},{"display_type":3,"loc_token":"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"},{"display_type":3,"loc_token":"#SteamDeckVerified_TestResult_NativeResolutionNotDefault"},{"display_type":4,"loc_token":"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"},{"display_type":4,"loc_token":"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"},{"display_type":4,"loc_token":"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"},{"display_type":4,"loc_token":"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"},{"display_type":1,"loc_token":"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"}],"steam_deck_blog_url":"","search_id":null}}
+(23:28:45) DEBUG:   [Legendary]:        Using cached install info
+(23:29:10) INFO:    [Backend]:          Writing config for 5daeb974a22a435988892319b3a4f476
+(23:29:10) INFO:    [Backend]:          Changed config: winePrefix from /home/pc/Games/Heroic/Prefixes/default to /home/pc/Games/Heroic/Prefixes/default/Fallout New Vegas
+(23:29:10) INFO:    [Backend]:          Changed config: wineCrossoverBottle from undefined to 
+(23:29:10) DEBUG:   [Legendary]:        Using cached install info
+(23:29:10) INFO:    [DownloadManager]:  Fallout: New Vegas  was added to the download queue.
+(23:29:10) INFO:    [Legendary]:        Getting more details with 'legendary info'
+(23:29:10) INFO:    [Legendary]:        Getting more details with 'legendary info'
+(23:29:10) INFO:    [Legendary]:        Getting more details with 'legendary info'
+(23:29:10) INFO:    [Legendary]:        Getting more details with 'legendary info'
+(23:29:10) INFO:    [Legendary]:        Getting more details with 'legendary info'
+(23:29:10) INFO:    [Legendary]:        Getting more details with 'legendary info'
+(23:29:10) INFO:    [Backend]:          Preventing machine to sleep
+(23:29:10) DEBUG:   [Legendary]:        Using cached install info
+(23:29:10) DEBUG:   [Legendary]:        Using cached install info
+(23:29:10) DEBUG:   [Legendary]:        Using cached install info
+(23:29:10) INFO:    [Legendary]:        Installing 5daeb974a22a435988892319b3a4f476: LEGENDARY_CONFIG_PATH=/home/pc/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary install 5daeb974a22a435988892319b3a4f476 --platform Windows --base-path /home/hdd2 --skip-dlcs -y --skip-sdl
+(23:29:10) DEBUG:   [Legendary]:        Logging to file "/home/pc/.config/heroic/GamesConfig/5daeb974a22a435988892319b3a4f476.log"
+(23:29:10) DEBUG:   [Legendary]:        Using cached install info
+(23:29:10) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/pc/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary info 7dcfb9cd9d134728b2646466c34c7b3b --json --platform Windows
+(23:29:10) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/pc/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary info 4fa3d8d9b2cb4714a19a38d1a598be8f --json --platform Windows
+(23:29:10) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/pc/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary info b290229eb58045cbab9501640f3278f3 --json --platform Windows
+(23:29:10) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/pc/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary info 562d4a2c1b3147b089a7c453e3ddbcbe --json --platform Windows
+(23:29:10) DEBUG:   [Legendary]:        Using cached install info
+(23:29:10) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/pc/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary info ee9a44b4530942499ef1c8c390731fce --json --platform Windows
+(23:29:10) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/pc/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary info c8dae1ab0570475a8b38a9041e614840 --json --platform Windows
+(23:29:10) ERROR:   [DownloadManager]:  Downloader: Failed to get headers for https://raw.githubusercontent.com/Heroic-Games-Launcher/known-fixes/main/epic/5daeb974a22a435988892319b3a4f476-epic.json. 
+Error: Error: Request failed with status code 404
+(23:29:14) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 55.69%/0.00MB/00:00:00 Down: 0MB/s / Disk: 0MB/s
+(23:29:15) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 55.69%/0.00MB/00:00:00 Down: 0MB/s / Disk: 0MB/s
+(23:29:16) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 55.7%/1.85MB/00:39:51 Down: 1.85MB/s / Disk: 1.42MB/s
+(23:29:16) INFO:    [DownloadManager]:  Fallout: New Vegas  was added to the download queue.
+(23:29:17) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 55.81%/16.80MB/00:16:14 Down: 14.93MB/s / Disk: 15.98MB/s
+(23:29:18) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 55.92%/32.70MB/00:12:30 Down: 15.87MB/s / Disk: 15.98MB/s
+(23:29:19) INFO:    [DownloadManager]:  Fallout: New Vegas  was added to the download queue.
+(23:29:19) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 56.03%/48.56MB/00:10:58 Down: 15.86MB/s / Disk: 15.99MB/s
+(23:29:20) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 56.13%/62.46MB/00:10:25 Down: 13.88MB/s / Disk: 13.99MB/s
+(23:29:21) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 56.15%/65.43MB/00:11:38 Down: 2.97MB/s / Disk: 3MB/s
+(23:29:22) INFO:    [DownloadManager]:  Fallout: New Vegas  was added to the download queue.
+(23:29:22) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 56.26%/81.33MB/00:10:50 Down: 15.88MB/s / Disk: 15.98MB/s
+(23:29:23) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 56.38%/98.14MB/00:10:10 Down: 16.79MB/s / Disk: 16.98MB/s
+(23:29:24) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 56.39%/99.13MB/00:11:11 Down: 0.99MB/s / Disk: 1MB/s
+(23:29:25) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 56.5%/114.91MB/00:10:39 Down: 15.76MB/s / Disk: 15.98MB/s
+(23:29:26) INFO:    [DownloadManager]:  Fallout: New Vegas  was added to the download queue.
+(23:29:26) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 56.63%/132.72MB/00:10:05 Down: 17.79MB/s / Disk: 17.98MB/s
+(23:29:27) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 56.72%/146.50MB/00:10:11 Down: 13.76MB/s / Disk: 9.99MB/s
+(23:29:28) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 56.8%/157.35MB/00:10:19 Down: 10.85MB/s / Disk: 8.99MB/s
+(23:29:28) INFO:    [DownloadManager]:  Fallout: New Vegas  was added to the download queue.
+(23:29:29) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 56.86%/166.30MB/00:10:16 Down: 8.94MB/s / Disk: 11.99MB/s
+(23:29:30) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 56.95%/178.23MB/00:10:02 Down: 11.91MB/s / Disk: 14.98MB/s
+(23:29:31) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 57.06%/194.11MB/00:09:54 Down: 15.88MB/s / Disk: 13.99MB/s
+(23:29:32) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 57.16%/208.96MB/00:09:46 Down: 14.83MB/s / Disk: 13.98MB/s
+(23:29:33) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 57.19%/212.93MB/00:10:01 Down: 3.95MB/s / Disk: 5.98MB/s
+(23:29:34) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 57.28%/224.84MB/00:09:59 Down: 11.89MB/s / Disk: 11.98MB/s
+(23:29:35) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 57.38%/239.73MB/00:09:47 Down: 14.86MB/s / Disk: 15.98MB/s
+(23:29:36) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 57.5%/256.62MB/00:09:34 Down: 16.88MB/s / Disk: 16.99MB/s
+(23:29:37) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 57.6%/270.55MB/00:09:39 Down: 13.91MB/s / Disk: 8.99MB/s
+(23:29:38) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 57.63%/274.52MB/00:09:44 Down: 3.97MB/s / Disk: 8.99MB/s
+(23:29:39) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 57.73%/289.40MB/00:09:39 Down: 14.86MB/s / Disk: 13.98MB/s
+(23:29:40) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 57.84%/305.25MB/00:09:28 Down: 15.84MB/s / Disk: 16.99MB/s
+(23:29:41) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 57.93%/318.16MB/00:09:34 Down: 12.89MB/s / Disk: 7.99MB/s
+(23:29:42) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 58.04%/332.69MB/00:09:19 Down: 14.52MB/s / Disk: 19.97MB/s
+(23:29:43) INFO:    [DownloadManager]:  Fallout: New Vegas  was added to the download queue.
+(23:29:43) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 58.06%/335.63MB/00:09:34 Down: 2.93MB/s / Disk: 3MB/s
+(23:29:44) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 58.16%/350.50MB/00:09:27 Down: 14.85MB/s / Disk: 14.98MB/s
+(23:29:45) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 58.29%/369.40MB/00:09:15 Down: 18.87MB/s / Disk: 18.97MB/s
+(23:29:46) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 58.32%/372.36MB/00:09:31 Down: 2.96MB/s / Disk: 1MB/s
+(23:29:47) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 58.43%/388.28MB/00:09:21 Down: 15.89MB/s / Disk: 17.98MB/s
+(23:29:48) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 58.53%/403.21MB/00:09:26 Down: 14.91MB/s / Disk: 7.99MB/s
+(23:29:49) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 58.62%/416.16MB/00:09:23 Down: 12.94MB/s / Disk: 12.99MB/s
+(23:29:50) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 58.72%/429.10MB/00:09:22 Down: 12.92MB/s / Disk: 11.98MB/s
+(23:29:51) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 58.81%/442.05MB/00:09:15 Down: 12.93MB/s / Disk: 16.97MB/s
+(23:29:52) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 58.89%/453.99MB/00:09:15 Down: 11.92MB/s / Disk: 10.99MB/s
+(23:29:53) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 58.99%/467.92MB/00:09:15 Down: 13.91MB/s / Disk: 10.98MB/s
+(23:29:54) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 59.02%/471.91MB/00:09:26 Down: 3.98MB/s / Disk: 3MB/s
+(23:29:55) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 59.12%/486.81MB/00:09:11 Down: 14.88MB/s / Disk: 22.97MB/s
+(23:29:56) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 59.23%/502.65MB/00:09:04 Down: 15.83MB/s / Disk: 16.99MB/s
+(23:29:57) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 59.34%/517.59MB/00:09:00 Down: 14.92MB/s / Disk: 14.98MB/s
+(23:29:58) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 59.43%/530.42MB/00:08:59 Down: 12.81MB/s / Disk: 11.98MB/s
+(23:29:59) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 59.51%/542.32MB/00:09:01 Down: 11.88MB/s / Disk: 9.99MB/s
+(23:30:00) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 59.56%/548.26MB/00:09:05 Down: 5.94MB/s / Disk: 7MB/s
+(23:30:01) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 59.67%/564.10MB/00:08:58 Down: 15.81MB/s / Disk: 17.97MB/s
+(23:30:02) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 59.79%/580.92MB/00:08:52 Down: 16.8MB/s / Disk: 16.98MB/s
+(23:30:03) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 59.85%/589.89MB/00:08:58 Down: 8.96MB/s / Disk: 6MB/s
+(23:30:04) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 59.91%/598.82MB/00:09:01 Down: 8.92MB/s / Disk: 7.99MB/s
+(23:30:05) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 60%/611.74MB/00:08:56 Down: 12.91MB/s / Disk: 15.98MB/s
+(23:30:06) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 60.12%/627.60MB/00:08:52 Down: 15.84MB/s / Disk: 14.98MB/s
+(23:30:07) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 60.21%/641.52MB/00:08:51 Down: 13.9MB/s / Disk: 11.98MB/s
+(23:30:08) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 60.23%/643.50MB/00:08:56 Down: 1.97MB/s / Disk: 5.99MB/s
+(23:30:09) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 60.34%/659.29MB/00:08:52 Down: 15.79MB/s / Disk: 15.99MB/s
+(23:30:10) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 60.45%/675.14MB/00:08:47 Down: 15.83MB/s / Disk: 15.98MB/s
+(23:30:11) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 60.53%/686.08MB/00:08:52 Down: 10.92MB/s / Disk: 5.99MB/s
+(23:30:12) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 60.58%/694.04MB/00:08:50 Down: 7.95MB/s / Disk: 12.99MB/s
+(23:30:13) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 60.69%/708.97MB/00:08:47 Down: 14.91MB/s / Disk: 14.98MB/s
+(23:30:14) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 60.8%/724.90MB/00:08:43 Down: 15.91MB/s / Disk: 15.98MB/s
+(23:30:15) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 60.91%/739.81MB/00:08:39 Down: 14.89MB/s / Disk: 14.98MB/s
+(23:30:16) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 60.92%/741.79MB/00:08:48 Down: 1.98MB/s / Disk: 0MB/s
+(23:30:17) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 61.03%/757.71MB/00:08:42 Down: 15.91MB/s / Disk: 17.99MB/s
+(23:30:18) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 61.14%/772.61MB/00:08:40 Down: 14.88MB/s / Disk: 13.98MB/s
+(23:30:19) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 61.24%/787.55MB/00:08:43 Down: 14.92MB/s / Disk: 6.99MB/s
+(23:30:20) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 61.34%/801.39MB/00:08:41 Down: 13.83MB/s / Disk: 13.99MB/s
+(23:30:21) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 61.4%/809.34MB/00:08:37 Down: 7.94MB/s / Disk: 15.98MB/s
+(23:30:22) INFO:    [Backend]:          Exitting to tray instead of quitting
+(23:30:22) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 61.5%/824.26MB/00:08:35 Down: 14.9MB/s / Disk: 13.98MB/s
+(23:30:23) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 61.61%/840.18MB/00:08:30 Down: 15.91MB/s / Disk: 17.99MB/s
+(23:30:24) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 61.62%/841.17MB/00:08:36 Down: 0.99MB/s / Disk: 1MB/s
+(23:30:25) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 61.72%/855.02MB/00:08:35 Down: 13.83MB/s / Disk: 11.98MB/s
+(23:30:26) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 61.82%/869.90MB/00:08:31 Down: 14.87MB/s / Disk: 16.99MB/s
+(23:30:27) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 61.93%/885.33MB/00:08:28 Down: 15.41MB/s / Disk: 15.98MB/s
+(23:30:28) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 62.04%/899.95MB/00:08:33 Down: 14.61MB/s / Disk: 2MB/s
+(23:30:29) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 62.08%/905.46MB/00:08:29 Down: 5.51MB/s / Disk: 17.99MB/s
+(23:30:30) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 62.16%/917.99MB/00:08:30 Down: 12.51MB/s / Disk: 7.99MB/s
+(23:30:31) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 62.27%/932.98MB/00:08:25 Down: 14.97MB/s / Disk: 18.98MB/s
+(23:30:32) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 62.37%/947.88MB/00:08:28 Down: 14.89MB/s / Disk: 6MB/s
+(23:30:33) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 62.42%/953.86MB/00:08:27 Down: 5.97MB/s / Disk: 12.98MB/s
+(23:30:34) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 62.52%/968.77MB/00:08:21 Down: 14.89MB/s / Disk: 19.97MB/s
+(23:30:35) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 62.58%/976.69MB/00:08:27 Down: 7.92MB/s / Disk: 1MB/s
+(23:30:36) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 62.65%/986.65MB/00:08:23 Down: 9.94MB/s / Disk: 16.97MB/s
+(23:30:37) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 62.76%/1002.60MB/00:08:19 Down: 15.94MB/s / Disk: 15.99MB/s
+(23:30:38) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 62.84%/1013.41MB/00:08:17 Down: 10.8MB/s / Disk: 12.98MB/s
+(23:30:39) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 62.93%/1026.09MB/00:08:13 Down: 12.66MB/s / Disk: 16.98MB/s
+(23:30:40) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 63.03%/1041.14MB/00:08:09 Down: 15.04MB/s / Disk: 17.99MB/s
+(23:30:41) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 63.11%/1052.47MB/00:08:05 Down: 11.32MB/s / Disk: 17.98MB/s
+(23:30:42) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 63.2%/1064.36MB/00:08:01 Down: 11.87MB/s / Disk: 17.98MB/s
+(23:30:43) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 63.27%/1074.66MB/00:08:00 Down: 10.28MB/s / Disk: 13.98MB/s
+(23:30:44) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 63.36%/1088.34MB/00:07:56 Down: 13.67MB/s / Disk: 17.98MB/s
+(23:30:45) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 63.44%/1099.41MB/00:07:55 Down: 11.05MB/s / Disk: 12.98MB/s
+(23:30:46) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 63.54%/1112.59MB/00:07:53 Down: 13.17MB/s / Disk: 13.99MB/s
+(23:30:47) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 63.62%/1124.87MB/00:07:50 Down: 12.26MB/s / Disk: 16.98MB/s
+(23:30:48) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 63.7%/1136.33MB/00:07:52 Down: 11.44MB/s / Disk: 6.99MB/s
+(23:30:49) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 63.79%/1148.29MB/00:07:45 Down: 11.95MB/s / Disk: 23.96MB/s
+(23:30:50) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 63.87%/1159.74MB/00:07:43 Down: 11.43MB/s / Disk: 15.98MB/s
+(23:30:51) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 63.94%/1170.51MB/00:07:41 Down: 10.75MB/s / Disk: 13.97MB/s
+(23:30:52) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 64.06%/1186.94MB/00:07:39 Down: 16.4MB/s / Disk: 16.98MB/s
+(23:30:53) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 64.15%/1199.64MB/00:07:37 Down: 12.68MB/s / Disk: 13.98MB/s
+(23:30:54) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 64.23%/1211.69MB/00:07:34 Down: 12.04MB/s / Disk: 16.98MB/s
+(23:30:55) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 64.33%/1225.30MB/00:07:31 Down: 13.59MB/s / Disk: 16.98MB/s
+(23:30:56) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 64.41%/1235.88MB/00:07:33 Down: 10.56MB/s / Disk: 6.99MB/s
+(23:30:57) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 64.5%/1249.94MB/00:07:29 Down: 14.04MB/s / Disk: 20.97MB/s
+(23:30:58) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 64.59%/1262.39MB/00:07:26 Down: 12.43MB/s / Disk: 17.96MB/s
+(23:30:59) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 64.69%/1275.86MB/00:07:25 Down: 13.45MB/s / Disk: 12.98MB/s
+(23:31:00) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 64.76%/1285.60MB/00:07:22 Down: 9.73MB/s / Disk: 15.98MB/s
+(23:31:01) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 64.84%/1297.22MB/00:07:24 Down: 11.6MB/s / Disk: 6.99MB/s
+(23:31:02) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 64.94%/1312.17MB/00:07:16 Down: 14.94MB/s / Disk: 30.97MB/s
+(23:31:03) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 65.02%/1322.69MB/00:07:18 Down: 10.5MB/s / Disk: 4.99MB/s
+(23:31:04) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 65.11%/1336.04MB/00:07:12 Down: 13.35MB/s / Disk: 24.99MB/s
+(23:31:05) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 65.14%/1340.45MB/00:07:13 Down: 4.41MB/s / Disk: 7.99MB/s
+(23:31:06) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 65.24%/1353.99MB/00:07:12 Down: 13.52MB/s / Disk: 12.98MB/s
+(23:31:07) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 65.31%/1364.73MB/00:07:11 Down: 10.73MB/s / Disk: 12.98MB/s
+(23:31:08) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 65.4%/1377.05MB/00:07:08 Down: 12.31MB/s / Disk: 19.98MB/s
+(23:31:09) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 65.51%/1392.99MB/00:07:06 Down: 15.92MB/s / Disk: 15.98MB/s
+(23:31:10) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 65.61%/1406.93MB/00:07:06 Down: 13.94MB/s / Disk: 10.99MB/s
+(23:31:11) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 65.72%/1422.00MB/00:07:06 Down: 15.05MB/s / Disk: 8.99MB/s
+(23:31:12) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 65.73%/1423.89MB/00:07:05 Down: 1.89MB/s / Disk: 11.98MB/s
+(23:31:13) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 65.84%/1438.68MB/00:07:03 Down: 14.77MB/s / Disk: 16.98MB/s
+(23:31:14) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 65.98%/1458.57MB/00:06:57 Down: 19.87MB/s / Disk: 26.97MB/s
+(23:31:15) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 66%/1461.63MB/00:06:59 Down: 3.06MB/s / Disk: 4.99MB/s
+(23:31:16) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 66.09%/1475.02MB/00:06:57 Down: 13.37MB/s / Disk: 17.98MB/s
+(23:31:17) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 66.18%/1487.14MB/00:06:55 Down: 12.1MB/s / Disk: 15.98MB/s
+(23:31:18) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 66.26%/1499.16MB/00:06:53 Down: 12MB/s / Disk: 15.98MB/s
+(23:31:19) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 66.35%/1511.19MB/00:06:51 Down: 12.03MB/s / Disk: 15.99MB/s
+(23:31:20) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 66.43%/1523.10MB/00:06:51 Down: 11.89MB/s / Disk: 9.99MB/s
+(23:31:21) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 66.52%/1535.95MB/00:06:48 Down: 12.82MB/s / Disk: 19.97MB/s
+(23:31:22) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 66.6%/1547.54MB/00:06:46 Down: 11.57MB/s / Disk: 16.97MB/s
+(23:31:23) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 66.7%/1561.70MB/00:06:44 Down: 14.14MB/s / Disk: 16.98MB/s
+(23:31:24) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 66.8%/1575.82MB/00:06:42 Down: 14.11MB/s / Disk: 16.99MB/s
+(23:31:25) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 66.9%/1588.96MB/00:06:40 Down: 13.13MB/s / Disk: 15.98MB/s
+(23:31:26) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 66.98%/1601.13MB/00:06:40 Down: 12.17MB/s / Disk: 10MB/s
+(23:31:28) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 67.07%/1613.90MB/00:06:37 Down: 12.76MB/s / Disk: 20.97MB/s
+(23:31:29) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 67.16%/1626.44MB/00:06:35 Down: 12.54MB/s / Disk: 16.99MB/s
+(23:31:30) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 67.24%/1638.07MB/00:06:33 Down: 11.61MB/s / Disk: 15.98MB/s
+(23:31:31) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 67.32%/1649.44MB/00:06:32 Down: 11.36MB/s / Disk: 10.98MB/s
+(23:31:32) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 67.34%/1651.44MB/00:06:34 Down: 2MB/s / Disk: 3MB/s
+(23:31:33) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 67.46%/1668.42MB/00:06:32 Down: 16.96MB/s / Disk: 17.98MB/s
+(23:31:34) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 67.56%/1683.41MB/00:06:32 Down: 14.97MB/s / Disk: 8.99MB/s
+(23:31:35) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 67.65%/1695.41MB/00:06:30 Down: 11.99MB/s / Disk: 16.99MB/s
+(23:31:36) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 67.7%/1702.40MB/00:06:31 Down: 6.99MB/s / Disk: 6.99MB/s
+(23:31:37) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 67.79%/1716.38MB/00:06:30 Down: 13.96MB/s / Disk: 14.98MB/s
+(23:31:38) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 67.91%/1732.35MB/00:06:28 Down: 15.96MB/s / Disk: 15.99MB/s
+(23:31:39) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 67.99%/1744.31MB/00:06:30 Down: 11.94MB/s / Disk: 1MB/s
+(23:31:40) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 68.03%/1749.31MB/00:06:29 Down: 4.99MB/s / Disk: 14.98MB/s
+(23:31:41) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 68.15%/1766.28MB/00:06:27 Down: 16.96MB/s / Disk: 16.98MB/s
+(23:31:42) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 68.24%/1779.27MB/00:06:26 Down: 12.97MB/s / Disk: 11.98MB/s
+(23:31:43) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 68.34%/1794.25MB/00:06:24 Down: 14.97MB/s / Disk: 16.98MB/s
+(23:31:44) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 68.36%/1796.25MB/00:06:27 Down: 2MB/s / Disk: 1MB/s
+(23:31:45) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 68.46%/1811.21MB/00:06:25 Down: 14.93MB/s / Disk: 14.98MB/s
+(23:31:46) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 68.57%/1826.17MB/00:06:27 Down: 14.94MB/s / Disk: 3MB/s
+(23:31:47) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 68.67%/1841.14MB/00:06:25 Down: 14.96MB/s / Disk: 14.98MB/s
+(23:31:48) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 68.79%/1857.07MB/00:06:20 Down: 15.91MB/s / Disk: 28.96MB/s
+(23:31:49) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 68.79%/1858.07MB/00:06:23 Down: 1MB/s / Disk: 1MB/s
+(23:31:50) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 68.91%/1874.04MB/00:06:21 Down: 15.95MB/s / Disk: 15.98MB/s
+(23:31:51) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 69.02%/1889.98MB/00:06:19 Down: 15.93MB/s / Disk: 15.99MB/s
+(23:31:52) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 69.12%/1904.81MB/00:06:18 Down: 14.82MB/s / Disk: 14.98MB/s
+(23:31:53) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 69.14%/1907.81MB/00:06:19 Down: 2.99MB/s / Disk: 3MB/s
+(23:31:54) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 69.25%/1922.78MB/00:06:19 Down: 14.96MB/s / Disk: 11.99MB/s
+(23:31:55) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 69.35%/1936.69MB/00:06:18 Down: 13.89MB/s / Disk: 10.98MB/s
+(23:31:56) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 69.43%/1948.58MB/00:06:17 Down: 11.88MB/s / Disk: 15.98MB/s
+(23:31:57) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 69.53%/1962.55MB/00:06:15 Down: 13.96MB/s / Disk: 14.99MB/s
+(23:31:58) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 69.64%/1977.54MB/00:06:14 Down: 14.97MB/s / Disk: 15.98MB/s
+(23:31:59) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 69.66%/1981.54MB/00:06:15 Down: 3.99MB/s / Disk: 3MB/s
+(23:32:00) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 69.76%/1995.52MB/00:06:14 Down: 13.98MB/s / Disk: 13.99MB/s
+(23:32:01) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 69.88%/2012.51MB/00:06:12 Down: 16.97MB/s / Disk: 17.98MB/s
+(23:32:02) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 69.95%/2022.50MB/00:06:12 Down: 9.98MB/s / Disk: 6MB/s
+(23:32:03) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 70.05%/2036.49MB/00:06:11 Down: 13.97MB/s / Disk: 16.98MB/s
+(23:32:04) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 70.16%/2052.48MB/00:06:09 Down: 15.96MB/s / Disk: 16.98MB/s
+(23:32:05) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 70.19%/2056.48MB/00:06:11 Down: 3.99MB/s / Disk: 1MB/s
+(23:32:06) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 70.31%/2072.45MB/00:06:08 Down: 15.96MB/s / Disk: 18.99MB/s
+(23:32:07) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 70.42%/2088.45MB/00:06:07 Down: 15.97MB/s / Disk: 15.98MB/s
+(23:32:08) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 70.47%/2095.44MB/00:06:08 Down: 6.99MB/s / Disk: 1MB/s
+(23:32:09) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 70.54%/2105.43MB/00:06:07 Down: 9.98MB/s / Disk: 15.99MB/s
+(23:32:10) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 70.65%/2121.42MB/00:06:05 Down: 15.98MB/s / Disk: 15.98MB/s
+(23:32:11) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 70.76%/2136.40MB/00:06:04 Down: 14.96MB/s / Disk: 13.98MB/s
+(23:32:12) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 70.85%/2149.39MB/00:06:03 Down: 12.98MB/s / Disk: 13.99MB/s
+(23:32:13) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 70.88%/2154.38MB/00:06:04 Down: 4.99MB/s / Disk: 3.99MB/s
+(23:32:14) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 70.99%/2169.38MB/00:06:02 Down: 14.98MB/s / Disk: 15.98MB/s
+(23:32:15) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 71.09%/2184.36MB/00:06:01 Down: 14.97MB/s / Disk: 12.99MB/s
+(23:32:16) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 71.19%/2197.35MB/00:06:00 Down: 12.97MB/s / Disk: 14.98MB/s
+(23:32:17) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 71.29%/2212.34MB/00:05:58 Down: 14.97MB/s / Disk: 14.98MB/s
+(23:32:18) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 71.32%/2216.33MB/00:06:00 Down: 3.98MB/s / Disk: 1MB/s
+(23:32:19) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 71.42%/2230.32MB/00:05:58 Down: 13.97MB/s / Disk: 16.98MB/s
+(23:32:20) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 71.53%/2246.31MB/00:05:57 Down: 15.98MB/s / Disk: 15.99MB/s
+(23:32:21) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 71.64%/2262.30MB/00:05:55 Down: 15.96MB/s / Disk: 15.98MB/s
+(23:32:22) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 71.66%/2264.30MB/00:05:57 Down: 2MB/s / Disk: 0MB/s
+(23:32:23) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 71.77%/2280.28MB/00:05:55 Down: 15.98MB/s / Disk: 16.99MB/s
+(23:32:24) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 71.84%/2290.28MB/00:05:56 Down: 9.98MB/s / Disk: 4.99MB/s
+(23:32:25) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 71.94%/2304.27MB/00:05:53 Down: 13.97MB/s / Disk: 19.97MB/s
+(23:32:26) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 72.03%/2317.03MB/00:05:53 Down: 12.76MB/s / Disk: 8.99MB/s
+(23:32:27) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 72.13%/2331.02MB/00:05:52 Down: 13.98MB/s / Disk: 14.99MB/s
+(23:32:28) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 72.21%/2342.01MB/00:05:51 Down: 10.98MB/s / Disk: 13.98MB/s
+(23:32:29) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 72.31%/2356.78MB/00:05:50 Down: 14.76MB/s / Disk: 13.99MB/s
+(23:32:30) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 72.4%/2369.68MB/00:05:48 Down: 12.89MB/s / Disk: 15.99MB/s
+(23:32:31) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 72.51%/2384.51MB/00:05:47 Down: 14.81MB/s / Disk: 12.98MB/s
+(23:32:32) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 72.6%/2398.51MB/00:05:47 Down: 13.98MB/s / Disk: 9.99MB/s
+(23:32:33) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 72.63%/2402.51MB/00:05:47 Down: 3.99MB/s / Disk: 8.99MB/s
+(23:32:34) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 72.72%/2415.49MB/00:05:45 Down: 12.96MB/s / Disk: 13.98MB/s
+(23:32:35) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 72.83%/2430.48MB/00:05:44 Down: 14.97MB/s / Disk: 14.98MB/s
+(23:32:36) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 72.95%/2447.46MB/00:05:42 Down: 16.96MB/s / Disk: 15.98MB/s
+(23:32:37) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 73.01%/2455.46MB/00:05:43 Down: 7.99MB/s / Disk: 5.99MB/s
+(23:32:38) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 73.08%/2466.45MB/00:05:42 Down: 10.97MB/s / Disk: 12.98MB/s
+(23:32:39) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 73.2%/2482.43MB/00:05:40 Down: 15.95MB/s / Disk: 16.97MB/s
+(23:32:40) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 73.3%/2497.42MB/00:05:40 Down: 14.97MB/s / Disk: 8.99MB/s
+(23:32:41) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 73.33%/2501.41MB/00:05:40 Down: 3.99MB/s / Disk: 9.98MB/s
+(23:32:42) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 73.44%/2517.40MB/00:05:38 Down: 15.98MB/s / Disk: 15.99MB/s
+(23:32:43) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 73.54%/2531.38MB/00:05:38 Down: 13.96MB/s / Disk: 9.99MB/s
+(23:32:44) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 73.65%/2547.38MB/00:05:36 Down: 15.98MB/s / Disk: 16.98MB/s
+(23:32:45) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 73.7%/2553.37MB/00:05:37 Down: 5.99MB/s / Disk: 4MB/s
+(23:32:46) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 73.8%/2567.35MB/00:05:35 Down: 13.96MB/s / Disk: 15.98MB/s
+(23:32:47) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 73.91%/2583.34MB/00:05:33 Down: 15.96MB/s / Disk: 18.97MB/s
+(23:32:48) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 73.99%/2595.33MB/00:05:33 Down: 11.98MB/s / Disk: 5MB/s
+(23:32:49) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 74.03%/2601.32MB/00:05:32 Down: 5.98MB/s / Disk: 12.98MB/s
+(23:32:50) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 74.14%/2616.31MB/00:05:32 Down: 14.97MB/s / Disk: 10.99MB/s
+(23:32:51) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 74.25%/2631.29MB/00:05:30 Down: 14.97MB/s / Disk: 16.99MB/s
+(23:32:52) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 74.35%/2646.28MB/00:05:28 Down: 14.97MB/s / Disk: 16.98MB/s
+(23:32:53) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 74.43%/2657.28MB/00:05:28 Down: 10.98MB/s / Disk: 10.99MB/s
+(23:32:54) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 74.48%/2664.28MB/00:05:28 Down: 6.99MB/s / Disk: 4.99MB/s
+(23:32:55) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 74.59%/2680.27MB/00:05:26 Down: 15.97MB/s / Disk: 17.98MB/s
+(23:32:56) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 74.7%/2695.27MB/00:05:26 Down: 14.98MB/s / Disk: 10.99MB/s
+(23:32:57) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 74.78%/2707.26MB/00:05:25 Down: 11.97MB/s / Disk: 13.98MB/s
+(23:32:58) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 74.81%/2711.26MB/00:05:26 Down: 3.99MB/s / Disk: 2MB/s
+(23:32:59) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 74.91%/2725.23MB/00:05:24 Down: 13.97MB/s / Disk: 15.99MB/s
+(23:33:00) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 75.03%/2742.23MB/00:05:22 Down: 16.98MB/s / Disk: 18.98MB/s
+(23:33:01) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 75.13%/2757.21MB/00:05:21 Down: 14.95MB/s / Disk: 13.98MB/s
+(23:33:02) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 75.23%/2771.18MB/00:05:22 Down: 13.94MB/s / Disk: 0MB/s
+(23:33:03) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 75.25%/2774.17MB/00:05:20 Down: 2.99MB/s / Disk: 17.97MB/s
+(23:33:04) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 75.36%/2788.87MB/00:05:19 Down: 14.69MB/s / Disk: 14.99MB/s
+(23:33:05) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 75.47%/2804.85MB/00:05:17 Down: 15.96MB/s / Disk: 15.98MB/s
+(23:33:06) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 75.58%/2819.83MB/00:05:17 Down: 14.96MB/s / Disk: 6.99MB/s
+(23:33:07) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 75.62%/2826.76MB/00:05:17 Down: 6.93MB/s / Disk: 9MB/s
+(23:33:08) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 75.7%/2837.74MB/00:05:15 Down: 10.96MB/s / Disk: 15.98MB/s
+(23:33:09) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 75.79%/2850.73MB/00:05:16 Down: 12.99MB/s / Disk: 5MB/s
+(23:33:10) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 75.89%/2863.72MB/00:05:13 Down: 12.97MB/s / Disk: 21.97MB/s
+(23:33:11) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 76%/2879.71MB/00:05:12 Down: 15.97MB/s / Disk: 15.98MB/s
+(23:33:12) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 76.1%/2894.70MB/00:05:10 Down: 14.97MB/s / Disk: 14.99MB/s
+(23:33:13) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 76.13%/2897.70MB/00:05:12 Down: 3MB/s / Disk: 1MB/s
+(23:33:14) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 76.23%/2912.69MB/00:05:10 Down: 14.98MB/s / Disk: 16.98MB/s
+(23:33:15) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 76.34%/2927.68MB/00:05:08 Down: 14.96MB/s / Disk: 14.98MB/s
+(23:33:16) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 76.43%/2940.66MB/00:05:07 Down: 12.97MB/s / Disk: 12.98MB/s
+(23:33:17) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 76.53%/2954.66MB/00:05:07 Down: 13.98MB/s / Disk: 9.99MB/s
+(23:33:18) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 76.55%/2958.66MB/00:05:07 Down: 3.99MB/s / Disk: 6.99MB/s
+(23:33:19) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 76.66%/2973.65MB/00:05:06 Down: 14.97MB/s / Disk: 15.98MB/s
+(23:33:20) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 76.77%/2989.63MB/00:05:04 Down: 15.95MB/s / Disk: 15.98MB/s
+(23:33:21) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 76.89%/3005.55MB/00:05:03 Down: 15.9MB/s / Disk: 14.98MB/s
+(23:33:22) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 76.93%/3011.54MB/00:05:03 Down: 5.98MB/s / Disk: 3MB/s
+(23:33:23) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 77.01%/3023.51MB/00:05:03 Down: 11.96MB/s / Disk: 11.98MB/s
+(23:33:24) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 77.12%/3039.48MB/00:05:00 Down: 15.94MB/s / Disk: 19.97MB/s
+(23:33:25) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 77.23%/3054.46MB/00:04:59 Down: 14.96MB/s / Disk: 14.98MB/s
+(23:33:26) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 77.32%/3067.45MB/00:04:59 Down: 12.97MB/s / Disk: 4.99MB/s
+(23:33:27) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 77.35%/3071.45MB/00:04:59 Down: 3.99MB/s / Disk: 11.98MB/s
+(23:33:28) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 77.46%/3087.44MB/00:04:57 Down: 15.97MB/s / Disk: 15.98MB/s
+(23:33:29) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 77.58%/3103.41MB/00:04:56 Down: 15.95MB/s / Disk: 11.98MB/s
+(23:33:30) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 77.66%/3115.40MB/00:04:55 Down: 11.97MB/s / Disk: 14.99MB/s
+(23:33:31) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 77.7%/3120.39MB/00:04:55 Down: 4.99MB/s / Disk: 4.99MB/s
+(23:33:32) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 77.8%/3135.39MB/00:04:54 Down: 14.97MB/s / Disk: 15.98MB/s
+(23:33:33) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 77.9%/3149.32MB/00:04:53 Down: 13.92MB/s / Disk: 12.99MB/s
+(23:33:34) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 78%/3163.30MB/00:04:53 Down: 13.96MB/s / Disk: 6.99MB/s
+(23:33:35) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 78.05%/3171.27MB/00:04:52 Down: 7.96MB/s / Disk: 12.98MB/s
+(23:33:36) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 78.15%/3185.26MB/00:04:50 Down: 13.98MB/s / Disk: 15.99MB/s
+(23:33:37) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 78.27%/3201.25MB/00:04:48 Down: 15.97MB/s / Disk: 16.98MB/s
+(23:33:38) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 78.3%/3206.24MB/00:04:49 Down: 4.99MB/s / Disk: 3MB/s
+(23:33:39) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 78.39%/3218.20MB/00:04:49 Down: 11.94MB/s / Disk: 8.99MB/s
+(23:33:40) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 78.51%/3235.18MB/00:04:46 Down: 16.97MB/s / Disk: 21.97MB/s
+(23:33:41) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 78.6%/3248.15MB/00:04:46 Down: 12.95MB/s / Disk: 7.99MB/s
+(23:33:42) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 78.66%/3257.14MB/00:04:45 Down: 8.98MB/s / Disk: 11.99MB/s
+(23:33:43) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 78.76%/3271.12MB/00:04:44 Down: 13.96MB/s / Disk: 15.98MB/s
+(23:33:44) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 78.86%/3286.09MB/00:04:43 Down: 14.95MB/s / Disk: 13.98MB/s
+(23:33:45) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 78.88%/3288.09MB/00:04:43 Down: 1.99MB/s / Disk: 3MB/s
+(23:33:46) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 78.99%/3303.50MB/00:04:42 Down: 15.39MB/s / Disk: 15.98MB/s
+(23:33:47) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 79.1%/3319.50MB/00:04:40 Down: 15.98MB/s / Disk: 15.98MB/s
+(23:33:48) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 79.19%/3332.49MB/00:04:41 Down: 12.98MB/s / Disk: 3.99MB/s
+(23:33:49) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 79.22%/3336.49MB/00:04:40 Down: 4MB/s / Disk: 12.98MB/s
+(23:33:50) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 79.33%/3352.47MB/00:04:38 Down: 15.95MB/s / Disk: 15.97MB/s
+(23:33:51) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 79.46%/3370.44MB/00:04:37 Down: 17.95MB/s / Disk: 15.98MB/s
+(23:33:52) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 79.47%/3372.44MB/00:04:37 Down: 1.99MB/s / Disk: 3.99MB/s
+(23:33:53) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 79.56%/3385.33MB/00:04:37 Down: 12.87MB/s / Disk: 3.99MB/s
+(23:33:54) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 79.69%/3403.08MB/00:04:35 Down: 17.73MB/s / Disk: 23.97MB/s
+(23:33:55) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 79.77%/3414.07MB/00:04:34 Down: 10.97MB/s / Disk: 11.98MB/s
+(23:33:56) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 79.82%/3422.08MB/00:04:33 Down: 7.99MB/s / Disk: 9.99MB/s
+(23:33:57) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 79.93%/3437.08MB/00:04:32 Down: 14.97MB/s / Disk: 14.97MB/s
+(23:33:58) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 79.99%/3446.06MB/00:04:32 Down: 8.97MB/s / Disk: 3.99MB/s
+(23:33:59) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 80.1%/3461.05MB/00:04:30 Down: 14.98MB/s / Disk: 19.99MB/s
+(23:34:00) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 80.2%/3476.04MB/00:04:30 Down: 14.97MB/s / Disk: 4MB/s
+(23:34:01) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 80.29%/3488.04MB/00:04:28 Down: 11.98MB/s / Disk: 20.97MB/s
+(23:34:02) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 80.38%/3501.00MB/00:04:28 Down: 12.95MB/s / Disk: 5MB/s
+(23:34:03) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 80.47%/3513.99MB/00:04:27 Down: 12.97MB/s / Disk: 16.98MB/s
+(23:34:04) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 80.55%/3524.98MB/00:04:26 Down: 10.98MB/s / Disk: 11.99MB/s
+(23:34:05) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 80.59%/3530.98MB/00:04:25 Down: 5.99MB/s / Disk: 9.99MB/s
+(23:34:06) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 80.7%/3545.97MB/00:04:24 Down: 14.97MB/s / Disk: 15.98MB/s
+(23:34:07) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 80.8%/3560.94MB/00:04:23 Down: 14.96MB/s / Disk: 11.99MB/s
+(23:34:08) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 80.91%/3575.92MB/00:04:21 Down: 14.96MB/s / Disk: 17.98MB/s
+(23:34:09) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 80.93%/3578.91MB/00:04:22 Down: 2.99MB/s / Disk: 1MB/s
+(23:34:10) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 81.02%/3591.89MB/00:04:21 Down: 12.95MB/s / Disk: 14.98MB/s
+(23:34:11) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 81.14%/3608.85MB/00:04:19 Down: 16.96MB/s / Disk: 16.99MB/s
+(23:34:12) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 81.25%/3623.84MB/00:04:19 Down: 14.97MB/s / Disk: 7.99MB/s
+(23:34:13) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 81.27%/3626.84MB/00:04:18 Down: 2.99MB/s / Disk: 9.99MB/s
+(23:34:14) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 81.38%/3642.82MB/00:04:17 Down: 15.98MB/s / Disk: 15.99MB/s
+(23:34:15) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 81.49%/3657.81MB/00:04:17 Down: 14.97MB/s / Disk: 6.99MB/s
+(23:34:16) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 81.59%/3672.79MB/00:04:14 Down: 14.96MB/s / Disk: 21.97MB/s
+(23:34:17) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 81.6%/3673.79MB/00:04:15 Down: 1MB/s / Disk: 0MB/s
+(23:34:18) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 81.72%/3690.67MB/00:04:13 Down: 16.86MB/s / Disk: 17.98MB/s
+(23:34:19) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 81.82%/3705.26MB/00:04:11 Down: 14.57MB/s / Disk: 19.97MB/s
+(23:34:20) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 81.92%/3719.69MB/00:04:09 Down: 14.41MB/s / Disk: 18.98MB/s
+(23:34:21) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 82.01%/3731.87MB/00:04:08 Down: 12.17MB/s / Disk: 12.99MB/s
+(23:34:22) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 82.1%/3744.95MB/00:04:07 Down: 13.07MB/s / Disk: 16.98MB/s
+(23:34:23) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 82.19%/3757.73MB/00:04:06 Down: 12.76MB/s / Disk: 13.98MB/s
+(23:34:24) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 82.24%/3765.22MB/00:04:06 Down: 7.48MB/s / Disk: 4MB/s
+(23:34:25) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 82.31%/3774.70MB/00:04:04 Down: 9.48MB/s / Disk: 15.99MB/s
+(23:34:26) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 82.4%/3788.04MB/00:04:03 Down: 13.32MB/s / Disk: 16.98MB/s
+(23:34:27) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 82.5%/3801.74MB/00:04:01 Down: 13.69MB/s / Disk: 15.98MB/s
+(23:34:28) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 82.6%/3816.05MB/00:04:00 Down: 14.3MB/s / Disk: 16.98MB/s
+(23:34:29) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 82.7%/3829.80MB/00:03:58 Down: 13.73MB/s / Disk: 15.98MB/s
+(23:34:30) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 82.76%/3839.01MB/00:03:58 Down: 9.2MB/s / Disk: 5MB/s
+(23:34:31) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 82.82%/3846.47MB/00:03:57 Down: 7.46MB/s / Disk: 12.99MB/s
+(23:34:32) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 82.92%/3861.35MB/00:03:56 Down: 14.85MB/s / Disk: 17.98MB/s
+(23:34:33) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 83.03%/3876.40MB/00:03:54 Down: 15.04MB/s / Disk: 20.97MB/s
+(23:34:34) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 83.1%/3886.36MB/00:03:52 Down: 9.95MB/s / Disk: 16.99MB/s
+(23:34:35) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 83.2%/3901.22MB/00:03:51 Down: 14.84MB/s / Disk: 16.99MB/s
+(23:34:36) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 83.3%/3915.38MB/00:03:49 Down: 14.15MB/s / Disk: 17.99MB/s
+(23:34:37) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 83.4%/3928.99MB/00:03:49 Down: 13.6MB/s / Disk: 2MB/s
+(23:34:38) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 83.42%/3932.62MB/00:03:48 Down: 3.63MB/s / Disk: 14.99MB/s
+(23:34:39) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 83.52%/3946.48MB/00:03:46 Down: 13.84MB/s / Disk: 17.97MB/s
+(23:34:40) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 83.62%/3960.74MB/00:03:45 Down: 14.25MB/s / Disk: 15.98MB/s
+(23:34:41) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 83.73%/3976.13MB/00:03:44 Down: 15.37MB/s / Disk: 13.98MB/s
+(23:34:42) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 83.82%/3988.63MB/00:03:43 Down: 12.48MB/s / Disk: 8.99MB/s
+(23:34:43) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 83.91%/4001.19MB/00:03:41 Down: 12.55MB/s / Disk: 24.98MB/s
+(23:34:44) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 83.99%/4013.23MB/00:03:41 Down: 12.02MB/s / Disk: 2MB/s
+(23:34:45) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 84.09%/4026.68MB/00:03:39 Down: 13.43MB/s / Disk: 25.96MB/s
+(23:34:46) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 84.15%/4035.05MB/00:03:38 Down: 8.37MB/s / Disk: 7MB/s
+(23:34:47) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 84.24%/4047.97MB/00:03:37 Down: 12.9MB/s / Disk: 18.98MB/s
+(23:34:48) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 84.33%/4061.79MB/00:03:35 Down: 13.81MB/s / Disk: 16.98MB/s
+(23:34:49) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 84.42%/4073.56MB/00:03:35 Down: 11.76MB/s / Disk: 7MB/s
+(23:34:50) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 84.5%/4084.62MB/00:03:33 Down: 11.04MB/s / Disk: 19.97MB/s
+(23:34:51) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 84.56%/4093.84MB/00:03:33 Down: 9.21MB/s / Disk: 5.99MB/s
+(23:34:52) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 84.66%/4107.46MB/00:03:31 Down: 13.6MB/s / Disk: 20.96MB/s
+(23:34:53) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 84.74%/4119.25MB/00:03:30 Down: 11.77MB/s / Disk: 10.99MB/s
+(23:34:54) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 84.81%/4129.55MB/00:03:29 Down: 10.28MB/s / Disk: 9.99MB/s
+(23:34:55) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 84.9%/4142.33MB/00:03:28 Down: 12.77MB/s / Disk: 19.99MB/s
+(23:34:56) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 85%/4155.92MB/00:03:26 Down: 13.57MB/s / Disk: 15.98MB/s
+(23:34:57) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 85.1%/4169.99MB/00:03:25 Down: 14.06MB/s / Disk: 15.99MB/s
+(23:34:58) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 85.18%/4182.04MB/00:03:24 Down: 12.03MB/s / Disk: 9.99MB/s
+(23:34:59) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 85.27%/4194.15MB/00:03:23 Down: 12.09MB/s / Disk: 15.98MB/s
+(23:35:00) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 85.36%/4207.81MB/00:03:21 Down: 13.65MB/s / Disk: 17.97MB/s
+(23:35:01) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 85.41%/4214.43MB/00:03:21 Down: 6.61MB/s / Disk: 7.99MB/s
+(23:35:02) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 85.5%/4227.51MB/00:03:20 Down: 13.07MB/s / Disk: 14.99MB/s
+(23:35:03) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 85.6%/4240.92MB/00:03:18 Down: 13.41MB/s / Disk: 15.99MB/s
+(23:35:04) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 85.69%/4254.49MB/00:03:17 Down: 13.56MB/s / Disk: 15.99MB/s
+(23:35:05) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 85.78%/4266.95MB/00:03:16 Down: 12.45MB/s / Disk: 14.99MB/s
+(23:35:06) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 85.86%/4278.10MB/00:03:16 Down: 11.14MB/s / Disk: 4.99MB/s
+(23:35:07) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 85.91%/4284.98MB/00:03:14 Down: 6.88MB/s / Disk: 16.98MB/s
+(23:35:08) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 86%/4298.47MB/00:03:13 Down: 13.47MB/s / Disk: 15.98MB/s
+(23:35:09) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 86.09%/4311.27MB/00:03:12 Down: 12.78MB/s / Disk: 8.99MB/s
+(23:35:10) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 86.2%/4325.85MB/00:03:10 Down: 14.55MB/s / Disk: 22.96MB/s
+(23:35:11) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 86.3%/4340.45MB/00:03:09 Down: 14.58MB/s / Disk: 16.98MB/s
+(23:35:12) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 86.39%/4353.11MB/00:03:08 Down: 12.64MB/s / Disk: 13.98MB/s
+(23:35:13) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 86.45%/4362.44MB/00:03:07 Down: 9.32MB/s / Disk: 5.99MB/s
+(23:35:14) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 86.53%/4373.32MB/00:03:06 Down: 10.87MB/s / Disk: 17.99MB/s
+(23:35:15) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 86.63%/4387.49MB/00:03:05 Down: 14.16MB/s / Disk: 15.98MB/s
+(23:35:16) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 86.7%/4397.69MB/00:03:04 Down: 10.19MB/s / Disk: 7.99MB/s
+(23:35:17) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 86.77%/4407.27MB/00:03:03 Down: 9.57MB/s / Disk: 17.99MB/s
+(23:35:18) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 86.86%/4419.74MB/00:03:03 Down: 12.46MB/s / Disk: 1MB/s
+(23:35:19) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 86.95%/4433.13MB/00:03:00 Down: 13.38MB/s / Disk: 29.96MB/s
+(23:35:20) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 87.04%/4445.90MB/00:03:00 Down: 12.76MB/s / Disk: 8MB/s
+(23:35:21) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 87.13%/4458.55MB/00:02:57 Down: 12.63MB/s / Disk: 22.97MB/s
+(23:35:22) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 87.22%/4471.03MB/00:02:56 Down: 12.47MB/s / Disk: 12.98MB/s
+(23:35:23) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 87.31%/4483.65MB/00:02:57 Down: 12.6MB/s / Disk: 3MB/s
+(23:35:24) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 87.4%/4497.09MB/00:02:54 Down: 13.43MB/s / Disk: 30.98MB/s
+(23:35:25) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 87.49%/4509.30MB/00:02:52 Down: 12.21MB/s / Disk: 14.99MB/s
+(23:35:26) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 87.57%/4520.98MB/00:02:51 Down: 11.67MB/s / Disk: 14.98MB/s
+(23:35:27) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 87.66%/4532.72MB/00:02:50 Down: 11.72MB/s / Disk: 13.98MB/s
+(23:35:28) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 87.71%/4540.28MB/00:02:50 Down: 7.54MB/s / Disk: 7.99MB/s
+(23:35:29) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 87.8%/4552.71MB/00:02:48 Down: 12.42MB/s / Disk: 15.98MB/s
+(23:35:30) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 87.88%/4565.00MB/00:02:47 Down: 12.27MB/s / Disk: 14.99MB/s
+(23:35:31) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 87.98%/4578.25MB/00:02:46 Down: 13.23MB/s / Disk: 15.98MB/s
+(23:35:32) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 88.07%/4592.08MB/00:02:45 Down: 13.82MB/s / Disk: 15.98MB/s
+(23:35:33) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 88.17%/4605.70MB/00:02:43 Down: 13.61MB/s / Disk: 15.99MB/s
+(23:35:34) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 88.26%/4619.12MB/00:02:42 Down: 13.4MB/s / Disk: 15.98MB/s
+(23:35:35) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 88.36%/4632.55MB/00:02:41 Down: 13.4MB/s / Disk: 15.98MB/s
+(23:35:36) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 88.4%/4638.20MB/00:02:40 Down: 5.65MB/s / Disk: 7MB/s
+(23:35:37) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 88.5%/4652.74MB/00:02:39 Down: 14.52MB/s / Disk: 15.97MB/s
+(23:35:38) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 88.59%/4664.68MB/00:02:38 Down: 11.92MB/s / Disk: 10.98MB/s
+(23:35:39) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 88.63%/4670.59MB/00:02:38 Down: 5.9MB/s / Disk: 8.99MB/s
+(23:35:40) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 88.73%/4684.53MB/00:02:36 Down: 13.92MB/s / Disk: 16.98MB/s
+(23:35:41) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 88.82%/4698.16MB/00:02:35 Down: 13.6MB/s / Disk: 15.98MB/s
+(23:35:42) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 88.92%/4712.09MB/00:02:34 Down: 13.91MB/s / Disk: 15.98MB/s
+(23:35:43) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 89.02%/4726.29MB/00:02:32 Down: 14.19MB/s / Disk: 15.99MB/s
+(23:35:44) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 89.1%/4737.23MB/00:02:32 Down: 10.92MB/s / Disk: 3.99MB/s
+(23:35:45) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 89.18%/4749.29MB/00:02:31 Down: 12.05MB/s / Disk: 17.97MB/s
+(23:35:46) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 89.27%/4761.61MB/00:02:31 Down: 12.3MB/s / Disk: 4.99MB/s
+(23:35:47) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 89.37%/4775.44MB/00:02:31 Down: 13.81MB/s / Disk: 0MB/s
+(23:35:48) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 89.46%/4788.48MB/00:02:27 Down: 13.03MB/s / Disk: 43.95MB/s
+(23:35:49) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 89.52%/4796.99MB/00:02:27 Down: 8.5MB/s / Disk: 3.99MB/s
+(23:35:50) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 89.58%/4804.97MB/00:02:26 Down: 7.97MB/s / Disk: 15.98MB/s
+(23:35:51) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 89.68%/4819.31MB/00:02:24 Down: 14.32MB/s / Disk: 15.98MB/s
+(23:35:52) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 89.78%/4833.38MB/00:02:23 Down: 14.06MB/s / Disk: 15.98MB/s
+(23:35:53) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 89.87%/4847.16MB/00:02:22 Down: 13.77MB/s / Disk: 15.99MB/s
+(23:35:54) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 89.97%/4861.47MB/00:02:20 Down: 14.29MB/s / Disk: 16.98MB/s
+(23:35:55) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 90.07%/4875.08MB/00:02:19 Down: 13.6MB/s / Disk: 15.98MB/s
+(23:35:56) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 90.09%/4878.54MB/00:02:19 Down: 3.46MB/s / Disk: 3MB/s
+(23:35:57) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 90.18%/4890.71MB/00:02:18 Down: 12.15MB/s / Disk: 14.98MB/s
+(23:35:58) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 90.27%/4903.89MB/00:02:17 Down: 13.16MB/s / Disk: 15.97MB/s
+(23:35:59) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 90.38%/4918.40MB/00:02:15 Down: 14.49MB/s / Disk: 15.98MB/s
+(23:36:00) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 90.47%/4931.54MB/00:02:14 Down: 13.13MB/s / Disk: 17.99MB/s
+(23:36:01) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 90.57%/4945.93MB/00:02:13 Down: 14.37MB/s / Disk: 14.98MB/s
+(23:36:02) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 90.64%/4955.82MB/00:02:12 Down: 9.88MB/s / Disk: 5.99MB/s
+(23:36:03) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 90.7%/4963.93MB/00:02:11 Down: 8.1MB/s / Disk: 14.98MB/s
+(23:36:04) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 90.83%/4983.09MB/00:02:08 Down: 19.15MB/s / Disk: 28.98MB/s
+(23:36:05) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 90.87%/4988.26MB/00:02:07 Down: 5.17MB/s / Disk: 17.99MB/s
+(23:36:06) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 90.96%/5001.98MB/00:02:06 Down: 13.7MB/s / Disk: 15.98MB/s
+(23:36:07) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 91.08%/5017.92MB/00:02:04 Down: 15.93MB/s / Disk: 16.98MB/s
+(23:36:08) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 91.17%/5030.89MB/00:02:03 Down: 12.95MB/s / Disk: 14.98MB/s
+(23:36:09) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 91.2%/5035.69MB/00:02:03 Down: 4.79MB/s / Disk: 2MB/s
+(23:36:10) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 91.3%/5049.28MB/00:02:02 Down: 13.59MB/s / Disk: 16.99MB/s
+(23:36:11) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 91.41%/5064.85MB/00:02:01 Down: 15.55MB/s / Disk: 16.98MB/s
+(23:36:12) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 91.5%/5077.49MB/00:02:01 Down: 12.63MB/s / Disk: 3MB/s
+(23:36:13) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 91.58%/5088.69MB/00:01:59 Down: 11.19MB/s / Disk: 18.99MB/s
+(23:36:14) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 91.65%/5099.70MB/00:01:58 Down: 10.99MB/s / Disk: 12.98MB/s
+(23:36:15) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 91.75%/5113.94MB/00:01:56 Down: 14.22MB/s / Disk: 20.97MB/s
+(23:36:16) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 91.84%/5125.51MB/00:01:56 Down: 11.57MB/s / Disk: 9.99MB/s
+(23:36:17) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 91.87%/5130.11MB/00:01:55 Down: 4.59MB/s / Disk: 5.99MB/s
+(23:36:18) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 91.98%/5145.68MB/00:01:54 Down: 15.56MB/s / Disk: 15.99MB/s
+(23:36:19) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 92.12%/5165.67MB/00:01:53 Down: 19.96MB/s / Disk: 11.98MB/s
+(23:36:20) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 92.13%/5167.08MB/00:01:51 Down: 1.41MB/s / Disk: 23.78MB/s
+(23:36:21) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 92.24%/5183.01MB/00:01:48 Down: 15.9MB/s / Disk: 15.98MB/s
+(23:36:22) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 92.35%/5198.91MB/00:01:45 Down: 15.89MB/s / Disk: 15.98MB/s
+(23:36:23) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 92.45%/5211.86MB/00:01:44 Down: 12.93MB/s / Disk: 12.98MB/s
+(23:36:24) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 92.56%/5227.80MB/00:01:42 Down: 15.92MB/s / Disk: 15.98MB/s
+(23:36:25) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 92.56%/5227.80MB/00:01:42 Down: 0MB/s / Disk: 0MB/s
+(23:36:26) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 92.67%/5243.74MB/00:01:40 Down: 15.92MB/s / Disk: 15.98MB/s
+(23:36:27) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 92.76%/5256.70MB/00:01:39 Down: 12.94MB/s / Disk: 12.98MB/s
+(23:36:28) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 92.87%/5272.65MB/00:01:37 Down: 15.92MB/s / Disk: 15.98MB/s
+(23:36:29) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 92.99%/5288.57MB/00:01:36 Down: 15.9MB/s / Disk: 15.98MB/s
+(23:36:30) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 93.01%/5292.52MB/00:01:35 Down: 3.94MB/s / Disk: 4MB/s
+(23:36:31) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 93.13%/5308.38MB/00:01:34 Down: 15.84MB/s / Disk: 15.98MB/s
+(23:36:32) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 93.24%/5324.18MB/00:01:33 Down: 15.78MB/s / Disk: 8.04MB/s
+(23:36:33) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 93.24%/5324.18MB/00:01:32 Down: 0MB/s / Disk: 7.95MB/s
+(23:36:34) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 93.35%/5339.98MB/00:01:30 Down: 15.79MB/s / Disk: 15.99MB/s
+(23:36:35) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 93.47%/5357.27MB/00:01:29 Down: 17.28MB/s / Disk: 14.88MB/s
+(23:36:36) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 93.55%/5368.10MB/00:01:28 Down: 10.83MB/s / Disk: 5.1MB/s
+(23:36:37) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 93.64%/5380.98MB/00:01:26 Down: 12.87MB/s / Disk: 20.98MB/s
+(23:36:38) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 93.73%/5393.92MB/00:01:25 Down: 12.92MB/s / Disk: 9.99MB/s
+(23:36:39) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 93.78%/5400.84MB/00:01:24 Down: 6.91MB/s / Disk: 7.99MB/s
+(23:36:40) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 93.85%/5411.72MB/00:01:23 Down: 10.87MB/s / Disk: 12.98MB/s
+(23:36:41) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 93.97%/5427.66MB/00:01:21 Down: 15.91MB/s / Disk: 16.98MB/s
+(23:36:42) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 94.07%/5442.60MB/00:01:20 Down: 14.92MB/s / Disk: 13.98MB/s
+(23:36:43) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 94.14%/5451.57MB/00:01:19 Down: 8.96MB/s / Disk: 7.99MB/s
+(23:36:44) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 94.23%/5465.52MB/00:01:17 Down: 13.93MB/s / Disk: 15.98MB/s
+(23:36:45) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 94.35%/5481.46MB/00:01:16 Down: 15.93MB/s / Disk: 15.99MB/s
+(23:36:46) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 94.43%/5493.40MB/00:01:15 Down: 11.92MB/s / Disk: 6.99MB/s
+(23:36:47) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 94.48%/5500.35MB/00:01:14 Down: 6.95MB/s / Disk: 10.98MB/s
+(23:36:48) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 94.59%/5516.27MB/00:01:12 Down: 15.9MB/s / Disk: 16.99MB/s
+(23:36:49) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 94.7%/5531.17MB/00:01:11 Down: 14.88MB/s / Disk: 13.98MB/s
+(23:36:50) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 94.72%/5534.15MB/00:01:10 Down: 2.98MB/s / Disk: 2MB/s
+(23:36:51) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 94.83%/5550.05MB/00:01:09 Down: 15.89MB/s / Disk: 17.99MB/s
+(23:36:52) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 94.94%/5565.85MB/00:01:07 Down: 15.77MB/s / Disk: 15.98MB/s
+(23:36:53) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 95.05%/5580.59MB/00:01:06 Down: 14.73MB/s / Disk: 14.98MB/s
+(23:36:54) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 95.12%/5591.42MB/00:01:06 Down: 10.82MB/s / Disk: 1MB/s
+(23:36:55) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 95.16%/5597.33MB/00:01:04 Down: 5.9MB/s / Disk: 15.98MB/s
+(23:36:56) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 95.27%/5613.09MB/00:01:03 Down: 15.74MB/s / Disk: 15.98MB/s
+(23:36:57) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 95.38%/5628.01MB/00:01:01 Down: 14.91MB/s / Disk: 14.99MB/s
+(23:36:58) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 95.49%/5642.94MB/00:01:01 Down: 14.91MB/s / Disk: 4.99MB/s
+(23:36:59) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 95.49%/5643.93MB/00:01:00 Down: 1MB/s / Disk: 10.98MB/s
+(23:37:00) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 95.6%/5658.89MB/00:00:58 Down: 14.93MB/s / Disk: 14.98MB/s
+(23:37:01) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 95.72%/5676.30MB/00:00:57 Down: 17.39MB/s / Disk: 12.98MB/s
+(23:37:02) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 95.79%/5685.86MB/00:00:52 Down: 9.55MB/s / Disk: 33.15MB/s
+(23:37:03) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 95.9%/5701.12MB/00:00:51 Down: 15.25MB/s / Disk: 15.98MB/s
+(23:37:04) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 95.94%/5706.89MB/00:00:50 Down: 5.76MB/s / Disk: 4.99MB/s
+(23:37:05) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 96.03%/5720.31MB/00:00:49 Down: 13.42MB/s / Disk: 14.99MB/s
+(23:37:06) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 96.14%/5735.68MB/00:00:48 Down: 15.35MB/s / Disk: 15.98MB/s
+(23:37:07) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 96.23%/5748.99MB/00:00:47 Down: 13.29MB/s / Disk: 13.98MB/s
+(23:37:08) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 96.34%/5764.20MB/00:00:45 Down: 15.18MB/s / Disk: 14.98MB/s
+(23:37:09) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 96.37%/5767.84MB/00:00:45 Down: 3.64MB/s / Disk: 5.99MB/s
+(23:37:10) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 96.47%/5782.99MB/00:00:43 Down: 15.14MB/s / Disk: 15.99MB/s
+(23:37:11) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 96.58%/5797.48MB/00:00:43 Down: 14.47MB/s / Disk: 4.99MB/s
+(23:37:12) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 96.66%/5809.62MB/00:00:41 Down: 12.12MB/s / Disk: 17.97MB/s
+(23:37:13) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 96.77%/5824.64MB/00:00:40 Down: 15MB/s / Disk: 20.97MB/s
+(23:37:14) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 96.86%/5838.53MB/00:00:39 Down: 13.87MB/s / Disk: 4MB/s
+(23:37:15) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 96.88%/5840.31MB/00:00:38 Down: 1.78MB/s / Disk: 11.99MB/s
+(23:37:16) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 96.97%/5853.53MB/00:00:38 Down: 13.21MB/s / Disk: 6.99MB/s
+(23:37:17) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 97.07%/5868.08MB/00:00:35 Down: 14.52MB/s / Disk: 25.96MB/s
+(23:37:18) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 97.16%/5880.24MB/00:00:34 Down: 12.15MB/s / Disk: 12.99MB/s
+(23:37:19) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 97.26%/5895.25MB/00:00:33 Down: 14.99MB/s / Disk: 15.98MB/s
+(23:37:20) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 97.36%/5908.28MB/00:00:32 Down: 13.02MB/s / Disk: 12.99MB/s
+(23:37:21) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 97.45%/5921.42MB/00:00:31 Down: 13.13MB/s / Disk: 9.99MB/s
+(23:37:22) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 97.5%/5928.84MB/00:00:29 Down: 7.41MB/s / Disk: 14.41MB/s
+(23:37:23) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 97.6%/5943.47MB/00:00:28 Down: 14.61MB/s / Disk: 21.97MB/s
+(23:37:24) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 97.72%/5959.28MB/00:00:26 Down: 15.8MB/s / Disk: 17.99MB/s
+(23:37:25) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 97.79%/5970.21MB/00:00:26 Down: 10.92MB/s / Disk: 1MB/s
+(23:37:26) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 97.84%/5976.17MB/00:00:25 Down: 5.96MB/s / Disk: 14.99MB/s
+(23:37:27) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 97.95%/5992.06MB/00:00:24 Down: 15.88MB/s / Disk: 16.99MB/s
+(23:37:28) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 98.06%/6007.83MB/00:00:23 Down: 15.76MB/s / Disk: 14.99MB/s
+(23:37:29) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 98.08%/6010.82MB/00:00:23 Down: 2.98MB/s / Disk: 3MB/s
+(23:37:30) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 98.2%/6027.50MB/00:00:22 Down: 16.66MB/s / Disk: 16.98MB/s
+(23:37:31) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 98.32%/6044.34MB/00:00:20 Down: 16.82MB/s / Disk: 17.98MB/s
+(23:37:32) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 98.41%/6057.26MB/00:00:20 Down: 12.91MB/s / Disk: 8.99MB/s
+(23:37:33) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 98.44%/6061.23MB/00:00:19 Down: 3.96MB/s / Disk: 6.99MB/s
+(23:37:34) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 98.54%/6076.17MB/00:00:18 Down: 14.93MB/s / Disk: 15.99MB/s
+(23:37:35) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 98.65%/6091.01MB/00:00:17 Down: 14.82MB/s / Disk: 8.99MB/s
+(23:37:36) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 98.76%/6107.92MB/00:00:16 Down: 16.88MB/s / Disk: 22.97MB/s
+(23:37:37) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 98.79%/6111.90MB/00:00:15 Down: 3.98MB/s / Disk: 3MB/s
+(23:37:38) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 98.9%/6126.84MB/00:00:14 Down: 14.92MB/s / Disk: 14.98MB/s
+(23:37:39) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 99.02%/6144.58MB/00:00:14 Down: 17.72MB/s / Disk: 3MB/s
+(23:37:40) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 99.08%/6152.54MB/00:00:12 Down: 7.95MB/s / Disk: 21.97MB/s
+(23:37:41) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 99.18%/6167.19MB/00:00:11 Down: 14.63MB/s / Disk: 16.97MB/s
+(23:37:42) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 99.26%/6178.07MB/00:00:11 Down: 10.85MB/s / Disk: 5.99MB/s
+(23:37:43) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 99.3%/6184.05MB/00:00:10 Down: 5.97MB/s / Disk: 9.99MB/s
+(23:37:44) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 99.42%/6200.62MB/00:00:09 Down: 16.56MB/s / Disk: 17.99MB/s
+(23:37:45) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 99.53%/6216.38MB/00:00:08 Down: 15.74MB/s / Disk: 15.98MB/s
+(23:37:46) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 99.56%/6220.37MB/00:00:08 Down: 3.99MB/s / Disk: 1MB/s
+(23:37:47) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 99.67%/6236.33MB/00:00:06 Down: 15.93MB/s / Disk: 18.97MB/s
+(23:37:48) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 99.78%/6252.29MB/00:00:06 Down: 15.94MB/s / Disk: 8.99MB/s
+(23:37:49) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 99.88%/6266.70MB/00:00:04 Down: 14.39MB/s / Disk: 24.98MB/s
+(23:37:50) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 99.98%/6279.66MB/00:00:01 Down: 12.95MB/s / Disk: 26.9MB/s
+(23:37:51) INFO:    [Legendary]:        Progress for Fallout: New Vegas: 100%/6283.14MB/00:00:00 Down: 3.47MB/s / Disk: 6.42MB/s
+(23:37:52) INFO:    [Legendary]:        installed.json updated, refreshing library
+(23:37:52) INFO:    [Legendary]:        installed.json updated, refreshing library
+(23:37:52) INFO:    [Backend]:          Adding shortcuts for Fallout: New Vegas
+(23:37:52) INFO:    [DownloadManager]:  Finished Installation of 5daeb974a22a435988892319b3a4f476
+(23:37:52) INFO:    [DownloadManager]:  5daeb974a22a435988892319b3a4f476 added to download manager finished.
+(23:37:52) INFO:    [DownloadManager]:  5daeb974a22a435988892319b3a4f476 removed from download manager.
+(23:37:52) INFO:    [Frontend]:         Refreshing legendary Library
+(23:37:52) INFO:    [Legendary]:        Refreshing library...
+(23:37:52) INFO:    [Legendary]:        Refreshing Epic Games...
+(23:37:52) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/pc/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+(23:37:52) INFO:    [DownloadManager]:  Downloader: Finished downloading https://cdn1.epicgames.com/item/3428aaab2c674c98b3acb789dcfaa548/EGS_FalloutNewVegas_ObsidianEntertainment_S2_1200x1600-866fe8b8f56e2e7bb862c49bf0627b9a
+(23:37:52) DEBUG:   [Legendary]:        Using cached install info
+(23:37:52) INFO:    [Legendary]:        Installing c8dae1ab0570475a8b38a9041e614840: LEGENDARY_CONFIG_PATH=/home/pc/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary install c8dae1ab0570475a8b38a9041e614840 --platform Windows --base-path /home/hdd2 --skip-dlcs -y --skip-sdl
+(23:37:52) DEBUG:   [Legendary]:        Logging to file "/home/pc/.config/heroic/GamesConfig/c8dae1ab0570475a8b38a9041e614840.log"
+(23:37:53) ERROR:   [DownloadManager]:  Downloader: Failed to get headers for https://raw.githubusercontent.com/Heroic-Games-Launcher/known-fixes/main/epic/c8dae1ab0570475a8b38a9041e614840-epic.json. 
+Error: Error: Request failed with status code 404
+(23:37:55) INFO:    [Legendary]:        Game list updated, got 48 games & DLCs
+(23:37:56) INFO:    [Legendary]:        Progress for Fallout New Vegas®: Old World Blues: 0%/0.00MB/00:00:00 Down: 0MB/s / Disk: 0MB/s
+(23:37:57) INFO:    [Legendary]:        Progress for Fallout New Vegas®: Old World Blues: 0%/0.00MB/00:00:00 Down: 0MB/s / Disk: 0MB/s
+(23:37:58) INFO:    [Legendary]:        Progress for Fallout New Vegas®: Old World Blues: 1.53%/12.80MB/00:41:42 Down: 12.78MB/s / Disk: 2.1MB/s
+(23:37:59) INFO:    [Legendary]:        Progress for Fallout New Vegas®: Old World Blues: 3.03%/25.27MB/01:02:32 Down: 12.45MB/s / Disk: 0MB/s
+(23:38:00) INFO:    [Legendary]:        Progress for Fallout New Vegas®: Old World Blues: 4.51%/37.62MB/01:23:21 Down: 12.34MB/s / Disk: 0MB/s
+(23:38:01) INFO:    [Legendary]:        Progress for Fallout New Vegas®: Old World Blues: 5.97%/49.79MB/01:44:10 Down: 12.16MB/s / Disk: 0MB/s
+(23:38:02) INFO:    [Legendary]:        Progress for Fallout New Vegas®: Old World Blues: 7.32%/61.07MB/02:05:00 Down: 11.27MB/s / Disk: 0MB/s
+(23:38:03) INFO:    [Legendary]:        Progress for Fallout New Vegas®: Old World Blues: 8.7%/72.59MB/02:25:49 Down: 11.5MB/s / Disk: 0MB/s
+(23:38:04) INFO:    [Legendary]:        Progress for Fallout New Vegas®: Old World Blues: 10.12%/84.42MB/00:03:08 Down: 11.81MB/s / Disk: 149.85MB/s
+(23:38:05) INFO:    [Legendary]:        Progress for Fallout New Vegas®: Old World Blues: 11.25%/93.86MB/00:03:20 Down: 9.42MB/s / Disk: 7.99MB/s
+(23:38:06) INFO:    [Legendary]:        Progress for Fallout New Vegas®: Old World Blues: 13.09%/109.24MB/00:03:24 Down: 15.36MB/s / Disk: 13.98MB/s
+(23:38:07) INFO:    [Legendary]:        Progress for Fallout New Vegas®: Old World Blues: 14.45%/120.55MB/00:03:44 Down: 11.3MB/s / Disk: 0MB/s
+(23:38:08) INFO:    [Legendary]:        Progress for Fallout New Vegas®: Old World Blues: 15.76%/131.54MB/00:04:05 Down: 10.97MB/s / Disk: 0MB/s
+(23:38:09) INFO:    [Legendary]:        Progress for Fallout New Vegas®: Old World Blues: 17.18%/143.38MB/00:04:25 Down: 11.84MB/s / Disk: 0MB/s
+(23:38:10) INFO:    [Legendary]:        Progress for Fallout New Vegas®: Old World Blues: 18.67%/155.77MB/00:04:11 Down: 12.37MB/s / Disk: 22.97MB/s
+(23:38:11) INFO:    [Legendary]:        Progress for Fallout New Vegas®: Old World Blues: 20.16%/168.26MB/00:03:43 Down: 12.49MB/s / Disk: 37.97MB/s
+(23:38:12) INFO:    [Legendary]:        Progress for Fallout New Vegas®: Old World Blues: 21.52%/179.56MB/00:03:10 Down: 11.28MB/s / Disk: 54.93MB/s
+(23:38:13) INFO:    [Legendary]:        Progress for Fallout New Vegas®: Old World Blues: 22.73%/189.70MB/00:03:16 Down: 10.13MB/s / Disk: 7.99MB/s
+(23:38:14) INFO:    [Legendary]:        Progress for Fallout New Vegas®: Old World Blues: 24.19%/201.87MB/00:03:27 Down: 12.16MB/s / Disk: 0MB/s
+(23:38:15) INFO:    [Legendary]:        Progress for Fallout New Vegas®: Old World Blues: 25.75%/214.89MB/00:03:29 Down: 13.01MB/s / Disk: 12.99MB/s
+(23:38:16) INFO:    [Legendary]:        Progress for Fallout New Vegas®: Old World Blues: 26.94%/224.81MB/00:03:07 Down: 9.91MB/s / Disk: 48.93MB/s
+(23:38:17) INFO:    [Legendary]:        Progress for Fallout New Vegas®: Old World Blues: 28.15%/234.89MB/00:03:17 Down: 10.07MB/s / Disk: 0MB/s
+(23:38:18) INFO:    [Legendary]:        Progress for Fallout New Vegas®: Old World Blues: 29.38%/245.18MB/00:03:26 Down: 10.28MB/s / Disk: 0MB/s
+(23:38:19) INFO:    [Legendary]:        Progress for Fallout New Vegas®: Old World Blues: 30.83%/257.29MB/00:03:36 Down: 12.09MB/s / Disk: 0MB/s
+(23:38:20) INFO:    [Legendary]:        Progress for Fallout New Vegas®: Old World Blues: 32.38%/270.20MB/00:03:18 Down: 12.89MB/s / Disk: 43.94MB/s
+(23:38:21) INFO:    [Legendary]:        Progress for Fallout New Vegas®: Old World Blues: 33.64%/280.76MB/00:03:10 Down: 10.56MB/s / Disk: 30.98MB/s
+(23:38:22) INFO:    [Legendary]:        Progress for Fallout New Vegas®: Old World Blues: 34.87%/290.97MB/00:03:17 Down: 10.19MB/s / Disk: 0MB/s
+(23:38:23) INFO:    [Legendary]:        Progress for Fallout New Vegas®: Old World Blues: 36.15%/301.67MB/00:03:07 Down: 10.68MB/s / Disk: 36.95MB/s
+(23:38:24) INFO:    [Legendary]:        Progress for Fallout New Vegas®: Old World Blues: 38.19%/318.65MB/00:03:03 Down: 16.96MB/s / Disk: 23.98MB/s
+(23:38:25) INFO:    [Legendary]:        Progress for Fallout New Vegas®: Old World Blues: 39.35%/328.38MB/00:02:48 Down: 9.72MB/s / Disk: 52.93MB/s
+(23:38:26) INFO:    [Legendary]:        Progress for Fallout New Vegas®: Old World Blues: 40.6%/338.80MB/00:02:54 Down: 10.41MB/s / Disk: 0MB/s
+(23:38:27) INFO:    [Legendary]:        Progress for Fallout New Vegas®: Old World Blues: 41.82%/348.97MB/00:03:00 Down: 10.17MB/s / Disk: 0MB/s
+(23:38:28) INFO:    [Legendary]:        Progress for Fallout New Vegas®: Old World Blues: 43.33%/361.59MB/00:03:03 Down: 12.6MB/s / Disk: 6.99MB/s
+(23:38:29) INFO:    [Legendary]:        Progress for Fallout New Vegas®: Old World Blues: 44.48%/371.17MB/00:03:09 Down: 9.56MB/s / Disk: 0MB/s
+(23:38:30) INFO:    [Legendary]:        Progress for Fallout New Vegas®: Old World Blues: 46.29%/386.28MB/00:03:12 Down: 15.1MB/s / Disk: 6.99MB/s
+(23:38:31) INFO:    [Legendary]:        Progress for Fallout New Vegas®: Old World Blues: 47.74%/398.40MB/00:02:47 Down: 12.1MB/s / Disk: 82.89MB/s
+(23:38:32) INFO:    [Legendary]:        Progress for Fallout New Vegas®: Old World Blues: 49.3%/411.40MB/00:02:41 Down: 12.99MB/s / Disk: 34.96MB/s
+(23:38:33) INFO:    [Legendary]:        Progress for Fallout New Vegas®: Old World Blues: 50.83%/424.14MB/00:02:46 Down: 12.73MB/s / Disk: 0MB/s
+(23:38:34) INFO:    [Legendary]:        Progress for Fallout New Vegas®: Old World Blues: 52.02%/434.08MB/00:02:50 Down: 9.93MB/s / Disk: 0MB/s
+(23:38:35) INFO:    [Legendary]:        Progress for Fallout New Vegas®: Old World Blues: 53.65%/447.68MB/00:02:52 Down: 13.58MB/s / Disk: 8.99MB/s
+(23:38:36) INFO:    [Legendary]:        Progress for Fallout New Vegas®: Old World Blues: 54.84%/457.60MB/00:02:56 Down: 9.9MB/s / Disk: 0MB/s
+(23:38:37) INFO:    [Legendary]:        Progress for Fallout New Vegas®: Old World Blues: 56.67%/472.90MB/00:03:01 Down: 15.27MB/s / Disk: 0MB/s
+(23:38:38) INFO:    [Legendary]:        Progress for Fallout New Vegas®: Old World Blues: 57.99%/483.94MB/00:03:05 Down: 11.03MB/s / Disk: 0MB/s
+(23:38:39) INFO:    [Legendary]:        Progress for Fallout New Vegas®: Old World Blues: 59.61%/497.45MB/00:03:10 Down: 13.49MB/s / Disk: 0MB/s
+(23:38:40) INFO:    [Legendary]:        Progress for Fallout New Vegas®: Old World Blues: 61.04%/509.35MB/00:02:05 Down: 11.88MB/s / Disk: 268.97MB/s
+(23:38:41) INFO:    [Legendary]:        Progress for Fallout New Vegas®: Old World Blues: 62.43%/520.98MB/00:02:08 Down: 11.63MB/s / Disk: 0MB/s
+(23:38:42) INFO:    [Legendary]:        Progress for Fallout New Vegas®: Old World Blues: 63.99%/533.96MB/00:02:10 Down: 12.97MB/s / Disk: 6.99MB/s
+(23:38:43) INFO:    [Legendary]:        Progress for Fallout New Vegas®: Old World Blues: 65.28%/544.74MB/00:01:41 Down: 10.77MB/s / Disk: 207.3MB/s
+(23:38:44) INFO:    [Legendary]:        Progress for Fallout New Vegas®: Old World Blues: 67.24%/561.12MB/00:01:31 Down: 16.37MB/s / Disk: 98.5MB/s
+(23:38:45) INFO:    [Legendary]:        Progress for Fallout New Vegas®: Old World Blues: 68.49%/571.54MB/00:01:29 Down: 10.4MB/s / Disk: 31.46MB/s
+(23:38:46) INFO:    [Legendary]:        Progress for Fallout New Vegas®: Old World Blues: 69.89%/583.22MB/00:01:31 Down: 11.66MB/s / Disk: 0MB/s
+(23:38:47) INFO:    [Legendary]:        Progress for Fallout New Vegas®: Old World Blues: 71.32%/595.12MB/00:01:33 Down: 11.89MB/s / Disk: 0MB/s
+(23:38:48) INFO:    [Legendary]:        Progress for Fallout New Vegas®: Old World Blues: 72.95%/608.78MB/00:01:01 Down: 13.64MB/s / Disk: 380.73MB/s
+(23:38:49) INFO:    [Legendary]:        Progress for Fallout New Vegas®: Old World Blues: 74.14%/618.70MB/00:01:02 Down: 9.91MB/s / Disk: 0MB/s
+(23:38:50) INFO:    [Legendary]:        Progress for Fallout New Vegas®: Old World Blues: 75.7%/631.74MB/00:01:03 Down: 13.03MB/s / Disk: 0MB/s
+(23:38:51) INFO:    [Legendary]:        Progress for Fallout New Vegas®: Old World Blues: 77.5%/646.71MB/00:01:04 Down: 14.95MB/s / Disk: 0MB/s
+(23:38:52) INFO:    [Legendary]:        Progress for Fallout New Vegas®: Old World Blues: 78.99%/659.16MB/00:01:04 Down: 12.43MB/s / Disk: 16.98MB/s
+(23:38:53) INFO:    [Legendary]:        Progress for Fallout New Vegas®: Old World Blues: 80.3%/670.11MB/00:01:06 Down: 10.94MB/s / Disk: 0MB/s
+(23:38:54) INFO:    [Legendary]:        Progress for Fallout New Vegas®: Old World Blues: 81.98%/684.09MB/00:00:53 Down: 13.96MB/s / Disk: 207.48MB/s
+(23:38:55) INFO:    [Legendary]:        Progress for Fallout New Vegas®: Old World Blues: 83.29%/695.07MB/00:00:47 Down: 10.97MB/s / Disk: 116.8MB/s
+(23:38:56) INFO:    [Legendary]:        Progress for Fallout New Vegas®: Old World Blues: 84.72%/706.94MB/00:00:48 Down: 11.85MB/s / Disk: 0MB/s
+(23:38:57) INFO:    [Legendary]:        Progress for Fallout New Vegas®: Old World Blues: 86.25%/719.74MB/00:00:49 Down: 12.79MB/s / Disk: 0MB/s
+(23:38:58) INFO:    [Legendary]:        Progress for Fallout New Vegas®: Old World Blues: 87.84%/733.01MB/00:00:48 Down: 13.25MB/s / Disk: 31.05MB/s
+(23:38:59) INFO:    [Legendary]:        Progress for Fallout New Vegas®: Old World Blues: 89.33%/745.40MB/00:00:32 Down: 12.39MB/s / Disk: 349.67MB/s
+(23:39:00) INFO:    [Legendary]:        Progress for Fallout New Vegas®: Old World Blues: 90.97%/759.11MB/00:00:26 Down: 13.7MB/s / Disk: 172.08MB/s
+(23:39:01) INFO:    [Legendary]:        Progress for Fallout New Vegas®: Old World Blues: 92.38%/770.92MB/00:00:21 Down: 11.8MB/s / Disk: 169.48MB/s
+(23:39:02) INFO:    [Legendary]:        Progress for Fallout New Vegas®: Old World Blues: 93.84%/783.08MB/00:00:21 Down: 12.15MB/s / Disk: 0MB/s
+(23:39:03) INFO:    [Legendary]:        Progress for Fallout New Vegas®: Old World Blues: 95.27%/794.97MB/00:00:22 Down: 11.87MB/s / Disk: 0MB/s
+(23:39:04) INFO:    [Legendary]:        Progress for Fallout New Vegas®: Old World Blues: 96.73%/807.17MB/00:00:22 Down: 12.18MB/s / Disk: 0MB/s
+(23:39:05) INFO:    [Legendary]:        Progress for Fallout New Vegas®: Old World Blues: 98.24%/819.78MB/00:00:15 Down: 12.59MB/s / Disk: 235.78MB/s
+(23:39:06) INFO:    [Legendary]:        Progress for Fallout New Vegas®: Old World Blues: 99.14%/827.27MB/00:00:10 Down: 7.49MB/s / Disk: 174.72MB/s
+(23:39:07) INFO:    [Legendary]:        Progress for Fallout New Vegas®: Old World Blues: 99.36%/829.12MB/00:00:11 Down: 1.84MB/s / Disk: 0MB/s
+(23:39:08) INFO:    [Legendary]:        Progress for Fallout New Vegas®: Old World Blues: 99.58%/830.95MB/00:00:11 Down: 1.83MB/s / Disk: 3MB/s
+(23:39:09) INFO:    [Legendary]:        Progress for Fallout New Vegas®: Old World Blues: 99.88%/833.51MB/00:00:10 Down: 2.56MB/s / Disk: 31.13MB/s
+(23:39:10) INFO:    [Legendary]:        Progress for Fallout New Vegas®: Old World Blues: 99.88%/833.51MB/00:00:06 Down: 0MB/s / Disk: 176.17MB/s
+(23:39:11) INFO:    [Legendary]:        Progress for Fallout New Vegas®: Old World Blues: 99.88%/833.51MB/00:00:04 Down: 0MB/s / Disk: 94.43MB/s
+(23:39:12) INFO:    [Legendary]:        Progress for Fallout New Vegas®: Old World Blues: 100%/834.48MB/00:00:02 Down: 0.97MB/s / Disk: 85.68MB/s
+(23:39:13) INFO:    [Legendary]:        Progress for Fallout New Vegas®: Old World Blues: 100%/834.48MB/00:00:00 Down: 0MB/s / Disk: 81.99MB/s
+(23:39:14) INFO:    [Legendary]:        Progress for Fallout New Vegas®: Old World Blues: 100%/834.48MB/00:00:00 Down: 0MB/s / Disk: 16.69MB/s
+(23:39:15) INFO:    [Legendary]:        installed.json updated, refreshing library
+(23:39:15) INFO:    [Legendary]:        installed.json updated, refreshing library
+(23:39:15) INFO:    [DownloadManager]:  Finished Installation of c8dae1ab0570475a8b38a9041e614840
+(23:39:15) INFO:    [DownloadManager]:  c8dae1ab0570475a8b38a9041e614840 added to download manager finished.
+(23:39:15) INFO:    [DownloadManager]:  c8dae1ab0570475a8b38a9041e614840 removed from download manager.
+(23:39:15) INFO:    [Frontend]:         Refreshing legendary Library
+(23:39:15) INFO:    [Legendary]:        Refreshing library...
+(23:39:15) INFO:    [Legendary]:        Refreshing Epic Games...
+(23:39:15) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/pc/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+(23:39:18) INFO:    [Legendary]:        Game list updated, got 48 games & DLCs
+(10:32:26) INFO:    [ExtraGameInfo]:    Using cached ExtraGameInfo data for Fallout New Vegas
+(10:32:26) INFO:    [Legendary]:        Getting more details with 'legendary info'
+(10:32:26) INFO:    [ExtraGameInfo]:    Using cached ExtraGameInfo data for Fallout New Vegas
+(10:32:26) INFO:    [Legendary]:        Getting more details with 'legendary info'
+(10:32:26) INFO:    [Legendary]:        Getting more details with 'legendary info'
+(10:32:27) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/pc/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary info 5daeb974a22a435988892319b3a4f476 --json --platform Windows
+(10:32:27) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/pc/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary info 5daeb974a22a435988892319b3a4f476 --json --platform Windows
+(10:32:27) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/pc/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary info 5daeb974a22a435988892319b3a4f476 --json --platform Windows
+(10:32:27) INFO:    [Backend]:          Launching Fallout: New Vegas (5daeb974a22a435988892319b3a4f476)
+(10:32:27) INFO:    [Backend]:          Preventing display from sleep
+(10:32:27) INFO:    [Backend]:          Checking if wine version exists: Default Wine - Not Found
+(10:32:27) ERROR:   [Backend]:          Wine version Default Wine - Not Found is not valid, trying another one.
+(10:32:27) INFO:    [Backend]:          Checking if wine version exists: Default Wine - Not Found
+(10:32:27) INFO:    [Backend]:          Checking if wine version exists: Wine Default - wine-9.8 (Staging)
+(10:32:27) ERROR:   [Legendary]:        Error: Request failed with status code 403
+    at createError (/opt/Heroic/resources/app.asar/node_modules/axios/lib/core/createError.js:16:15)
+    at settle (/opt/Heroic/resources/app.asar/node_modules/axios/lib/core/settle.js:17:12)
+    at IncomingMessage.handleStreamEnd (/opt/Heroic/resources/app.asar/node_modules/axios/lib/adapters/http.js:322:11)
+    at IncomingMessage.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1408:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+(10:32:27) INFO:    [Legendary]:        Getting more details with 'legendary info'
+(10:32:27) INFO:    [Legendary]:        Getting more details with 'legendary info'
+(10:32:27) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/pc/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary info 5daeb974a22a435988892319b3a4f476 --json --platform Windows
+(10:32:27) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/pc/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary info 5daeb974a22a435988892319b3a4f476 --json --platform Windows
+(10:32:28) ERROR:   [Legendary]:        Error: Request failed with status code 403
+    at createError (/opt/Heroic/resources/app.asar/node_modules/axios/lib/core/createError.js:16:15)
+    at settle (/opt/Heroic/resources/app.asar/node_modules/axios/lib/core/settle.js:17:12)
+    at IncomingMessage.handleStreamEnd (/opt/Heroic/resources/app.asar/node_modules/axios/lib/adapters/http.js:322:11)
+    at IncomingMessage.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1408:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+(10:32:28) INFO:    [Legendary]:        Getting Info from Epic API
+(10:32:29) INFO:    [Legendary]:        Getting Info from Epic API
+(10:32:34) INFO:    [Backend]:          Changing wine version to Wine Default - wine-9.8 (Staging)
+(10:32:34) INFO:    [Backend]:          5daeb974a22a435988892319b3a4f476: Setting wineVersion to {"bin":"/usr/bin/wine","name":"Wine Default - wine-9.8 (Staging)","type":"wine","wineserver":"/usr/bin/wineserver"}
+(10:32:35) INFO:    [Backend]:          Checking if wine version exists: Wine Default - wine-9.8 (Staging)
+(10:32:35) INFO:    [Backend]:          Checking if wine version exists: Wine Default - wine-9.8 (Staging)
+(10:32:35) INFO:    [Backend]:          Checking if wine version exists: Wine Default - wine-9.8 (Staging)
+(10:32:35) ERROR:   [Backend]:          Couldn't find all library folders of Wine Default - wine-9.8 (Staging)!
+Missing undefined and/or undefined!
+Falling back to system libraries!
+(10:32:35) DEBUG:   [Backend]:          Running Wine command: wineboot --init
+(10:32:54) DEBUG:   [Legendary]:        Using cached install info
+(10:32:55) INFO:    [Backend]:          Created/Updated Wineprefix at /home/pc/Games/Heroic/Prefixes/default/Fallout New Vegas
+(10:32:55) INFO:    [Backend]:          Checking if wine version exists: Wine Default - wine-9.8 (Staging)
+(10:32:55) ERROR:   [Backend]:          Couldn't find all library folders of Wine Default - wine-9.8 (Staging)!
+Missing undefined and/or undefined!
+Falling back to system libraries!
+(10:32:55) DEBUG:   [Backend]:          Running Wine command: reg add HKEY_CLASSES_ROOT\com.epicgames.launcher /f
+(10:32:55) DEBUG:   [Legendary]:        Using cached install info
+(10:32:55) DEBUG:   [Legendary]:        Using cached install info
+(10:32:58) INFO:    [Backend]:          5daeb974a22a435988892319b3a4f476: Setting wineVersion to {"bin":"/home/pc/.config/heroic/tools/proton/Proton-GE-latest/proton","name":"Proton - Proton-GE-latest","type":"proton"}
+(10:33:00) DEBUG:   [Legendary]:        Using cached install info
+(10:33:00) INFO:    [Legendary]:        Launching Fallout: New Vegas: HEROIC_APP_NAME=5daeb974a22a435988892319b3a4f476 HEROIC_APP_RUNNER=legendary HEROIC_APP_SOURCE=epic STEAM_COMPAT_INSTALL_PATH=/home/hdd2/FalloutNewVegas LD_PRELOAD= DOTNET_BUNDLE_EXTRACT_BASE_DIR= DOTNET_ROOT= STEAM_COMPAT_CLIENT_INSTALL_PATH=/home/pc/.steam/steam STEAM_COMPAT_DATA_PATH="/home/pc/Games/Heroic/Prefixes/default/Fallout New Vegas" WINE_FULLSCREEN_FSR=0 PROTON_DISABLE_NVAPI=1 PROTON_EAC_RUNTIME=/home/pc/.config/heroic/tools/runtimes/eac_runtime PROTON_BATTLEYE_RUNTIME=/home/pc/.config/heroic/tools/runtimes/battleye_runtime STEAM_COMPAT_APP_ID=0 SteamAppId=0 SteamGameId=heroic-FalloutNewVegas PROTON_LOG_DIR=/home/pc LEGENDARY_CONFIG_PATH=/home/pc/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary launch 5daeb974a22a435988892319b3a4f476 --no-wine --wrapper " '/home/pc/.config/heroic/tools/proton/Proton-GE-latest/proton' waitforexitandrun" --language en
+(10:33:00) DEBUG:   [Legendary]:        Using cached install info
+(10:33:00) DEBUG:   [Legendary]:        Using cached install info
+(10:33:01) INFO:    [Backend]:          5daeb974a22a435988892319b3a4f476: Setting enableFSR to true
+(10:33:07) INFO:    [Backend]:          5daeb974a22a435988892319b3a4f476: Setting nvidiaPrime to true
+(10:33:08) INFO:    [Backend]:          5daeb974a22a435988892319b3a4f476: Setting showMangohud to true
+(10:33:10) INFO:    [Backend]:          5daeb974a22a435988892319b3a4f476: Setting useGameMode to true
+(10:33:11) DEBUG:   [Legendary]:        Using cached install info
+(10:33:19) INFO:    [Backend]:          Trying to kill 5daeb974a22a435988892319b3a4f476
+(10:33:19) INFO:    [Backend]:          Killed 5daeb974a22a435988892319b3a4f476
+(10:33:19) INFO:    [Backend]:          Checking if wine version exists: Proton - Proton-GE-latest
+(10:33:19) DEBUG:   [Backend]:          Running Wine command: waitforexitandrun wineboot -k
+(10:33:20) INFO:    [Backend]:          Stopping Display Power Saver Blocker
+(10:33:20) INFO:    [Frontend]:         Refreshing legendary Library
+(10:33:20) INFO:    [Legendary]:        Refreshing library...
+(10:33:20) INFO:    [Legendary]:        Refreshing Epic Games...
+(10:33:20) DEBUG:   [Legendary]:        Using cached install info
+(10:33:20) DEBUG:   [Legendary]:        Using cached install info
+(10:33:20) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/pc/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+(10:33:21) INFO:    [Backend]:          Launching Fallout: New Vegas (5daeb974a22a435988892319b3a4f476)
+(10:33:21) INFO:    [Backend]:          Checking if wine version exists: Proton - Proton-GE-latest
+(10:33:21) DEBUG:   [Legendary]:        Using cached install info
+(10:33:21) DEBUG:   [Legendary]:        Using cached install info
+(10:33:21) INFO:    [Backend]:          Checking if wine version exists: Proton - Proton-GE-latest
+(10:33:21) WARNING: [Backend]:          You are using Proton, this can lead to some bugs. Please do not open issues with bugs related to games
+(10:33:21) INFO:    [Backend]:          Checking if wine version exists: Proton - Proton-GE-latest
+(10:33:21) INFO:    [Backend]:          Checking if wine version exists: Proton - Proton-GE-latest
+(10:33:21) DEBUG:   [Backend]:          Running Wine command: run wineboot --init
+(10:33:22) INFO:    [Legendary]:        Launching Fallout: New Vegas: HEROIC_APP_NAME=5daeb974a22a435988892319b3a4f476 HEROIC_APP_RUNNER=legendary HEROIC_APP_SOURCE=epic DRI_PRIME=1 __NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRARY_NAME=nvidia STEAM_COMPAT_INSTALL_PATH=/home/hdd2/FalloutNewVegas LD_PRELOAD= DOTNET_BUNDLE_EXTRACT_BASE_DIR= DOTNET_ROOT= STEAM_COMPAT_CLIENT_INSTALL_PATH=/home/pc/.steam/steam STEAM_COMPAT_DATA_PATH="/home/pc/Games/Heroic/Prefixes/default/Fallout New Vegas" WINE_FULLSCREEN_FSR=1 WINE_FULLSCREEN_FSR_STRENGTH=2 PROTON_DISABLE_NVAPI=1 PROTON_EAC_RUNTIME=/home/pc/.config/heroic/tools/runtimes/eac_runtime PROTON_BATTLEYE_RUNTIME=/home/pc/.config/heroic/tools/runtimes/battleye_runtime STEAM_COMPAT_APP_ID=0 SteamAppId=0 SteamGameId=heroic-FalloutNewVegas PROTON_LOG_DIR=/home/pc LEGENDARY_CONFIG_PATH=/home/pc/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary launch 5daeb974a22a435988892319b3a4f476 --no-wine --wrapper "/usr/bin/mangohud --dlsym /usr/bin/gamemoderun '/home/pc/.config/heroic/tools/proton/Proton-GE-latest/proton' waitforexitandrun" --language en
+(10:33:22) DEBUG:   [Legendary]:        Using cached install info
+(10:33:22) DEBUG:   [Legendary]:        Using cached install info
+(10:33:23) INFO:    [Legendary]:        Game list updated, got 48 games & DLCs
+(10:33:23) DEBUG:   [Legendary]:        Using cached install info
+(10:33:23) DEBUG:   [Legendary]:        Using cached install info
+(10:34:18) INFO:    [Backend]:          Stopping Display Power Saver Blocker
+(10:34:18) INFO:    [Frontend]:         Refreshing legendary Library
+(10:34:18) INFO:    [Legendary]:        Refreshing library...
+(10:34:18) INFO:    [Legendary]:        Refreshing Epic Games...
+(10:34:18) DEBUG:   [Legendary]:        Using cached install info
+(10:34:18) DEBUG:   [Legendary]:        Using cached install info
+(10:34:18) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/pc/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+(10:34:21) INFO:    [Legendary]:        Game list updated, got 48 games & DLCs
+(10:34:21) DEBUG:   [Legendary]:        Using cached install info
+(10:34:21) DEBUG:   [Legendary]:        Using cached install info
+(10:34:22) INFO:    [Backend]:          Launching Fallout: New Vegas (5daeb974a22a435988892319b3a4f476)
+(10:34:22) INFO:    [Backend]:          Checking if wine version exists: Proton - Proton-GE-latest
+(10:34:22) DEBUG:   [Legendary]:        Using cached install info
+(10:34:22) DEBUG:   [Legendary]:        Using cached install info
+(10:34:22) INFO:    [Backend]:          Checking if wine version exists: Proton - Proton-GE-latest
+(10:34:22) WARNING: [Backend]:          You are using Proton, this can lead to some bugs. Please do not open issues with bugs related to games
+(10:34:22) INFO:    [Backend]:          Checking if wine version exists: Proton - Proton-GE-latest
+(10:34:22) INFO:    [Backend]:          Checking if wine version exists: Proton - Proton-GE-latest
+(10:34:22) DEBUG:   [Backend]:          Running Wine command: run wineboot --init
+(10:34:25) INFO:    [Legendary]:        Launching Fallout: New Vegas: HEROIC_APP_NAME=5daeb974a22a435988892319b3a4f476 HEROIC_APP_RUNNER=legendary HEROIC_APP_SOURCE=epic DRI_PRIME=1 __NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRARY_NAME=nvidia STEAM_COMPAT_INSTALL_PATH=/home/hdd2/FalloutNewVegas LD_PRELOAD= DOTNET_BUNDLE_EXTRACT_BASE_DIR= DOTNET_ROOT= STEAM_COMPAT_CLIENT_INSTALL_PATH=/home/pc/.steam/steam STEAM_COMPAT_DATA_PATH="/home/pc/Games/Heroic/Prefixes/default/Fallout New Vegas" WINE_FULLSCREEN_FSR=1 WINE_FULLSCREEN_FSR_STRENGTH=2 PROTON_DISABLE_NVAPI=1 PROTON_EAC_RUNTIME=/home/pc/.config/heroic/tools/runtimes/eac_runtime PROTON_BATTLEYE_RUNTIME=/home/pc/.config/heroic/tools/runtimes/battleye_runtime STEAM_COMPAT_APP_ID=0 SteamAppId=0 SteamGameId=heroic-FalloutNewVegas PROTON_LOG_DIR=/home/pc LEGENDARY_CONFIG_PATH=/home/pc/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary launch 5daeb974a22a435988892319b3a4f476 --no-wine --wrapper "/usr/bin/mangohud --dlsym /usr/bin/gamemoderun '/home/pc/.config/heroic/tools/proton/Proton-GE-latest/proton' waitforexitandrun" --language en
+(10:34:25) DEBUG:   [Legendary]:        Using cached install info
+(10:34:25) DEBUG:   [Legendary]:        Using cached install info
+(10:34:38) DEBUG:   [Legendary]:        Using cached install info
+(10:34:42) INFO:    [Backend]:          Stopping Display Power Saver Blocker
+(10:34:42) INFO:    [Frontend]:         Refreshing legendary Library
+(10:34:42) INFO:    [Legendary]:        Refreshing library...
+(10:34:42) INFO:    [Legendary]:        Refreshing Epic Games...
+(10:34:42) DEBUG:   [Legendary]:        Using cached install info
+(10:34:42) DEBUG:   [Legendary]:        Using cached install info
+(10:34:42) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/pc/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+(10:34:42) INFO:    [Backend]:          5daeb974a22a435988892319b3a4f476: Setting useSteamRuntime to true
+(10:34:44) DEBUG:   [Legendary]:        Using cached install info
+(10:34:45) INFO:    [Backend]:          Launching Fallout: New Vegas (5daeb974a22a435988892319b3a4f476)
+(10:34:45) INFO:    [Backend]:          Checking if wine version exists: Proton - Proton-GE-latest
+(10:34:45) DEBUG:   [Legendary]:        Using cached install info
+(10:34:45) DEBUG:   [Legendary]:        Using cached install info
+(10:34:45) INFO:    [Backend]:          Checking if wine version exists: Proton - Proton-GE-latest
+(10:34:45) WARNING: [Backend]:          You are using Proton, this can lead to some bugs. Please do not open issues with bugs related to games
+(10:34:45) INFO:    [Backend]:          Checking if wine version exists: Proton - Proton-GE-latest
+(10:34:45) INFO:    [Backend]:          Checking if wine version exists: Proton - Proton-GE-latest
+(10:34:45) DEBUG:   [Backend]:          Running Wine command: run wineboot --init
+(10:34:48) INFO:    [Legendary]:        Launching Fallout: New Vegas: HEROIC_APP_NAME=5daeb974a22a435988892319b3a4f476 HEROIC_APP_RUNNER=legendary HEROIC_APP_SOURCE=epic DRI_PRIME=1 __NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRARY_NAME=nvidia STEAM_COMPAT_INSTALL_PATH=/home/hdd2/FalloutNewVegas LD_PRELOAD= DOTNET_BUNDLE_EXTRACT_BASE_DIR= DOTNET_ROOT= STEAM_COMPAT_CLIENT_INSTALL_PATH=/home/pc/.steam/steam STEAM_COMPAT_DATA_PATH="/home/pc/Games/Heroic/Prefixes/default/Fallout New Vegas" WINE_FULLSCREEN_FSR=1 WINE_FULLSCREEN_FSR_STRENGTH=2 PROTON_DISABLE_NVAPI=1 PROTON_EAC_RUNTIME=/home/pc/.config/heroic/tools/runtimes/eac_runtime PROTON_BATTLEYE_RUNTIME=/home/pc/.config/heroic/tools/runtimes/battleye_runtime STEAM_COMPAT_APP_ID=0 SteamAppId=0 SteamGameId=heroic-FalloutNewVegas PROTON_LOG_DIR=/home/pc LEGENDARY_CONFIG_PATH=/home/pc/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary launch 5daeb974a22a435988892319b3a4f476 --no-wine --wrapper "/usr/bin/mangohud --dlsym /usr/bin/gamemoderun /home/pc/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper/_v2-entry-point -- '/home/pc/.config/heroic/tools/proton/Proton-GE-latest/proton' waitforexitandrun" --language en
+(10:34:48) DEBUG:   [Legendary]:        Using cached install info
+(10:34:48) DEBUG:   [Legendary]:        Using cached install info
+(10:34:48) INFO:    [Legendary]:        Game list updated, got 48 games & DLCs
+(10:34:48) DEBUG:   [Legendary]:        Using cached install info
+(10:34:48) DEBUG:   [Legendary]:        Using cached install info
+(10:35:06) INFO:    [Backend]:          Stopping Display Power Saver Blocker
+(10:35:06) INFO:    [Frontend]:         Refreshing legendary Library
+(10:35:06) INFO:    [Legendary]:        Refreshing library...
+(10:35:06) INFO:    [Legendary]:        Refreshing Epic Games...
+(10:35:06) DEBUG:   [Legendary]:        Using cached install info
+(10:35:06) DEBUG:   [Legendary]:        Using cached install info
+(10:35:06) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/pc/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+(10:35:08) DEBUG:   [Legendary]:        Using cached install info
+(10:35:09) INFO:    [Legendary]:        Game list updated, got 48 games & DLCs
+(10:35:09) DEBUG:   [Legendary]:        Using cached install info
+(10:35:09) DEBUG:   [Legendary]:        Using cached install info
+(10:35:10) INFO:    [Backend]:          5daeb974a22a435988892319b3a4f476: Setting wineVersion to {"bin":"/usr/bin/wine","name":"Wine Default - wine-9.8 (Staging)","type":"wine","wineserver":"/usr/bin/wineserver"}
+(10:35:14) DEBUG:   [Legendary]:        Using cached install info
+(10:35:15) INFO:    [Backend]:          Launching Fallout: New Vegas (5daeb974a22a435988892319b3a4f476)
+(10:35:15) INFO:    [Backend]:          Checking if wine version exists: Wine Default - wine-9.8 (Staging)
+(10:35:15) DEBUG:   [Legendary]:        Using cached install info
+(10:35:15) DEBUG:   [Legendary]:        Using cached install info
+(10:35:15) INFO:    [Backend]:          Checking if wine version exists: Wine Default - wine-9.8 (Staging)
+(10:35:15) INFO:    [Backend]:          Checking if wine version exists: Wine Default - wine-9.8 (Staging)
+(10:35:15) INFO:    [Backend]:          Checking if wine version exists: Wine Default - wine-9.8 (Staging)
+(10:35:15) ERROR:   [Backend]:          Couldn't find all library folders of Wine Default - wine-9.8 (Staging)!
+Missing undefined and/or undefined!
+Falling back to system libraries!
+(10:35:15) DEBUG:   [Backend]:          Running Wine command: wineboot --init
+(10:35:20) INFO:    [DXVKInstaller]:    installing dxvk on... /home/pc/Games/Heroic/Prefixes/default/Fallout New Vegas
+(10:35:20) INFO:    [Backend]:          Checking if wine version exists: Wine Default - wine-9.8 (Staging)
+(10:35:20) INFO:    [Backend]:          Checking if wine version exists: Wine Default - wine-9.8 (Staging)
+(10:35:20) INFO:    [Backend]:          Checking if wine version exists: Wine Default - wine-9.8 (Staging)
+(10:35:20) INFO:    [Backend]:          Checking if wine version exists: Wine Default - wine-9.8 (Staging)
+(10:35:20) INFO:    [Backend]:          Checking if wine version exists: Wine Default - wine-9.8 (Staging)
+(10:35:20) INFO:    [Backend]:          Checking if wine version exists: Wine Default - wine-9.8 (Staging)
+(10:35:20) INFO:    [Backend]:          Checking if wine version exists: Wine Default - wine-9.8 (Staging)
+(10:35:20) INFO:    [Backend]:          Checking if wine version exists: Wine Default - wine-9.8 (Staging)
+(10:35:20) INFO:    [Backend]:          Checking if wine version exists: Wine Default - wine-9.8 (Staging)
+(10:35:20) INFO:    [Backend]:          Checking if wine version exists: Wine Default - wine-9.8 (Staging)
+(10:35:20) ERROR:   [Backend]:          Couldn't find all library folders of Wine Default - wine-9.8 (Staging)!
+Missing undefined and/or undefined!
+Falling back to system libraries!
+(10:35:20) DEBUG:   [Backend]:          Running Wine command: reg add HKEY_CURRENT_USER\Software\Wine\DllOverrides /v d3d10core /d native,builtin /f
+(10:35:20) ERROR:   [Backend]:          Couldn't find all library folders of Wine Default - wine-9.8 (Staging)!
+Missing undefined and/or undefined!
+Falling back to system libraries!
+(10:35:20) DEBUG:   [Backend]:          Running Wine command: reg add HKEY_CURRENT_USER\Software\Wine\DllOverrides /v d3d11 /d native,builtin /f
+(10:35:20) ERROR:   [Backend]:          Couldn't find all library folders of Wine Default - wine-9.8 (Staging)!
+Missing undefined and/or undefined!
+Falling back to system libraries!
+(10:35:20) DEBUG:   [Backend]:          Running Wine command: reg add HKEY_CURRENT_USER\Software\Wine\DllOverrides /v d3d8 /d native,builtin /f
+(10:35:20) ERROR:   [Backend]:          Couldn't find all library folders of Wine Default - wine-9.8 (Staging)!
+Missing undefined and/or undefined!
+Falling back to system libraries!
+(10:35:20) DEBUG:   [Backend]:          Running Wine command: reg add HKEY_CURRENT_USER\Software\Wine\DllOverrides /v d3d9 /d native,builtin /f
+(10:35:20) ERROR:   [Backend]:          Couldn't find all library folders of Wine Default - wine-9.8 (Staging)!
+Missing undefined and/or undefined!
+Falling back to system libraries!
+(10:35:20) DEBUG:   [Backend]:          Running Wine command: reg add HKEY_CURRENT_USER\Software\Wine\DllOverrides /v dxgi /d native,builtin /f
+(10:35:20) ERROR:   [Backend]:          Couldn't find all library folders of Wine Default - wine-9.8 (Staging)!
+Missing undefined and/or undefined!
+Falling back to system libraries!
+(10:35:20) DEBUG:   [Backend]:          Running Wine command: reg add HKEY_CURRENT_USER\Software\Wine\DllOverrides /v d3d10core /d native,builtin /f
+(10:35:20) ERROR:   [Backend]:          Couldn't find all library folders of Wine Default - wine-9.8 (Staging)!
+Missing undefined and/or undefined!
+Falling back to system libraries!
+(10:35:20) DEBUG:   [Backend]:          Running Wine command: reg add HKEY_CURRENT_USER\Software\Wine\DllOverrides /v d3d11 /d native,builtin /f
+(10:35:20) ERROR:   [Backend]:          Couldn't find all library folders of Wine Default - wine-9.8 (Staging)!
+Missing undefined and/or undefined!
+Falling back to system libraries!
+(10:35:20) DEBUG:   [Backend]:          Running Wine command: reg add HKEY_CURRENT_USER\Software\Wine\DllOverrides /v d3d8 /d native,builtin /f
+(10:35:20) ERROR:   [Backend]:          Couldn't find all library folders of Wine Default - wine-9.8 (Staging)!
+Missing undefined and/or undefined!
+Falling back to system libraries!
+(10:35:20) DEBUG:   [Backend]:          Running Wine command: reg add HKEY_CURRENT_USER\Software\Wine\DllOverrides /v d3d9 /d native,builtin /f
+(10:35:20) ERROR:   [Backend]:          Couldn't find all library folders of Wine Default - wine-9.8 (Staging)!
+Missing undefined and/or undefined!
+Falling back to system libraries!
+(10:35:20) DEBUG:   [Backend]:          Running Wine command: reg add HKEY_CURRENT_USER\Software\Wine\DllOverrides /v dxgi /d native,builtin /f
+(10:35:20) INFO:    [DXVKInstaller]:    installing vkd3d on... /home/pc/Games/Heroic/Prefixes/default/Fallout New Vegas
+(10:35:20) INFO:    [Backend]:          Checking if wine version exists: Wine Default - wine-9.8 (Staging)
+(10:35:20) INFO:    [Backend]:          Checking if wine version exists: Wine Default - wine-9.8 (Staging)
+(10:35:20) INFO:    [Backend]:          Checking if wine version exists: Wine Default - wine-9.8 (Staging)
+(10:35:20) INFO:    [Backend]:          Checking if wine version exists: Wine Default - wine-9.8 (Staging)
+(10:35:20) ERROR:   [Backend]:          Couldn't find all library folders of Wine Default - wine-9.8 (Staging)!
+Missing undefined and/or undefined!
+Falling back to system libraries!
+(10:35:20) DEBUG:   [Backend]:          Running Wine command: reg add HKEY_CURRENT_USER\Software\Wine\DllOverrides /v d3d12 /d native,builtin /f
+(10:35:20) ERROR:   [Backend]:          Couldn't find all library folders of Wine Default - wine-9.8 (Staging)!
+Missing undefined and/or undefined!
+Falling back to system libraries!
+(10:35:20) DEBUG:   [Backend]:          Running Wine command: reg add HKEY_CURRENT_USER\Software\Wine\DllOverrides /v d3d12core /d native,builtin /f
+(10:35:20) ERROR:   [Backend]:          Couldn't find all library folders of Wine Default - wine-9.8 (Staging)!
+Missing undefined and/or undefined!
+Falling back to system libraries!
+(10:35:20) DEBUG:   [Backend]:          Running Wine command: reg add HKEY_CURRENT_USER\Software\Wine\DllOverrides /v d3d12 /d native,builtin /f
+(10:35:20) ERROR:   [Backend]:          Couldn't find all library folders of Wine Default - wine-9.8 (Staging)!
+Missing undefined and/or undefined!
+Falling back to system libraries!
+(10:35:20) DEBUG:   [Backend]:          Running Wine command: reg add HKEY_CURRENT_USER\Software\Wine\DllOverrides /v d3d12core /d native,builtin /f
+(10:35:20) ERROR:   [Backend]:          Couldn't find all library folders of Wine Default - wine-9.8 (Staging)!
+Missing undefined and/or undefined!
+Falling back to system libraries!
+(10:35:20) INFO:    [Legendary]:        Launching Fallout: New Vegas: HEROIC_APP_NAME=5daeb974a22a435988892319b3a4f476 HEROIC_APP_RUNNER=legendary HEROIC_APP_SOURCE=epic DRI_PRIME=1 __NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRARY_NAME=nvidia STEAM_COMPAT_INSTALL_PATH=/home/hdd2/FalloutNewVegas LD_PRELOAD= DOTNET_BUNDLE_EXTRACT_BASE_DIR= DOTNET_ROOT= WINEPREFIX="/home/pc/Games/Heroic/Prefixes/default/Fallout New Vegas" WINEDLLOVERRIDES=winemenubuilder.exe=d WINE_FULLSCREEN_FSR=1 WINE_FULLSCREEN_FSR_STRENGTH=2 WINEESYNC=1 WINEFSYNC=1 PROTON_EAC_RUNTIME=/home/pc/.config/heroic/tools/runtimes/eac_runtime PROTON_BATTLEYE_RUNTIME=/home/pc/.config/heroic/tools/runtimes/battleye_runtime ORIG_LD_LIBRARY_PATH= LEGENDARY_CONFIG_PATH=/home/pc/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary launch 5daeb974a22a435988892319b3a4f476 --wine /usr/bin/wine --wrapper "/usr/bin/mangohud --dlsym /usr/bin/gamemoderun" --language en
+(10:35:20) DEBUG:   [Legendary]:        Using cached install info
+(10:35:20) DEBUG:   [Legendary]:        Using cached install info
+(11:01:50) INFO:    [Backend]:          Stopping Display Power Saver Blocker
+(11:01:50) INFO:    [Frontend]:         Refreshing legendary Library
+(11:01:50) INFO:    [Legendary]:        Refreshing library...
+(11:01:50) INFO:    [Legendary]:        Refreshing Epic Games...
+(11:01:50) DEBUG:   [Legendary]:        Using cached install info
+(11:01:50) DEBUG:   [Legendary]:        Using cached install info
+(11:01:50) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/pc/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+(11:01:53) INFO:    [Legendary]:        Game list updated, got 48 games & DLCs
+(11:01:53) DEBUG:   [Legendary]:        Using cached install info
+(11:01:53) DEBUG:   [Legendary]:        Using cached install info

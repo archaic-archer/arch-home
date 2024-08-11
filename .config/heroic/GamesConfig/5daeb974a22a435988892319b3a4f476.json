@@ -1,0 +1,34 @@
+{
+  "5daeb974a22a435988892319b3a4f476": {
+    "autoInstallDxvk": true,
+    "autoInstallDxvkNvapi": false,
+    "autoInstallVkd3d": true,
+    "preferSystemLibs": false,
+    "enableEsync": true,
+    "enableMsync": false,
+    "enableFSR": true,
+    "enableFsync": true,
+    "nvidiaPrime": true,
+    "enviromentOptions": [],
+    "wrapperOptions": [],
+    "showFps": false,
+    "showMangohud": true,
+    "useGameMode": true,
+    "useSteamRuntime": true,
+    "battlEyeRuntime": true,
+    "eacRuntime": true,
+    "language": "",
+    "beforeLaunchScriptPath": "",
+    "afterLaunchScriptPath": "",
+    "wineVersion": {
+      "bin": "/usr/bin/wine",
+      "name": "Wine Default - wine-9.8 (Staging)",
+      "type": "wine",
+      "wineserver": "/usr/bin/wineserver"
+    },
+    "winePrefix": "/home/pc/Games/Heroic/Prefixes/default/Fallout New Vegas",
+    "wineCrossoverBottle": ""
+  },
+  "version": "v0",
+  "explicit": true
+}

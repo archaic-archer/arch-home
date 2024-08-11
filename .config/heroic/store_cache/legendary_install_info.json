@@ -1,0 +1,899 @@
+{
+	"7763cb8916654651a50593a813ae7c38": {
+		"game": {
+			"app_name": "7763cb8916654651a50593a813ae7c38",
+			"title": "Kao the Kangaroo",
+			"version": "1.6.0",
+			"platform_versions": {
+				"Windows": "1.6.0"
+			},
+			"cloud_saves_supported": true,
+			"cloud_save_folder": "{AppData}/KaoDRMFree/",
+			"cloud_save_folder_mac": null,
+			"is_dlc": false,
+			"external_activation": null,
+			"launch_options": [],
+			"command_line": null,
+			"owned_dlc": []
+		},
+		"install": null,
+		"manifest": {
+			"size": 589705,
+			"type": "binary",
+			"version": 17,
+			"feature_level": 17,
+			"app_name": "7763cb8916654651a50593a813ae7c38",
+			"launch_exe": "Kao the Kangaroo.exe",
+			"launch_command": "",
+			"build_version": "1.6.0",
+			"build_id": "yRqhDkP2Pfcxe2u4Wvy06GwD6bY",
+			"prerequisites": null,
+			"uninstaller": null,
+			"install_tags": [
+				""
+			],
+			"num_files": 39,
+			"num_chunks": 9235,
+			"disk_size": 9683259959,
+			"download_size": 9588927633,
+			"tag_disk_size": [],
+			"tag_download_size": []
+		}
+	},
+	"__timestamp": {
+		"7763cb8916654651a50593a813ae7c38": "Fri Aug 09 2024 18:16:28 GMT+0530 (India Standard Time)",
+		"ee9a44b4530942499ef1c8c390731fce": "Fri Aug 09 2024 23:29:16 GMT+0530 (India Standard Time)",
+		"7dcfb9cd9d134728b2646466c34c7b3b": "Fri Aug 09 2024 23:29:19 GMT+0530 (India Standard Time)",
+		"4fa3d8d9b2cb4714a19a38d1a598be8f": "Fri Aug 09 2024 23:29:22 GMT+0530 (India Standard Time)",
+		"562d4a2c1b3147b089a7c453e3ddbcbe": "Fri Aug 09 2024 23:29:26 GMT+0530 (India Standard Time)",
+		"b290229eb58045cbab9501640f3278f3": "Fri Aug 09 2024 23:29:28 GMT+0530 (India Standard Time)",
+		"c8dae1ab0570475a8b38a9041e614840": "Fri Aug 09 2024 23:29:43 GMT+0530 (India Standard Time)",
+		"5daeb974a22a435988892319b3a4f476": "Sat Aug 10 2024 10:32:33 GMT+0530 (India Standard Time)",
+		"9d2d0eb64d5c44529cece33fe2a46482": "Sat Aug 10 2024 20:22:37 GMT+0530 (India Standard Time)"
+	},
+	"ee9a44b4530942499ef1c8c390731fce": {
+		"game": {
+			"app_name": "ee9a44b4530942499ef1c8c390731fce",
+			"title": "Fallout New Vegas: Courier's Stash",
+			"version": "0.0.0.3",
+			"platform_versions": {
+				"Windows": "0.0.0.3"
+			},
+			"cloud_saves_supported": false,
+			"cloud_save_folder": null,
+			"cloud_save_folder_mac": null,
+			"is_dlc": true,
+			"external_activation": null,
+			"launch_options": [],
+			"command_line": null,
+			"owned_dlc": []
+		},
+		"install": null,
+		"manifest": {
+			"size": 4367,
+			"type": "binary",
+			"version": 17,
+			"feature_level": 17,
+			"app_name": "ee9a44b4530942499ef1c8c390731fce",
+			"launch_exe": "",
+			"launch_command": "",
+			"build_version": "0.0.0.3",
+			"build_id": "qpIBtNcO5P38OPov3Hw-UnfZZEk",
+			"prerequisites": null,
+			"uninstaller": null,
+			"install_tags": [
+				"",
+				"french",
+				"german",
+				"italian",
+				"spanish"
+			],
+			"num_files": 60,
+			"num_chunks": 38,
+			"disk_size": 101857816,
+			"download_size": 25444687,
+			"tag_disk_size": [
+				{
+					"tag": "",
+					"size": 20371435,
+					"count": 12
+				},
+				{
+					"tag": "french",
+					"size": 20371580,
+					"count": 12
+				},
+				{
+					"tag": "german",
+					"size": 20371620,
+					"count": 12
+				},
+				{
+					"tag": "italian",
+					"size": 20371604,
+					"count": 12
+				},
+				{
+					"tag": "spanish",
+					"size": 20371577,
+					"count": 12
+				}
+			],
+			"tag_download_size": [
+				{
+					"tag": "",
+					"size": 14332381,
+					"count": 20
+				},
+				{
+					"tag": "french",
+					"size": 15503589,
+					"count": 22
+				},
+				{
+					"tag": "german",
+					"size": 14831568,
+					"count": 21
+				},
+				{
+					"tag": "italian",
+					"size": 14777653,
+					"count": 21
+				},
+				{
+					"tag": "spanish",
+					"size": 14875904,
+					"count": 22
+				}
+			]
+		}
+	},
+	"7dcfb9cd9d134728b2646466c34c7b3b": {
+		"game": {
+			"app_name": "7dcfb9cd9d134728b2646466c34c7b3b",
+			"title": "Fallout New Vegas®: Gun Runners’ Arsenal™",
+			"version": "0.0.0.2",
+			"platform_versions": {
+				"Windows": "0.0.0.2"
+			},
+			"cloud_saves_supported": false,
+			"cloud_save_folder": null,
+			"cloud_save_folder_mac": null,
+			"is_dlc": true,
+			"external_activation": null,
+			"launch_options": [],
+			"command_line": null,
+			"owned_dlc": []
+		},
+		"install": null,
+		"manifest": {
+			"size": 8169,
+			"type": "binary",
+			"version": 17,
+			"feature_level": 17,
+			"app_name": "7dcfb9cd9d134728b2646466c34c7b3b",
+			"launch_exe": "",
+			"launch_command": "",
+			"build_version": "0.0.0.2",
+			"build_id": "ZoCqQVha3RZAbgcqr_vPtNiZ_kg",
+			"prerequisites": null,
+			"uninstaller": null,
+			"install_tags": [
+				"",
+				"french",
+				"german",
+				"italian",
+				"spanish"
+			],
+			"num_files": 20,
+			"num_chunks": 133,
+			"disk_size": 662710490,
+			"download_size": 85688051,
+			"tag_disk_size": [
+				{
+					"tag": "",
+					"size": 132540535,
+					"count": 4
+				},
+				{
+					"tag": "french",
+					"size": 132542270,
+					"count": 4
+				},
+				{
+					"tag": "german",
+					"size": 132541910,
+					"count": 4
+				},
+				{
+					"tag": "italian",
+					"size": 132542694,
+					"count": 4
+				},
+				{
+					"tag": "spanish",
+					"size": 132543081,
+					"count": 4
+				}
+			],
+			"tag_download_size": [
+				{
+					"tag": "",
+					"size": 82188002,
+					"count": 127
+				},
+				{
+					"tag": "french",
+					"size": 82884695,
+					"count": 128
+				},
+				{
+					"tag": "german",
+					"size": 83602074,
+					"count": 129
+				},
+				{
+					"tag": "italian",
+					"size": 82879065,
+					"count": 128
+				},
+				{
+					"tag": "spanish",
+					"size": 82874382,
+					"count": 129
+				}
+			]
+		}
+	},
+	"4fa3d8d9b2cb4714a19a38d1a598be8f": {
+		"game": {
+			"app_name": "4fa3d8d9b2cb4714a19a38d1a598be8f",
+			"title": "Fallout New Vegas®: Lonesome Road™",
+			"version": "0.0.0.2",
+			"platform_versions": {
+				"Windows": "0.0.0.2"
+			},
+			"cloud_saves_supported": false,
+			"cloud_save_folder": null,
+			"cloud_save_folder_mac": null,
+			"is_dlc": true,
+			"external_activation": null,
+			"launch_options": [],
+			"command_line": null,
+			"owned_dlc": []
+		},
+		"install": null,
+		"manifest": {
+			"size": 74017,
+			"type": "binary",
+			"version": 17,
+			"feature_level": 17,
+			"app_name": "4fa3d8d9b2cb4714a19a38d1a598be8f",
+			"launch_exe": "",
+			"launch_command": "",
+			"build_version": "0.0.0.2",
+			"build_id": "FyiyPA0IzgGhA2EraeuAuhRU93o",
+			"prerequisites": null,
+			"uninstaller": null,
+			"install_tags": [
+				"",
+				"french",
+				"german",
+				"italian",
+				"spanish"
+			],
+			"num_files": 20,
+			"num_chunks": 1077,
+			"disk_size": 4122497600,
+			"download_size": 681373837,
+			"tag_disk_size": [
+				{
+					"tag": "",
+					"size": 821696918,
+					"count": 4
+				},
+				{
+					"tag": "french",
+					"size": 823150310,
+					"count": 4
+				},
+				{
+					"tag": "german",
+					"size": 820785098,
+					"count": 4
+				},
+				{
+					"tag": "italian",
+					"size": 831063682,
+					"count": 4
+				},
+				{
+					"tag": "spanish",
+					"size": 825801592,
+					"count": 4
+				}
+			],
+			"tag_download_size": [
+				{
+					"tag": "",
+					"size": 425393988,
+					"count": 784
+				},
+				{
+					"tag": "french",
+					"size": 427253894,
+					"count": 787
+				},
+				{
+					"tag": "german",
+					"size": 425362481,
+					"count": 785
+				},
+				{
+					"tag": "italian",
+					"size": 434871049,
+					"count": 795
+				},
+				{
+					"tag": "spanish",
+					"size": 429306230,
+					"count": 789
+				}
+			]
+		}
+	},
+	"562d4a2c1b3147b089a7c453e3ddbcbe": {
+		"game": {
+			"app_name": "562d4a2c1b3147b089a7c453e3ddbcbe",
+			"title": "Fallout New Vegas®: Honest Hearts",
+			"version": "0.0.0.4",
+			"platform_versions": {
+				"Windows": "0.0.0.4"
+			},
+			"cloud_saves_supported": false,
+			"cloud_save_folder": null,
+			"cloud_save_folder_mac": null,
+			"is_dlc": true,
+			"external_activation": null,
+			"launch_options": [],
+			"command_line": null,
+			"owned_dlc": []
+		},
+		"install": null,
+		"manifest": {
+			"size": 52144,
+			"type": "binary",
+			"version": 17,
+			"feature_level": 17,
+			"app_name": "562d4a2c1b3147b089a7c453e3ddbcbe",
+			"launch_exe": "",
+			"launch_command": "",
+			"build_version": "0.0.0.4",
+			"build_id": "CRHSvOdgshMj0v4nTzykPYavSbQ",
+			"prerequisites": null,
+			"uninstaller": null,
+			"install_tags": [
+				"",
+				"french",
+				"german",
+				"italian",
+				"spanish"
+			],
+			"num_files": 20,
+			"num_chunks": 750,
+			"disk_size": 2140996160,
+			"download_size": 547074561,
+			"tag_disk_size": [
+				{
+					"tag": "",
+					"size": 425102537,
+					"count": 4
+				},
+				{
+					"tag": "french",
+					"size": 428512758,
+					"count": 4
+				},
+				{
+					"tag": "german",
+					"size": 431242369,
+					"count": 4
+				},
+				{
+					"tag": "italian",
+					"size": 429742227,
+					"count": 4
+				},
+				{
+					"tag": "spanish",
+					"size": 426396269,
+					"count": 4
+				}
+			],
+			"tag_download_size": [
+				{
+					"tag": "",
+					"size": 263481809,
+					"count": 407
+				},
+				{
+					"tag": "french",
+					"size": 267043017,
+					"count": 410
+				},
+				{
+					"tag": "german",
+					"size": 270497517,
+					"count": 414
+				},
+				{
+					"tag": "italian",
+					"size": 267994270,
+					"count": 411
+				},
+				{
+					"tag": "spanish",
+					"size": 264859442,
+					"count": 408
+				}
+			]
+		}
+	},
+	"b290229eb58045cbab9501640f3278f3": {
+		"game": {
+			"app_name": "b290229eb58045cbab9501640f3278f3",
+			"title": "Fallout New Vegas®: Dead Money",
+			"version": "0.0.0.2",
+			"platform_versions": {
+				"Windows": "0.0.0.2"
+			},
+			"cloud_saves_supported": false,
+			"cloud_save_folder": null,
+			"cloud_save_folder_mac": null,
+			"is_dlc": true,
+			"external_activation": null,
+			"launch_options": [],
+			"command_line": null,
+			"owned_dlc": []
+		},
+		"install": null,
+		"manifest": {
+			"size": 65447,
+			"type": "binary",
+			"version": 17,
+			"feature_level": 17,
+			"app_name": "b290229eb58045cbab9501640f3278f3",
+			"launch_exe": "",
+			"launch_command": "",
+			"build_version": "0.0.0.2",
+			"build_id": "dDySpTfCgM5ppRaUaP4SN4E0bpc",
+			"prerequisites": null,
+			"uninstaller": null,
+			"install_tags": [
+				"",
+				"french",
+				"german",
+				"italian",
+				"spanish"
+			],
+			"num_files": 20,
+			"num_chunks": 957,
+			"disk_size": 2374346640,
+			"download_size": 769239825,
+			"tag_disk_size": [
+				{
+					"tag": "",
+					"size": 470260617,
+					"count": 4
+				},
+				{
+					"tag": "french",
+					"size": 475859114,
+					"count": 4
+				},
+				{
+					"tag": "german",
+					"size": 480913178,
+					"count": 4
+				},
+				{
+					"tag": "italian",
+					"size": 474789966,
+					"count": 4
+				},
+				{
+					"tag": "spanish",
+					"size": 472523765,
+					"count": 4
+				}
+			],
+			"tag_download_size": [
+				{
+					"tag": "",
+					"size": 322330671,
+					"count": 450
+				},
+				{
+					"tag": "french",
+					"size": 327987871,
+					"count": 456
+				},
+				{
+					"tag": "german",
+					"size": 332569583,
+					"count": 460
+				},
+				{
+					"tag": "italian",
+					"size": 326893289,
+					"count": 455
+				},
+				{
+					"tag": "spanish",
+					"size": 323833136,
+					"count": 452
+				}
+			]
+		}
+	},
+	"c8dae1ab0570475a8b38a9041e614840": {
+		"game": {
+			"app_name": "c8dae1ab0570475a8b38a9041e614840",
+			"title": "Fallout New Vegas®: Old World Blues",
+			"version": "0.0.0.3",
+			"platform_versions": {
+				"Windows": "0.0.0.3"
+			},
+			"cloud_saves_supported": false,
+			"cloud_save_folder": null,
+			"cloud_save_folder_mac": null,
+			"is_dlc": true,
+			"external_activation": null,
+			"launch_options": [],
+			"command_line": null,
+			"owned_dlc": []
+		},
+		"install": null,
+		"manifest": {
+			"size": 85567,
+			"type": "binary",
+			"version": 17,
+			"feature_level": 17,
+			"app_name": "c8dae1ab0570475a8b38a9041e614840",
+			"launch_exe": "",
+			"launch_command": "",
+			"build_version": "0.0.0.3",
+			"build_id": "KP7j1AAgfqUXcZYXx4bAtwmtya4",
+			"prerequisites": null,
+			"uninstaller": null,
+			"install_tags": [
+				"",
+				"french",
+				"german",
+				"italian",
+				"spanish"
+			],
+			"num_files": 20,
+			"num_chunks": 1243,
+			"disk_size": 3827624401,
+			"download_size": 875017084,
+			"tag_disk_size": [
+				{
+					"tag": "",
+					"size": 764218329,
+					"count": 4
+				},
+				{
+					"tag": "french",
+					"size": 763790961,
+					"count": 4
+				},
+				{
+					"tag": "german",
+					"size": 770306245,
+					"count": 4
+				},
+				{
+					"tag": "italian",
+					"size": 767026015,
+					"count": 4
+				},
+				{
+					"tag": "spanish",
+					"size": 762282851,
+					"count": 4
+				}
+			],
+			"tag_download_size": [
+				{
+					"tag": "",
+					"size": 437651428,
+					"count": 730
+				},
+				{
+					"tag": "french",
+					"size": 437250623,
+					"count": 730
+				},
+				{
+					"tag": "german",
+					"size": 443801684,
+					"count": 737
+				},
+				{
+					"tag": "italian",
+					"size": 440181173,
+					"count": 733
+				},
+				{
+					"tag": "spanish",
+					"size": 435787707,
+					"count": 729
+				}
+			]
+		}
+	},
+	"5daeb974a22a435988892319b3a4f476": {
+		"game": {
+			"app_name": "5daeb974a22a435988892319b3a4f476",
+			"title": "Fallout: New Vegas",
+			"version": "0.0.0.15",
+			"platform_versions": {
+				"Windows": "0.0.0.15"
+			},
+			"cloud_saves_supported": true,
+			"cloud_save_folder": "{UserDir}/My Games/FalloutNV_Epic/",
+			"cloud_save_folder_mac": null,
+			"is_dlc": false,
+			"external_activation": null,
+			"launch_options": [],
+			"command_line": null,
+			"owned_dlc": [
+				{
+					"app_name": "7dcfb9cd9d134728b2646466c34c7b3b",
+					"title": "Fallout New Vegas®: Gun Runners’ Arsenal™",
+					"installable": [
+						{
+							"id": "5641d5a7d47d4e578df8dafaa40c0406",
+							"appId": "7dcfb9cd9d134728b2646466c34c7b3b",
+							"compatibleApps": [],
+							"platform": [
+								"Windows"
+							],
+							"dateAdded": "2023-03-27T21:32:41.554Z"
+						}
+					],
+					"id": "8639c764126147a49fba4e79d4b12e3c"
+				},
+				{
+					"app_name": "4fa3d8d9b2cb4714a19a38d1a598be8f",
+					"title": "Fallout New Vegas®: Lonesome Road™",
+					"installable": [
+						{
+							"id": "ef07f306527743f0b637e9e7312ea04e",
+							"appId": "4fa3d8d9b2cb4714a19a38d1a598be8f",
+							"compatibleApps": [],
+							"platform": [
+								"Windows"
+							],
+							"dateAdded": "2023-03-27T21:32:00.000Z"
+						}
+					],
+					"id": "9d6e337d893346fa897ba823042718fd"
+				},
+				{
+					"app_name": "c8dae1ab0570475a8b38a9041e614840",
+					"title": "Fallout New Vegas®: Old World Blues",
+					"installable": [
+						{
+							"id": "8441c0b21f114971aee875624f8cb0c5",
+							"appId": "c8dae1ab0570475a8b38a9041e614840",
+							"compatibleApps": [],
+							"platform": [
+								"Windows"
+							],
+							"dateAdded": "2023-03-27T21:32:00.000Z"
+						}
+					],
+					"id": "99319f67f7a146a583ab433db3206fe7"
+				},
+				{
+					"app_name": "562d4a2c1b3147b089a7c453e3ddbcbe",
+					"title": "Fallout New Vegas®: Honest Hearts",
+					"installable": [
+						{
+							"id": "2d59f145868e49f68475a77126b29090",
+							"appId": "562d4a2c1b3147b089a7c453e3ddbcbe",
+							"compatibleApps": [],
+							"platform": [
+								"Windows"
+							],
+							"dateAdded": "2023-03-27T21:32:00.000Z"
+						}
+					],
+					"id": "45f8c6bb48f443cda04fae360c9d1f05"
+				},
+				{
+					"app_name": "b290229eb58045cbab9501640f3278f3",
+					"title": "Fallout New Vegas®: Dead Money",
+					"installable": [
+						{
+							"id": "6d25b942920a4881954646957c256759",
+							"appId": "b290229eb58045cbab9501640f3278f3",
+							"compatibleApps": [],
+							"platform": [
+								"Windows"
+							],
+							"dateAdded": "2023-03-27T21:32:00.000Z"
+						}
+					],
+					"id": "a92cc9f6e89f40c28950016d8c8202f3"
+				},
+				{
+					"app_name": "ee9a44b4530942499ef1c8c390731fce",
+					"title": "Fallout New Vegas: Courier's Stash",
+					"installable": [
+						{
+							"id": "2540e3c9b050441fb0b64e081430d243",
+							"appId": "ee9a44b4530942499ef1c8c390731fce",
+							"compatibleApps": [],
+							"platform": [
+								"Windows"
+							],
+							"dateAdded": "2023-03-27T21:32:00.000Z"
+						}
+					],
+					"id": "e03e450ae07b41049e90ca620a8e054e"
+				}
+			]
+		},
+		"install": {
+			"platform": "Windows",
+			"version": "0.0.0.15",
+			"disk_size": 7171425052,
+			"install_path": "/home/hdd2/FalloutNewVegas",
+			"save_path": null,
+			"synced_egl_guid": "",
+			"install_tags": [
+				""
+			],
+			"requires_ovt": false,
+			"installed_dlc": [
+				{
+					"app_name": "c8dae1ab0570475a8b38a9041e614840",
+					"title": "Fallout New Vegas®: Old World Blues",
+					"install_size": 3827624401
+				}
+			]
+		},
+		"manifest": {
+			"size": 1416095,
+			"type": "binary",
+			"version": 17,
+			"feature_level": 17,
+			"app_name": "f914eba2ae224555a787d8d3ac0cf288",
+			"launch_exe": "Launcher.exe",
+			"launch_command": "",
+			"build_version": "0.0.0.15",
+			"build_id": "hfcZGaWOqZ9-XwReCRg_2LMdvw8",
+			"prerequisites": null,
+			"uninstaller": null,
+			"install_tags": [
+				"",
+				"french",
+				"german",
+				"italian",
+				"spanish"
+			],
+			"num_files": 1464,
+			"num_chunks": 15793,
+			"disk_size": 36935876209,
+			"download_size": 14868682412,
+			"tag_disk_size": [
+				{
+					"tag": "",
+					"size": 7171425052,
+					"count": 299
+				},
+				{
+					"tag": "french",
+					"size": 7282938543,
+					"count": 291
+				},
+				{
+					"tag": "german",
+					"size": 7465545460,
+					"count": 292
+				},
+				{
+					"tag": "italian",
+					"size": 7499575311,
+					"count": 291
+				},
+				{
+					"tag": "spanish",
+					"size": 7516391843,
+					"count": 291
+				}
+			],
+			"tag_download_size": [
+				{
+					"tag": "",
+					"size": 6588350295,
+					"count": 6840
+				},
+				{
+					"tag": "french",
+					"size": 6740193543,
+					"count": 6949
+				},
+				{
+					"tag": "german",
+					"size": 6913532351,
+					"count": 7123
+				},
+				{
+					"tag": "italian",
+					"size": 6947201511,
+					"count": 7155
+				},
+				{
+					"tag": "spanish",
+					"size": 6972640763,
+					"count": 7170
+				}
+			]
+		}
+	},
+	"9d2d0eb64d5c44529cece33fe2a46482": {
+		"game": {
+			"app_name": "9d2d0eb64d5c44529cece33fe2a46482",
+			"title": "Grand Theft Auto V",
+			"version": "1.0.3274.0_v2",
+			"platform_versions": {
+				"Windows": "1.0.3274.0_v2"
+			},
+			"cloud_saves_supported": false,
+			"cloud_save_folder": null,
+			"cloud_save_folder_mac": null,
+			"is_dlc": false,
+			"external_activation": null,
+			"launch_options": [],
+			"command_line": null,
+			"owned_dlc": []
+		},
+		"install": {
+			"platform": "Windows",
+			"version": "1.0.3274.0_v2",
+			"disk_size": 121281363546,
+			"install_path": "/home/hdd2/GTAV",
+			"save_path": null,
+			"synced_egl_guid": "",
+			"install_tags": [],
+			"requires_ovt": false,
+			"installed_dlc": []
+		},
+		"manifest": {
+			"size": 7478590,
+			"type": "binary",
+			"version": 17,
+			"feature_level": 17,
+			"app_name": "9d2d0eb64d5c44529cece33fe2a46482",
+			"launch_exe": "PlayGTAV.exe",
+			"launch_command": "",
+			"build_version": "1.0.3274.0_v2",
+			"build_id": "-n33NvKafLzbXNfgjsxYBNBucns",
+			"prerequisites": null,
+			"uninstaller": null,
+			"install_tags": [
+				""
+			],
+			"num_files": 386,
+			"num_chunks": 115404,
+			"disk_size": 121281363546,
+			"download_size": 119175027164,
+			"tag_disk_size": [],
+			"tag_download_size": []
+		}
+	}
+}

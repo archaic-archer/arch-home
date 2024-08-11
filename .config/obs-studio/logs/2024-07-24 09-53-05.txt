@@ -1,0 +1,103 @@
+09:53:05.370: Platform: Wayland
+09:53:05.370: CPU Name: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+09:53:05.370: CPU Speed: 3155.638MHz
+09:53:05.371: Physical Cores: 4, Logical Cores: 8
+09:53:05.371: Physical Memory: 11698MB Total, 4216MB Free
+09:53:05.371: Kernel Version: Linux 6.10.0-arch1-2
+09:53:05.371: Distribution: "Arch Linux" Unknown
+09:53:05.371: Desktop Environment: 
+09:53:05.371: Session Type: wayland
+09:53:05.375: Qt Version: 6.7.2 (runtime), 6.7.1 (compiled)
+09:53:05.375: Portable mode: false
+09:53:05.437: OBS 30.1.2-2 (linux)
+09:53:05.437: ---------------------------------
+09:53:05.438: ---------------------------------
+09:53:05.438: audio settings reset:
+09:53:05.438: 	samples per sec: 48000
+09:53:05.438: 	speakers:        2
+09:53:05.438: 	max buffering:   960 milliseconds
+09:53:05.438: 	buffering type:  dynamically increasing
+09:53:05.443: ---------------------------------
+09:53:05.444: Initializing OpenGL...
+09:53:05.444: Using EGL/Wayland
+09:53:05.484: Initialized EGL 1.5
+09:53:05.501: Loading up OpenGL on adapter Intel Mesa Intel(R) UHD Graphics 620 (KBL GT2)
+09:53:05.502: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 24.1.4-arch1.2, shading language 4.60
+09:53:05.674: ---------------------------------
+09:53:05.674: video settings reset:
+09:53:05.674: 	base resolution:   1920x1080
+09:53:05.674: 	output resolution: 1920x1080
+09:53:05.674: 	downscale filter:  Bicubic
+09:53:05.674: 	fps:               30/1
+09:53:05.674: 	format:            NV12
+09:53:05.674: 	YUV mode:          Rec. 709/Partial
+09:53:05.675: NV12 texture support enabled
+09:53:05.675: P010 texture support not available
+09:53:05.685: Audio monitoring device:
+09:53:05.685: 	name: Default
+09:53:05.685: 	id: default
+09:53:05.685: ---------------------------------
+09:53:05.696: Failed to load 'en-US' text for module: 'decklink-captions.so'
+09:53:05.708: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+09:53:05.717: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+09:53:05.717: Failed to initialize module 'decklink.so'
+09:53:05.918: [pipewire] Available captures:
+09:53:05.918: [pipewire]     - Desktop capture
+09:53:05.944: v4l2loopback not installed, virtual camera disabled
+09:53:06.901: VAAPI: API version 1.21
+09:53:06.908: FFmpeg VAAPI H264 encoding supported
+09:53:06.920: FFmpeg VAAPI AV1 encoding not supported
+09:53:06.932: FFmpeg VAAPI HEVC encoding supported
+09:53:07.107: ---------------------------------
+09:53:07.107:   Loaded Modules:
+09:53:07.107:     text-freetype2.so
+09:53:07.107:     rtmp-services.so
+09:53:07.107:     obs-x264.so
+09:53:07.107:     obs-webrtc.so
+09:53:07.107:     obs-vst.so
+09:53:07.107:     obs-transitions.so
+09:53:07.107:     obs-qsv11.so
+09:53:07.107:     obs-outputs.so
+09:53:07.107:     obs-libfdk.so
+09:53:07.107:     obs-filters.so
+09:53:07.107:     obs-ffmpeg.so
+09:53:07.107:     linux-v4l2.so
+09:53:07.107:     linux-pulseaudio.so
+09:53:07.107:     linux-pipewire.so
+09:53:07.107:     linux-jack.so
+09:53:07.107:     linux-capture.so
+09:53:07.107:     linux-alsa.so
+09:53:07.107:     image-source.so
+09:53:07.107:     frontend-tools.so
+09:53:07.107:     decklink-output-ui.so
+09:53:07.107:     decklink-captions.so
+09:53:07.107: ---------------------------------
+09:53:07.109: ==== Startup complete ===============================================
+09:53:07.170: All scene data cleared
+09:53:07.170: ------------------------------------------------
+09:53:07.177: pulse-input: Server name: 'PulseAudio (on PipeWire 1.2.1) 15.0.0'
+09:53:07.178: pulse-input: Audio format: s16le, 16000 Hz, 1 channels
+09:53:07.178: pulse-input: Started recording from 'bluez_output.11_11_22_FD_E3_21.1.monitor' (default)
+09:53:07.178: [Loaded global audio device]: 'Desktop Audio'
+09:53:07.178: pulse-input: Server name: 'PulseAudio (on PipeWire 1.2.1) 15.0.0'
+09:53:07.178: pulse-input: Audio format: float32le, 48000 Hz, 1 channels
+09:53:07.178: pulse-input: Started recording from 'bluez_input.11:11:22:FD:E3:21' (default)
+09:53:07.178: [Loaded global audio device]: 'Mic/Aux'
+09:53:07.179: PipeWire initialized
+09:53:07.181: Switched to scene 'Scene'
+09:53:07.181: ------------------------------------------------
+09:53:07.181: Loaded scenes:
+09:53:07.181: - scene 'Scene':
+09:53:07.181:     - source: 'Screen Capture (PipeWire)' (pipewire-desktop-capture-source)
+09:53:07.181: ------------------------------------------------
+09:53:07.286: [pipewire] Screencast session created
+09:53:07.742: adding 21 milliseconds of audio buffering, total audio buffering is now 21 milliseconds (source: Mic/Aux)
+09:53:07.742: 
+09:53:09.869: ==== Shutting down ==================================================
+09:53:09.872: pulse-input: Stopped recording from 'bluez_output.11_11_22_FD_E3_21.1.monitor'
+09:53:09.872: pulse-input: Got 106 packets with 42400 frames
+09:53:09.872: pulse-input: Stopped recording from 'bluez_input.11:11:22:FD:E3:21'
+09:53:09.872: pulse-input: Got 106 packets with 127200 frames
+09:53:09.872: [portals] Request cancelled
+09:53:09.901: All scene data cleared
+09:53:09.901: ------------------------------------------------
