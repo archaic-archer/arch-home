@@ -5,4 +5,4 @@ fastfetch
 
 end
 
-alias su="yay -Syyu --noconfirm"
+alias Su="yay -Syyu --noconfirm"
