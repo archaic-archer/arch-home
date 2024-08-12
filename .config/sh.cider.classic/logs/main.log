@@ -1,0 +1,165 @@
+[2024-08-12 09:50:20.452] [info]  [AppEvents] App started
+[2024-08-12 09:50:20.588] [info]  [PluginHandler] Loaded plugins: []
+[2024-08-12 09:50:24.081] [info]  [AppEvents] App ready
+[2024-08-12 09:50:24.082] [info]  [Cider] Application is Ready. Creating Window.
+[2024-08-12 09:50:24.082] [info]  aa
+[2024-08-12 09:50:24.082] [info]  [Cider] Creating Window.
+[2024-08-12 09:50:24.089] [info]  Setting up handlers for local files
+[2024-08-12 09:50:24.093] [info]  [Connect] Auth URL: https://connect.cidercollective.dev/callback/discord?app=cider&appPort=9000
+[2024-08-12 09:50:24.246] [info]  WebSocketServer started on port: 26369
+[2024-08-12 09:50:24.263] [info]  [Cider][Widevine] Status: {
+  oimompecagnajdejgnnjijobebaeigek: {
+    status: 'updated',
+    title: 'Widevine Content Decryption Module',
+    version: '4.10.2710.0'
+  }
+}
+[2024-08-12 09:50:24.314] [info]  {
+  auxAttributes: {
+    amdSwitchable: true,
+    canSupportThreadedTextureMailbox: false,
+    glImplementationParts: '(gl=none,angle=none)',
+    glResetNotificationStrategy: 0,
+    inProcessGpu: true,
+    initializationTime: 0,
+    isAsan: false,
+    isClangCoverage: false,
+    jpegDecodeAcceleratorSupported: false,
+    optimus: false,
+    passthroughCmdDecoder: false,
+    sandboxed: false,
+    subpixelFontRendering: true,
+    targetCpuBits: 64,
+    visibilityCallbackCallCount: 0
+  },
+  gpuDevice: [
+    {
+      active: true,
+      cudaComputeCapabilityMajor: 0,
+      deviceId: 26213,
+      gpuPreference: 0,
+      vendorId: 4098
+    },
+    {
+      active: false,
+      cudaComputeCapabilityMajor: 0,
+      deviceId: 22807,
+      gpuPreference: 0,
+      vendorId: 32902
+    }
+  ]
+}
+[2024-08-12 09:50:24.315] [info]  From here can you check for real changes, the initial scan has been completed.
+[2024-08-12 09:50:24.315] [info]  Cider client port: 9000
+[2024-08-12 09:50:24.319] [info]  Cider remote port: 6942
+[2024-08-12 09:50:24.321] [info]  remote broadcasted
+[2024-08-12 09:51:45.603] [info]  cookies {
+  'music.ampwebplay.itspod': '33',
+  'music.ampwebplay.pltvcid': 'c8956ce35487427f851dd6646a76e5da033',
+  'music.ampwebplay.pldfltcid': 'ec053f913b8c4fe8a9742db200434764033',
+  'music.ampwebplay.itua': 'IN',
+  'music.ampwebplay.media-user-token': 'Avx+jy2SQhCY9yXjAX4amy1dC4wUJlHdq6yDAbWTKvJi9B+OUFSYNCLwxkRaq2qz4iFpzxysLcIUfZCybd508PAkhJS/hXLLBb/T/gBZDYqKCAFeJys5MFknXNIrnqyTM+rdsWtd+etm6L40MhMeN3na720UpZgJ2FCOKKVS2eVZHLQCZ0KzrOAX0gAn6ORX3o2n8p9xAlbYeVnfn8Zdm6C/AI1zd7uhQVkKNgvlwnjAC6h3Eg==',
+  'music.ampwebplay.dslang': 'US-EN'
+}
+[2024-08-12 09:52:02.923] [error] (node:287187) [node-fetch#buffer] DeprecationWarning: Please use 'response.arrayBuffer()' instead of 'response.buffer()'
+(Use `cider --trace-deprecation ...` to show where the warning was created)
+[2024-08-12 10:36:57.119] [warn]  Cider exited.
+[2024-08-12 10:37:17.828] [info]  [AppEvents] App started
+[2024-08-12 10:37:17.958] [info]  [PluginHandler] Loaded plugins: []
+[2024-08-12 10:37:20.134] [info]  [AppEvents] App ready
+[2024-08-12 10:37:20.135] [info]  [Cider] Application is Ready. Creating Window.
+[2024-08-12 10:37:20.135] [info]  aa
+[2024-08-12 10:37:20.135] [info]  [Cider] Creating Window.
+[2024-08-12 10:37:20.143] [info]  Setting up handlers for local files
+[2024-08-12 10:37:20.147] [info]  [Connect] Auth URL: https://connect.cidercollective.dev/callback/discord?app=cider&appPort=9000
+[2024-08-12 10:37:20.306] [info]  WebSocketServer started on port: 26369
+[2024-08-12 10:37:20.330] [info]  [Cider][Widevine] Status: {
+  oimompecagnajdejgnnjijobebaeigek: {
+    status: 'new',
+    title: 'Widevine Content Decryption Module',
+    version: '4.10.2710.0'
+  }
+}
+[2024-08-12 10:37:20.399] [info]  {
+  auxAttributes: {
+    amdSwitchable: true,
+    canSupportThreadedTextureMailbox: false,
+    glImplementationParts: '(gl=none,angle=none)',
+    glResetNotificationStrategy: 0,
+    inProcessGpu: true,
+    initializationTime: 0,
+    isAsan: false,
+    isClangCoverage: false,
+    jpegDecodeAcceleratorSupported: false,
+    optimus: false,
+    passthroughCmdDecoder: false,
+    sandboxed: false,
+    subpixelFontRendering: true,
+    targetCpuBits: 64,
+    visibilityCallbackCallCount: 0
+  },
+  gpuDevice: [
+    {
+      active: true,
+      cudaComputeCapabilityMajor: 0,
+      deviceId: 26213,
+      gpuPreference: 0,
+      vendorId: 4098
+    },
+    {
+      active: false,
+      cudaComputeCapabilityMajor: 0,
+      deviceId: 22807,
+      gpuPreference: 0,
+      vendorId: 32902
+    }
+  ]
+}
+[2024-08-12 10:37:20.401] [info]  From here can you check for real changes, the initial scan has been completed.
+[2024-08-12 10:37:20.402] [info]  Cider client port: 9000
+[2024-08-12 10:37:20.407] [info]  Cider remote port: 6942
+[2024-08-12 10:37:20.412] [info]  remote broadcasted
+[2024-08-12 10:37:28.460] [error] (node:308617) [node-fetch#buffer] DeprecationWarning: Please use 'response.arrayBuffer()' instead of 'response.buffer()'
+(Use `cider --trace-deprecation ...` to show where the warning was created)
+[2024-08-12 10:38:09.310] [error] Error occurred in handler for 'GUEST_VIEW_MANAGER_CALL': Error: ERR_FAILED (-2) loading 'https://cider.sh/remote/pair?url=aHR0cDovLzE5Mi4xNjguMjkuMjI6Njk0Mg=='
+    at rejectAndCleanup (node:electron/js2c/browser_init:2:79592)
+    at finishListener (node:electron/js2c/browser_init:2:79754)
+    at WebContents.stopLoadingListener (node:electron/js2c/browser_init:2:80141)
+    at WebContents.emit (node:events:530:35)
+    at WebContents.emit (node:domain:488:12)
+    at WebContents.emitter.emit (file:///tmp/.mount_Cider-Jqpmj0/resources/app.asar/node_modules/@sentry/electron/src/main/integrations/electron-breadcrumbs.ts:146:16)
+[2024-08-12 10:38:09.338] [error] Error occurred in handler for 'GUEST_VIEW_MANAGER_CALL': Error: ERR_ABORTED (-3) loading 'https://cider.sh/remote/pair?url=aHR0cDovLzE5Mi4xNjguMjkuMjI6Njk0Mg=='
+    at rejectAndCleanup (node:electron/js2c/browser_init:2:79592)
+    at WebContents.navigationListener (node:electron/js2c/browser_init:2:79872)
+    at WebContents.emit (node:events:530:35)
+    at WebContents.emit (node:domain:488:12)
+    at WebContents.emitter.emit (file:///tmp/.mount_Cider-Jqpmj0/resources/app.asar/node_modules/@sentry/electron/src/main/integrations/electron-breadcrumbs.ts:146:16)
+[2024-08-12 10:38:37.000] [error] Error occurred in handler for 'GUEST_VIEW_MANAGER_CALL': Error: ERR_FAILED (-2) loading 'https://cider.sh/remote/pair?url=aHR0cDovLzE5Mi4xNjguMjkuMjI6Njk0Mg=='
+    at rejectAndCleanup (node:electron/js2c/browser_init:2:79592)
+    at finishListener (node:electron/js2c/browser_init:2:79754)
+    at WebContents.stopLoadingListener (node:electron/js2c/browser_init:2:80141)
+    at WebContents.emit (node:events:530:35)
+    at WebContents.emit (node:domain:488:12)
+    at WebContents.emitter.emit (file:///tmp/.mount_Cider-Jqpmj0/resources/app.asar/node_modules/@sentry/electron/src/main/integrations/electron-breadcrumbs.ts:146:16)
+[2024-08-12 10:38:37.025] [error] Error occurred in handler for 'GUEST_VIEW_MANAGER_CALL': Error: ERR_ABORTED (-3) loading 'https://cider.sh/remote/pair?url=aHR0cDovLzE5Mi4xNjguMjkuMjI6Njk0Mg=='
+    at rejectAndCleanup (node:electron/js2c/browser_init:2:79592)
+    at WebContents.navigationListener (node:electron/js2c/browser_init:2:79872)
+    at WebContents.emit (node:events:530:35)
+    at WebContents.emit (node:domain:488:12)
+    at WebContents.emitter.emit (file:///tmp/.mount_Cider-Jqpmj0/resources/app.asar/node_modules/@sentry/electron/src/main/integrations/electron-breadcrumbs.ts:146:16)
+[2024-08-12 10:38:40.237] [info]  Search GC err TypeError: Client is not a constructor
+    at ChromecastPlugin.searchForGCDevices (file:///tmp/.mount_Cider-Jqpmj0/resources/app.asar/src/main/plugins/chromecast.ts:54:25)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-08-12 10:38:40.243] [info]  Search GC err TypeError: Client is not a constructor
+    at ChromecastPlugin.searchForGCDevices (file:///tmp/.mount_Cider-Jqpmj0/resources/app.asar/src/main/plugins/chromecast.ts:54:25)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-08-12 10:38:40.243] [info]  Search GC err TypeError: Client is not a constructor
+    at ChromecastPlugin.searchForGCDevices (file:///tmp/.mount_Cider-Jqpmj0/resources/app.asar/src/main/plugins/chromecast.ts:54:25)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-08-12 10:38:40.244] [info]  Search GC err TypeError: Client is not a constructor
+    at ChromecastPlugin.searchForGCDevices (file:///tmp/.mount_Cider-Jqpmj0/resources/app.asar/src/main/plugins/chromecast.ts:54:25)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-08-12 10:38:40.247] [error] (node:308617) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 packets listeners added to [EventEmitter]. Use emitter.setMaxListeners() to increase limit
+[2024-08-12 11:38:16.799] [error] [lastfm] [album.getInfo] Error: Album not found
+[2024-08-12 11:40:44.454] [error] [lastfm] [album.getInfo] Error: Album not found
+[2024-08-12 12:36:40.601] [warn]  Cider exited.
