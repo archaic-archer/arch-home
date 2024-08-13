@@ -458,7 +458,8 @@
     "status": "Supported",
     "reference": "",
     "anticheats": [
-      "BattlEye"
+      "BattlEye",
+      "VAC"
     ],
     "notes": [],
     "updates": [
@@ -486,7 +487,7 @@
       }
     },
     "slug": "ark-survival-evolved",
-    "dateChanged": "2024-01-19T04:40:56.000Z"
+    "dateChanged": "2024-08-11T10:19:18.852Z"
   },
   {
     "url": "https://dayz.com",
@@ -496,7 +497,8 @@
     "status": "Supported",
     "reference": "",
     "anticheats": [
-      "BattlEye"
+      "BattlEye",
+      "VAC"
     ],
     "notes": [],
     "updates": [
@@ -510,7 +512,7 @@
       "steam": "221100"
     },
     "slug": "dayz",
-    "dateChanged": "2024-01-19T04:40:56.000Z"
+    "dateChanged": "2024-08-11T23:02:07.322Z"
   },
   {
     "url": "https://deadbydaylight.com/",
@@ -649,7 +651,8 @@
     "status": "Denied",
     "reference": "https://www.gamingonlinux.com/2022/10/facepunch-put-out-a-fresh-statement-on-rust-for-steam-deck-linux/",
     "anticheats": [
-      "Easy Anti-Cheat"
+      "Easy Anti-Cheat",
+      "VAC"
     ],
     "notes": [],
     "updates": [
@@ -688,7 +691,7 @@
       "steam": "252490"
     },
     "slug": "rust",
-    "dateChanged": "2024-02-08T15:25:52.293Z"
+    "dateChanged": "2024-08-11T23:02:07.337Z"
   },
   {
     "url": "https://warthunder.com/",
@@ -4530,7 +4533,8 @@
     "status": "Denied",
     "reference": "https://steamcommunity.com/app/707010/discussions/0/2950411088500148325/",
     "anticheats": [
-      "Easy Anti-Cheat"
+      "Easy Anti-Cheat",
+      "VAC"
     ],
     "notes": [],
     "updates": [],
@@ -4538,7 +4542,7 @@
       "steam": "707010"
     },
     "slug": "will-to-live-online",
-    "dateChanged": "2024-01-19T04:40:56.000Z"
+    "dateChanged": "2024-08-11T10:19:18.987Z"
   },
   {
     "url": "",
@@ -5912,9 +5916,14 @@
       "Easy Anti-Cheat"
     ],
     "updates": [],
-    "notes": [],
+    "notes": [
+      [
+        "Unreleased, Speculative",
+        null
+      ]
+    ],
     "storeIds": {},
-    "dateChanged": "2024-01-19T04:40:56.000Z"
+    "dateChanged": "2024-08-11T10:19:19.031Z"
   },
   {
     "url": "",
@@ -6826,9 +6835,14 @@
       "Seasun Protect"
     ],
     "updates": [],
-    "notes": [],
+    "notes": [
+      [
+        "Unreleased, Speculative",
+        null
+      ]
+    ],
     "storeIds": {},
-    "dateChanged": "2024-08-05T20:28:25.194Z"
+    "dateChanged": "2024-08-11T10:19:19.068Z"
   },
   {
     "url": "",
@@ -8570,5 +8584,107 @@
     "notes": [],
     "storeIds": {},
     "dateChanged": "2024-08-09T22:24:19.311Z"
+  },
+  {
+    "url": "",
+    "slug": "icarus-online",
+    "name": "Icarus Online",
+    "logo": "",
+    "native": false,
+    "status": "Broken",
+    "reference": "",
+    "anticheats": [
+      "XIGNCODE3",
+      "nProtect GameGuard"
+    ],
+    "updates": [],
+    "notes": [],
+    "storeIds": {},
+    "dateChanged": "2024-08-10T21:30:09.867Z"
+  },
+  {
+    "url": "",
+    "slug": "helldivers",
+    "name": "Helldivers",
+    "logo": "",
+    "native": false,
+    "status": "Running",
+    "reference": "",
+    "anticheats": [
+      "VAC"
+    ],
+    "updates": [],
+    "notes": [],
+    "storeIds": {},
+    "dateChanged": "2024-08-10T23:52:25.067Z"
+  },
+  {
+    "url": "",
+    "slug": "avorion",
+    "name": "Avorion",
+    "logo": "",
+    "native": false,
+    "status": "Running",
+    "reference": "",
+    "anticheats": [
+      "VAC"
+    ],
+    "updates": [],
+    "notes": [],
+    "storeIds": {},
+    "dateChanged": "2024-08-10T23:52:25.070Z"
+  },
+  {
+    "url": "",
+    "slug": "half-life-opfor",
+    "name": "Half-Life: Opposing Force",
+    "logo": "",
+    "native": true,
+    "status": "Supported",
+    "reference": "",
+    "anticheats": [
+      "VAC"
+    ],
+    "updates": [],
+    "notes": [],
+    "storeIds": {},
+    "dateChanged": "2024-08-10T23:52:25.071Z"
+  },
+  {
+    "url": "https://www.bladeandsoul.com/",
+    "slug": "blade-and-soul",
+    "name": "Blade & Soul",
+    "logo": "",
+    "native": false,
+    "status": "Broken",
+    "reference": "",
+    "anticheats": [
+      "nProtect GameGuard"
+    ],
+    "updates": [],
+    "notes": [],
+    "storeIds": {},
+    "dateChanged": "2024-08-11T10:19:19.122Z"
+  },
+  {
+    "url": "",
+    "slug": "spectre-divide",
+    "name": "Spectre Divide",
+    "logo": "",
+    "native": false,
+    "status": "Denied",
+    "reference": "",
+    "anticheats": [
+      "BattlEye"
+    ],
+    "updates": [],
+    "notes": [
+      [
+        "Unreleased, Explicitly denied in Open Beta",
+        null
+      ]
+    ],
+    "storeIds": {},
+    "dateChanged": "2024-08-11T23:02:07.610Z"
   }
 ]

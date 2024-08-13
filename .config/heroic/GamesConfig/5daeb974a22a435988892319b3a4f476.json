@@ -11,6 +11,7 @@
     "nvidiaPrime": true,
     "enviromentOptions": [],
     "wrapperOptions": [],
+    "savesPath": "/home/pc/Games/Heroic/Prefixes/default/Fallout New Vegas/pfx/drive_c/users/steamuser/Documents/My Games/FalloutNV_Epic",
     "showFps": false,
     "showMangohud": true,
     "useGameMode": true,
@@ -21,10 +22,9 @@
     "beforeLaunchScriptPath": "",
     "afterLaunchScriptPath": "",
     "wineVersion": {
-      "bin": "/usr/bin/wine",
-      "name": "Wine Default - wine-9.8 (Staging)",
-      "type": "wine",
-      "wineserver": "/usr/bin/wineserver"
+      "bin": "/home/pc/.local/share/Steam/steamapps/common/Proton - Experimental/proton",
+      "name": "Proton - Proton - Experimental",
+      "type": "proton"
     },
     "winePrefix": "/home/pc/Games/Heroic/Prefixes/default/Fallout New Vegas",
     "wineCrossoverBottle": ""

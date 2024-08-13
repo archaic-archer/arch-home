@@ -163,3 +163,215 @@
 [2024-08-12 11:38:16.799] [error] [lastfm] [album.getInfo] Error: Album not found
 [2024-08-12 11:40:44.454] [error] [lastfm] [album.getInfo] Error: Album not found
 [2024-08-12 12:36:40.601] [warn]  Cider exited.
+[2024-08-13 09:27:47.470] [info]  [AppEvents] App started
+[2024-08-13 09:27:47.604] [info]  [PluginHandler] Loaded plugins: []
+[2024-08-13 09:27:50.461] [info]  [AppEvents] App ready
+[2024-08-13 09:27:50.461] [info]  [Cider] Application is Ready. Creating Window.
+[2024-08-13 09:27:50.461] [info]  aa
+[2024-08-13 09:27:50.462] [info]  [Cider] Creating Window.
+[2024-08-13 09:27:50.470] [info]  Setting up handlers for local files
+[2024-08-13 09:27:50.474] [info]  [Connect] Auth URL: https://connect.cidercollective.dev/callback/discord?app=cider&appPort=9000
+[2024-08-13 09:27:50.622] [info]  WebSocketServer started on port: 26369
+[2024-08-13 09:27:50.645] [info]  [Cider][Widevine] Status: {
+  oimompecagnajdejgnnjijobebaeigek: {
+    status: 'new',
+    title: 'Widevine Content Decryption Module',
+    version: '4.10.2710.0'
+  }
+}
+[2024-08-13 09:27:50.698] [info]  {
+  auxAttributes: {
+    amdSwitchable: true,
+    canSupportThreadedTextureMailbox: false,
+    glImplementationParts: '(gl=none,angle=none)',
+    glResetNotificationStrategy: 0,
+    inProcessGpu: true,
+    initializationTime: 0,
+    isAsan: false,
+    isClangCoverage: false,
+    jpegDecodeAcceleratorSupported: false,
+    optimus: false,
+    passthroughCmdDecoder: false,
+    sandboxed: false,
+    subpixelFontRendering: true,
+    targetCpuBits: 64,
+    visibilityCallbackCallCount: 0
+  },
+  gpuDevice: [
+    {
+      active: true,
+      cudaComputeCapabilityMajor: 0,
+      deviceId: 26213,
+      gpuPreference: 0,
+      vendorId: 4098
+    },
+    {
+      active: false,
+      cudaComputeCapabilityMajor: 0,
+      deviceId: 22807,
+      gpuPreference: 0,
+      vendorId: 32902
+    }
+  ]
+}
+[2024-08-13 09:27:50.700] [info]  From here can you check for real changes, the initial scan has been completed.
+[2024-08-13 09:27:50.700] [info]  Cider client port: 9000
+[2024-08-13 09:27:50.703] [info]  Cider remote port: 6942
+[2024-08-13 09:27:50.705] [info]  remote broadcasted
+[2024-08-13 09:27:59.301] [error] (node:314341) [node-fetch#buffer] DeprecationWarning: Please use 'response.arrayBuffer()' instead of 'response.buffer()'
+(Use `cider --trace-deprecation ...` to show where the warning was created)
+[2024-08-13 11:40:59.116] [info]  [AppEvents] App started
+[2024-08-13 11:40:59.274] [info]  [PluginHandler] Loaded plugins: []
+[2024-08-13 11:41:01.340] [info]  [AppEvents] App ready
+[2024-08-13 11:41:01.341] [info]  [Cider] Application is Ready. Creating Window.
+[2024-08-13 11:41:01.341] [info]  aa
+[2024-08-13 11:41:01.342] [info]  [Cider] Creating Window.
+[2024-08-13 11:41:01.355] [info]  Setting up handlers for local files
+[2024-08-13 11:41:01.360] [info]  [Connect] Auth URL: https://connect.cidercollective.dev/callback/discord?app=cider&appPort=41013
+[2024-08-13 11:41:01.560] [info]  WebSocketServer started on port: 26369
+[2024-08-13 11:41:01.586] [info]  [Cider][Widevine] Status: {
+  oimompecagnajdejgnnjijobebaeigek: {
+    status: 'new',
+    title: 'Widevine Content Decryption Module',
+    version: '4.10.2710.0'
+  }
+}
+[2024-08-13 11:41:01.588] [info]  [InstanceHandler] (second-instance) Instance started with /tmp/.mount_Cider-EtO5At/cider,--no-sandbox,--allow-file-access-from-files,--secure-schemes=sentry-ipc,--bypasscsp-schemes=sentry-ipc,--cors-schemes=sentry-ipc,--fetch-schemes=sentry-ipc,--js-flags=--max-old-space-size=350,--js-flags=--expose_gc,--enable-accelerated-mjpeg-decode,--enable-accelerated-video,--disable-gpu-driver-bug-workarounds,--ignore-gpu-blacklist,--enable-native-gpu-memory-buffers,--enable-accelerated-video-decode,--enable-gpu-rasterization,--enable-native-gpu-memory-buffers,--enable-oop-rasterization,--disable-features=MediaSessionService
+[2024-08-13 11:41:01.588] [info]  /tmp/.mount_Cider-EtO5At/cider
+[2024-08-13 11:41:01.670] [info]  --no-sandbox
+[2024-08-13 11:41:01.696] [info]  --allow-file-access-from-files
+[2024-08-13 11:41:01.718] [info]  --secure-schemes=sentry-ipc
+[2024-08-13 11:41:01.745] [info]  --bypasscsp-schemes=sentry-ipc
+[2024-08-13 11:41:01.774] [info]  --cors-schemes=sentry-ipc
+[2024-08-13 11:41:01.810] [info]  --fetch-schemes=sentry-ipc
+[2024-08-13 11:41:01.855] [info]  --js-flags=--max-old-space-size=350
+[2024-08-13 11:41:01.891] [info]  --js-flags=--expose_gc
+[2024-08-13 11:41:01.945] [info]  --enable-accelerated-mjpeg-decode
+[2024-08-13 11:41:01.981] [info]  --enable-accelerated-video
+[2024-08-13 11:41:02.006] [info]  --disable-gpu-driver-bug-workarounds
+[2024-08-13 11:41:02.037] [info]  --ignore-gpu-blacklist
+[2024-08-13 11:41:02.058] [info]  --enable-native-gpu-memory-buffers
+[2024-08-13 11:41:02.079] [info]  --enable-accelerated-video-decode
+[2024-08-13 11:41:02.102] [info]  --enable-gpu-rasterization
+[2024-08-13 11:41:02.124] [info]  --enable-native-gpu-memory-buffers
+[2024-08-13 11:41:02.145] [info]  --enable-oop-rasterization
+[2024-08-13 11:41:02.167] [info]  --disable-features=MediaSessionService
+[2024-08-13 11:41:02.189] [info]  [Cider] Another instance has been found, quitting.
+[2024-08-13 11:41:02.190] [warn]  Cider exited.
+[2024-08-13 11:41:02.284] [info]  {
+  auxAttributes: {
+    amdSwitchable: true,
+    canSupportThreadedTextureMailbox: false,
+    glImplementationParts: '(gl=none,angle=none)',
+    glResetNotificationStrategy: 0,
+    inProcessGpu: true,
+    initializationTime: 0,
+    isAsan: false,
+    isClangCoverage: false,
+    jpegDecodeAcceleratorSupported: false,
+    optimus: false,
+    passthroughCmdDecoder: false,
+    sandboxed: false,
+    subpixelFontRendering: true,
+    targetCpuBits: 64,
+    visibilityCallbackCallCount: 0
+  },
+  gpuDevice: [
+    {
+      active: true,
+      cudaComputeCapabilityMajor: 0,
+      deviceId: 26213,
+      gpuPreference: 0,
+      vendorId: 4098
+    },
+    {
+      active: false,
+      cudaComputeCapabilityMajor: 0,
+      deviceId: 22807,
+      gpuPreference: 0,
+      vendorId: 32902
+    }
+  ]
+}
+[2024-08-13 11:41:02.286] [info]  From here can you check for real changes, the initial scan has been completed.
+[2024-08-13 11:41:02.287] [info]  Cider client port: 41013
+[2024-08-13 11:41:02.430] [info]  Cider remote port: 44047
+[2024-08-13 11:41:02.452] [info]  remote broadcasted
+[2024-08-13 11:41:07.880] [info]  [AppEvents] App started
+[2024-08-13 11:41:08.162] [info]  [PluginHandler] Loaded plugins: []
+[2024-08-13 11:41:10.686] [info]  [AppEvents] App ready
+[2024-08-13 11:41:10.690] [info]  [Cider] Application is Ready. Creating Window.
+[2024-08-13 11:41:10.691] [info]  aa
+[2024-08-13 11:41:10.695] [info]  [Cider] Creating Window.
+[2024-08-13 11:41:10.731] [info]  Setting up handlers for local files
+[2024-08-13 11:41:10.750] [info]  [Connect] Auth URL: https://connect.cidercollective.dev/callback/discord?app=cider&appPort=38977
+[2024-08-13 11:41:11.358] [info]  WebSocketServer started on port: 26369
+[2024-08-13 11:41:11.433] [info]  [Cider][Widevine] Status: {
+  oimompecagnajdejgnnjijobebaeigek: {
+    status: 'new',
+    title: 'Widevine Content Decryption Module',
+    version: '4.10.2710.0'
+  }
+}
+[2024-08-13 11:41:11.438] [info]  [InstanceHandler] (second-instance) Instance started with /tmp/.mount_Cider-sBKxC6/cider,--no-sandbox,--allow-file-access-from-files,--secure-schemes=sentry-ipc,--bypasscsp-schemes=sentry-ipc,--cors-schemes=sentry-ipc,--fetch-schemes=sentry-ipc,--js-flags=--max-old-space-size=350,--js-flags=--expose_gc,--enable-accelerated-mjpeg-decode,--enable-accelerated-video,--disable-gpu-driver-bug-workarounds,--ignore-gpu-blacklist,--enable-native-gpu-memory-buffers,--enable-accelerated-video-decode,--enable-gpu-rasterization,--enable-native-gpu-memory-buffers,--enable-oop-rasterization,--disable-features=MediaSessionService
+[2024-08-13 11:41:11.439] [info]  /tmp/.mount_Cider-sBKxC6/cider
+[2024-08-13 11:41:11.482] [info]  --no-sandbox
+[2024-08-13 11:41:11.528] [info]  --allow-file-access-from-files
+[2024-08-13 11:41:11.583] [info]  --secure-schemes=sentry-ipc
+[2024-08-13 11:41:11.632] [info]  --bypasscsp-schemes=sentry-ipc
+[2024-08-13 11:41:11.677] [info]  --cors-schemes=sentry-ipc
+[2024-08-13 11:41:11.747] [info]  --fetch-schemes=sentry-ipc
+[2024-08-13 11:41:11.789] [info]  --js-flags=--max-old-space-size=350
+[2024-08-13 11:41:11.832] [info]  --js-flags=--expose_gc
+[2024-08-13 11:41:11.883] [info]  --enable-accelerated-mjpeg-decode
+[2024-08-13 11:41:11.935] [info]  --enable-accelerated-video
+[2024-08-13 11:41:11.976] [info]  --disable-gpu-driver-bug-workarounds
+[2024-08-13 11:41:12.035] [info]  --ignore-gpu-blacklist
+[2024-08-13 11:41:12.092] [info]  --enable-native-gpu-memory-buffers
+[2024-08-13 11:41:12.134] [info]  --enable-accelerated-video-decode
+[2024-08-13 11:41:12.173] [info]  --enable-gpu-rasterization
+[2024-08-13 11:41:12.212] [info]  --enable-native-gpu-memory-buffers
+[2024-08-13 11:41:12.253] [info]  --enable-oop-rasterization
+[2024-08-13 11:41:12.294] [info]  --disable-features=MediaSessionService
+[2024-08-13 11:41:12.337] [info]  [Cider] Another instance has been found, quitting.
+[2024-08-13 11:41:12.339] [warn]  Cider exited.
+[2024-08-13 11:41:12.479] [info]  {
+  auxAttributes: {
+    amdSwitchable: true,
+    canSupportThreadedTextureMailbox: false,
+    glImplementationParts: '(gl=none,angle=none)',
+    glResetNotificationStrategy: 0,
+    inProcessGpu: true,
+    initializationTime: 0,
+    isAsan: false,
+    isClangCoverage: false,
+    jpegDecodeAcceleratorSupported: false,
+    optimus: false,
+    passthroughCmdDecoder: false,
+    sandboxed: false,
+    subpixelFontRendering: true,
+    targetCpuBits: 64,
+    visibilityCallbackCallCount: 0
+  },
+  gpuDevice: [
+    {
+      active: true,
+      cudaComputeCapabilityMajor: 0,
+      deviceId: 26213,
+      gpuPreference: 0,
+      vendorId: 4098
+    },
+    {
+      active: false,
+      cudaComputeCapabilityMajor: 0,
+      deviceId: 22807,
+      gpuPreference: 0,
+      vendorId: 32902
+    }
+  ]
+}
+[2024-08-13 11:41:12.483] [info]  From here can you check for real changes, the initial scan has been completed.
+[2024-08-13 11:41:12.486] [info]  Cider client port: 38977
+[2024-08-13 11:41:12.662] [info]  Cider remote port: 35097
+[2024-08-13 11:41:12.670] [info]  remote broadcasted
+[2024-08-13 11:41:13.149] [warn]  Cider exited.

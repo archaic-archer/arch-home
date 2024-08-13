@@ -4,11 +4,12 @@
     "autoInstallDxvkNvapi": true,
     "autoInstallVkd3d": true,
     "preferSystemLibs": false,
-    "enableEsync": false,
+    "enableEsync": true,
     "enableMsync": false,
     "enableFSR": true,
-    "enableFsync": false,
+    "enableFsync": true,
     "nvidiaPrime": true,
+    "offlineMode": false,
     "enviromentOptions": [],
     "wrapperOptions": [],
     "showFps": false,
@@ -20,14 +21,6 @@
     "language": "",
     "beforeLaunchScriptPath": "",
     "afterLaunchScriptPath": "",
-    "wineVersion": {
-      "bin": "/home/pc/.config/heroic/tools/proton/Proton-GE-latest/proton",
-      "name": "Proton - Proton-GE-latest",
-      "type": "proton"
-    },
-    "winePrefix": "/home/pc/Games/Heroic/Prefixes/default/Grand Theft Auto V",
-    "wineCrossoverBottle": "",
-    "enableDXVKFpsLimit": false,
     "gamescope": {
       "enableUpscaling": false,
       "enableLimiter": false,
@@ -36,11 +29,20 @@
       "gameHeight": "",
       "upscaleHeight": "",
       "upscaleWidth": "",
-      "upscaleMethod": "fsr",
+      "upscaleMethod": "integer",
       "fpsLimiter": "30",
       "fpsLimiterNoFocus": "",
       "additionalOptions": ""
-    }
+    },
+    "wineVersion": {
+      "bin": "/home/pc/.config/heroic/tools/proton/Proton-GE-latest/proton",
+      "name": "Proton - Proton-GE-latest",
+      "type": "proton"
+    },
+    "winePrefix": "/home/pc/Games/Heroic/Prefixes/default/Grand Theft Auto V",
+    "wineCrossoverBottle": "",
+    "enableDXVKFpsLimit": true,
+    "DXVKFpsCap": "30"
   },
   "version": "v0",
   "explicit": true

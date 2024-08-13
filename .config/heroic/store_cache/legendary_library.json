@@ -557,9 +557,10 @@
 			"namespace": "3428aaab2c674c98b3acb789dcfaa548",
 			"is_mac_native": false,
 			"save_folder": "{UserDir}/My Games/FalloutNV_Epic/",
-			"save_path": null,
+			"save_path": "/home/pc/Games/Heroic/Prefixes/default/Fallout New Vegas/pfx/drive_c/users/steamuser/Documents/My Games/FalloutNV_Epic",
 			"title": "Fallout: New Vegas",
 			"canRunOffline": false,
+			"isEAManaged": false,
 			"is_linux_native": false,
 			"runner": "legendary",
 			"store_url": "https://www.epicgames.com/store/product/fallout-new-vegas"
@@ -594,6 +595,7 @@
 			"save_path": null,
 			"title": "Grand Theft Auto V",
 			"canRunOffline": false,
+			"isEAManaged": false,
 			"is_linux_native": false,
 			"runner": "legendary",
 			"store_url": "https://www.epicgames.com/store/product/grand-theft-auto-v"
@@ -1692,6 +1694,7 @@
 			"save_folder": "",
 			"title": "ARK: Survival Evolved",
 			"canRunOffline": true,
+			"isEAManaged": false,
 			"is_linux_native": false,
 			"runner": "legendary",
 			"store_url": "https://www.epicgames.com/store/product/ark-survival-evolved"
@@ -2638,6 +2641,7 @@
 			"save_folder": "{UserDir}/My Games/Borderlands 3/Saved/SaveGames/{EpicID}/",
 			"title": "Borderlands 3",
 			"canRunOffline": true,
+			"isEAManaged": false,
 			"is_linux_native": false,
 			"runner": "legendary",
 			"store_url": "https://www.epicgames.com/store/product/borderlands-3"
@@ -3600,6 +3604,7 @@
 			"save_folder": "{UserSavedGames}/Avalanche Studios/CotWTheAngler/Saves/",
 			"title": "Call of the Wild: The Angler™",
 			"canRunOffline": true,
+			"isEAManaged": false,
 			"is_linux_native": false,
 			"runner": "legendary",
 			"store_url": "https://www.epicgames.com/store/product/call-of-the-wild-the-angler"
@@ -3918,9 +3923,40 @@
 			"save_folder": "{AppData}/Remedy/Control/Default-Epic-User/",
 			"title": "Control",
 			"canRunOffline": true,
+			"isEAManaged": false,
 			"is_linux_native": false,
 			"runner": "legendary",
 			"store_url": "https://www.epicgames.com/store/product/control"
+		},
+		{
+			"app_name": "25ad72f164b948ab9e05eb18fab2cda8",
+			"art_cover": "https://cdn1.epicgames.com/spt-assets/99e568930ad045a5a91b0b50ea3d5389/cygni--all-guns-blazing-yqcwc.png",
+			"art_square": "https://cdn1.epicgames.com/spt-assets/99e568930ad045a5a91b0b50ea3d5389/cygni--all-guns-blazing-h3y3e.png",
+			"cloud_save_enabled": true,
+			"developer": "KONAMI",
+			"extra": {
+				"about": {
+					"description": "An unrelenting onslaught of eye-popping visuals, ear bursting soundscapes and mind-melting action makes CYGNI the vanguard for the next generation of shoot-em ups. Outgunned, outmanned and out on your own, plunge into a sky full of hell in a last-ditch battle for survival.",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/cygni--all-guns-blazing"
+			},
+			"folder_name": "CYGNIAllGunsBlazingkhtzt",
+			"install": {
+				"install_size": "0",
+				"is_dlc": false
+			},
+			"is_installed": false,
+			"namespace": "5d9f109e44ec4c8bbc5495f43b601f25",
+			"is_mac_native": false,
+			"save_folder": "{AppData}/Cygni/Saved/",
+			"title": "CYGNI - All Guns Blazing",
+			"canRunOffline": false,
+			"isEAManaged": false,
+			"is_linux_native": false,
+			"runner": "legendary",
+			"store_url": "https://www.epicgames.com/store/product/cygni--all-guns-blazing"
 		},
 		{
 			"app_name": "Boga",
@@ -3984,6 +4020,7 @@
 			"save_folder": "{appdata}/../locallow/KojimaProductions/DeathStranding/{EpicID}/",
 			"title": "Death Stranding",
 			"canRunOffline": true,
+			"isEAManaged": false,
 			"is_linux_native": false,
 			"runner": "legendary",
 			"store_url": "https://www.epicgames.com/store/product/death-stranding"
@@ -4327,6 +4364,7 @@
 			"save_folder": "",
 			"title": "Death Stranding Content",
 			"canRunOffline": true,
+			"isEAManaged": false,
 			"is_linux_native": false,
 			"runner": "legendary",
 			"store_url": "https://www.epicgames.com/store/product/death-stranding-content"
@@ -6102,6 +6140,7 @@
 			"save_folder": "",
 			"title": "Destiny 2",
 			"canRunOffline": true,
+			"isEAManaged": false,
 			"is_linux_native": false,
 			"runner": "legendary",
 			"store_url": "https://www.epicgames.com/store/product/destiny-2"
@@ -6131,6 +6170,7 @@
 			"save_folder": "",
 			"title": "Doki Doki Literature Club Plus!",
 			"canRunOffline": true,
+			"isEAManaged": false,
 			"is_linux_native": false,
 			"runner": "legendary",
 			"store_url": "https://www.epicgames.com/store/product/doki-doki-literature-club-plus"
@@ -8097,6 +8137,7 @@
 			"save_folder": "",
 			"title": "The Elder Scrolls Online",
 			"canRunOffline": false,
+			"isEAManaged": false,
 			"is_linux_native": false,
 			"runner": "legendary",
 			"store_url": "https://www.epicgames.com/store/product/the-elder-scrolls-online"
@@ -8355,6 +8396,7 @@
 			"save_folder": "{UserSavedGames}/TangoGameworks/The Evil Within (Epic)",
 			"title": "The Evil Within",
 			"canRunOffline": false,
+			"isEAManaged": false,
 			"is_linux_native": false,
 			"runner": "legendary",
 			"store_url": "https://www.epicgames.com/store/product/the-evil-within"
@@ -8600,6 +8642,7 @@
 			"save_folder": "",
 			"title": "The Falconeer",
 			"canRunOffline": true,
+			"isEAManaged": false,
 			"is_linux_native": false,
 			"runner": "legendary",
 			"store_url": "https://www.epicgames.com/store/product/the-falconeer"
@@ -8629,6 +8672,7 @@
 			"save_folder": "",
 			"title": "Fall Guys",
 			"canRunOffline": true,
+			"isEAManaged": false,
 			"is_linux_native": false,
 			"runner": "legendary",
 			"store_url": "https://www.epicgames.com/store/product/fall-guys"
@@ -9501,6 +9545,7 @@
 			"save_folder": "",
 			"title": "Fortnite",
 			"canRunOffline": false,
+			"isEAManaged": false,
 			"is_linux_native": false,
 			"runner": "legendary",
 			"store_url": "https://www.epicgames.com/store/product/fortnite"
@@ -9530,6 +9575,7 @@
 			"save_folder": "{AppData}/../LocalLow/Clover Bite/Grime/Save Files/",
 			"title": "GRIME",
 			"canRunOffline": true,
+			"isEAManaged": false,
 			"is_linux_native": false,
 			"runner": "legendary",
 			"store_url": "https://www.epicgames.com/store/product/grime"
@@ -9645,6 +9691,7 @@
 			"save_folder": "",
 			"title": "Homeworld: Deserts of Kharak",
 			"canRunOffline": true,
+			"isEAManaged": false,
 			"is_linux_native": false,
 			"runner": "legendary",
 			"store_url": "https://www.epicgames.com/store/product/homeworld-deserts-of-kharak"
@@ -9674,6 +9721,7 @@
 			"save_folder": "",
 			"title": "Hue",
 			"canRunOffline": true,
+			"isEAManaged": false,
 			"is_linux_native": false,
 			"runner": "legendary",
 			"store_url": "https://www.epicgames.com/store/product/hue"
@@ -9703,6 +9751,7 @@
 			"save_folder": "",
 			"title": "In Sound Mind",
 			"canRunOffline": true,
+			"isEAManaged": false,
 			"is_linux_native": false,
 			"runner": "legendary",
 			"store_url": "https://www.epicgames.com/store/product/in-sound-mind"
@@ -9732,6 +9781,7 @@
 			"save_folder": "{AppData}/Industria/Saved/SaveGames/",
 			"title": "INDUSTRIA",
 			"canRunOffline": true,
+			"isEAManaged": false,
 			"is_linux_native": false,
 			"runner": "legendary",
 			"store_url": "https://www.epicgames.com/store/product/industria"
@@ -9761,6 +9811,7 @@
 			"save_folder": "{AppData}/../LocalLow/Skybound/atom-eve-game-client/",
 			"title": "Invincible Presents: Atom Eve",
 			"canRunOffline": false,
+			"isEAManaged": false,
 			"is_linux_native": false,
 			"runner": "legendary",
 			"store_url": "https://www.epicgames.com/store/product/invincible-presents-atom-eve"
@@ -10210,6 +10261,7 @@
 			"save_folder": "{AppData}/KaoDRMFree/",
 			"title": "Kao the Kangaroo",
 			"canRunOffline": false,
+			"isEAManaged": false,
 			"is_linux_native": false,
 			"runner": "legendary",
 			"store_url": "https://www.epicgames.com/store/product/kao-the-kangaroo"
@@ -10239,6 +10291,7 @@
 			"save_folder": "",
 			"title": "LISA: The Joyful - Definitive Edition",
 			"canRunOffline": false,
+			"isEAManaged": false,
 			"is_linux_native": false,
 			"runner": "legendary",
 			"store_url": "https://www.epicgames.com/store/product/lisa-the-joyful"
@@ -10268,6 +10321,7 @@
 			"save_folder": "",
 			"title": "LISA: The Painful - Definitive Edition",
 			"canRunOffline": false,
+			"isEAManaged": false,
 			"is_linux_native": false,
 			"runner": "legendary",
 			"store_url": "https://www.epicgames.com/store/product/lisa-the-painful"
@@ -10348,6 +10402,7 @@
 			"save_folder": "{AppData}/../LocalLow/Hunter Studio/Lost_Castle/epic/",
 			"title": "Lost Castle",
 			"canRunOffline": false,
+			"isEAManaged": false,
 			"is_linux_native": false,
 			"runner": "legendary",
 			"store_url": "https://www.epicgames.com/store/product/lost-castle"
@@ -10778,6 +10833,7 @@
 			"save_folder": "{AppData}/../Roaming/Epic/Eidos Montreal/Marvel's Guardians of the Galaxy/",
 			"title": "Marvel's Guardians of the Galaxy",
 			"canRunOffline": true,
+			"isEAManaged": false,
 			"is_linux_native": false,
 			"runner": "legendary",
 			"store_url": "https://www.epicgames.com/store/product/marvel-guardians-of-the-galaxy"
@@ -10851,6 +10907,7 @@
 			"save_folder": "",
 			"title": "Midnight Ghost Hunt",
 			"canRunOffline": true,
+			"isEAManaged": false,
 			"is_linux_native": false,
 			"runner": "legendary",
 			"store_url": "https://www.epicgames.com/store/product/midnight-ghost-hunt"
@@ -10880,6 +10937,7 @@
 			"save_folder": "{AppData}/TowerOfGuns2/Saved/SaveGames/",
 			"title": "Mothergunship",
 			"canRunOffline": true,
+			"isEAManaged": false,
 			"is_linux_native": false,
 			"runner": "legendary",
 			"store_url": "https://www.epicgames.com/store/product/mothergunship"
@@ -16453,6 +16511,7 @@
 			"save_folder": "{AppData}/PAYDAY 2/saves/{EpicID}/",
 			"title": "PAYDAY 2",
 			"canRunOffline": false,
+			"isEAManaged": false,
 			"is_linux_native": false,
 			"runner": "legendary",
 			"store_url": "https://www.epicgames.com/store/product/payday-2"
@@ -17170,6 +17229,7 @@
 			"save_folder": "{InstallDir}/Saves/",
 			"title": "PC Building Simulator",
 			"canRunOffline": true,
+			"isEAManaged": false,
 			"is_linux_native": false,
 			"runner": "legendary",
 			"store_url": "https://www.epicgames.com/store/product/pc-building-simulator"
@@ -17199,6 +17259,7 @@
 			"save_folder": "{UserDir}/Rise of the Tomb Raider/{EpicID}/",
 			"title": "Rise of the Tomb Raider: 20 Year Celebration",
 			"canRunOffline": true,
+			"isEAManaged": false,
 			"is_linux_native": false,
 			"runner": "legendary",
 			"store_url": "https://www.epicgames.com/store/product/rise-of-the-tomb-raider-20-year-celebration"
@@ -20149,6 +20210,7 @@
 			"save_folder": "",
 			"title": "Rocket League®",
 			"canRunOffline": true,
+			"isEAManaged": false,
 			"is_linux_native": false,
 			"runner": "legendary",
 			"store_url": "https://www.epicgames.com/store/product/rocket-league"
@@ -20178,6 +20240,7 @@
 			"save_folder": "",
 			"title": "Shadow of the Tomb Raider: Definitive Edition",
 			"canRunOffline": true,
+			"isEAManaged": false,
 			"is_linux_native": false,
 			"runner": "legendary",
 			"store_url": "https://www.epicgames.com/store/product/shadow-of-the-tomb-raider-definitive-edition"
@@ -24430,6 +24493,7 @@
 			"title": "The Sims™ 4",
 			"canRunOffline": false,
 			"thirdPartyManagedApp": "Origin",
+			"isEAManaged": true,
 			"is_linux_native": false,
 			"runner": "legendary",
 			"store_url": "https://www.epicgames.com/store/product/the-sims-4"
@@ -25091,6 +25155,7 @@
 			"save_folder": "",
 			"title": "Star Trek Online",
 			"canRunOffline": false,
+			"isEAManaged": false,
 			"is_linux_native": false,
 			"runner": "legendary",
 			"store_url": "https://www.epicgames.com/store/product/star-trek-online"
@@ -25120,6 +25185,7 @@
 			"save_folder": "",
 			"title": "Stubbs the Zombie in Rebel Without a Pulse",
 			"canRunOffline": true,
+			"isEAManaged": false,
 			"is_linux_native": false,
 			"runner": "legendary",
 			"store_url": "https://www.epicgames.com/store/product/stubbs-the-zombie-in-rebel-without-a-pulse"
@@ -25149,6 +25215,7 @@
 			"save_folder": "",
 			"title": "Tomb Raider GAME OF THE YEAR EDITION",
 			"canRunOffline": true,
+			"isEAManaged": false,
 			"is_linux_native": false,
 			"runner": "legendary",
 			"store_url": "https://www.epicgames.com/store/product/tomb-raider-game-of-the-year-edition"
@@ -25178,6 +25245,7 @@
 			"save_folder": "",
 			"title": "VALORANT",
 			"canRunOffline": true,
+			"isEAManaged": false,
 			"is_linux_native": false,
 			"runner": "legendary",
 			"store_url": "https://www.epicgames.com/store/product/valorant"
@@ -25207,6 +25275,7 @@
 			"save_folder": "",
 			"title": "Fallout New Vegas®: Lonesome Road™",
 			"canRunOffline": false,
+			"isEAManaged": false,
 			"is_linux_native": false,
 			"runner": "legendary",
 			"store_url": "https://www.epicgames.com/store/product/fallout-new-vegas-lonesome-road"
@@ -25236,6 +25305,7 @@
 			"save_folder": "",
 			"title": "Fallout New Vegas®: Honest Hearts",
 			"canRunOffline": false,
+			"isEAManaged": false,
 			"is_linux_native": false,
 			"runner": "legendary",
 			"store_url": "https://www.epicgames.com/store/product/fallout-new-vegas-honest-hearts"
@@ -25265,6 +25335,7 @@
 			"save_folder": "",
 			"title": "Fallout New Vegas®: Gun Runners’ Arsenal™",
 			"canRunOffline": false,
+			"isEAManaged": false,
 			"is_linux_native": false,
 			"runner": "legendary",
 			"store_url": "https://www.epicgames.com/store/product/fallout-new-vegas-gun-runners-arsenal"
@@ -25294,6 +25365,7 @@
 			"save_folder": "",
 			"title": "DEATH STRANDING DIGITAL SOUNDTRACK",
 			"canRunOffline": true,
+			"isEAManaged": false,
 			"is_linux_native": false,
 			"runner": "legendary",
 			"store_url": "https://www.epicgames.com/store/product/death-stranding-digital-soundtrack"
@@ -25323,6 +25395,7 @@
 			"save_folder": "",
 			"title": "Marvel's Guardians of the Galaxy: Social-Lord Outfit",
 			"canRunOffline": true,
+			"isEAManaged": false,
 			"is_linux_native": false,
 			"runner": "legendary",
 			"store_url": "https://www.epicgames.com/store/product/marvel-guardians-of-the-galaxy-sociallord-outfit"
@@ -25352,6 +25425,7 @@
 			"save_folder": "",
 			"title": "Fallout New Vegas®: Dead Money",
 			"canRunOffline": false,
+			"isEAManaged": false,
 			"is_linux_native": false,
 			"runner": "legendary",
 			"store_url": "https://www.epicgames.com/store/product/fallout-new-vegas-dead-money"
@@ -25381,6 +25455,7 @@
 			"save_folder": "",
 			"title": "SELECTIONS OF TITAN ART BOOK",
 			"canRunOffline": true,
+			"isEAManaged": false,
 			"is_linux_native": false,
 			"runner": "legendary",
 			"store_url": "https://www.epicgames.com/store/product/selections-of-titan-art-book"
@@ -25415,6 +25490,7 @@
 			"save_path": null,
 			"title": "Fallout New Vegas®: Old World Blues",
 			"canRunOffline": false,
+			"isEAManaged": false,
 			"is_linux_native": false,
 			"runner": "legendary",
 			"store_url": "https://www.epicgames.com/store/product/fallout-new-vegas-old-world-blues"
@@ -25444,6 +25520,7 @@
 			"save_folder": "",
 			"title": "Fallout New Vegas: Courier's Stash",
 			"canRunOffline": false,
+			"isEAManaged": false,
 			"is_linux_native": false,
 			"runner": "legendary",
 			"store_url": "https://www.epicgames.com/store/product/fallout-new-vegas-courier-stash"
@@ -25473,41 +25550,13 @@
 			"save_folder": "",
 			"title": "HD Wallpaper",
 			"canRunOffline": true,
+			"isEAManaged": false,
 			"is_linux_native": false,
 			"runner": "legendary",
 			"store_url": "https://www.epicgames.com/store/product/hd-wallpaper"
-		},
-		{
-			"app_name": "25ad72f164b948ab9e05eb18fab2cda8",
-			"art_cover": "https://cdn1.epicgames.com/spt-assets/99e568930ad045a5a91b0b50ea3d5389/cygni--all-guns-blazing-yqcwc.png",
-			"art_square": "https://cdn1.epicgames.com/spt-assets/99e568930ad045a5a91b0b50ea3d5389/cygni--all-guns-blazing-h3y3e.png",
-			"cloud_save_enabled": true,
-			"developer": "KONAMI",
-			"extra": {
-				"about": {
-					"description": "An unrelenting onslaught of eye-popping visuals, ear bursting soundscapes and mind-melting action makes CYGNI the vanguard for the next generation of shoot-em ups. Outgunned, outmanned and out on your own, plunge into a sky full of hell in a last-ditch battle for survival.",
-					"shortDescription": ""
-				},
-				"reqs": [],
-				"storeUrl": "https://www.epicgames.com/store/product/cygni--all-guns-blazing"
-			},
-			"folder_name": "CYGNIAllGunsBlazingkhtzt",
-			"install": {
-				"install_size": "0",
-				"is_dlc": false
-			},
-			"is_installed": false,
-			"namespace": "5d9f109e44ec4c8bbc5495f43b601f25",
-			"is_mac_native": false,
-			"save_folder": "{AppData}/Cygni/Saved/",
-			"title": "CYGNI - All Guns Blazing",
-			"canRunOffline": false,
-			"is_linux_native": false,
-			"runner": "legendary",
-			"store_url": "https://www.epicgames.com/store/product/cygni--all-guns-blazing"
 		}
 	],
 	"__timestamp": {
-		"library": "Sat Aug 10 2024 20:23:10 GMT+0530 (India Standard Time)"
+		"library": "Mon Aug 12 2024 22:15:19 GMT+0530 (India Standard Time)"
 	}
 }

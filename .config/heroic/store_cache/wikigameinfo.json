@@ -1,8 +1,36 @@
 {
-	"Kao the Kangaroo": {
+	"Fallout London": {
+		"pcgamingwiki": null,
+		"applegamingwiki": null,
+		"howlongtobeat": null,
+		"gamesdb": {
+			"steamID": ""
+		},
+		"steamInfo": null,
+		"umuId": null
+	},
+	"__timestamp": {
+		"Fallout London": "Mon Aug 12 2024 20:55:02 GMT+0530 (India Standard Time)",
+		"Marvels Guardians of the Galaxy": "Mon Aug 12 2024 20:55:27 GMT+0530 (India Standard Time)",
+		"Control": "Mon Aug 12 2024 20:56:40 GMT+0530 (India Standard Time)"
+	},
+	"Marvels Guardians of the Galaxy": {
+		"pcgamingwiki": null,
+		"applegamingwiki": null,
+		"howlongtobeat": null,
+		"gamesdb": {
+			"steamID": "1088850"
+		},
+		"steamInfo": {
+			"compatibilityLevel": "gold",
+			"steamDeckCatagory": 3
+		},
+		"umuId": "umu-1088850"
+	},
+	"Control": {
 		"pcgamingwiki": {
-			"steamID": "2360030",
-			"howLongToBeatID": "18699",
+			"steamID": "",
+			"howLongToBeatID": "",
 			"metacritic": {
 				"score": "",
 				"urlid": ""
@@ -19,106 +47,19 @@
 				""
 			],
 			"genres": [
-				"Platform"
+				""
 			],
-			"releaseDate": [
-				"Windows: December 2, 2005"
-			]
+			"releaseDate": []
 		},
 		"applegamingwiki": null,
 		"howlongtobeat": null,
 		"gamesdb": {
-			"steamID": ""
+			"steamID": "870780"
 		},
 		"steamInfo": {
-			"compatibilityLevel": "pending",
-			"steamDeckCatagory": 0
-		}
-	},
-	"__timestamp": {
-		"Kao the Kangaroo": "Fri Aug 09 2024 18:16:24 GMT+0530 (India Standard Time)",
-		"Grand Theft Auto V": "Fri Aug 09 2024 18:58:37 GMT+0530 (India Standard Time)",
-		"Fallout New Vegas": "Fri Aug 09 2024 23:28:42 GMT+0530 (India Standard Time)"
-	},
-	"Grand Theft Auto V": {
-		"pcgamingwiki": {
-			"steamID": "271590",
-			"howLongToBeatID": "4064",
-			"metacritic": {
-				"score": "96",
-				"urlid": "grand-theft-auto-v"
-			},
-			"opencritic": {
-				"score": "92",
-				"urlid": "163/grand-theft-auto-v"
-			},
-			"igdb": {
-				"score": "88",
-				"urlid": "grand-theft-auto-v"
-			},
-			"direct3DVersions": [
-				"11"
-			],
-			"genres": [
-				"Action",
-				"Adventure",
-				"Openworld",
-				"FPS",
-				"Racing",
-				"Gambling/Casino",
-				"Shooter",
-				"TPS"
-			],
-			"releaseDate": [
-				"Windows: April 14, 2015"
-			]
+			"compatibilityLevel": "platinum",
+			"steamDeckCatagory": 3
 		},
-		"applegamingwiki": null,
-		"howlongtobeat": null,
-		"gamesdb": {
-			"steamID": "271590"
-		},
-		"steamInfo": {
-			"compatibilityLevel": "gold",
-			"steamDeckCatagory": 2
-		}
-	},
-	"Fallout New Vegas": {
-		"pcgamingwiki": {
-			"steamID": "22380",
-			"howLongToBeatID": "3351",
-			"metacritic": {
-				"score": "84",
-				"urlid": "fallout-new-vegas"
-			},
-			"opencritic": {
-				"score": "",
-				"urlid": ""
-			},
-			"igdb": {
-				"score": "82",
-				"urlid": "fallout-new-vegas"
-			},
-			"direct3DVersions": [
-				"9.0c"
-			],
-			"genres": [
-				"ARPG",
-				"Openworld",
-				"Shooter"
-			],
-			"releaseDate": [
-				"Windows: October 19, 2010"
-			]
-		},
-		"applegamingwiki": null,
-		"howlongtobeat": null,
-		"gamesdb": {
-			"steamID": "22380"
-		},
-		"steamInfo": {
-			"compatibilityLevel": "gold",
-			"steamDeckCatagory": 2
-		}
+		"umuId": null
 	}
 }
