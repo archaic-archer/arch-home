@@ -1,2 +1,3 @@
-2024/08/10-18:42:11.974 1c00 Creating DB /home/pc/.config/heroic/Partitions/epicstore/IndexedDB/https_store.epicgames.com_0.indexeddb.leveldb since it was missing.
-2024/08/10-18:42:11.979 1c00 Reusing MANIFEST /home/pc/.config/heroic/Partitions/epicstore/IndexedDB/https_store.epicgames.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/08/10-18:42:22.974 1c00 Reusing MANIFEST /home/pc/.config/heroic/Partitions/epicstore/IndexedDB/https_store.epicgames.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/08/10-18:42:22.974 1c00 Recovering log #3
+2024/08/10-18:42:22.975 1c00 Reusing old log /home/pc/.config/heroic/Partitions/epicstore/IndexedDB/https_store.epicgames.com_0.indexeddb.leveldb/000003.log 

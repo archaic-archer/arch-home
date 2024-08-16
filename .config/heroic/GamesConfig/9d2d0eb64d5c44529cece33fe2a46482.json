@@ -41,7 +41,7 @@
     },
     "winePrefix": "/home/pc/Games/Heroic/Prefixes/default/Grand Theft Auto V",
     "wineCrossoverBottle": "",
-    "enableDXVKFpsLimit": true,
+    "enableDXVKFpsLimit": false,
     "DXVKFpsCap": "30"
   },
   "version": "v0",

@@ -341,3 +341,7 @@ bindsym $mod+Shift+z exec "swaync-client -C"
 no_focus [title="im-emoji-picker"]
 bindsym $mod+Escape exec "ibus emoji"
 include /etc/sway/config.d/*
+
+
+
+

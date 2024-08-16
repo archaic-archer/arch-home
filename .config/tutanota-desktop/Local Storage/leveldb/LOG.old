@@ -1,3 +1,2 @@
-2024/08/12-10:43:14.595 4c3a6 Reusing MANIFEST /home/pc/.config/tutanota-desktop/Local Storage/leveldb/MANIFEST-000001
-2024/08/12-10:43:14.599 4c3a6 Recovering log #49
-2024/08/12-10:43:14.606 4c3a6 Reusing old log /home/pc/.config/tutanota-desktop/Local Storage/leveldb/000049.log 
+2024/08/15-20:05:40.726 a0ab4 Creating DB /home/pc/.config/tutanota-desktop/Local Storage/leveldb since it was missing.
+2024/08/15-20:05:40.744 a0ab4 Reusing MANIFEST /home/pc/.config/tutanota-desktop/Local Storage/leveldb/MANIFEST-000001

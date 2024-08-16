@@ -1,2 +1,3 @@
-2024/08/13-11:21:46.244 4cbef Creating DB /home/pc/.config/sh.cider.classic/shared_proto_db/metadata since it was missing.
-2024/08/13-11:21:46.253 4cbef Reusing MANIFEST /home/pc/.config/sh.cider.classic/shared_proto_db/metadata/MANIFEST-000001
+2024/08/16-22:33:30.008 14d202 Reusing MANIFEST /home/pc/.config/sh.cider.classic/shared_proto_db/metadata/MANIFEST-000001
+2024/08/16-22:33:30.009 14d202 Recovering log #3
+2024/08/16-22:33:30.009 14d202 Reusing old log /home/pc/.config/sh.cider.classic/shared_proto_db/metadata/000003.log 

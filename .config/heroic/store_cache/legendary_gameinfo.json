@@ -58,7 +58,9 @@
 	},
 	"__timestamp": {
 		"2a09fb19b47f46dfb11ebd382f132a8f": "Mon Aug 12 2024 20:55:28 GMT+0530 (India Standard Time)",
-		"calluna": "Mon Aug 12 2024 20:56:39 GMT+0530 (India Standard Time)"
+		"calluna": "Mon Aug 12 2024 20:56:39 GMT+0530 (India Standard Time)",
+		"3428aaab2c674c98b3acb789dcfaa548": "Wed Aug 14 2024 21:47:55 GMT+0530 (India Standard Time)",
+		"5d9f109e44ec4c8bbc5495f43b601f25": "Thu Aug 15 2024 18:44:46 GMT+0530 (India Standard Time)"
 	},
 	"calluna": {
 		"about": {
@@ -116,5 +118,96 @@
 		],
 		"releaseDate": "2019-08-27T14:00:00",
 		"storeUrl": "https://www.epicgames.com/store/product/control"
+	},
+	"3428aaab2c674c98b3acb789dcfaa548": {
+		"about": {
+			"image": {
+				"src": "https://cdn2.unrealengine.com/egs-falloutnewvegas-obsidianentertainment-s2-1200x1600-9185002a877e.jpg",
+				"_type": "Diesel Image"
+			},
+			"developerAttribution": "Obsidian Entertainment",
+			"_type": "Diesel Product About",
+			"publisherAttribution": "Bethesda Softworks",
+			"description": "# Welcome to Vegas. New Vegas.\n\nIt’s the kind of town where you dig your own grave prior to being shot in the head and left for dead… and that’s before things really get ugly. It’s a town of dreamers and desperados being torn apart by warring factions vying for complete control of this desert oasis. It’s a place where the right kind of person with the right kind of weaponry can really make a name for themselves, and make more than an enemy or two along the way.",
+			"shortDescription": "Feel the Heat in New Vegas! Not even nuclear fallout could slow the hustle of Sin City. Explore the vast expanses of the desert wastelands and see the Great Southwest as could only be imagined in Fallout.",
+			"developerLogo": {
+				"_type": "Diesel Image"
+			}
+		},
+		"reqs": [
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "OS",
+				"minimum": "Windows 7/Vista/XP ",
+				"recommended": "Windows 7/Vista/XP "
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Processor",
+				"minimum": "Dual Core 2.0GHz",
+				"recommended": "Dual Core 2.0GHz"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Memory",
+				"minimum": "2 GB RAM",
+				"recommended": "2 GB RAM"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Storage",
+				"minimum": "10 GB Free Space"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Graphics",
+				"minimum": "NVIDIA GeForce 6 series, ATI 1300XT series"
+			}
+		],
+		"storeUrl": "https://www.epicgames.com/store/product/fallout-new-vegas"
+	},
+	"5d9f109e44ec4c8bbc5495f43b601f25": {
+		"about": {
+			"description": "An unrelenting onslaught of eye-popping visuals, ear bursting soundscapes and mind-melting action makes CYGNI the vanguard for the next generation of shoot-em ups. Outgunned, outmanned and out on your own, plunge into a sky full of hell in a last-ditch battle for survival.",
+			"shortDescription": ""
+		},
+		"reqs": [
+			{
+				"minimum": "Windows 10",
+				"recommended": "Windows 11",
+				"title": "OS version"
+			},
+			{
+				"minimum": "AMD R5 1600 / Intel i7 4790",
+				"recommended": "AMD Ryzen 5 5600 / Intel Core i5-12400",
+				"title": "CPU"
+			},
+			{
+				"minimum": "8 GB RAM",
+				"recommended": "16 GB RAM",
+				"title": "Memory"
+			},
+			{
+				"minimum": "NVIDIA GTX Nvidia 1060 / AMD Radeon RX 580 (4GB+ of VRAM)",
+				"recommended": "NVIDIA GeForce RTX 3060 / AMD Radeon RX 6600XT (6GB+ of VRAM)",
+				"title": "GPU"
+			},
+			{
+				"minimum": "DirectX 11",
+				"recommended": "DirectX 11",
+				"title": "DirectX"
+			},
+			{
+				"minimum": "25 GB",
+				"recommended": null,
+				"title": "Storage"
+			},
+			{
+				"minimum": "Gamepad, Joystick",
+				"recommended": null,
+				"title": "Additional input device"
+			}
+		],
+		"storeUrl": "https://www.epicgames.com/store/product/cygni-all-guns-blazing-98f872"
 	}
 }

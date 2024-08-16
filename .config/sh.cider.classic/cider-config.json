@@ -206,7 +206,7 @@
 				"state": false,
 				"lock": false
 			},
-			"opportunisticCorrection_state": "OFF",
+			"opportunisticCorrection_state": "CHU",
 			"atmosphereRealizer1": false,
 			"atmosphereRealizer1_value": "NATURAL_STANDARD",
 			"atmosphereRealizer2": false,
@@ -419,5 +419,5 @@
 			"version": "1.6.3"
 		}
 	},
-	"cc_authURL": "https://connect.cidercollective.dev/callback/discord?app=cider&appPort=38977"
+	"cc_authURL": "https://connect.cidercollective.dev/callback/discord?app=cider&appPort=9000"
 }

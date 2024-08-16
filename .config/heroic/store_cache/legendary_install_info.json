@@ -1,4 +1,159 @@
 {
+	"__timestamp": {
+		"63a665088eb1480298f1e57943b225d8": "Mon Aug 12 2024 20:55:33 GMT+0530 (India Standard Time)",
+		"Calluna": "Mon Aug 12 2024 20:56:45 GMT+0530 (India Standard Time)",
+		"9d2d0eb64d5c44529cece33fe2a46482": "Mon Aug 12 2024 21:35:25 GMT+0530 (India Standard Time)",
+		"5daeb974a22a435988892319b3a4f476": "Wed Aug 14 2024 21:48:01 GMT+0530 (India Standard Time)",
+		"25ad72f164b948ab9e05eb18fab2cda8": "Thu Aug 15 2024 18:44:51 GMT+0530 (India Standard Time)"
+	},
+	"63a665088eb1480298f1e57943b225d8": {
+		"game": {
+			"app_name": "63a665088eb1480298f1e57943b225d8",
+			"title": "Marvel's Guardians of the Galaxy",
+			"version": "2984448",
+			"platform_versions": {
+				"Windows": "2984448"
+			},
+			"cloud_saves_supported": true,
+			"cloud_save_folder": "{AppData}/../Roaming/Epic/Eidos Montreal/Marvel's Guardians of the Galaxy/",
+			"cloud_save_folder_mac": null,
+			"is_dlc": false,
+			"external_activation": null,
+			"launch_options": [],
+			"command_line": null,
+			"owned_dlc": [
+				{
+					"app_name": "9596620d263b40c083ddf1f0c662c8ff",
+					"title": "Marvel's Guardians of the Galaxy: Social-Lord Outfit",
+					"installable": [
+						{
+							"id": "958469770a844b5bb9a1c2e2d0aabee3",
+							"appId": "9596620d263b40c083ddf1f0c662c8ff",
+							"platform": [
+								"Windows"
+							]
+						}
+					],
+					"id": "b2666e211d334d15a0c29188d0abb6c8"
+				}
+			]
+		},
+		"install": null,
+		"manifest": {
+			"size": 5094349,
+			"type": "binary",
+			"version": 17,
+			"feature_level": 17,
+			"app_name": "95ae80f551254a60a3673a7909308b18",
+			"launch_exe": "retail/gotg.exe",
+			"launch_command": "",
+			"build_version": "2984448",
+			"build_id": "iQTxxQzcAZpWacU_vxbTQX2Rnd0",
+			"prerequisites": null,
+			"uninstaller": null,
+			"install_tags": [
+				""
+			],
+			"num_files": 3443,
+			"num_chunks": 71433,
+			"disk_size": 82615477054,
+			"download_size": 44236003164,
+			"tag_disk_size": [],
+			"tag_download_size": []
+		}
+	},
+	"Calluna": {
+		"game": {
+			"app_name": "Calluna",
+			"title": "Control",
+			"version": "01.13",
+			"platform_versions": {
+				"Windows": "01.13"
+			},
+			"cloud_saves_supported": true,
+			"cloud_save_folder": "{AppData}/Remedy/Control/Default-Epic-User/",
+			"cloud_save_folder_mac": null,
+			"is_dlc": false,
+			"external_activation": null,
+			"launch_options": [],
+			"command_line": null,
+			"owned_dlc": []
+		},
+		"install": null,
+		"manifest": {
+			"size": 3276853,
+			"type": "binary",
+			"version": 17,
+			"feature_level": 17,
+			"app_name": "Calluna",
+			"launch_exe": "Control.exe",
+			"launch_command": "",
+			"build_version": "01.13",
+			"build_id": "EsMg8dsVP1zVvA2E1UCLYf9UIu0",
+			"prerequisites": null,
+			"uninstaller": null,
+			"install_tags": [
+				""
+			],
+			"num_files": 515,
+			"num_chunks": 48801,
+			"disk_size": 53238698902,
+			"download_size": 29882128765,
+			"tag_disk_size": [],
+			"tag_download_size": []
+		}
+	},
+	"9d2d0eb64d5c44529cece33fe2a46482": {
+		"game": {
+			"app_name": "9d2d0eb64d5c44529cece33fe2a46482",
+			"title": "Grand Theft Auto V",
+			"version": "1.0.3274.0_v2",
+			"platform_versions": {
+				"Windows": "1.0.3274.0_v2"
+			},
+			"cloud_saves_supported": false,
+			"cloud_save_folder": null,
+			"cloud_save_folder_mac": null,
+			"is_dlc": false,
+			"external_activation": null,
+			"launch_options": [],
+			"command_line": null,
+			"owned_dlc": []
+		},
+		"install": {
+			"platform": "Windows",
+			"version": "1.0.3274.0_v2",
+			"disk_size": 121281363546,
+			"install_path": "/home/hdd2/GTAV",
+			"save_path": null,
+			"synced_egl_guid": "",
+			"install_tags": [],
+			"requires_ovt": false,
+			"installed_dlc": []
+		},
+		"manifest": {
+			"size": 7478590,
+			"type": "binary",
+			"version": 17,
+			"feature_level": 17,
+			"app_name": "9d2d0eb64d5c44529cece33fe2a46482",
+			"launch_exe": "PlayGTAV.exe",
+			"launch_command": "",
+			"build_version": "1.0.3274.0_v2",
+			"build_id": "-n33NvKafLzbXNfgjsxYBNBucns",
+			"prerequisites": null,
+			"uninstaller": null,
+			"install_tags": [
+				""
+			],
+			"num_files": 386,
+			"num_chunks": 115404,
+			"disk_size": 121281363546,
+			"download_size": 119175027164,
+			"tag_disk_size": [],
+			"tag_download_size": []
+		}
+	},
 	"5daeb974a22a435988892319b3a4f476": {
 		"game": {
 			"app_name": "5daeb974a22a435988892319b3a4f476",
@@ -211,79 +366,17 @@
 			]
 		}
 	},
-	"__timestamp": {
-		"5daeb974a22a435988892319b3a4f476": "Mon Aug 12 2024 20:16:41 GMT+0530 (India Standard Time)",
-		"63a665088eb1480298f1e57943b225d8": "Mon Aug 12 2024 20:55:33 GMT+0530 (India Standard Time)",
-		"Calluna": "Mon Aug 12 2024 20:56:45 GMT+0530 (India Standard Time)",
-		"9d2d0eb64d5c44529cece33fe2a46482": "Mon Aug 12 2024 21:35:25 GMT+0530 (India Standard Time)"
-	},
-	"63a665088eb1480298f1e57943b225d8": {
+	"25ad72f164b948ab9e05eb18fab2cda8": {
 		"game": {
-			"app_name": "63a665088eb1480298f1e57943b225d8",
-			"title": "Marvel's Guardians of the Galaxy",
-			"version": "2984448",
+			"app_name": "25ad72f164b948ab9e05eb18fab2cda8",
+			"title": "CYGNI - All Guns Blazing",
+			"version": "A0.16",
 			"platform_versions": {
-				"Windows": "2984448"
+				"Windows": "A0.16"
 			},
 			"cloud_saves_supported": true,
-			"cloud_save_folder": "{AppData}/../Roaming/Epic/Eidos Montreal/Marvel's Guardians of the Galaxy/",
-			"cloud_save_folder_mac": null,
-			"is_dlc": false,
-			"external_activation": null,
-			"launch_options": [],
-			"command_line": null,
-			"owned_dlc": [
-				{
-					"app_name": "9596620d263b40c083ddf1f0c662c8ff",
-					"title": "Marvel's Guardians of the Galaxy: Social-Lord Outfit",
-					"installable": [
-						{
-							"id": "958469770a844b5bb9a1c2e2d0aabee3",
-							"appId": "9596620d263b40c083ddf1f0c662c8ff",
-							"platform": [
-								"Windows"
-							]
-						}
-					],
-					"id": "b2666e211d334d15a0c29188d0abb6c8"
-				}
-			]
-		},
-		"install": null,
-		"manifest": {
-			"size": 5094349,
-			"type": "binary",
-			"version": 17,
-			"feature_level": 17,
-			"app_name": "95ae80f551254a60a3673a7909308b18",
-			"launch_exe": "retail/gotg.exe",
-			"launch_command": "",
-			"build_version": "2984448",
-			"build_id": "iQTxxQzcAZpWacU_vxbTQX2Rnd0",
-			"prerequisites": null,
-			"uninstaller": null,
-			"install_tags": [
-				""
-			],
-			"num_files": 3443,
-			"num_chunks": 71433,
-			"disk_size": 82615477054,
-			"download_size": 44236003164,
-			"tag_disk_size": [],
-			"tag_download_size": []
-		}
-	},
-	"Calluna": {
-		"game": {
-			"app_name": "Calluna",
-			"title": "Control",
-			"version": "01.13",
-			"platform_versions": {
-				"Windows": "01.13"
-			},
-			"cloud_saves_supported": true,
-			"cloud_save_folder": "{AppData}/Remedy/Control/Default-Epic-User/",
-			"cloud_save_folder_mac": null,
+			"cloud_save_folder": "{AppData}/Cygni/Saved/",
+			"cloud_save_folder_mac": "{AppData}/Cygni/Documents/{EpicID}/",
 			"is_dlc": false,
 			"external_activation": null,
 			"launch_options": [],
@@ -292,75 +385,24 @@
 		},
 		"install": null,
 		"manifest": {
-			"size": 3276853,
+			"size": 1374425,
 			"type": "binary",
 			"version": 17,
 			"feature_level": 17,
-			"app_name": "Calluna",
-			"launch_exe": "Control.exe",
+			"app_name": "25ad72f164b948ab9e05eb18fab2cda8",
+			"launch_exe": "Cygni/Cygni/Binaries/Win64/Cygni-Win64-Shipping.exe",
 			"launch_command": "",
-			"build_version": "01.13",
-			"build_id": "EsMg8dsVP1zVvA2E1UCLYf9UIu0",
+			"build_version": "A0.16",
+			"build_id": "Sa7Ix4Lqw1L1Gylhi5e8rk2mzb8",
 			"prerequisites": null,
 			"uninstaller": null,
 			"install_tags": [
 				""
 			],
-			"num_files": 515,
-			"num_chunks": 48801,
-			"disk_size": 53238698902,
-			"download_size": 29882128765,
-			"tag_disk_size": [],
-			"tag_download_size": []
-		}
-	},
-	"9d2d0eb64d5c44529cece33fe2a46482": {
-		"game": {
-			"app_name": "9d2d0eb64d5c44529cece33fe2a46482",
-			"title": "Grand Theft Auto V",
-			"version": "1.0.3274.0_v2",
-			"platform_versions": {
-				"Windows": "1.0.3274.0_v2"
-			},
-			"cloud_saves_supported": false,
-			"cloud_save_folder": null,
-			"cloud_save_folder_mac": null,
-			"is_dlc": false,
-			"external_activation": null,
-			"launch_options": [],
-			"command_line": null,
-			"owned_dlc": []
-		},
-		"install": {
-			"platform": "Windows",
-			"version": "1.0.3274.0_v2",
-			"disk_size": 121281363546,
-			"install_path": "/home/hdd2/GTAV",
-			"save_path": null,
-			"synced_egl_guid": "",
-			"install_tags": [],
-			"requires_ovt": false,
-			"installed_dlc": []
-		},
-		"manifest": {
-			"size": 7478590,
-			"type": "binary",
-			"version": 17,
-			"feature_level": 17,
-			"app_name": "9d2d0eb64d5c44529cece33fe2a46482",
-			"launch_exe": "PlayGTAV.exe",
-			"launch_command": "",
-			"build_version": "1.0.3274.0_v2",
-			"build_id": "-n33NvKafLzbXNfgjsxYBNBucns",
-			"prerequisites": null,
-			"uninstaller": null,
-			"install_tags": [
-				""
-			],
-			"num_files": 386,
-			"num_chunks": 115404,
-			"disk_size": 121281363546,
-			"download_size": 119175027164,
+			"num_files": 209,
+			"num_chunks": 21023,
+			"disk_size": 22049018242,
+			"download_size": 21774660886,
 			"tag_disk_size": [],
 			"tag_download_size": []
 		}

@@ -1,10 +1,10 @@
 {
 	"general-logs": {
-		"currentLogFile": "/home/pc/.config/heroic/logs/2024-08-12T16_23_29-heroic.log",
-		"lastLogFile": "/home/pc/.config/heroic/logs/2024-08-12T15_56_25-heroic.log",
-		"legendaryLogFile": "/home/pc/.config/heroic/logs/2024-08-12T16_23_29-legendary.log",
-		"gogdlLogFile": "/home/pc/.config/heroic/logs/2024-08-12T16_23_29-gogdl.log",
-		"nileLogFile": "/home/pc/.config/heroic/logs/2024-08-12T16_23_29-nile.log"
+		"currentLogFile": "/home/pc/.config/heroic/logs/2024-08-15T12_43_50-heroic.log",
+		"lastLogFile": "/home/pc/.config/heroic/logs/2024-08-14T16_38_00-heroic.log",
+		"legendaryLogFile": "/home/pc/.config/heroic/logs/2024-08-15T12_43_50-legendary.log",
+		"gogdlLogFile": "/home/pc/.config/heroic/logs/2024-08-15T12_43_50-gogdl.log",
+		"nileLogFile": "/home/pc/.config/heroic/logs/2024-08-15T12_43_50-nile.log"
 	},
 	"userHome": "/home/pc",
 	"language": "en",
@@ -14,10 +14,10 @@
 		"user": "pc"
 	},
 	"window-props": {
-		"x": 15,
-		"y": 48,
-		"width": 938,
-		"height": 1017,
+		"x": 0,
+		"y": 33,
+		"width": 1920,
+		"height": 1047,
 		"maximized": true
 	},
 	"settings": {
@@ -33,10 +33,10 @@
 		"checkForUpdatesOnStartup": true,
 		"autoUpdateGames": false,
 		"customWinePaths": [],
-		"defaultInstallPath": "/home/pc/Games/Heroic",
+		"defaultInstallPath": "/home/hdd2",
 		"libraryTopSection": "disabled",
 		"defaultSteamPath": "/home/pc/.steam/steam",
-		"defaultWinePrefix": "/home/pc/Games/Heroic/Prefixes/default",
+		"defaultWinePrefix": "/home/hdd2",
 		"hideChangelogsOnStartup": false,
 		"language": "en",
 		"maxWorkers": 0,
@@ -78,5 +78,7 @@
 				"title": "Kao the Kangaroo"
 			}
 		]
-	}
+	},
+	"theme": "nord-dark",
+	"actionsFontFamily": "\"Noto Sans\""
 }
