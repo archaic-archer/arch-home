@@ -24,11 +24,12 @@ set $term alacritty
 # Default wallpaper (more resolutions are available in /usr/share/backgrounds/sway/)
 #output * bg usr/share/backgrounds/sway/Sway_Wallpaper_Blue_1920x1080.png fill
 
-#output * bg /home/pc/Wallpapers/ign_soupKong.png fill
+output * bg /home/pc/Wallpapers/car-on-road.jpg fill
 #
 # Example configuration:
 #
- output HDMI-A-1 resolution 1920x1080@100Hz 
+ output HDMI-A-1 resolution 1920x1080@100Hz
+ output eDP-1 resolution 1366x768@60Hz 
 #
 # You can get the names of your outputs by running: swaymsg -t get_outputs
 
@@ -254,16 +255,16 @@ bindsym $mod+F1 exec pactl set-sink-volume @DEFAULT_SINK@ -5% && notify-send "Vo
 
 
 #startup
-#exec --no-startup-id copyq
+exec --no-startup-id copyq
 exec blueman-applet
 exec --no-startup-id swaync
 exec /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
 exec --no-startup-id waybar
 exec --no-startup-id nm-applet
-#exec --no-startup-id kdeconnect-indicator
-#exec --no-startup-id thunderbird
-#exec --no-startup-id ~/Applications/tutanota-desktop-linux_4e51841f25dac13c7c144a0ef6145ebb.AppImage
-exec waypaper --restore
+exec --no-startup-id kdeconnect-indicator
+exec --no-startup-id thunderbird
+exec --no-startup-id ~/Applications/tutanota-desktop-linux_4e51841f25dac13c7c144a0ef6145ebb.AppImage
+#exec waypaper --restore
 
 # floating for dialogs
 for_window [window_type="dialog"] floating enable

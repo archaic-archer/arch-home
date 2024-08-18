@@ -15,11 +15,11 @@
     "modules-right": [
         "privacy",
 	"mpris",
-        "idle_inhibitor",
+//        "idle_inhibitor",
 	"pulseaudio",
         "power-profiles-daemon",
-        "cpu",
-        "memory",
+//        "cpu",
+//        "memory",
         "backlight",
         "battery",
         "clock",
@@ -146,7 +146,7 @@
         "format-icons": {
             "1": "",
             "2": "",
-            "3": "",
+            "3": "",
             "4": "",
             "5": "",
             "urgent": ""

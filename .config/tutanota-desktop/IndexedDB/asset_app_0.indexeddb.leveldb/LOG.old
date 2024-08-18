@@ -1,3 +1,3 @@
-2024/08/16-12:08:32.620 a0a9f Reusing MANIFEST /home/pc/.config/tutanota-desktop/IndexedDB/asset_app_0.indexeddb.leveldb/MANIFEST-000001
-2024/08/16-12:08:32.620 a0a9f Recovering log #8
-2024/08/16-12:08:32.620 a0a9f Reusing old log /home/pc/.config/tutanota-desktop/IndexedDB/asset_app_0.indexeddb.leveldb/000008.log 
+2024/08/19-00:06:22.695 575 Reusing MANIFEST /home/pc/.config/tutanota-desktop/IndexedDB/asset_app_0.indexeddb.leveldb/MANIFEST-000001
+2024/08/19-00:06:22.695 575 Recovering log #18
+2024/08/19-00:06:22.717 575 Reusing old log /home/pc/.config/tutanota-desktop/IndexedDB/asset_app_0.indexeddb.leveldb/000018.log 

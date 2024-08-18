@@ -618,3 +618,4 @@
 [2024-08-16 22:33:20.828] [error] (node:1364472) [node-fetch#buffer] DeprecationWarning: Please use 'response.arrayBuffer()' instead of 'response.buffer()'
 (Use `cider --trace-deprecation ...` to show where the warning was created)
 [2024-08-16 22:56:59.962] [error] [lastfm] [album.getInfo] Error: Album not found
+[2024-08-17 01:02:30.327] [warn]  Cider exited.
