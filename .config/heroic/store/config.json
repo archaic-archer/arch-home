@@ -1,10 +1,10 @@
 {
 	"general-logs": {
-		"currentLogFile": "/home/pc/.config/heroic/logs/2024-08-15T12_43_50-heroic.log",
-		"lastLogFile": "/home/pc/.config/heroic/logs/2024-08-14T16_38_00-heroic.log",
-		"legendaryLogFile": "/home/pc/.config/heroic/logs/2024-08-15T12_43_50-legendary.log",
-		"gogdlLogFile": "/home/pc/.config/heroic/logs/2024-08-15T12_43_50-gogdl.log",
-		"nileLogFile": "/home/pc/.config/heroic/logs/2024-08-15T12_43_50-nile.log"
+		"currentLogFile": "/home/pc/.config/heroic/logs/2024-08-18T18_58_30-heroic.log",
+		"lastLogFile": "/home/pc/.config/heroic/logs/2024-08-15T12_43_50-heroic.log",
+		"legendaryLogFile": "/home/pc/.config/heroic/logs/2024-08-18T18_58_30-legendary.log",
+		"gogdlLogFile": "/home/pc/.config/heroic/logs/2024-08-18T18_58_30-gogdl.log",
+		"nileLogFile": "/home/pc/.config/heroic/logs/2024-08-18T18_58_30-nile.log"
 	},
 	"userHome": "/home/pc",
 	"language": "en",

@@ -8995,7 +8995,7 @@
 			"developer": "Epic Games",
 			"extra": {
 				"about": {
-					"description": "The future of Fortnite is here.\n\nBe the last player standing in Battle Royale and Zero Build, explore and survive in LEGO Fortnite, blast to the finish with Rocket Racing or headline a concert with Fortnite Festival. Play thousands of free creator made islands with friends including deathruns, tycoons, racing, zombie survival and more! Join the creator community and build your own island with Unreal Editor for Fortnite (UEFN) or Fortnite Creative tools.\n\nEach Fortnite island has an individual age rating so you can find the one that's right for you and your friends. Find it all in Fortnite!",
+					"description": "Play Fortnite your way. \n\nBe the last player standing in Battle Royale, Zero Build and Reload, explore and survive in LEGO Fortnite, blast to the finish with Rocket Racing or headline a concert with Fortnite Festival. Play thousands of free creator made islands with friends including deathruns, tycoons, racing, zombie survival and more! Join the creator community and build your own island with Unreal Editor for Fortnite (UEFN) or Fortnite Creative tools.\n\nEach Fortnite island has an individual age rating so you can find the one that's right for you and your friends. Find it all in Fortnite!",
 					"shortDescription": ""
 				},
 				"reqs": [],
@@ -9035,24 +9035,24 @@
 					"keyImages": [
 						{
 							"height": 1440,
-							"md5": "d21478ff0f4a2c7092050f99eb25abb9",
-							"size": 871179,
+							"md5": "efd3e389b79bafd80e87f38f2ace2a32",
+							"size": 2184193,
 							"type": "DieselGameBox",
-							"uploadedDate": "2024-05-26T18:52:18.808Z",
-							"url": "https://cdn1.epicgames.com/item/fn/fn_wide_2560x1440-d21478ff0f4a2c7092050f99eb25abb9",
+							"uploadedDate": "2024-08-16T01:51:53.415Z",
+							"url": "https://cdn1.epicgames.com/item/fn/FNBR_31-00_C5S4_EGS_Launcher_KeyArt_Blade_2560x1440_2560x1440-efd3e389b79bafd80e87f38f2ace2a32",
 							"width": 2560
 						},
 						{
 							"height": 1600,
-							"md5": "e0dd44c183753e4a716ae17f2487666f",
-							"size": 448051,
+							"md5": "9460a01e3ca95f67d6f6c88e4fdd4fc6",
+							"size": 1407927,
 							"type": "DieselGameBoxTall",
-							"uploadedDate": "2024-05-26T18:52:23.982Z",
-							"url": "https://cdn1.epicgames.com/item/fn/fn_tall_1200x1600-e0dd44c183753e4a716ae17f2487666f",
+							"uploadedDate": "2024-08-16T01:51:56.444Z",
+							"url": "https://cdn1.epicgames.com/item/fn/FNBR_31-00_C5S4_EGS_Launcher_KeyArt_Blade_1200x1600_1200x1600-9460a01e3ca95f67d6f6c88e4fdd4fc6",
 							"width": 1200
 						}
 					],
-					"lastModifiedDate": "2024-05-26T18:52:49.858Z",
+					"lastModifiedDate": "2024-08-16T03:06:44.337Z",
 					"mainGameItem": {
 						"id": "4fe75bbc5a674f4f9b356b5c90567da5",
 						"namespace": "fn",
@@ -9294,7 +9294,7 @@
 						},
 						"ClassInd": {
 							"ageControl": 12,
-							"descriptor": "Linguagem Imprópria,Conteúdo Sexual,Violência",
+							"descriptor": "Violência,Conteúdo Sexual,Linguagem Imprópria",
 							"descriptorIds": [
 								60,
 								62,
@@ -9420,24 +9420,24 @@
 					"keyImages": [
 						{
 							"height": 1440,
-							"md5": "2ef89a5e12b96defd41c54c4b4c21ff5",
-							"size": 1427052,
+							"md5": "6e9b4978d4fc2916d4b4add42ca73c12",
+							"size": 1843370,
 							"type": "DieselGameBox",
-							"uploadedDate": "2024-06-11T16:06:28.349Z",
-							"url": "https://cdn1.epicgames.com/item/fn/FNSP_04_EGS_Launcher_Landscape_2560x1440_logo_2560x1440-2ef89a5e12b96defd41c54c4b4c21ff5",
+							"uploadedDate": "2024-08-16T01:58:02.080Z",
+							"url": "https://cdn1.epicgames.com/item/fn/FNSP_05_EGS_Launcher_Blades_2560x1440_2560x1440-6e9b4978d4fc2916d4b4add42ca73c12",
 							"width": 2560
 						},
 						{
 							"height": 1600,
-							"md5": "9df1f9269a2a4df3ddd07339d9382cac",
-							"size": 904491,
+							"md5": "08d3c3065fd8f0ae9cf4eb9be7f412f8",
+							"size": 1194282,
 							"type": "DieselGameBoxTall",
-							"uploadedDate": "2024-06-11T16:06:34.105Z",
-							"url": "https://cdn1.epicgames.com/item/fn/FNSP_04_EGS_Launcher_Portrait_1200x1600_1200x1600-9df1f9269a2a4df3ddd07339d9382cac",
+							"uploadedDate": "2024-08-16T01:58:06.174Z",
+							"url": "https://cdn1.epicgames.com/item/fn/FNSP_05_EGS_Launcher_Blades_Portrait_1200x1600_1200x1600-08d3c3065fd8f0ae9cf4eb9be7f412f8",
 							"width": 1200
 						}
 					],
-					"lastModifiedDate": "2024-06-13T08:00:33.539Z",
+					"lastModifiedDate": "2024-08-16T03:06:39.595Z",
 					"mainGameItem": {
 						"id": "4fe75bbc5a674f4f9b356b5c90567da5",
 						"namespace": "fn",
@@ -9811,16 +9811,25 @@
 					"itemType": "DURABLE",
 					"keyImages": [
 						{
+							"height": 1440,
+							"md5": "e93ae2219b87be7e91b58f67469a28aa",
+							"size": 790455,
+							"type": "DieselGameBox",
+							"uploadedDate": "2024-08-05T21:31:02.473Z",
+							"url": "https://cdn1.epicgames.com/item/fn/EN_FNBR_30-20_Blastberry_EGS_PDP_CarouselImage_2560x1440_2560x1440-e93ae2219b87be7e91b58f67469a28aa",
+							"width": 2560
+						},
+						{
 							"height": 1600,
-							"md5": "b49da2ae039bd0adb44171318c91787b",
-							"size": 1429199,
+							"md5": "30a0db07ba58d8f5814de794bc488ad2",
+							"size": 279947,
 							"type": "DieselGameBoxTall",
-							"uploadedDate": "2024-08-05T21:32:07.684Z",
-							"url": "https://cdn1.epicgames.com/item/fn/fortnite_storetall_1200x1600-b49da2ae039bd0adb44171318c91787b",
+							"uploadedDate": "2024-08-05T21:31:05.907Z",
+							"url": "https://cdn1.epicgames.com/item/fn/EN_FNBR_30-20_Blastberry_EGS_MobileCarouselThumbnail_1200x1600_1200x1600-30a0db07ba58d8f5814de794bc488ad2",
 							"width": 1200
 						}
 					],
-					"lastModifiedDate": "2024-08-05T21:32:13.480Z",
+					"lastModifiedDate": "2024-08-16T03:05:32.371Z",
 					"mainGameItem": {
 						"id": "4fe75bbc5a674f4f9b356b5c90567da5",
 						"namespace": "fn",
@@ -25867,6 +25876,6 @@
 		}
 	],
 	"__timestamp": {
-		"library": "Thu Aug 15 2024 18:44:58 GMT+0530 (India Standard Time)"
+		"library": "Mon Aug 19 2024 00:29:04 GMT+0530 (India Standard Time)"
 	}
 }

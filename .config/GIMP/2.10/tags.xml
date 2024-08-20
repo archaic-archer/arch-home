@@ -1225,9 +1225,6 @@
   <resource identifier="${gimp_data_dir}/palettes/Ega.gpl" checksum="a8842755eb6e9534d89bc4dfa360ea91">
   </resource>
 
-  <resource identifier="${gimp_data_dir}/palettes/elementary.gpl" checksum="ae5b36415496922dd83a5bb532be3b73">
-  </resource>
-
   <resource identifier="${gimp_data_dir}/palettes/Firecode.gpl" checksum="31da06a142dbb7e290ecae399da8c198">
   </resource>
 

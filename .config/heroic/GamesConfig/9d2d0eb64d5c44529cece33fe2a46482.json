@@ -15,7 +15,7 @@
     "showFps": false,
     "showMangohud": true,
     "useGameMode": true,
-    "useSteamRuntime": true,
+    "useSteamRuntime": false,
     "battlEyeRuntime": false,
     "eacRuntime": false,
     "language": "",

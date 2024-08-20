@@ -73,7 +73,7 @@ output * bg /home/pc/Wallpapers/car-on-road.jpg fill
     # Start your launcher
     bindsym $mod+d exec "alacritty -e vim ~/.config/sway/config"
     # Start Browser
-    bindsym $mod+w exec firefox
+    bindsym $mod+w exec zen-browser
     # Start File Manager
 
     bindsym $mod+e exec thunar

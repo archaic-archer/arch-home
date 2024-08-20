@@ -306,7 +306,8 @@
 		"epic_63a665088eb1480298f1e57943b225d8": "Mon Aug 12 2024 20:55:25 GMT+0530 (India Standard Time)",
 		"epic_Calluna": "Mon Aug 12 2024 20:56:38 GMT+0530 (India Standard Time)",
 		"epic_5daeb974a22a435988892319b3a4f476": "Wed Aug 14 2024 21:47:51 GMT+0530 (India Standard Time)",
-		"epic_25ad72f164b948ab9e05eb18fab2cda8": "Thu Aug 15 2024 18:44:44 GMT+0530 (India Standard Time)"
+		"epic_25ad72f164b948ab9e05eb18fab2cda8": "Thu Aug 15 2024 18:44:44 GMT+0530 (India Standard Time)",
+		"epic_9d2d0eb64d5c44529cece33fe2a46482": "Mon Aug 19 2024 00:28:43 GMT+0530 (India Standard Time)"
 	},
 	"epic_Calluna": {
 		"id": "52416816422751305",
@@ -2022,6 +2023,283 @@
 		},
 		"etag": "W/\"0e2ed565474cadc350dd83b325085c08\""
 	},
+	"epic_25ad72f164b948ab9e05eb18fab2cda8": {
+		"id": "57813301545213745",
+		"game_id": "53330810691714226",
+		"platform_id": "epic",
+		"external_id": "25ad72f164b948ab9e05eb18fab2cda8",
+		"dlcs_ids": [],
+		"dlcs": [],
+		"parent_id": null,
+		"supported_operating_systems": [
+			{
+				"slug": "osx",
+				"name": "macOS"
+			},
+			{
+				"slug": "windows",
+				"name": "Windows"
+			}
+		],
+		"available_languages": [
+			{
+				"code": "en-US"
+			}
+		],
+		"first_release_date": null,
+		"game": {
+			"id": "53330810691714226",
+			"parent_id": null,
+			"dlcs_ids": [],
+			"first_release_date": "2024-08-06T00:00:00+0000",
+			"releases": [
+				{
+					"id": "55687129467272713",
+					"platform_id": "steam",
+					"external_id": "1248080",
+					"release_per_platform_id": "steam_1248080"
+				},
+				{
+					"id": "57813301545213745",
+					"platform_id": "epic",
+					"external_id": "25ad72f164b948ab9e05eb18fab2cda8",
+					"release_per_platform_id": "epic_25ad72f164b948ab9e05eb18fab2cda8"
+				},
+				{
+					"id": "53330810691714226",
+					"platform_id": "generic",
+					"external_id": "53330810691714226",
+					"release_per_platform_id": "generic_53330810691714226"
+				}
+			],
+			"title": {
+				"*": "Cygni: All Guns Blazing",
+				"en-US": "Cygni: All Guns Blazing"
+			},
+			"sorting_title": {
+				"*": "Cygni All Guns Blazing",
+				"en-US": "Cygni All Guns Blazing"
+			},
+			"type": "game",
+			"developers_ids": [
+				"53333794850146359"
+			],
+			"developers": [
+				{
+					"id": "53333794850146359",
+					"name": "KeelWorks",
+					"slug": "keelworks"
+				}
+			],
+			"publishers_ids": [
+				"51141380323608614"
+			],
+			"publishers": [
+				{
+					"id": "51141380323608614",
+					"name": "Konami",
+					"slug": "konami"
+				}
+			],
+			"genres_ids": [
+				"51121492616405278",
+				"51141224821260861",
+				"51141224840148805"
+			],
+			"genres": [
+				{
+					"id": "51121492616405278",
+					"name": {
+						"*": "Indie",
+						"en-US": "Indie"
+					},
+					"slug": "indie"
+				},
+				{
+					"id": "51141224821260861",
+					"name": {
+						"*": "Shooter",
+						"en-US": "Shooter"
+					},
+					"slug": "shooter"
+				},
+				{
+					"id": "51141224840148805",
+					"name": {
+						"*": "Arcade",
+						"en-US": "Arcade"
+					},
+					"slug": "arcade"
+				}
+			],
+			"themes_ids": [
+				"51071842231533391",
+				"51141225463821636"
+			],
+			"themes": [
+				{
+					"id": "51071842231533391",
+					"name": {
+						"*": "Action",
+						"en-US": "Action"
+					},
+					"slug": "action"
+				},
+				{
+					"id": "51141225463821636",
+					"name": {
+						"*": "Science fiction",
+						"en-US": "Science fiction"
+					},
+					"slug": "science-fiction"
+				}
+			],
+			"screenshots": [
+				{
+					"url_format": "https://images.gog.com/3733c99faf55a4e4e81696f8cc3396be62b2f35e4e4d8bb13871be3b30b894f9{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/ebaf404f24dee5df8ae2c84bae420b6626aeed57b5e705d521d791deaf61c21f{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/a262154f9ca22493c8447717080ce8645627c8d16004cee4483e2abc1f14772f{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/73b54a7aafbeec18c76b91a9c6fefb19ff3fa62e32043bf8e1989d60e671d091{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/b4b5ac0c450054eef9f2fe9d9bea61c291e7cf6c3d6d80e43e6f0287f4168e58{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/9ed42fc086d1ec7354524c40de7adecccae8bc992a8ec9abe3a1539283859bf4{formatter}.{ext}?namespace=gamesdb"
+				}
+			],
+			"videos": [
+				{
+					"provider": "youtube",
+					"video_id": "vg6Q6YB9jHc",
+					"thumbnail_id": "vg6Q6YB9jHc",
+					"name": "Story Trailer"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "kJm08-MRnj0",
+					"thumbnail_id": "kJm08-MRnj0",
+					"name": "Announcement Trailer"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "8bzenHb-3TU",
+					"thumbnail_id": "8bzenHb-3TU",
+					"name": "Gameplay Trailer"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "yEmbMf0RU5c",
+					"thumbnail_id": "yEmbMf0RU5c",
+					"name": "Release Date Trailer"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "EgnuUkdxvhg",
+					"thumbnail_id": "EgnuUkdxvhg",
+					"name": "Trailer"
+				}
+			],
+			"artworks": [
+				{
+					"url_format": "https://images.gog.com/4add99bcc7ec4fb7ce1820d3276005ac710e8d071bbfa82bdf4f724ade0abc27{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/9a7f28d797d858f791a20dae4737a566d0d4ff9a5dbf3ff65b0cfbd5d9884ce1{formatter}.{ext}?namespace=gamesdb"
+				}
+			],
+			"summary": {
+				"*": "It's a twin-stick vertical scrolling Shooter hybrid with a cinematic flare:\n\nAn unrelenting onslaught of eye-popping visuals, ear bursting soundscapes and mind-melting action makes Cygni the vanguard for the next generation of shoot-em ups.",
+				"en-US": "It's a twin-stick vertical scrolling Shooter hybrid with a cinematic flare:\n\nAn unrelenting onslaught of eye-popping visuals, ear bursting soundscapes and mind-melting action makes Cygni the vanguard for the next generation of shoot-em ups."
+			},
+			"visible_in_library": true,
+			"aggregated_rating": 78.8,
+			"game_modes": [
+				{
+					"id": "53051895165351137",
+					"name": "Single player",
+					"slug": "single-player"
+				},
+				{
+					"id": "53051898010278634",
+					"name": "Co-operative",
+					"slug": "co-operative"
+				},
+				{
+					"id": "53051908711988230",
+					"name": "Multiplayer",
+					"slug": "multiplayer"
+				}
+			],
+			"horizontal_artwork": {
+				"url_format": "https://images.gog.com/72023073c8dc1e72732373323cd89cbf5a02de579b1385d8a8bc1bd659441c15{formatter}.{ext}?namespace=gamesdb"
+			},
+			"background": {
+				"url_format": "https://images.gog.com/72023073c8dc1e72732373323cd89cbf5a02de579b1385d8a8bc1bd659441c15{formatter}.{ext}?namespace=gamesdb"
+			},
+			"vertical_cover": {
+				"url_format": "https://images.gog.com/85d2b30b11442590ae6793edfff01599335dd1fd7adf9290a8a60639d9653e5e{formatter}.{ext}?namespace=gamesdb"
+			},
+			"cover": {
+				"url_format": "https://images.gog.com/85d2b30b11442590ae6793edfff01599335dd1fd7adf9290a8a60639d9653e5e{formatter}.{ext}?namespace=gamesdb"
+			},
+			"logo": {
+				"url_format": "https://images.gog.com/85d2b30b11442590ae6793edfff01599335dd1fd7adf9290a8a60639d9653e5e{formatter}.{ext}?namespace=gamesdb"
+			},
+			"icon": {
+				"url_format": "https://images.gog.com/85d2b30b11442590ae6793edfff01599335dd1fd7adf9290a8a60639d9653e5e{formatter}.{ext}?namespace=gamesdb"
+			},
+			"square_icon": {
+				"url_format": "https://images.gog.com/9a7f28d797d858f791a20dae4737a566d0d4ff9a5dbf3ff65b0cfbd5d9884ce1{formatter}.{ext}?namespace=gamesdb"
+			},
+			"global_popularity_all_time": 0,
+			"global_popularity_current": 0
+		},
+		"title": {
+			"*": "CYGNI - All Guns Blazing",
+			"en-US": "Cygni: All Guns Blazing"
+		},
+		"sorting_title": {
+			"*": "CYGNI All Guns Blazing",
+			"en-US": "CYGNI All Guns Blazing"
+		},
+		"type": "game",
+		"summary": {
+			"*": "It's a twin-stick vertical scrolling Shooter hybrid with a cinematic flare:\n\nAn unrelenting onslaught of eye-popping visuals, ear bursting soundscapes and mind-melting action makes Cygni the vanguard for the next generation of shoot-em ups.",
+			"en-US": "It's a twin-stick vertical scrolling Shooter hybrid with a cinematic flare:\n\nAn unrelenting onslaught of eye-popping visuals, ear bursting soundscapes and mind-melting action makes Cygni the vanguard for the next generation of shoot-em ups."
+		},
+		"videos": [],
+		"game_modes": [
+			{
+				"id": "53051895165351137",
+				"name": "Single player",
+				"slug": "single-player"
+			},
+			{
+				"id": "53051898010278634",
+				"name": "Co-operative",
+				"slug": "co-operative"
+			},
+			{
+				"id": "53051908711988230",
+				"name": "Multiplayer",
+				"slug": "multiplayer"
+			}
+		],
+		"icon": {
+			"url_format": "https://images.gog.com/85d2b30b11442590ae6793edfff01599335dd1fd7adf9290a8a60639d9653e5e{formatter}.{ext}?namespace=gamesdb"
+		},
+		"logo": {
+			"url_format": "https://images.gog.com/85d2b30b11442590ae6793edfff01599335dd1fd7adf9290a8a60639d9653e5e{formatter}.{ext}?namespace=gamesdb"
+		},
+		"etag": "W/\"b64edb016f47c5ff205c2d9b70960718\""
+	},
 	"gog_1491728574": {
 		"id": "57612625522707877",
 		"game_id": "57612625525066547",
@@ -2196,7 +2474,7 @@
 			"url_format": "https://images.gog.com/a557fa41364e6d06bfe3fca629755b8371af04082645186fd6fdd55c70aaf147{formatter}.{ext}?namespace=gamesdb"
 		}
 	},
-	"__timestamp.gog_1491728574": "Thu Aug 15 2024 18:13:53 GMT+0530 (India Standard Time)",
+	"__timestamp.gog_1491728574": "Mon Aug 19 2024 00:28:34 GMT+0530 (India Standard Time)",
 	"gog_1106508737": {
 		"id": "56949075998261816",
 		"game_id": "53319454471728597",
@@ -2491,20 +2769,16 @@
 		},
 		"etag": "W/\"95a0f00bea75f5537ef46fdf948a349c\""
 	},
-	"__timestamp.gog_1106508737": "Thu Aug 15 2024 18:13:53 GMT+0530 (India Standard Time)",
-	"epic_25ad72f164b948ab9e05eb18fab2cda8": {
-		"id": "57813301545213745",
-		"game_id": "53330810691714226",
+	"__timestamp.gog_1106508737": "Mon Aug 19 2024 00:28:34 GMT+0530 (India Standard Time)",
+	"epic_9d2d0eb64d5c44529cece33fe2a46482": {
+		"id": "53333714508302270",
+		"game_id": "51152930335439509",
 		"platform_id": "epic",
-		"external_id": "25ad72f164b948ab9e05eb18fab2cda8",
+		"external_id": "9d2d0eb64d5c44529cece33fe2a46482",
 		"dlcs_ids": [],
 		"dlcs": [],
 		"parent_id": null,
 		"supported_operating_systems": [
-			{
-				"slug": "osx",
-				"name": "macOS"
-			},
 			{
 				"slug": "windows",
 				"name": "Windows"
@@ -2517,72 +2791,412 @@
 		],
 		"first_release_date": null,
 		"game": {
-			"id": "53330810691714226",
+			"id": "51152930335439509",
 			"parent_id": null,
-			"dlcs_ids": [],
-			"first_release_date": "2024-08-06T00:00:00+0000",
+			"dlcs_ids": [
+				"52826212173022033",
+				"52938840044465799",
+				"53020305852368169",
+				"53031387339449962",
+				"53081302723556241",
+				"53081527597565706",
+				"53223346760885121",
+				"53283584380350773",
+				"53283588505978184"
+			],
+			"first_release_date": "2013-09-17T00:00:00+0000",
 			"releases": [
 				{
-					"id": "55687129467272713",
+					"id": "51152930324099832",
 					"platform_id": "steam",
-					"external_id": "1248080",
-					"release_per_platform_id": "steam_1248080"
+					"external_id": "271590",
+					"release_per_platform_id": "steam_271590"
 				},
 				{
-					"id": "57813301545213745",
+					"id": "51402523775405443",
+					"platform_id": "xboxone",
+					"external_id": "972249091",
+					"release_per_platform_id": "xboxone_972249091"
+				},
+				{
+					"id": "51701641659186460",
+					"platform_id": "xboxone",
+					"external_id": "1050025307",
+					"release_per_platform_id": "xboxone_1050025307"
+				},
+				{
+					"id": "52087047218403965",
+					"platform_id": "psn",
+					"external_id": "CUSA00411_00",
+					"release_per_platform_id": "psn_CUSA00411_00"
+				},
+				{
+					"id": "52087283516976027",
+					"platform_id": "psn",
+					"external_id": "NPWR03885_00",
+					"release_per_platform_id": "psn_NPWR03885_00"
+				},
+				{
+					"id": "52145329747913600",
+					"platform_id": "psn",
+					"external_id": "CUSA00419_00",
+					"release_per_platform_id": "psn_CUSA00419_00"
+				},
+				{
+					"id": "52484280339285965",
+					"platform_id": "psn",
+					"external_id": "CUSA00880_00",
+					"release_per_platform_id": "psn_CUSA00880_00"
+				},
+				{
+					"id": "52637704993849432",
+					"platform_id": "egg",
+					"external_id": "G2",
+					"release_per_platform_id": "egg_G2"
+				},
+				{
+					"id": "52662390283236809",
+					"platform_id": "egg",
+					"external_id": "11",
+					"release_per_platform_id": "egg_11"
+				},
+				{
+					"id": "52677177260488104",
+					"platform_id": "beamdog",
+					"external_id": "11",
+					"release_per_platform_id": "beamdog_11"
+				},
+				{
+					"id": "52677204154038787",
+					"platform_id": "riot",
+					"external_id": "11",
+					"release_per_platform_id": "riot_11"
+				},
+				{
+					"id": "52740118182414484",
+					"platform_id": "rockstar",
+					"external_id": "11",
+					"release_per_platform_id": "rockstar_11"
+				},
+				{
+					"id": "52826200039969260",
+					"platform_id": "humble",
+					"external_id": "grandtheftauto5_steam",
+					"release_per_platform_id": "humble_grandtheftauto5_steam"
+				},
+				{
+					"id": "52833862481586842",
+					"platform_id": "psvita",
+					"external_id": "CUSA00419_00",
+					"release_per_platform_id": "psvita_CUSA00419_00"
+				},
+				{
+					"id": "52961398397418309",
+					"platform_id": "test",
+					"external_id": "CUSA00419_00",
+					"release_per_platform_id": "test_CUSA00419_00"
+				},
+				{
+					"id": "53102902228045391",
+					"platform_id": "humble",
+					"external_id": "grandtheftauto5_preorder2_steam",
+					"release_per_platform_id": "humble_grandtheftauto5_preorder2_steam"
+				},
+				{
+					"id": "53136971987000399",
+					"platform_id": "humble",
+					"external_id": "grandtheftauto5_preorder3_steam",
+					"release_per_platform_id": "humble_grandtheftauto5_preorder3_steam"
+				},
+				{
+					"id": "53228548089115862",
+					"platform_id": "humble",
+					"external_id": "gta5_cesp_whale_bundle_row_rockstar_social_0",
+					"release_per_platform_id": "humble_gta5_cesp_whale_bundle_row_rockstar_social_0"
+				},
+				{
+					"id": "53236254158220337",
+					"platform_id": "itch",
+					"external_id": "e7b068c64c0da60f2931baaf038d6b5e7aec82c1a51e68ceb1cad17d",
+					"release_per_platform_id": "itch_e7b068c64c0da60f2931baaf038d6b5e7aec82c1a51e68ceb1cad17d"
+				},
+				{
+					"id": "53236254161991628",
+					"platform_id": "itch",
+					"external_id": "7feb88e53ee5cb7d899e47e44418fb7b7b1b62163b5e0bb16e5608b8",
+					"release_per_platform_id": "itch_7feb88e53ee5cb7d899e47e44418fb7b7b1b62163b5e0bb16e5608b8"
+				},
+				{
+					"id": "53236254178977720",
+					"platform_id": "itch",
+					"external_id": "ebe70101db64499dbfed4a893e432649eb94648f5c1ff5b12a470b2d",
+					"release_per_platform_id": "itch_ebe70101db64499dbfed4a893e432649eb94648f5c1ff5b12a470b2d"
+				},
+				{
+					"id": "53236432263532775",
+					"platform_id": "itch",
+					"external_id": "XFxSYWlkc2VydmVyXGdcTXkgRHJpdmVcRml0R2lybCBHYW1lc1xHcmFuZCBUaGVmdCBBdXRvIFYgW0ZpdEdpcmwgQ29yZVBhY2td",
+					"release_per_platform_id": "itch_XFxSYWlkc2VydmVyXGdcTXkgRHJpdmVcRml0R2lybCBHYW1lc1xHcmFuZCBUaGVmdCBBdXRvIFYgW0ZpdEdpcmwgQ29yZVBhY2td"
+				},
+				{
+					"id": "53257651929697635",
+					"platform_id": "origin",
+					"external_id": "42ffe7a6b151645e41895cb295271faa29e547ff",
+					"release_per_platform_id": "origin_42ffe7a6b151645e41895cb295271faa29e547ff"
+				},
+				{
+					"id": "53257651945685834",
+					"platform_id": "origin",
+					"external_id": "ece1e2d54239e1f8668725551781317bea69cb37",
+					"release_per_platform_id": "origin_ece1e2d54239e1f8668725551781317bea69cb37"
+				},
+				{
+					"id": "53257651948564922",
+					"platform_id": "origin",
+					"external_id": "3826eb5a358580154a4aa9a85deaf6837a4bdca4",
+					"release_per_platform_id": "origin_3826eb5a358580154a4aa9a85deaf6837a4bdca4"
+				},
+				{
+					"id": "53257744300670887",
+					"platform_id": "origin",
+					"external_id": "2f7157e718a89f411a8dcfff2296053662924701326263e3bcef1419dd9285d2",
+					"release_per_platform_id": "origin_2f7157e718a89f411a8dcfff2296053662924701326263e3bcef1419dd9285d2"
+				},
+				{
+					"id": "53257744304749027",
+					"platform_id": "origin",
+					"external_id": "2371ab164654a42a3adddab3a729d71496a2b748d837ce3fc2ad8c34cbee3e33",
+					"release_per_platform_id": "origin_2371ab164654a42a3adddab3a729d71496a2b748d837ce3fc2ad8c34cbee3e33"
+				},
+				{
+					"id": "53257744312965096",
+					"platform_id": "origin",
+					"external_id": "959d7b1f21eeeb4902004239c04a9107aa44a22bcc37723cbf90ebf4d16e3d9d",
+					"release_per_platform_id": "origin_959d7b1f21eeeb4902004239c04a9107aa44a22bcc37723cbf90ebf4d16e3d9d"
+				},
+				{
+					"id": "53283438338303433",
+					"platform_id": "humble",
+					"external_id": "gta5_cesp_greatwhite_bundle_row_rockstar_social_0",
+					"release_per_platform_id": "humble_gta5_cesp_greatwhite_bundle_row_rockstar_social_0"
+				},
+				{
+					"id": "53283700125761849",
+					"platform_id": "humble",
+					"external_id": "gta5_cesp_megalodon_bundle_row_rockstar_social_0",
+					"release_per_platform_id": "humble_gta5_cesp_megalodon_bundle_row_rockstar_social_0"
+				},
+				{
+					"id": "53333714508302270",
 					"platform_id": "epic",
-					"external_id": "25ad72f164b948ab9e05eb18fab2cda8",
-					"release_per_platform_id": "epic_25ad72f164b948ab9e05eb18fab2cda8"
+					"external_id": "9d2d0eb64d5c44529cece33fe2a46482",
+					"release_per_platform_id": "epic_9d2d0eb64d5c44529cece33fe2a46482"
 				},
 				{
-					"id": "53330810691714226",
+					"id": "53350790215047690",
+					"platform_id": "vision",
+					"external_id": "BLES01807",
+					"release_per_platform_id": "vision_BLES01807"
+				},
+				{
+					"id": "53437755596305918",
+					"platform_id": "origin",
+					"external_id": "9f3c8225f4f8ee5ada3c720e81cbbe5d01c0014c",
+					"release_per_platform_id": "origin_9f3c8225f4f8ee5ada3c720e81cbbe5d01c0014c"
+				},
+				{
+					"id": "53472660593207242",
+					"platform_id": "steam",
+					"external_id": "100002",
+					"release_per_platform_id": "steam_100002"
+				},
+				{
+					"id": "53486384865240560",
+					"platform_id": "origin",
+					"external_id": "412021",
+					"release_per_platform_id": "origin_412021"
+				},
+				{
+					"id": "53992078885628782",
+					"platform_id": "test",
+					"external_id": "/grand-theft-auto-v-free-2021-download/",
+					"release_per_platform_id": "test_/grand-theft-auto-v-free-2021-download/"
+				},
+				{
+					"id": "54005340482360163",
+					"platform_id": "itch",
+					"external_id": "871001",
+					"release_per_platform_id": "itch_871001"
+				},
+				{
+					"id": "54024455695294028",
+					"platform_id": "test",
+					"external_id": "grand-theft-auto-v",
+					"release_per_platform_id": "test_grand-theft-auto-v"
+				},
+				{
+					"id": "54027326173450553",
+					"platform_id": "playfire",
+					"external_id": "grand-theft-auto-v",
+					"release_per_platform_id": "playfire_grand-theft-auto-v"
+				},
+				{
+					"id": "54872009118549708",
+					"platform_id": "beamdog",
+					"external_id": "GAME_FROM_DATA_FILE-3-20211027014142",
+					"release_per_platform_id": "beamdog_GAME_FROM_DATA_FILE-3-20211027014142"
+				},
+				{
+					"id": "54872036798320017",
+					"platform_id": "rockstar",
+					"external_id": "GAME_FROM_DATA_FILE-3-20211027015527",
+					"release_per_platform_id": "rockstar_GAME_FROM_DATA_FILE-3-20211027015527"
+				},
+				{
+					"id": "54872103454372235",
+					"platform_id": "beamdog",
+					"external_id": "GAME_FROM_DATA_FILE-3-20211027022834",
+					"release_per_platform_id": "beamdog_GAME_FROM_DATA_FILE-3-20211027022834"
+				},
+				{
+					"id": "54872168316803315",
+					"platform_id": "rockstar",
+					"external_id": "GAME_FROM_DATA_FILE-3-20211027030013",
+					"release_per_platform_id": "rockstar_GAME_FROM_DATA_FILE-3-20211027030013"
+				},
+				{
+					"id": "55254228628703601",
+					"platform_id": "psn",
+					"external_id": "PPSA03420_00",
+					"release_per_platform_id": "psn_PPSA03420_00"
+				},
+				{
+					"id": "55254865337612938",
+					"platform_id": "psn",
+					"external_id": "PPSA01721_00",
+					"release_per_platform_id": "psn_PPSA01721_00"
+				},
+				{
+					"id": "55257557953753309",
+					"platform_id": "psn",
+					"external_id": "PPSA03421_00",
+					"release_per_platform_id": "psn_PPSA03421_00"
+				},
+				{
+					"id": "55403729238171973",
+					"platform_id": "beamdog",
+					"external_id": "00000000-0000-0000-0000-000000003639",
+					"release_per_platform_id": "beamdog_00000000-0000-0000-0000-000000003639"
+				},
+				{
+					"id": "55406709863082083",
+					"platform_id": "beamdog",
+					"external_id": "9d2d0eb64d5c44529cece33fe2a46482",
+					"release_per_platform_id": "beamdog_9d2d0eb64d5c44529cece33fe2a46482"
+				},
+				{
+					"id": "55407077035780074",
+					"platform_id": "humble",
+					"external_id": "9d2d0eb64d5c44529cece33fe2a46482",
+					"release_per_platform_id": "humble_9d2d0eb64d5c44529cece33fe2a46482"
+				},
+				{
+					"id": "55420956010662433",
+					"platform_id": "egg",
+					"external_id": "9d2d0eb64d5c44529cece33fe2a46482",
+					"release_per_platform_id": "egg_9d2d0eb64d5c44529cece33fe2a46482"
+				},
+				{
+					"id": "55905759604995492",
+					"platform_id": "psx",
+					"external_id": "PPSA01721_00",
+					"release_per_platform_id": "psx_PPSA01721_00"
+				},
+				{
+					"id": "56131596143618382",
+					"platform_id": "vision",
+					"external_id": "Grand Theft Auto V (USA) (En,Fr,De).txt",
+					"release_per_platform_id": "vision_Grand Theft Auto V (USA) (En,Fr,De).txt"
+				},
+				{
+					"id": "56140854165014470",
+					"platform_id": "test",
+					"external_id": "271590",
+					"release_per_platform_id": "test_271590"
+				},
+				{
+					"id": "56207655196917263",
+					"platform_id": "itch",
+					"external_id": "9d2d0eb64d5c44529cece33fe2a46482",
+					"release_per_platform_id": "itch_9d2d0eb64d5c44529cece33fe2a46482"
+				},
+				{
+					"id": "56529120285377569",
+					"platform_id": "psn",
+					"external_id": "PPSA04263_00",
+					"release_per_platform_id": "psn_PPSA04263_00"
+				},
+				{
+					"id": "56542565719337608",
+					"platform_id": "psn",
+					"external_id": "PPSA04264_00",
+					"release_per_platform_id": "psn_PPSA04264_00"
+				},
+				{
+					"id": "51152930335439509",
 					"platform_id": "generic",
-					"external_id": "53330810691714226",
-					"release_per_platform_id": "generic_53330810691714226"
+					"external_id": "51152930335439509",
+					"release_per_platform_id": "generic_51152930335439509"
 				}
 			],
 			"title": {
-				"*": "Cygni: All Guns Blazing",
-				"en-US": "Cygni: All Guns Blazing"
+				"*": "Grand Theft Auto V",
+				"en-US": "Grand Theft Auto V"
 			},
 			"sorting_title": {
-				"*": "Cygni All Guns Blazing",
-				"en-US": "Cygni All Guns Blazing"
+				"*": "Grand Theft Auto 5",
+				"en-US": "Grand Theft Auto 5"
 			},
 			"type": "game",
 			"developers_ids": [
-				"53333794850146359"
+				"51141403371262646"
 			],
 			"developers": [
 				{
-					"id": "53333794850146359",
-					"name": "KeelWorks",
-					"slug": "keelworks"
+					"id": "51141403371262646",
+					"name": "Rockstar North",
+					"slug": "rockstar-north"
 				}
 			],
 			"publishers_ids": [
-				"51141380323608614"
+				"51141378963222653",
+				"51141403383330252"
 			],
 			"publishers": [
 				{
-					"id": "51141380323608614",
-					"name": "Konami",
-					"slug": "konami"
+					"id": "51141378963222653",
+					"name": "Take-Two Interactive",
+					"slug": "take-two-interactive"
+				},
+				{
+					"id": "51141403383330252",
+					"name": "Rockstar Games",
+					"slug": "rockstar-games"
 				}
 			],
 			"genres_ids": [
-				"51121492616405278",
+				"51071842251704278",
 				"51141224821260861",
-				"51141224840148805"
+				"51141224875811235"
 			],
 			"genres": [
 				{
-					"id": "51121492616405278",
+					"id": "51071842251704278",
 					"name": {
-						"*": "Indie",
-						"en-US": "Indie"
+						"*": "Adventure",
+						"en-US": "Adventure"
 					},
-					"slug": "indie"
+					"slug": "adventure"
 				},
 				{
 					"id": "51141224821260861",
@@ -2593,19 +3207,29 @@
 					"slug": "shooter"
 				},
 				{
-					"id": "51141224840148805",
+					"id": "51141224875811235",
 					"name": {
-						"*": "Arcade",
-						"en-US": "Arcade"
+						"*": "Racing",
+						"en-US": "Racing"
 					},
-					"slug": "arcade"
+					"slug": "racing"
 				}
 			],
 			"themes_ids": [
+				"51071842227872529",
 				"51071842231533391",
-				"51141225463821636"
+				"51141224799400616",
+				"51141225990825995"
 			],
 			"themes": [
+				{
+					"id": "51071842227872529",
+					"name": {
+						"*": "Open world",
+						"en-US": "Open world"
+					},
+					"slug": "open-world"
+				},
 				{
 					"id": "51071842231533391",
 					"name": {
@@ -2615,80 +3239,136 @@
 					"slug": "action"
 				},
 				{
-					"id": "51141225463821636",
+					"id": "51141224799400616",
 					"name": {
-						"*": "Science fiction",
-						"en-US": "Science fiction"
+						"*": "Comedy",
+						"en-US": "Comedy"
 					},
-					"slug": "science-fiction"
+					"slug": "comedy"
+				},
+				{
+					"id": "51141225990825995",
+					"name": {
+						"*": "Sandbox",
+						"en-US": "Sandbox"
+					},
+					"slug": "sandbox"
 				}
 			],
 			"screenshots": [
 				{
-					"url_format": "https://images.gog.com/3733c99faf55a4e4e81696f8cc3396be62b2f35e4e4d8bb13871be3b30b894f9{formatter}.{ext}?namespace=gamesdb"
+					"url_format": "https://images.gog.com/0f1a5e5bb73cda7bdaaf46560cc098c0bd0cf3ba1e44e599406e276aee084464{formatter}.{ext}?namespace=gamesdb"
 				},
 				{
-					"url_format": "https://images.gog.com/ebaf404f24dee5df8ae2c84bae420b6626aeed57b5e705d521d791deaf61c21f{formatter}.{ext}?namespace=gamesdb"
+					"url_format": "https://images.gog.com/4dbd06014baac2fc29e1994b838a523e7830d91c453cb84e03cc698f11a6ff47{formatter}.{ext}?namespace=gamesdb"
 				},
 				{
-					"url_format": "https://images.gog.com/a262154f9ca22493c8447717080ce8645627c8d16004cee4483e2abc1f14772f{formatter}.{ext}?namespace=gamesdb"
+					"url_format": "https://images.gog.com/f18f3a567a47e3696b14049ee532fe47bff9c8a8c90266f2285da518606089f9{formatter}.{ext}?namespace=gamesdb"
 				},
 				{
-					"url_format": "https://images.gog.com/73b54a7aafbeec18c76b91a9c6fefb19ff3fa62e32043bf8e1989d60e671d091{formatter}.{ext}?namespace=gamesdb"
+					"url_format": "https://images.gog.com/527f9bc3a60a4ba255305617a09f4cd72e42e996f635af2cff083f0bc21624d1{formatter}.{ext}?namespace=gamesdb"
 				},
 				{
-					"url_format": "https://images.gog.com/b4b5ac0c450054eef9f2fe9d9bea61c291e7cf6c3d6d80e43e6f0287f4168e58{formatter}.{ext}?namespace=gamesdb"
+					"url_format": "https://images.gog.com/6f48ff593df0aebce6faf8d987a00df7cfb8f214a41a262839a74b54ca95d13c{formatter}.{ext}?namespace=gamesdb"
 				},
 				{
-					"url_format": "https://images.gog.com/9ed42fc086d1ec7354524c40de7adecccae8bc992a8ec9abe3a1539283859bf4{formatter}.{ext}?namespace=gamesdb"
+					"url_format": "https://images.gog.com/1693669bc065f1f6f7e1a0470bc833ddfe3d3f9f84516a1f80c376a5937f156d{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/b7d008b4f32f48722a2ab2fc1e407d7928eff53b4b92db990893b52bfb75f415{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/fcccb2e58989684d83397699f79dcb4a1bb004244f322f444738345daf2dbaba{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/82ed2cbdac8a459e4c1208f60cec92733a68672294fdcdbe550290d360c332ae{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/ca0f909849cacb4d645924f6e15be8b8dcab675198bbb8ba8bcac70465462235{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/f389360ccb1d5f43bfa662465b8606e640f029b309c299ce27d6d18f30ee470b{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/8681f575c6556674b09673bb4fb2cb0f413c56ac4c450c874816eb1e75d1352c{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/499a34fd304759365df3d6a2831553e136b70bfcc694b25e171087cea1f920ce{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/447f14804e5f6fbe8e1ed51f8788bbc640782964fa329444ddbe7803b310ae0c{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/561ab570d2d40bc11ff8dbe765d77c8938f25814de1ccd158bee76e10fe5c64c{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/d9ca95d01aaa4db66ccdc14c98c0466241914151a424ead595821c0b1cb82917{formatter}.{ext}?namespace=gamesdb"
 				}
 			],
 			"videos": [
 				{
 					"provider": "youtube",
-					"video_id": "vg6Q6YB9jHc",
-					"thumbnail_id": "vg6Q6YB9jHc",
-					"name": "Story Trailer"
+					"video_id": "N-xHcvug3WI",
+					"thumbnail_id": "N-xHcvug3WI",
+					"name": "Gameplay video"
 				},
 				{
 					"provider": "youtube",
-					"video_id": "kJm08-MRnj0",
-					"thumbnail_id": "kJm08-MRnj0",
-					"name": "Announcement Trailer"
-				},
-				{
-					"provider": "youtube",
-					"video_id": "8bzenHb-3TU",
-					"thumbnail_id": "8bzenHb-3TU",
-					"name": "Gameplay Trailer"
-				},
-				{
-					"provider": "youtube",
-					"video_id": "yEmbMf0RU5c",
-					"thumbnail_id": "yEmbMf0RU5c",
-					"name": "Release Date Trailer"
-				},
-				{
-					"provider": "youtube",
-					"video_id": "EgnuUkdxvhg",
-					"thumbnail_id": "EgnuUkdxvhg",
+					"video_id": "QkkoHAzjnUs",
+					"thumbnail_id": "QkkoHAzjnUs",
 					"name": "Trailer"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "PIF_fqFZEuk",
+					"thumbnail_id": "PIF_fqFZEuk",
+					"name": "Next-gen Launch Trailer"
 				}
 			],
 			"artworks": [
 				{
-					"url_format": "https://images.gog.com/4add99bcc7ec4fb7ce1820d3276005ac710e8d071bbfa82bdf4f724ade0abc27{formatter}.{ext}?namespace=gamesdb"
+					"url_format": "https://images.gog.com/cf21f8c90a2453fb8a6c21cce1dab95bff9bc0836a9fb3cdcf2fe134b699ca5b{formatter}.{ext}?namespace=gamesdb"
 				},
 				{
-					"url_format": "https://images.gog.com/9a7f28d797d858f791a20dae4737a566d0d4ff9a5dbf3ff65b0cfbd5d9884ce1{formatter}.{ext}?namespace=gamesdb"
+					"url_format": "https://images.gog.com/32aab971286c1d8491253c2c9ce7b1c7dfa0886f2cb641f49e87f30d9239ac69{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/25c7b96bda1258e2eff298da051c547ca2aeff74c28912980a3dad416e3ce82d{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/87c7b7c468e48aabf2c4ce70eaa3fe8e4009dfbc2581fbce8bdcfad551a58453{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/139dae84d788de6efac28edad713346287540f9f40abe96f8b5229a21c2fe22d{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/c244353d916db4eba10c62f17b1ba5af2704b886b8996d77fa293d9b50a355ca{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/b4c682380b447ea5a80a9025b843a4efb519ea79cc3afd5554a729b9277c824c{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/4332981a1c6d5e298dec55a8d2a1689f7c14f39073729da35e6e51db5e000fbe{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/17e01b0bb2904b24ae1ef04e385273a925580c65f24891c2af3dcb367770047f{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/db03b1ccfe6c918230a1ded514b11b2b21077f3e79a607b0e5268b882de1eb2e{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/9f907a208e16216da1ed68e920ffa6863e9dd61688ed7678e3b55c5c5f06f79c{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/3eaba840cea59fafddf28e442f2c8aac855706a31bdbe93b4718826aefe1b159{formatter}.{ext}?namespace=gamesdb"
 				}
 			],
 			"summary": {
-				"*": "It's a twin-stick vertical scrolling Shooter hybrid with a cinematic flare:\n\nAn unrelenting onslaught of eye-popping visuals, ear bursting soundscapes and mind-melting action makes Cygni the vanguard for the next generation of shoot-em ups.",
-				"en-US": "It's a twin-stick vertical scrolling Shooter hybrid with a cinematic flare:\n\nAn unrelenting onslaught of eye-popping visuals, ear bursting soundscapes and mind-melting action makes Cygni the vanguard for the next generation of shoot-em ups."
+				"*": "Grand Theft Auto V is a vast open world game set in Los Santos, a sprawling sun-soaked metropolis struggling to stay afloat in an era of economic uncertainty and cheap reality TV. The game blends storytelling and gameplay in new ways as players repeatedly jump in and out of the lives of the game’s three lead characters, playing all sides of the game’s interwoven story.",
+				"en-US": "Grand Theft Auto V is a vast open world game set in Los Santos, a sprawling sun-soaked metropolis struggling to stay afloat in an era of economic uncertainty and cheap reality TV. The game blends storytelling and gameplay in new ways as players repeatedly jump in and out of the lives of the game’s three lead characters, playing all sides of the game’s interwoven story."
 			},
 			"visible_in_library": true,
-			"aggregated_rating": 78.8,
+			"aggregated_rating": 88.1379,
 			"game_modes": [
 				{
 					"id": "53051895165351137",
@@ -2707,41 +3387,43 @@
 				}
 			],
 			"horizontal_artwork": {
-				"url_format": "https://images.gog.com/72023073c8dc1e72732373323cd89cbf5a02de579b1385d8a8bc1bd659441c15{formatter}.{ext}?namespace=gamesdb"
+				"url_format": "https://images.gog.com/79b33f20eeb88783a4bdcafd659e07f0cb8f21ad7fe075c609c00bb1f0c0a7d2{formatter}.{ext}?namespace=gamesdb"
 			},
 			"background": {
-				"url_format": "https://images.gog.com/72023073c8dc1e72732373323cd89cbf5a02de579b1385d8a8bc1bd659441c15{formatter}.{ext}?namespace=gamesdb"
+				"url_format": "https://images.gog.com/79b33f20eeb88783a4bdcafd659e07f0cb8f21ad7fe075c609c00bb1f0c0a7d2{formatter}.{ext}?namespace=gamesdb"
 			},
 			"vertical_cover": {
-				"url_format": "https://images.gog.com/85d2b30b11442590ae6793edfff01599335dd1fd7adf9290a8a60639d9653e5e{formatter}.{ext}?namespace=gamesdb"
+				"url_format": "https://images.gog.com/2d5277bd1949774a1b79e18157c84817968c4d6893ccda316a6e503e84799eab{formatter}.{ext}?namespace=gamesdb"
 			},
 			"cover": {
-				"url_format": "https://images.gog.com/85d2b30b11442590ae6793edfff01599335dd1fd7adf9290a8a60639d9653e5e{formatter}.{ext}?namespace=gamesdb"
+				"url_format": "https://images.gog.com/2d5277bd1949774a1b79e18157c84817968c4d6893ccda316a6e503e84799eab{formatter}.{ext}?namespace=gamesdb"
 			},
 			"logo": {
-				"url_format": "https://images.gog.com/85d2b30b11442590ae6793edfff01599335dd1fd7adf9290a8a60639d9653e5e{formatter}.{ext}?namespace=gamesdb"
-			},
-			"icon": {
-				"url_format": "https://images.gog.com/85d2b30b11442590ae6793edfff01599335dd1fd7adf9290a8a60639d9653e5e{formatter}.{ext}?namespace=gamesdb"
+				"url_format": "https://images.gog.com/6f77914749ac144643774062fc355131863d0a716566b4bc7ba037769f5050f6{formatter}.{ext}?namespace=gamesdb"
 			},
 			"square_icon": {
-				"url_format": "https://images.gog.com/9a7f28d797d858f791a20dae4737a566d0d4ff9a5dbf3ff65b0cfbd5d9884ce1{formatter}.{ext}?namespace=gamesdb"
+				"url_format": "https://images.gog.com/d60b6efc6e687d66821c52d8b31c3b60cfb30d83d3e32f5c2c94ab108a65f13f{formatter}.{ext}?namespace=gamesdb"
 			},
 			"global_popularity_all_time": 0,
-			"global_popularity_current": 0
+			"global_popularity_current": 16,
+			"series": {
+				"id": "53060454139469563",
+				"name": "Grand Theft Auto",
+				"slug": "grand-theft-auto"
+			}
 		},
 		"title": {
-			"*": "CYGNI - All Guns Blazing",
-			"en-US": "Cygni: All Guns Blazing"
+			"*": "Grand Theft Auto V",
+			"en-US": "Grand Theft Auto V"
 		},
 		"sorting_title": {
-			"*": "CYGNI All Guns Blazing",
-			"en-US": "CYGNI All Guns Blazing"
+			"*": "Grand Theft Auto 5",
+			"en-US": "Grand Theft Auto 5"
 		},
 		"type": "game",
 		"summary": {
-			"*": "It's a twin-stick vertical scrolling Shooter hybrid with a cinematic flare:\n\nAn unrelenting onslaught of eye-popping visuals, ear bursting soundscapes and mind-melting action makes Cygni the vanguard for the next generation of shoot-em ups.",
-			"en-US": "It's a twin-stick vertical scrolling Shooter hybrid with a cinematic flare:\n\nAn unrelenting onslaught of eye-popping visuals, ear bursting soundscapes and mind-melting action makes Cygni the vanguard for the next generation of shoot-em ups."
+			"*": "Grand Theft Auto V is a vast open world game set in Los Santos, a sprawling sun-soaked metropolis struggling to stay afloat in an era of economic uncertainty and cheap reality TV. The game blends storytelling and gameplay in new ways as players repeatedly jump in and out of the lives of the game’s three lead characters, playing all sides of the game’s interwoven story.",
+			"en-US": "Grand Theft Auto V is a vast open world game set in Los Santos, a sprawling sun-soaked metropolis struggling to stay afloat in an era of economic uncertainty and cheap reality TV. The game blends storytelling and gameplay in new ways as players repeatedly jump in and out of the lives of the game’s three lead characters, playing all sides of the game’s interwoven story."
 		},
 		"videos": [],
 		"game_modes": [
@@ -2761,12 +3443,14 @@
 				"slug": "multiplayer"
 			}
 		],
-		"icon": {
-			"url_format": "https://images.gog.com/85d2b30b11442590ae6793edfff01599335dd1fd7adf9290a8a60639d9653e5e{formatter}.{ext}?namespace=gamesdb"
-		},
 		"logo": {
-			"url_format": "https://images.gog.com/85d2b30b11442590ae6793edfff01599335dd1fd7adf9290a8a60639d9653e5e{formatter}.{ext}?namespace=gamesdb"
+			"url_format": "https://images.gog.com/6f77914749ac144643774062fc355131863d0a716566b4bc7ba037769f5050f6{formatter}.{ext}?namespace=gamesdb"
 		},
-		"etag": "W/\"b64edb016f47c5ff205c2d9b70960718\""
+		"series": {
+			"id": "53060454139469563",
+			"name": "Grand Theft Auto",
+			"slug": "grand-theft-auto"
+		},
+		"etag": "W/\"779eec95911646532fdaf67d78116a05\""
 	}
 }

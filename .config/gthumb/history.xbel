@@ -3,11 +3,21 @@
       xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
       xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
 >
-  <bookmark href="file:///home/hdd1/.Takeout/Photos%20Scattered/Nani_Ghar" added="2024-08-14T17:11:40.925324Z" modified="2024-08-14T17:11:40.925328Z" visited="2024-08-14T17:11:40.925325Z">
+  <bookmark href="file:///home/hdd1/.Takeout/Babaya/Raw" added="2024-08-20T06:47:46.598576Z" modified="2024-08-20T06:47:46.598579Z" visited="2024-08-20T06:47:46.598576Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <bookmark:applications>
-          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2024-08-14T17:11:40.925327Z" count="1"/>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2024-08-20T06:47:46.598577Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hdd1/.Takeout/Photos%20Scattered/Nani_Ghar" added="2024-08-20T06:47:46.598580Z" modified="2024-08-20T06:47:46.598581Z" visited="2024-08-20T06:47:46.598580Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2024-08-20T06:47:46.598581Z" count="1"/>
         </bookmark:applications>
         <bookmark:private/>
       </metadata>
