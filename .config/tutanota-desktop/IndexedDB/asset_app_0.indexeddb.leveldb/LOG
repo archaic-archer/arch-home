@@ -1,3 +1,14 @@
-2024/08/20-13:04:21.499 6ab Reusing MANIFEST /home/pc/.config/tutanota-desktop/IndexedDB/asset_app_0.indexeddb.leveldb/MANIFEST-000001
-2024/08/20-13:04:21.500 6ab Recovering log #22
-2024/08/20-13:04:21.500 6ab Reusing old log /home/pc/.config/tutanota-desktop/IndexedDB/asset_app_0.indexeddb.leveldb/000022.log 
+2024/08/22-17:01:45.750 1719 Reusing MANIFEST /home/pc/.config/tutanota-desktop/IndexedDB/asset_app_0.indexeddb.leveldb/MANIFEST-000001
+2024/08/22-17:01:45.750 1719 Recovering log #26
+2024/08/22-17:01:45.769 1719 Reusing old log /home/pc/.config/tutanota-desktop/IndexedDB/asset_app_0.indexeddb.leveldb/000026.log 
+2024/08/22-18:55:40.124 171a Level-0 table #31: started
+2024/08/22-18:55:40.145 171a Level-0 table #31: 1206582 bytes OK
+2024/08/22-18:55:40.149 171a Delete type=0 #26
+2024/08/22-18:55:40.149 171a Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x01\x05\x02\x01\x0c\x00L\x00_\x00n\x00s\x00j\x00o\x00Q\x00-\x00-\x00k\x00-\x001' @ 244777 : 1
+2024/08/22-18:55:40.150 171a Compacting 1@0 + 1@1 files
+2024/08/22-18:55:40.166 171a Generated table #32@0: 6534 keys, 357307 bytes
+2024/08/22-18:55:40.166 171a Compacted 1@0 + 1@1 files => 357307 bytes
+2024/08/22-18:55:40.169 171a compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/08/22-18:55:40.169 171a Delete type=2 #28
+2024/08/22-18:55:40.169 171a Delete type=2 #31
+2024/08/22-18:55:40.169 171a Manual compaction at level-0 from '\x00\x01\x05\x02\x01\x0c\x00L\x00_\x00n\x00s\x00j\x00o\x00Q\x00-\x00-\x00k\x00-\x001' @ 244777 : 1 .. (end); will stop at (end)

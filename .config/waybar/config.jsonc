@@ -1,5 +1,7 @@
 // -*- mode: jsonc -*-
-{
+[{
+    "layer": "top",
+    "output": "",
     "height": 30, 
     "spacing": 4,
 
@@ -225,6 +227,15 @@
         "format": " {}",
         "return-type": "json",
         "max-length": 40,
+//	"tooltip": false,
+//                     "menu": "on-click",
+//                     "menu-file": "/home/pc/.config/waybar/favorites.xml",
+//                     "menu-actions": {
+//                          "zen-browser": "zen-browser",
+//                          "thunar": "thunar",
+//                          "alacritty": "alacritty",
+//                          "music": "~/Applications/Cider-1.6.3_f94add7ebacee363862f122143da69ec.AppImage"
+//                     },
      	"on-click": "~/.config/rofi/AppMenu/launcher.sh"
 
     }
@@ -233,5 +244,47 @@
 
 
     
-        }
+        },
 
+
+// Bottom Bar //
+{
+	"layer": "top",
+	"output":"",
+	"height": 10,
+	"position": "bottom",
+	"mode": "dock",
+	"modules-center": [
+		"custom/app1",
+		"custom/app2",
+		"custom/app3",
+		"custom/app4",
+		"custom/app5"
+	],
+
+"custom/app1": {
+		"format": "  {}",
+		"tooltip": "zen browser",
+		"on-click": "zen-browser"
+	},
+
+"custom/app2": {
+		"format": "  {}",
+		"on-click": "thunar"
+	},
+"custom/app3": {
+		"format": "  {}",
+		"on-click": "alacritty"
+	},
+"custom/app4": {
+		"format": "  {}",
+		"on-click": "~/Applications/Cider*"
+	},
+
+"custom/app5": {
+		"format": "  {}",
+		"on-click": ""
+	}
+
+
+}]

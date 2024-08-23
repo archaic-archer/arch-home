@@ -1,10 +1,10 @@
 {
 	"general-logs": {
-		"currentLogFile": "/home/pc/.config/heroic/logs/2024-08-18T18_58_30-heroic.log",
-		"lastLogFile": "/home/pc/.config/heroic/logs/2024-08-15T12_43_50-heroic.log",
-		"legendaryLogFile": "/home/pc/.config/heroic/logs/2024-08-18T18_58_30-legendary.log",
-		"gogdlLogFile": "/home/pc/.config/heroic/logs/2024-08-18T18_58_30-gogdl.log",
-		"nileLogFile": "/home/pc/.config/heroic/logs/2024-08-18T18_58_30-nile.log"
+		"currentLogFile": "/home/pc/.config/heroic/logs/2024-08-22T04_46_36-heroic.log",
+		"lastLogFile": "/home/pc/.config/heroic/logs/2024-08-21T16_46_32-heroic.log",
+		"legendaryLogFile": "/home/pc/.config/heroic/logs/2024-08-22T04_46_36-legendary.log",
+		"gogdlLogFile": "/home/pc/.config/heroic/logs/2024-08-22T04_46_36-gogdl.log",
+		"nileLogFile": "/home/pc/.config/heroic/logs/2024-08-22T04_46_36-nile.log"
 	},
 	"userHome": "/home/pc",
 	"language": "en",
@@ -65,6 +65,14 @@
 	},
 	"games": {
 		"recent": [
+			{
+				"appName": "0a2d9f6403244d12969e11da6713137b",
+				"title": "Fall Guys"
+			},
+			{
+				"appName": "1106508737",
+				"title": "Bzzzt Demo"
+			},
 			{
 				"appName": "9d2d0eb64d5c44529cece33fe2a46482",
 				"title": "Grand Theft Auto V"

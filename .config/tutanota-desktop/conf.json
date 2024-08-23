@@ -12,10 +12,10 @@
     "scale": 1,
     "fullscreen": false,
     "rect": {
-      "x": 15,
-      "y": 48,
-      "width": 938,
-      "height": 1017
+      "x": 0,
+      "y": 34,
+      "width": 1920,
+      "height": 1046
     }
   },
   "appPassSalt": null,
@@ -126,7 +126,7 @@
     }
   ],
   "selectedTheme": "auto:light|dark",
-  "sseInfo": "AThUMjpOE7Y+OkAN8lyWtYr4whdJ7f8O7Vx9OS11KgciCCVfXEKaNnY9Y2wm5sCdgqt0Uzi+tWjq1N+atYI9BtnH+FsZtDSvvv+PD04Mkm64CHVei1b1DO2e5cGj0XI4mi7soTNRRncewVRZvOBzYqwDfhhFB17FdOY4lmuuWzqHMB9OqFu13uLHO0/PofRrB9kiUj/VP46iSISD4r084GmNxE4ZtUGoix4dNEO/mjTsNtp4bEg1gRW9yOtPEDXrF2ODKzrIvriXz7PnvPNzECDRo+SPJzG8ser7cE+lcKt8BdvOLwxp7T1VKwgKTjgp41DHENz6xsZ2vH6nISV0XVpZyQe7tjiO/32vkAZit1Zp+yIPptXTZ3z0RVQf3da71dNSEbuF+YTTYK6XGYgz8bDi98mZj3OK77zTQuFD2Xm1V16GtuKttuOU69O9wv21EVkzpWmQP2w8IAMy7k+0MDs8qmeJh4v9BFPiyLY+/AQ3LlPdNcI8+rmj2LPc6vkg8CmbKxcF+XFbXf5Rem9nF6CQIaE3vblSRrKyd6cfEbnDeRLR6YBJtpUn5bc2WbS0uRaU2OCgERWgrbGEEUFpetGC3GcxYTaqJjyej5iAMJgp/YSVSZ9t8J95eJidpBjujw==",
+  "sseInfo": "AanHMjGR50Pyf8k2PbZkcb538CHgXoHuYL+MBUSUhTYMQNmZ8gENk54V445/+R0Zu6YLb0qrMReuqqDio7jS2Huxdp8FCLL4QA5vS7q2a7/8u+22R3q/a1K0z5rLzVogcZV3IrhVPVYL0hU8ZPShzuW/fJkS31d3w+5zWpGgZv7iyzDp79FFl19M20f68ixcVJDhz2W7kJa503+NA0Qyx/DsibufajQc83ZZkBBJIVwwpr0YClYgCj19BPr4FLpwrEZ1j011zM6+/XPfrpdy2FVOfMmk2G/+PPuYHdulgsnslyBz3T2UxMINlYVEkTTV/0Jgo2KjheaTU/HmK9lZ+tI8CR8xdgl9hdRyYi7HEVoV8GFEN8W5aHQe3djBcGIhl3n7CsKBHA3OOEJZBESkQH86GBWrDUxyYJcN/TujpsWeQFIyIscxslLMtnS8/nDZk+yDOY3ryBQ3uT9nn4KVwJR0NBrzjbMpPEkb/29xQfaEV+iplXLSeqJN859c4YPrz8L12Uk2a7TsmRLjVIkMecGPckPpgr4rr/vkuvf9ivEwPIeVTD3yHpgHSroMjPLqnYpTcMEokQxP1PvsnlyHchDLZuyGV+gyqqN6+Bg/RwmlklubJWVX5uz8wzVy5UsfvNf9YXa2eYN4T3JpUFKmAvVDKpZnodrPcOGWUg5NX+r+FeJnPU1Hqrr+ZRSLvoK1mR1M1kfIy2XAYJNiXffFXqCa3AGN72nFQTxuU3K/NF5Yj35S7Me/3NUvrSRgsKPhFw==",
   "extendedNotificationMode": {
     "L_nsjny----1": "1"
   },
@@ -172,6 +172,6 @@
       "user": "L_nsjny----1"
     }
   ],
-  "lastMissedNotificationCheckTime": 1724140281003,
-  "lastProcessedNotificationId": "O4ilCXR--N-9"
+  "lastMissedNotificationCheckTime": 1724326308103,
+  "lastProcessedNotificationId": "O4tgxif-----"
 }

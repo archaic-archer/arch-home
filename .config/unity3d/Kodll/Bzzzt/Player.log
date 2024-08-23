@@ -1,15 +1,14 @@
-Mono path[0] = '/home/sdd1/GOG/Bzzzt Demo/game/Bzzzt_Data/Managed'
-Mono config path = '/home/sdd1/GOG/Bzzzt Demo/game/Bzzzt_Data/MonoBleedingEdge/etc'
+Mono path[0] = '/home/esata/Bzzzt Demo/game/Bzzzt_Data/Managed'
+Mono config path = '/home/esata/Bzzzt Demo/game/Bzzzt_Data/MonoBleedingEdge/etc'
 Preloaded 'libsteam_api.so'
 Display 0 'HDMI-A-1 24"': 1920x1080 (primary device).
-Unable to load player prefs
 Desktop is 1920 x 1080 @ 100 Hz
 Initialize engine version: 2021.3.9f1 (ad3870b89536)
-[Subsystems] Discovering subsystems at path /home/sdd1/GOG/Bzzzt Demo/game/Bzzzt_Data/UnitySubsystems
+[Subsystems] Discovering subsystems at path /home/esata/Bzzzt Demo/game/Bzzzt_Data/UnitySubsystems
 GfxDevice: creating device client; threaded=1; jobified=0
 Renderer: Mesa Intel(R) UHD Graphics 620 (KBL GT2)
 Vendor:   Intel
-Version:  4.6 (Core Profile) Mesa 24.1.4-arch1.2
+Version:  4.6 (Core Profile) Mesa 24.1.6-arch1.1
 GLES:     0
  GL_3DFX_texture_compression_FXT1 GL_AMD_conservative_depth GL_AMD_depth_clamp_separate GL_AMD_draw_buffers_blend GL_AMD_gpu_shader_int64 GL_AMD_multi_draw_indirect GL_AMD_performance_monitor GL_AMD_pinned_memory GL_AMD_query_buffer_object GL_AMD_seamless_cubemap_per_texture GL_AMD_shader_stencil_export GL_AMD_shader_trinary_minmax GL_AMD_texture_texture4 GL_AMD_vertex_shader_layer GL_AMD_vertex_shader_viewport_index GL_ANGLE_texture_compression_dxt3 GL_ANGLE_texture_compression_dxt5 GL_ARB_ES2_compatibility GL_ARB_ES3_1_compatibility GL_ARB_ES3_2_compatibility GL_ARB_ES3_compatibility GL_ARB_arrays_of_arrays GL_ARB_base_instance GL_ARB_blend_func_extended GL_ARB_buffer_storage GL_ARB_clear_buffer_object GL_ARB_clear_texture GL_ARB_clip_control GL_ARB_compressed_texture_pixel_storage GL_ARB_compute_shader GL_ARB_compute_variable_group_size GL_ARB_conditional_render_inverted GL_ARB_conservative_depth GL_ARB_copy_buffer GL_ARB_copy_image GL_ARB_cull_distance GL_ARB_debug_output GL_ARB_depth_buffer_float GL_ARB
 _depth_clamp GL_ARB_derivative_control GL_ARB_direct_state_access GL_ARB_draw_buffers GL_ARB_draw_buffers_blend GL_ARB_draw_elements_base_vertex GL_ARB_draw_indirect GL_ARB_draw_instanced GL_ARB_enhanced_layouts GL_ARB_explicit_attrib_location GL_ARB_explicit_uniform_location GL_ARB_fragment_coord_conventions GL_ARB_fragment_layer_viewport GL_ARB_fragment_shader GL_ARB_fragment_shader_interlock GL_ARB_framebuffer_no_attachments GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_get_program_binary GL_ARB_get_texture_sub_image GL_ARB_gl_spirv GL_ARB_gpu_shader5 GL_ARB_gpu_shader_fp64 GL_ARB_gpu_shader_int64 GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_indirect_parameters GL_ARB_instanced_arrays GL_ARB_internalformat_query GL_ARB_internalformat_query2 GL_ARB_invalidate_subdata GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multi_bind GL_ARB_multi_draw_indirect GL_ARB_occlusion_query2 GL_ARB_parallel_shader_compile GL_ARB_pipeline_statistics_query GL_ARB_pixel_buffer_object GL_ARB_po
@@ -18,924 +17,176 @@ L_ARB_texture_border_clamp GL_ARB_texture_buffer_object GL_ARB_texture_buffer_ob
 _10_10_10_rev GL_ARB_viewport_array GL_ATI_blend_equation_separate GL_ATI_texture_float GL_EXT_EGL_image_storage GL_EXT_EGL_sync GL_EXT_abgr GL_EXT_blend_equation_separate GL_EXT_debug_label GL_EXT_demote_to_helper_invocation GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_memory_object GL_EXT_memory_object_fd GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_pixel_buffer_object GL_EXT_polygon_offset_clamp GL_EXT_provoking_vertex GL_EXT_semaphore GL_EXT_semaphore_fd GL_EXT_shader_framebuffer_fetch GL_EXT_shader_framebuffer_fetch_non_coherent GL_EXT_shader_integer_mix GL_EXT_shader_samples_identical GL_EXT_texture_array GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_filter_anisotropic GL_EXT_texture_integer GL_EXT_texture_sRGB GL_EXT_texture_sRGB_R8 GL_EXT_texture_sRGB_decode GL_EXT_texture_sha
 dow_lod GL_EXT_texture_shared_exponent GL_EXT_texture_snorm GL_EXT_texture_storage GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_IBM_multimode_draw_arrays GL_INTEL_blackhole_render GL_INTEL_conservative_rasterization GL_INTEL_performance_query GL_INTEL_shader_atomic_float_minmax GL_INTEL_shader_integer_functions2 GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent GL_KHR_context_flush_control GL_KHR_debug GL_KHR_no_error GL_KHR_parallel_shader_compile GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_KHR_texture_compression_astc_ldr GL_KHR_texture_compression_astc_sliced_3d GL_MESA_framebuffer_flip_y GL_MESA_pack_invert GL_MESA_shader_integer_functions GL_MESA_texture_const_bandwidth GL_MESA_texture_signed_rgba GL_NV_alpha_to_coverage_dither_control GL_NV_compute_shader_derivatives GL_NV_conditional_render GL_NV_copy_image GL_NV_depth_clamp GL_NV_fragment_shader_interlock GL_NV_packed_depth_stencil GL_NV_t
 exture_barrier GL_OES_EGL_image GL_S3_s3tc
-OPENGL LOG: Creating OpenGL 4.6 graphics device ; Context level  <OpenGL 4.5> ; Context handle 953121440
+OPENGL LOG: Creating OpenGL 4.6 graphics device ; Context level  <OpenGL 4.5> ; Context handle 541391888
 Begin MonoManager ReloadAssembly
-- Completed reload, in  0.072 seconds
+- Completed reload, in  0.071 seconds
 Default vsync count 1
-requesting resize 640 x 480
-resizing window to 640 x 480
+requesting resize 1920 x 1080
+Using native desktop resolution 1920 x 1080
+requesting fullscreen 1920 x 1080 at 0 Hz
 Desktop is 1920 x 1080 @ 100 Hz
-UnloadTime: 0.699584 ms
+UnloadTime: 0.677812 ms
 InControl (version 1.8.8 build 9375)
-Desktop is 1920 x 1080 @ 100 Hz
-0.34656s - Instancing Main Script
-0.51669s - Main Script Found
-0.51724s - Registry Settings Not Found - Creating New One
-Saving Settings
-Saving Current Game
-1.34497s - Created New Save
-1.35275s - Main Init
-3.10161s - --- Autodetected Best Resolution --- : 1920 x 1080 @ 60Hz
-3.10835s - LAUNCHING NEW GAME:-1
+0.35347s - Instancing Main Script
+0.52830s - Main Script Found
+Registry Settings Found - Loading
+0.75479s - Registry Save Found and Saved
+0.76463s - Main Init
+2.88425s - --- Autodetected Best Resolution --- : 1920 x 1080 @ 60Hz
+2.90025s - LAUNCHING NEW GAME:-1
 requesting resize 1920 x 1080
 Using native desktop resolution 1920 x 1080
 requesting fullscreen 1920 x 1080 at 60 Hz
 Desktop is 1920 x 1080 @ 100 Hz
-4.12065s - Switching Level - Destroying Old One
-4.15604s - Initializing Level: LevelIntro(Clone) - ID: 0
-4.16521s - Level Loaded: LevelIntro(Clone) (LevelDefinition)
+Change in attached Unity joysticks detected; refreshing device list.
+3.05024s - Attached gamepad: Unknown
+Device 1 matched profile GenericLinuxUnityProfile (Generic Controller)
+3.91259s - Switching Level - Destroying Old One
+3.95111s - Initializing Level: LevelIntro(Clone) - ID: 0
+3.96136s - Level Loaded: LevelIntro(Clone) (LevelDefinition)
 Going to main menu - cutscene launched.
-Going to main menu - cutscene launched.
-12.37514s - --- Autodetected Best Resolution --- : 1920 x 1080 @ 60Hz
-14.96824s - Button ToggleFullScreen was switched
-15.53844s - Button SliderMusic was switched
-Closing Settings dialog
-Saving Settings
-Going to main menu - cutscene launched.
-21.47153s - Showing Confirmation dialog: PickDifficulty
-Playing Obsolete sound function on object (Use PlaySingleSound): ShellAnimation
-Playing Obsolete sound function on object (Use PlaySingleSound): ShellAnimation
-Playing Obsolete sound function on object (Use PlaySingleSound): ShellSteam
-27.35013s - Keyboard Pressed
-Playing Obsolete sound function on object (Use PlaySingleSound): ShellSteam
-Playing Obsolete sound function on object (Use PlaySingleSound): ShellDoor
-Playing Obsolete sound function on object (Use PlaySingleSound): ShellDoor
-Playing Obsolete sound function on object (Use PlaySingleSound): MainCamera
-Playing Obsolete sound function on object (Use PlaySingleSound): Sprite
-Playing Obsolete sound function on object (Use PlaySingleSound): Sprite
-75.15349s - End Level
-75.33863s - Stage Score: 0
-75.33929s - Stage Score Best Time, Saved First Time:0
+9.80363s - Showing Confirmation dialog: ContinueStory
+12.98133s - Loading level: LevelW1S2 with save ID: 1
+13.99272s - Switching Level - Destroying Old One
+14.03254s - Initializing Level: LevelW1S2(Clone) - ID: 2
+14.04102s - Level Loaded: LevelW1S2(Clone) (LevelDefinition)
+25.04297s - Killing Player
+26.72256s - Switching Level - Destroying Old One
+26.75617s - Initializing Level: LevelW1S2(Clone) - ID: 2
+26.76179s - Level Loaded: LevelW1S2(Clone) (LevelDefinition)
+30.21345s - Killing Player
+31.88933s - Switching Level - Destroying Old One
+31.92924s - Initializing Level: LevelW1S2(Clone) - ID: 2
+31.93543s - Level Loaded: LevelW1S2(Clone) (LevelDefinition)
+44.76304s - Killing Player
+46.43695s - Switching Level - Destroying Old One
+46.47634s - Initializing Level: LevelW1S2(Clone) - ID: 2
+46.48267s - Level Loaded: LevelW1S2(Clone) (LevelDefinition)
+54.54489s - End Level
+55.65936s - Stage Score: 0
+55.65946s - Stage Score Best Time, Saved First Time:0
 Saving Current Game
-77.02191s - Switching Level - Destroying Old One
-77.06465s - Initializing Level: LevelTutorialJumping(Clone) - ID: 1
-77.07018s - Level Loaded: LevelTutorialJumping(Clone) (LevelDefinition)
-77.09590s - Keyboard Pressed
-77.13643s - Keyboard Pressed
-77.14366s - Keyboard Pressed
-77.15401s - Keyboard Pressed
-77.16952s - Keyboard Pressed
-77.18219s - Keyboard Pressed
-77.19576s - Keyboard Pressed
-77.20927s - Keyboard Pressed
-77.22212s - Keyboard Pressed
-77.23528s - Keyboard Pressed
-77.24937s - Keyboard Pressed
-77.26225s - Keyboard Pressed
-77.27595s - Keyboard Pressed
-77.29044s - Keyboard Pressed
-77.30325s - Keyboard Pressed
-77.31671s - Keyboard Pressed
-77.33040s - Keyboard Pressed
-77.34303s - Keyboard Pressed
-77.35674s - Keyboard Pressed
-77.37088s - Keyboard Pressed
-77.38464s - Keyboard Pressed
-77.39858s - Keyboard Pressed
-77.41330s - Keyboard Pressed
-77.42724s - Keyboard Pressed
-77.44198s - Keyboard Pressed
-77.45621s - Keyboard Pressed
-77.47026s - Keyboard Pressed
-77.48375s - Keyboard Pressed
-77.49774s - Keyboard Pressed
-77.51223s - Keyboard Pressed
-77.52499s - Keyboard Pressed
-77.53951s - Keyboard Pressed
-77.55343s - Keyboard Pressed
-77.56692s - Keyboard Pressed
-77.58138s - Keyboard Pressed
-77.59525s - Keyboard Pressed
-77.60896s - Keyboard Pressed
-77.62264s - Keyboard Pressed
-77.63631s - Keyboard Pressed
-77.65086s - Keyboard Pressed
-77.66409s - Keyboard Pressed
-77.67850s - Keyboard Pressed
-77.69232s - Keyboard Pressed
-77.70631s - Keyboard Pressed
-77.72032s - Keyboard Pressed
-77.73391s - Keyboard Pressed
-77.74785s - Keyboard Pressed
-77.76157s - Keyboard Pressed
-77.77521s - Keyboard Pressed
-77.79001s - Keyboard Pressed
-77.80390s - Keyboard Pressed
-77.81797s - Keyboard Pressed
-77.83204s - Keyboard Pressed
-77.84555s - Keyboard Pressed
-77.85931s - Keyboard Pressed
-77.87356s - Keyboard Pressed
-77.88762s - Keyboard Pressed
-77.90153s - Keyboard Pressed
-77.91470s - Keyboard Pressed
-77.92908s - Keyboard Pressed
-77.94275s - Keyboard Pressed
-77.95658s - Keyboard Pressed
-77.97064s - Keyboard Pressed
-77.98412s - Keyboard Pressed
-77.99889s - Keyboard Pressed
-78.01209s - Keyboard Pressed
-78.02626s - Keyboard Pressed
-78.04044s - Keyboard Pressed
-78.05408s - Keyboard Pressed
-78.06855s - Keyboard Pressed
-78.08210s - Keyboard Pressed
-78.09603s - Keyboard Pressed
-78.10996s - Keyboard Pressed
-78.12372s - Keyboard Pressed
-78.13786s - Keyboard Pressed
-78.15150s - Keyboard Pressed
-78.16550s - Keyboard Pressed
-78.17933s - Keyboard Pressed
-78.19327s - Keyboard Pressed
-78.20681s - Keyboard Pressed
-78.22131s - Keyboard Pressed
-78.23482s - Keyboard Pressed
-78.24861s - Keyboard Pressed
-78.26254s - Keyboard Pressed
-78.27633s - Keyboard Pressed
-78.29092s - Keyboard Pressed
-78.30436s - Keyboard Pressed
-78.31862s - Keyboard Pressed
-78.33231s - Keyboard Pressed
-78.34622s - Keyboard Pressed
-78.36037s - Keyboard Pressed
-78.37372s - Keyboard Pressed
-78.38784s - Keyboard Pressed
-78.40240s - Keyboard Pressed
-78.41563s - Keyboard Pressed
-78.43080s - Keyboard Pressed
-78.44317s - Keyboard Pressed
-78.45709s - Keyboard Pressed
-78.47154s - Keyboard Pressed
-78.48541s - Keyboard Pressed
-78.49995s - Keyboard Pressed
-78.51347s - Keyboard Pressed
-78.52651s - Keyboard Pressed
-78.54138s - Keyboard Pressed
-78.55460s - Keyboard Pressed
-78.56876s - Keyboard Pressed
-78.58236s - Keyboard Pressed
-78.59665s - Keyboard Pressed
-78.61041s - Keyboard Pressed
-78.62408s - Keyboard Pressed
-78.63811s - Keyboard Pressed
-78.65231s - Keyboard Pressed
-78.66634s - Keyboard Pressed
-78.68074s - Keyboard Pressed
-78.69392s - Keyboard Pressed
-78.70759s - Keyboard Pressed
-78.72231s - Keyboard Pressed
-78.73568s - Keyboard Pressed
-78.74942s - Keyboard Pressed
-78.76366s - Keyboard Pressed
-78.77698s - Keyboard Pressed
-78.79178s - Keyboard Pressed
-78.80537s - Keyboard Pressed
-78.81949s - Keyboard Pressed
-78.83327s - Keyboard Pressed
-78.84698s - Keyboard Pressed
-78.86070s - Keyboard Pressed
-78.87473s - Keyboard Pressed
-78.88864s - Keyboard Pressed
-78.90226s - Keyboard Pressed
-78.91596s - Keyboard Pressed
-78.93008s - Keyboard Pressed
-78.94363s - Keyboard Pressed
-78.95890s - Keyboard Pressed
-78.97159s - Keyboard Pressed
-78.98567s - Keyboard Pressed
-78.99967s - Keyboard Pressed
-79.01360s - Keyboard Pressed
-79.02689s - Keyboard Pressed
-79.04131s - Keyboard Pressed
-79.05528s - Keyboard Pressed
-79.06926s - Keyboard Pressed
-79.08335s - Keyboard Pressed
-79.09695s - Keyboard Pressed
-79.11076s - Keyboard Pressed
-79.12504s - Keyboard Pressed
-79.13870s - Keyboard Pressed
-79.15414s - Keyboard Pressed
-79.16687s - Keyboard Pressed
-79.18030s - Keyboard Pressed
-79.19408s - Keyboard Pressed
-79.20853s - Keyboard Pressed
-79.22203s - Keyboard Pressed
-79.23604s - Keyboard Pressed
-79.25057s - Keyboard Pressed
-79.26407s - Keyboard Pressed
-79.27797s - Keyboard Pressed
-79.29176s - Keyboard Pressed
-79.30569s - Keyboard Pressed
-79.31982s - Keyboard Pressed
-79.33354s - Keyboard Pressed
-79.34736s - Keyboard Pressed
-79.36229s - Keyboard Pressed
-79.37554s - Keyboard Pressed
-79.38941s - Keyboard Pressed
-79.40350s - Keyboard Pressed
-79.41721s - Keyboard Pressed
-79.43173s - Keyboard Pressed
-79.44556s - Keyboard Pressed
-79.45950s - Keyboard Pressed
-79.47337s - Keyboard Pressed
-79.48700s - Keyboard Pressed
-79.50163s - Keyboard Pressed
-79.51559s - Keyboard Pressed
-79.53022s - Keyboard Pressed
-79.54395s - Keyboard Pressed
-79.55796s - Keyboard Pressed
-79.57220s - Keyboard Pressed
-79.58601s - Keyboard Pressed
-79.59995s - Keyboard Pressed
-79.61346s - Keyboard Pressed
-79.62748s - Keyboard Pressed
-79.64191s - Keyboard Pressed
-79.65591s - Keyboard Pressed
-79.66979s - Keyboard Pressed
-79.68374s - Keyboard Pressed
-79.69710s - Keyboard Pressed
-79.71143s - Keyboard Pressed
-79.72527s - Keyboard Pressed
-79.73957s - Keyboard Pressed
-79.75331s - Keyboard Pressed
-79.76686s - Keyboard Pressed
-79.78134s - Keyboard Pressed
-79.79446s - Keyboard Pressed
-79.80933s - Keyboard Pressed
-79.82269s - Keyboard Pressed
-79.83672s - Keyboard Pressed
-79.85088s - Keyboard Pressed
-79.86433s - Keyboard Pressed
-79.87862s - Keyboard Pressed
-79.89167s - Keyboard Pressed
-79.90638s - Keyboard Pressed
-79.92033s - Keyboard Pressed
-79.93378s - Keyboard Pressed
-79.94764s - Keyboard Pressed
-79.96226s - Keyboard Pressed
-79.97536s - Keyboard Pressed
-79.98960s - Keyboard Pressed
-80.00348s - Keyboard Pressed
-80.01717s - Keyboard Pressed
-80.03139s - Keyboard Pressed
-80.04539s - Keyboard Pressed
-80.05927s - Keyboard Pressed
-80.07338s - Keyboard Pressed
-80.08720s - Keyboard Pressed
-80.10126s - Keyboard Pressed
-80.11443s - Keyboard Pressed
-80.12863s - Keyboard Pressed
-80.14261s - Keyboard Pressed
-80.15652s - Keyboard Pressed
-80.17107s - Keyboard Pressed
-80.18425s - Keyboard Pressed
-80.19843s - Keyboard Pressed
-80.21293s - Keyboard Pressed
-80.22643s - Keyboard Pressed
-80.24049s - Keyboard Pressed
-80.25427s - Keyboard Pressed
-80.26799s - Keyboard Pressed
-80.28213s - Keyboard Pressed
-80.29601s - Keyboard Pressed
-80.30986s - Keyboard Pressed
-80.32372s - Keyboard Pressed
-80.33757s - Keyboard Pressed
-80.35245s - Keyboard Pressed
-80.36596s - Keyboard Pressed
-80.37981s - Keyboard Pressed
-80.39345s - Keyboard Pressed
-80.40714s - Keyboard Pressed
-80.42139s - Keyboard Pressed
-80.43495s - Keyboard Pressed
-80.44931s - Keyboard Pressed
-80.46311s - Keyboard Pressed
-80.47713s - Keyboard Pressed
-80.49097s - Keyboard Pressed
-80.50522s - Keyboard Pressed
-80.51901s - Keyboard Pressed
-80.53296s - Keyboard Pressed
-80.54668s - Keyboard Pressed
-80.56113s - Keyboard Pressed
-80.57471s - Keyboard Pressed
-80.58897s - Keyboard Pressed
-80.60191s - Keyboard Pressed
-80.61613s - Keyboard Pressed
-80.63061s - Keyboard Pressed
-80.64343s - Keyboard Pressed
-80.65833s - Keyboard Pressed
-80.67180s - Keyboard Pressed
-80.68561s - Keyboard Pressed
-80.69976s - Keyboard Pressed
-80.71396s - Keyboard Pressed
-80.72721s - Keyboard Pressed
-80.74113s - Keyboard Pressed
-80.75510s - Keyboard Pressed
-80.76966s - Keyboard Pressed
-80.78337s - Keyboard Pressed
-80.79738s - Keyboard Pressed
-80.81138s - Keyboard Pressed
-80.82463s - Keyboard Pressed
-80.83931s - Keyboard Pressed
-80.85304s - Keyboard Pressed
-80.86681s - Keyboard Pressed
-80.88091s - Keyboard Pressed
-80.89407s - Keyboard Pressed
-80.90861s - Keyboard Pressed
-80.92229s - Keyboard Pressed
-80.93597s - Keyboard Pressed
-80.95027s - Keyboard Pressed
-80.96411s - Keyboard Pressed
-80.97749s - Keyboard Pressed
-80.99227s - Keyboard Pressed
-81.00607s - Keyboard Pressed
-81.02016s - Keyboard Pressed
-81.03365s - Keyboard Pressed
-81.04801s - Keyboard Pressed
-81.06197s - Keyboard Pressed
-81.07511s - Keyboard Pressed
-81.09004s - Keyboard Pressed
-81.10343s - Keyboard Pressed
-81.11715s - Keyboard Pressed
-81.13158s - Keyboard Pressed
-81.14499s - Keyboard Pressed
-81.15929s - Keyboard Pressed
-81.17306s - Keyboard Pressed
-81.18699s - Keyboard Pressed
-81.20160s - Keyboard Pressed
-81.21483s - Keyboard Pressed
-81.22881s - Keyboard Pressed
-81.24259s - Keyboard Pressed
-81.25655s - Keyboard Pressed
-81.27066s - Keyboard Pressed
-81.28403s - Keyboard Pressed
-81.29840s - Keyboard Pressed
-81.31170s - Keyboard Pressed
-81.32584s - Keyboard Pressed
-81.33989s - Keyboard Pressed
-81.35385s - Keyboard Pressed
-81.36805s - Keyboard Pressed
-81.38187s - Keyboard Pressed
-81.39541s - Keyboard Pressed
-81.40965s - Keyboard Pressed
-81.42329s - Keyboard Pressed
-81.43709s - Keyboard Pressed
-81.45162s - Keyboard Pressed
-81.46483s - Keyboard Pressed
-81.47903s - Keyboard Pressed
-81.49275s - Keyboard Pressed
-81.50759s - Keyboard Pressed
-81.52226s - Keyboard Pressed
-81.53616s - Keyboard Pressed
-81.55051s - Keyboard Pressed
-81.56388s - Keyboard Pressed
-81.57762s - Keyboard Pressed
-81.59191s - Keyboard Pressed
-81.60515s - Keyboard Pressed
-81.61927s - Keyboard Pressed
-81.63367s - Keyboard Pressed
-81.64709s - Keyboard Pressed
-81.66102s - Keyboard Pressed
-81.67558s - Keyboard Pressed
-81.68950s - Keyboard Pressed
-81.70346s - Keyboard Pressed
-81.71733s - Keyboard Pressed
-81.73121s - Keyboard Pressed
-81.74478s - Keyboard Pressed
-81.75870s - Keyboard Pressed
-81.77280s - Keyboard Pressed
-81.78667s - Keyboard Pressed
-81.80058s - Keyboard Pressed
-81.81434s - Keyboard Pressed
-81.82854s - Keyboard Pressed
-81.84195s - Keyboard Pressed
-81.85670s - Keyboard Pressed
-81.87064s - Keyboard Pressed
-81.88403s - Keyboard Pressed
-81.89845s - Keyboard Pressed
-81.91195s - Keyboard Pressed
-81.92548s - Keyboard Pressed
-81.94018s - Keyboard Pressed
-81.95403s - Keyboard Pressed
-81.96736s - Keyboard Pressed
-81.98180s - Keyboard Pressed
-81.99527s - Keyboard Pressed
-82.00931s - Keyboard Pressed
-82.02318s - Keyboard Pressed
-82.03695s - Keyboard Pressed
-82.05161s - Keyboard Pressed
-82.06499s - Keyboard Pressed
-82.07880s - Keyboard Pressed
-82.09245s - Keyboard Pressed
-82.10648s - Keyboard Pressed
-82.12077s - Keyboard Pressed
-82.13500s - Keyboard Pressed
-82.14855s - Keyboard Pressed
-82.16273s - Keyboard Pressed
-82.17654s - Keyboard Pressed
-82.19094s - Keyboard Pressed
-82.20451s - Keyboard Pressed
-82.21898s - Keyboard Pressed
-82.23231s - Keyboard Pressed
-82.24653s - Keyboard Pressed
-82.26035s - Keyboard Pressed
-82.27374s - Keyboard Pressed
-82.28780s - Keyboard Pressed
-82.30164s - Keyboard Pressed
-82.31590s - Keyboard Pressed
-82.33006s - Keyboard Pressed
-82.34343s - Keyboard Pressed
-82.35709s - Keyboard Pressed
-82.37154s - Keyboard Pressed
-82.38493s - Keyboard Pressed
-82.39950s - Keyboard Pressed
-82.41339s - Keyboard Pressed
-82.42675s - Keyboard Pressed
-82.44126s - Keyboard Pressed
-82.45506s - Keyboard Pressed
-82.46886s - Keyboard Pressed
-82.48230s - Keyboard Pressed
-82.49697s - Keyboard Pressed
-82.51040s - Keyboard Pressed
-82.52431s - Keyboard Pressed
-82.53883s - Keyboard Pressed
-82.55232s - Keyboard Pressed
-82.56638s - Keyboard Pressed
-82.58070s - Keyboard Pressed
-82.59379s - Keyboard Pressed
-82.60829s - Keyboard Pressed
-82.62196s - Keyboard Pressed
-82.63563s - Keyboard Pressed
-82.65021s - Keyboard Pressed
-82.66387s - Keyboard Pressed
-82.67744s - Keyboard Pressed
-82.69224s - Keyboard Pressed
-82.70570s - Keyboard Pressed
-82.72025s - Keyboard Pressed
-82.73377s - Keyboard Pressed
-82.74759s - Keyboard Pressed
-82.76179s - Keyboard Pressed
-82.77534s - Keyboard Pressed
-82.78979s - Keyboard Pressed
-82.80365s - Keyboard Pressed
-82.82135s - Keyboard Pressed
-82.83298s - Keyboard Pressed
-82.84660s - Keyboard Pressed
-82.86849s - Keyboard Pressed
-82.87476s - Keyboard Pressed
-82.88895s - Keyboard Pressed
-82.90275s - Keyboard Pressed
-82.91640s - Keyboard Pressed
-82.93053s - Keyboard Pressed
-82.94421s - Keyboard Pressed
-82.95845s - Keyboard Pressed
-82.97245s - Keyboard Pressed
-82.98663s - Keyboard Pressed
-83.00051s - Keyboard Pressed
-83.01396s - Keyboard Pressed
-83.02763s - Keyboard Pressed
-83.04182s - Keyboard Pressed
-83.05575s - Keyboard Pressed
-83.06998s - Keyboard Pressed
-83.08360s - Keyboard Pressed
-83.09764s - Keyboard Pressed
-83.11191s - Keyboard Pressed
-83.12514s - Keyboard Pressed
-83.13947s - Keyboard Pressed
-83.15294s - Keyboard Pressed
-83.16670s - Keyboard Pressed
-83.18152s - Keyboard Pressed
-83.19443s - Keyboard Pressed
-83.20907s - Keyboard Pressed
-83.22251s - Keyboard Pressed
-83.23688s - Keyboard Pressed
-83.25079s - Keyboard Pressed
-83.26472s - Keyboard Pressed
-83.27863s - Keyboard Pressed
-83.29251s - Keyboard Pressed
-83.30709s - Keyboard Pressed
-83.32082s - Keyboard Pressed
-83.33434s - Keyboard Pressed
-83.34805s - Keyboard Pressed
-83.36230s - Keyboard Pressed
-83.37557s - Keyboard Pressed
-83.39030s - Keyboard Pressed
-83.40368s - Keyboard Pressed
-83.41803s - Keyboard Pressed
-83.43192s - Keyboard Pressed
-83.44550s - Keyboard Pressed
-83.45976s - Keyboard Pressed
-83.47340s - Keyboard Pressed
-83.48709s - Keyboard Pressed
-83.50156s - Keyboard Pressed
-83.51524s - Keyboard Pressed
-83.52951s - Keyboard Pressed
-83.54306s - Keyboard Pressed
-83.55828s - Keyboard Pressed
-83.57327s - Keyboard Pressed
-83.58706s - Keyboard Pressed
-83.60065s - Keyboard Pressed
-83.61385s - Keyboard Pressed
-83.62756s - Keyboard Pressed
-83.64175s - Keyboard Pressed
-83.65605s - Keyboard Pressed
-83.67124s - Keyboard Pressed
-83.68507s - Keyboard Pressed
-83.69894s - Keyboard Pressed
-83.71308s - Keyboard Pressed
-83.72656s - Keyboard Pressed
-83.74094s - Keyboard Pressed
-83.75472s - Keyboard Pressed
-83.76963s - Keyboard Pressed
-83.78268s - Keyboard Pressed
-83.79632s - Keyboard Pressed
-83.81042s - Keyboard Pressed
-83.82411s - Keyboard Pressed
-83.83835s - Keyboard Pressed
-83.85201s - Keyboard Pressed
-83.86626s - Keyboard Pressed
-83.88020s - Keyboard Pressed
-83.89392s - Keyboard Pressed
-83.90775s - Keyboard Pressed
-83.92162s - Keyboard Pressed
-83.93541s - Keyboard Pressed
-83.95028s - Keyboard Pressed
-83.96354s - Keyboard Pressed
-83.97729s - Keyboard Pressed
-83.99179s - Keyboard Pressed
-84.00539s - Keyboard Pressed
-84.01985s - Keyboard Pressed
-84.03358s - Keyboard Pressed
-84.04730s - Keyboard Pressed
-84.06136s - Keyboard Pressed
-84.07528s - Keyboard Pressed
-84.08936s - Keyboard Pressed
-84.10339s - Keyboard Pressed
-84.11716s - Keyboard Pressed
-84.13103s - Keyboard Pressed
-84.14516s - Keyboard Pressed
-84.15902s - Keyboard Pressed
-84.17268s - Keyboard Pressed
-84.18668s - Keyboard Pressed
-84.20113s - Keyboard Pressed
-84.21497s - Keyboard Pressed
-84.22912s - Keyboard Pressed
-84.24266s - Keyboard Pressed
-84.25677s - Keyboard Pressed
-84.27122s - Keyboard Pressed
-84.28445s - Keyboard Pressed
-84.30003s - Keyboard Pressed
-84.31274s - Keyboard Pressed
-84.32663s - Keyboard Pressed
-84.34098s - Keyboard Pressed
-84.35503s - Keyboard Pressed
-84.36840s - Keyboard Pressed
-84.38272s - Keyboard Pressed
-84.39684s - Keyboard Pressed
-84.41051s - Keyboard Pressed
-84.42413s - Keyboard Pressed
-84.43838s - Keyboard Pressed
-84.45224s - Keyboard Pressed
-84.46593s - Keyboard Pressed
-84.48074s - Keyboard Pressed
-84.49396s - Keyboard Pressed
-84.50819s - Keyboard Pressed
-84.52187s - Keyboard Pressed
-84.53540s - Keyboard Pressed
-84.54984s - Keyboard Pressed
-84.56349s - Keyboard Pressed
-84.57730s - Keyboard Pressed
-84.59173s - Keyboard Pressed
-84.60511s - Keyboard Pressed
-84.61954s - Keyboard Pressed
-84.63342s - Keyboard Pressed
-84.64694s - Keyboard Pressed
-84.66106s - Keyboard Pressed
-84.67492s - Keyboard Pressed
-84.68932s - Keyboard Pressed
-84.70316s - Keyboard Pressed
-84.71702s - Keyboard Pressed
-84.73170s - Keyboard Pressed
-84.74480s - Keyboard Pressed
-84.75838s - Keyboard Pressed
-84.77287s - Keyboard Pressed
-84.78676s - Keyboard Pressed
-84.80130s - Keyboard Pressed
-84.81451s - Keyboard Pressed
-84.82883s - Keyboard Pressed
-84.84277s - Keyboard Pressed
-84.85668s - Keyboard Pressed
-84.87032s - Keyboard Pressed
-84.88409s - Keyboard Pressed
-84.89836s - Keyboard Pressed
-84.91195s - Keyboard Pressed
-84.92589s - Keyboard Pressed
-84.94032s - Keyboard Pressed
-84.95365s - Keyboard Pressed
-84.96740s - Keyboard Pressed
-84.98164s - Keyboard Pressed
-84.99554s - Keyboard Pressed
-85.00964s - Keyboard Pressed
-85.02357s - Keyboard Pressed
-85.03773s - Keyboard Pressed
-85.05141s - Keyboard Pressed
-85.06540s - Keyboard Pressed
-85.07953s - Keyboard Pressed
-85.09294s - Keyboard Pressed
-85.10696s - Keyboard Pressed
-85.12106s - Keyboard Pressed
-85.13506s - Keyboard Pressed
-85.14928s - Keyboard Pressed
-85.16286s - Keyboard Pressed
-85.17659s - Keyboard Pressed
-85.19086s - Keyboard Pressed
-85.20481s - Keyboard Pressed
-85.21892s - Keyboard Pressed
-85.23273s - Keyboard Pressed
-85.24650s - Keyboard Pressed
-85.26045s - Keyboard Pressed
-85.27428s - Keyboard Pressed
-85.28833s - Keyboard Pressed
-85.30201s - Keyboard Pressed
-85.31636s - Keyboard Pressed
-85.33040s - Keyboard Pressed
-85.34383s - Keyboard Pressed
-85.35788s - Keyboard Pressed
-85.37192s - Keyboard Pressed
-85.38554s - Keyboard Pressed
-85.39982s - Keyboard Pressed
-85.41321s - Keyboard Pressed
-85.42725s - Keyboard Pressed
-85.44141s - Keyboard Pressed
-85.45533s - Keyboard Pressed
-85.46939s - Keyboard Pressed
-85.48346s - Keyboard Pressed
-85.49702s - Keyboard Pressed
-85.51142s - Keyboard Pressed
-85.52471s - Keyboard Pressed
-85.53933s - Keyboard Pressed
-85.55283s - Keyboard Pressed
-85.56688s - Keyboard Pressed
-85.58096s - Keyboard Pressed
-85.59466s - Keyboard Pressed
-85.60982s - Keyboard Pressed
-85.62374s - Keyboard Pressed
-85.63815s - Keyboard Pressed
-85.65189s - Keyboard Pressed
-85.66534s - Keyboard Pressed
-85.67986s - Keyboard Pressed
-85.69476s - Keyboard Pressed
-85.70837s - Keyboard Pressed
-85.72267s - Keyboard Pressed
-85.73665s - Keyboard Pressed
-85.75107s - Keyboard Pressed
-85.76443s - Keyboard Pressed
-85.77880s - Keyboard Pressed
-85.79186s - Keyboard Pressed
-85.80652s - Keyboard Pressed
-85.82044s - Keyboard Pressed
-85.83397s - Keyboard Pressed
-85.84824s - Keyboard Pressed
-85.86214s - Keyboard Pressed
-85.87601s - Keyboard Pressed
-85.89178s - Keyboard Pressed
-85.90543s - Keyboard Pressed
-85.91941s - Keyboard Pressed
-85.93340s - Keyboard Pressed
-85.94720s - Keyboard Pressed
-85.96174s - Keyboard Pressed
-85.97488s - Keyboard Pressed
-85.98889s - Keyboard Pressed
-86.00285s - Keyboard Pressed
-86.01678s - Keyboard Pressed
-86.03072s - Keyboard Pressed
-86.04452s - Keyboard Pressed
-86.05874s - Keyboard Pressed
-86.07241s - Keyboard Pressed
-86.08691s - Keyboard Pressed
-86.10099s - Keyboard Pressed
-86.11431s - Keyboard Pressed
-86.12875s - Keyboard Pressed
-86.14243s - Keyboard Pressed
-86.15644s - Keyboard Pressed
-86.17020s - Keyboard Pressed
-86.18404s - Keyboard Pressed
-86.19844s - Keyboard Pressed
-86.21223s - Keyboard Pressed
-86.22580s - Keyboard Pressed
-86.24049s - Keyboard Pressed
-86.25449s - Keyboard Pressed
-86.26830s - Keyboard Pressed
-86.28210s - Keyboard Pressed
-86.29607s - Keyboard Pressed
-86.31017s - Keyboard Pressed
-86.32341s - Keyboard Pressed
-86.33727s - Keyboard Pressed
-86.35151s - Keyboard Pressed
-86.36578s - Keyboard Pressed
-86.37979s - Keyboard Pressed
-86.39312s - Keyboard Pressed
-86.40707s - Keyboard Pressed
-86.42114s - Keyboard Pressed
-86.43501s - Keyboard Pressed
-86.45023s - Keyboard Pressed
-86.46276s - Keyboard Pressed
-86.47668s - Keyboard Pressed
-86.49130s - Keyboard Pressed
-86.50462s - Keyboard Pressed
-86.51882s - Keyboard Pressed
-86.53260s - Keyboard Pressed
-86.54659s - Keyboard Pressed
-86.56107s - Keyboard Pressed
-86.57443s - Keyboard Pressed
-86.58828s - Keyboard Pressed
-86.60230s - Keyboard Pressed
-86.61648s - Keyboard Pressed
-86.63062s - Keyboard Pressed
-86.64383s - Keyboard Pressed
-86.65861s - Keyboard Pressed
-86.67249s - Keyboard Pressed
-86.68621s - Keyboard Pressed
-86.69997s - Keyboard Pressed
-86.71351s - Keyboard Pressed
-86.72755s - Keyboard Pressed
-86.74164s - Keyboard Pressed
-86.75602s - Keyboard Pressed
-86.77010s - Keyboard Pressed
-86.78366s - Keyboard Pressed
-86.79769s - Keyboard Pressed
-86.81160s - Keyboard Pressed
-86.82579s - Keyboard Pressed
-86.84032s - Keyboard Pressed
-86.85355s - Keyboard Pressed
-86.86730s - Keyboard Pressed
-86.88174s - Keyboard Pressed
-86.89497s - Keyboard Pressed
-86.90906s - Keyboard Pressed
-86.92341s - Keyboard Pressed
-86.93671s - Keyboard Pressed
-86.95154s - Keyboard Pressed
-86.96471s - Keyboard Pressed
-86.97914s - Keyboard Pressed
-86.99277s - Keyboard Pressed
-87.00666s - Keyboard Pressed
-87.02095s - Keyboard Pressed
-87.03446s - Keyboard Pressed
-87.04877s - Keyboard Pressed
-87.06229s - Keyboard Pressed
-87.07661s - Keyboard Pressed
-87.09084s - Keyboard Pressed
-87.10457s - Keyboard Pressed
-87.11871s - Keyboard Pressed
-87.13258s - Keyboard Pressed
-87.14691s - Keyboard Pressed
-87.16066s - Keyboard Pressed
-87.17468s - Keyboard Pressed
-87.18795s - Keyboard Pressed
-87.20039s - End Level
-87.20252s - Keyboard Pressed
-87.21651s - Keyboard Pressed
-87.23045s - Keyboard Pressed
-87.24355s - Keyboard Pressed
-87.25783s - Keyboard Pressed
-87.27203s - Keyboard Pressed
-87.28595s - Keyboard Pressed
-87.30014s - Keyboard Pressed
-87.31355s - Keyboard Pressed
-87.32735s - Keyboard Pressed
-87.34135s - Keyboard Pressed
-87.35500s - Keyboard Pressed
-87.36894s - Keyboard Pressed
-87.38295s - Keyboard Pressed
-87.39702s - Keyboard Pressed
-87.41083s - Keyboard Pressed
-87.42467s - Keyboard Pressed
-87.43882s - Keyboard Pressed
-87.45270s - Keyboard Pressed
-87.46677s - Keyboard Pressed
-87.48063s - Keyboard Pressed
-87.49416s - Keyboard Pressed
-87.50680s - Stage Score: 0
-87.50687s - Stage Score Best Time, Saved First Time:0
+55.68002s - Screws Score: 300, Time Score: 0, Multiplier: 1, Total: 350
+55.68110s - Flawless stored = 0
+55.68123s - Beaten Times stored = 0
+55.68126s - Screws stored = 0
+55.68130s - Silver or Gold = 0
+55.68134s - Silver or Gold = 0
+61.90419s - Switching Level - Destroying Old One
+61.94696s - Initializing Level: LevelW1S9(Clone) - ID: 3
+61.95512s - Level Loaded: LevelW1S9(Clone) (LevelDefinition)
+67.01910s - Killing Player
+68.70219s - Switching Level - Destroying Old One
+68.74324s - Initializing Level: LevelW1S9(Clone) - ID: 3
+68.75103s - Level Loaded: LevelW1S9(Clone) (LevelDefinition)
+73.44904s - Killing Player
+75.13276s - Switching Level - Destroying Old One
+75.17410s - Initializing Level: LevelW1S9(Clone) - ID: 3
+75.18249s - Level Loaded: LevelW1S9(Clone) (LevelDefinition)
+88.51607s - Killing Player
+90.20490s - Switching Level - Destroying Old One
+90.24712s - Initializing Level: LevelW1S9(Clone) - ID: 3
+90.25542s - Level Loaded: LevelW1S9(Clone) (LevelDefinition)
+103.77410s - End Level
+103.97030s - Stage Score: 0
+103.97040s - Stage Score Best Time, Saved First Time:0
 Saving Current Game
-87.51408s - Screws Score: 150, Time Score: 0, Multiplier: 1, Total: 200
-87.51547s - Flawless stored = 0
-87.51557s - Beaten Times stored = 0
-87.51560s - Screws stored = 0
-87.51563s - Silver or Gold = 0
-87.51564s - Silver or Gold = 0
-87.51890s - Keyboard Pressed
-87.52469s - Keyboard Pressed
-87.53616s - Keyboard Pressed
-87.55080s - Keyboard Pressed
-87.56427s - Keyboard Pressed
-87.57848s - Keyboard Pressed
-87.59201s - Keyboard Pressed
-87.60617s - Keyboard Pressed
-87.62019s - Keyboard Pressed
-87.63386s - Keyboard Pressed
-87.64869s - Keyboard Pressed
-87.66245s - Keyboard Pressed
-87.67664s - Keyboard Pressed
-87.69140s - Keyboard Pressed
-87.70457s - Keyboard Pressed
-87.72016s - Keyboard Pressed
-87.73393s - Keyboard Pressed
-87.74819s - Keyboard Pressed
-87.76260s - Keyboard Pressed
-87.77630s - Keyboard Pressed
-87.79089s - Keyboard Pressed
-87.80478s - Keyboard Pressed
-87.81915s - Keyboard Pressed
-87.83326s - Keyboard Pressed
-87.84726s - Keyboard Pressed
-87.86179s - Keyboard Pressed
-87.87550s - Keyboard Pressed
-87.89055s - Keyboard Pressed
-87.90492s - Keyboard Pressed
-87.91992s - Keyboard Pressed
-87.93433s - Keyboard Pressed
-87.94931s - Keyboard Pressed
-87.96387s - Keyboard Pressed
-87.97827s - Keyboard Pressed
-87.99294s - Keyboard Pressed
-88.00690s - Keyboard Pressed
-88.02185s - Keyboard Pressed
-88.03531s - Keyboard Pressed
-88.04995s - Keyboard Pressed
-88.06325s - Keyboard Pressed
-88.07686s - Keyboard Pressed
-88.09129s - Keyboard Pressed
-88.10522s - Keyboard Pressed
-88.11920s - Keyboard Pressed
-88.13280s - Keyboard Pressed
-88.14688s - Keyboard Pressed
-88.16135s - Keyboard Pressed
-88.17498s - Keyboard Pressed
-88.82433s - Keyboard Pressed
-88.83808s - Keyboard Pressed
-88.85297s - Keyboard Pressed
-88.86721s - Keyboard Pressed
-88.88206s - Keyboard Pressed
-88.89648s - Keyboard Pressed
-88.91132s - Keyboard Pressed
-88.92550s - Keyboard Pressed
-88.94035s - Keyboard Pressed
-88.95470s - Keyboard Pressed
-88.96911s - Keyboard Pressed
-88.98396s - Keyboard Pressed
-88.99850s - Keyboard Pressed
-89.01295s - Keyboard Pressed
-89.02718s - Keyboard Pressed
-89.04179s - Keyboard Pressed
-89.05644s - Keyboard Pressed
-89.07106s - Keyboard Pressed
-89.08620s - Keyboard Pressed
-89.10070s - Keyboard Pressed
-89.11555s - Keyboard Pressed
-89.13046s - Keyboard Pressed
-89.14472s - Keyboard Pressed
-89.16007s - Keyboard Pressed
-89.17500s - Keyboard Pressed
-89.18948s - Keyboard Pressed
-89.20429s - Keyboard Pressed
-89.21947s - Keyboard Pressed
-89.23434s - Keyboard Pressed
-89.24916s - Keyboard Pressed
-89.26432s - Keyboard Pressed
-89.27905s - Keyboard Pressed
-89.29346s - Keyboard Pressed
-89.30893s - Keyboard Pressed
-89.32326s - Keyboard Pressed
-89.33846s - Keyboard Pressed
-89.35296s - Keyboard Pressed
-89.36771s - Keyboard Pressed
-89.38261s - Keyboard Pressed
-89.39729s - Keyboard Pressed
-89.41228s - Keyboard Pressed
-89.42690s - Keyboard Pressed
-89.44175s - Keyboard Pressed
-89.45675s - Keyboard Pressed
-89.47203s - Keyboard Pressed
-89.48655s - Keyboard Pressed
-89.50187s - Keyboard Pressed
-89.51656s - Keyboard Pressed
-89.53178s - Keyboard Pressed
-89.82944s - Switching Level - Destroying Old One
-89.86840s - Initializing Level: LevelW1S2(Clone) - ID: 2
-89.87945s - Level Loaded: LevelW1S2(Clone) (LevelDefinition)
-93.71670s - Killing Player
-95.39809s - Switching Level - Destroying Old One
-95.43657s - Initializing Level: LevelW1S2(Clone) - ID: 2
-95.44289s - Level Loaded: LevelW1S2(Clone) (LevelDefinition)
+103.97110s - Screws Score: 300, Time Score: 0, Multiplier: 1, Total: 350
+103.97120s - Flawless stored = 0
+103.97120s - Beaten Times stored = 0
+103.97130s - Screws stored = 0
+103.97130s - Silver or Gold = 0
+103.97130s - Silver or Gold = 0
+106.79110s - Switching Level - Destroying Old One
+106.83840s - Initializing Level: LevelW1S4(Clone) - ID: 4
+106.84940s - Level Loaded: LevelW1S4(Clone) (LevelDefinition)
+143.43540s - End Level
+143.67820s - Stage Score: 0
+143.67830s - Stage Score Best Time, Saved First Time:0
+Saving Current Game
+143.67880s - Screws Score: 500, Time Score: 0, Multiplier: 1, Total: 550
+143.67890s - Flawless stored = 0
+143.67890s - Beaten Times stored = 0
+143.67890s - Screws stored = 0
+143.67890s - Silver or Gold = 0
+143.67890s - Silver or Gold = 0
+145.99830s - Switching Level - Destroying Old One
+146.03750s - Initializing Level: LevelW1S5(Clone) - ID: 5
+146.04390s - Level Loaded: LevelW1S5(Clone) (LevelDefinition)
+151.90080s - Killing Player
+153.57720s - Switching Level - Destroying Old One
+153.61640s - Initializing Level: LevelW1S5(Clone) - ID: 5
+153.62290s - Level Loaded: LevelW1S5(Clone) (LevelDefinition)
+159.80310s - Killing Player
+161.49260s - Switching Level - Destroying Old One
+161.53200s - Initializing Level: LevelW1S5(Clone) - ID: 5
+161.53860s - Level Loaded: LevelW1S5(Clone) (LevelDefinition)
+182.50720s - Killing Player
+184.18750s - Switching Level - Destroying Old One
+184.22640s - Initializing Level: LevelW1S5(Clone) - ID: 5
+184.23270s - Level Loaded: LevelW1S5(Clone) (LevelDefinition)
+204.07810s - End Level
+204.26790s - Stage Score: 0
+204.26800s - Stage Score Best Time, Saved First Time:0
+Saving Current Game
+204.26860s - Screws Score: 250, Time Score: 0, Multiplier: 1, Total: 300
+204.26870s - Flawless stored = 0
+204.26870s - Beaten Times stored = 0
+204.26870s - Screws stored = 0
+204.26870s - Silver or Gold = 0
+204.26870s - Silver or Gold = 0
+207.05210s - Switching Level - Destroying Old One
+207.10190s - Initializing Level: LevelPreciseJumping(Clone) - ID: 6
+207.11600s - Level Loaded: LevelPreciseJumping(Clone) (LevelDefinition)
+213.09720s - Killing Player
+214.78440s - Switching Level - Destroying Old One
+214.83880s - Initializing Level: LevelPreciseJumping(Clone) - ID: 6
+214.85280s - Level Loaded: LevelPreciseJumping(Clone) (LevelDefinition)
+218.26210s - Killing Player
+219.95620s - Switching Level - Destroying Old One
+220.00850s - Initializing Level: LevelPreciseJumping(Clone) - ID: 6
+220.02230s - Level Loaded: LevelPreciseJumping(Clone) (LevelDefinition)
+239.25440s - Killing Player
+240.92610s - Switching Level - Destroying Old One
+240.97850s - Initializing Level: LevelPreciseJumping(Clone) - ID: 6
+240.99250s - Level Loaded: LevelPreciseJumping(Clone) (LevelDefinition)
+269.22050s - Killing Player
+270.90470s - Switching Level - Destroying Old One
+270.95570s - Initializing Level: LevelPreciseJumping(Clone) - ID: 6
+270.96950s - Level Loaded: LevelPreciseJumping(Clone) (LevelDefinition)
+275.02850s - Killing Player
+276.71560s - Switching Level - Destroying Old One
+276.76740s - Initializing Level: LevelPreciseJumping(Clone) - ID: 6
+276.78120s - Level Loaded: LevelPreciseJumping(Clone) (LevelDefinition)
+288.85680s - Killing Player
+290.55200s - Switching Level - Destroying Old One
+290.61170s - Initializing Level: LevelPreciseJumping(Clone) - ID: 6
+290.62500s - Level Loaded: LevelPreciseJumping(Clone) (LevelDefinition)
+308.27790s - Killing Player
+309.96370s - Switching Level - Destroying Old One
+310.01400s - Initializing Level: LevelPreciseJumping(Clone) - ID: 6
+310.02760s - Level Loaded: LevelPreciseJumping(Clone) (LevelDefinition)
+342.95400s - Killing Player
+344.63150s - Switching Level - Destroying Old One
+344.68330s - Initializing Level: LevelPreciseJumping(Clone) - ID: 6
+344.69690s - Level Loaded: LevelPreciseJumping(Clone) (LevelDefinition)
+349.78430s - Killing Player
+351.46550s - Switching Level - Destroying Old One
+351.51750s - Initializing Level: LevelPreciseJumping(Clone) - ID: 6
+351.53140s - Level Loaded: LevelPreciseJumping(Clone) (LevelDefinition)
+352.79440s - Showing Confirmation dialog: GamePause
+353.51690s - Showing Confirmation dialog: GamePause
+357.12870s - Switching Level - Destroying Old One
+357.17900s - Initializing Level: LevelIntro(Clone) - ID: 0
+357.18390s - Level Loaded: LevelIntro(Clone) (LevelDefinition)
+Going to main menu - cutscene launched.
+358.85760s - Showing Confirmation dialog: QuitGameMenu
 Setting up 4 worker threads for Enlighten.
 Memory Statistics:
 [ALLOC_TEMP_TLS] TLS Allocator
   StackAllocators : 
     [ALLOC_TEMP_MAIN]
-      Peak usage frame count: [2.0 KB-4.0 KB]: 64 frames, [8.0 KB-16.0 KB]: 1069 frames, [16.0 KB-32.0 KB]: 5205 frames, [32.0 KB-64.0 KB]: 1 frames, [128.0 KB-256.0 KB]: 3 frames, [256.0 KB-0.5 MB]: 2 frames, [2.0 MB-4.0 MB]: 2 frames
+      Peak usage frame count: [2.0 KB-4.0 KB]: 62 frames, [8.0 KB-16.0 KB]: 3313 frames, [16.0 KB-32.0 KB]: 19690 frames, [32.0 KB-64.0 KB]: 27 frames, [64.0 KB-128.0 KB]: 8 frames, [128.0 KB-256.0 KB]: 12 frames, [256.0 KB-0.5 MB]: 7 frames, [0.5 MB-1.0 MB]: 10 frames, [2.0 MB-4.0 MB]: 2 frames
       Initial Block Size 4.0 MB
       Current Block Size 4.0 MB
       Peak Allocated Bytes 2.9 MB
@@ -958,12 +209,12 @@ Memory Statistics:
     [ALLOC_TEMP_Job.Worker 6]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 21.5 KB
+      Peak Allocated Bytes 22.4 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.Worker 0]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 21.5 KB
+      Peak Allocated Bytes 22.9 KB
       Overflow Count 0
     [ALLOC_TEMP_Background Job.Worker 10]
       Initial Block Size 32.0 KB
@@ -978,7 +229,7 @@ Memory Statistics:
     [ALLOC_TEMP_Job.Worker 5]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 21.5 KB
+      Peak Allocated Bytes 22.4 KB
       Overflow Count 0
     [ALLOC_TEMP_Background Job.Worker 14]
       Initial Block Size 32.0 KB
@@ -993,12 +244,12 @@ Memory Statistics:
     [ALLOC_TEMP_Job.Worker 4]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 21.5 KB
+      Peak Allocated Bytes 22.4 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.Worker 3]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 21.5 KB
+      Peak Allocated Bytes 22.6 KB
       Overflow Count 0
     [ALLOC_TEMP_Background Job.Worker 12]
       Initial Block Size 32.0 KB
@@ -1033,7 +284,7 @@ Memory Statistics:
     [ALLOC_TEMP_UnityGfxDeviceWorker]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 21.5 KB
+      Peak Allocated Bytes 22.4 KB
       Overflow Count 0
     [ALLOC_TEMP_AssetGarbageCollectorHelper] x 7
       Initial Block Size 64.0 KB
@@ -1053,12 +304,12 @@ Memory Statistics:
     [ALLOC_TEMP_Job.Worker 1]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 21.5 KB
+      Peak Allocated Bytes 22.4 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.Worker 2]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 21.5 KB
+      Peak Allocated Bytes 22.4 KB
       Overflow Count 0
     [ALLOC_TEMP_Background Job.Worker 3]
       Initial Block Size 32.0 KB
@@ -1086,31 +337,31 @@ Memory Statistics:
       Peak Allocated Bytes 0 B
       Overflow Count 0
 [ALLOC_DEFAULT] Dual Thread Allocator
-  Peak main deferred allocation count 10088
+  Peak main deferred allocation count 6613
     [ALLOC_BUCKET]
       Large Block size 4.0 MB
       Used Block count 1
       Peak Allocated bytes 4.0 MB
       Failed Allocations. Bucket layout:
-        16B: 33 Subsections = 33792 buckets. Failed count: 384623
-        32B: 5 Subsections = 2560 buckets. Failed count: 129663
-        48B: 15 Subsections = 5120 buckets. Failed count: 2516548
-        64B: 169 Subsections = 43264 buckets. Failed count: 1083536
-        80B: 28 Subsections = 5734 buckets. Failed count: 431433
-        96B: 3 Subsections = 512 buckets. Failed count: 28820
-        112B: 2 Subsections = 292 buckets. Failed count: 7909
-        128B: 1 Subsections = 128 buckets. Failed count: 45355
+        16B: 33 Subsections = 33792 buckets. Failed count: 819770
+        32B: 5 Subsections = 2560 buckets. Failed count: 377653
+        48B: 15 Subsections = 5120 buckets. Failed count: 4231879
+        64B: 169 Subsections = 43264 buckets. Failed count: 1417715
+        80B: 28 Subsections = 5734 buckets. Failed count: 577815
+        96B: 3 Subsections = 512 buckets. Failed count: 112479
+        112B: 2 Subsections = 292 buckets. Failed count: 6561
+        128B: 1 Subsections = 128 buckets. Failed count: 60014
     [ALLOC_DEFAULT_MAIN]
-      Peak usage frame count: [16.0 MB-32.0 MB]: 1 frames, [64.0 MB-128.0 MB]: 6345 frames
+      Peak usage frame count: [16.0 MB-32.0 MB]: 1 frames, [64.0 MB-128.0 MB]: 23130 frames
       Requested Block Size 16.0 MB
-      Peak Block count 9
-      Peak Allocated memory 104.0 MB
-      Peak Large allocation bytes 0 B
+      Peak Block count 10
+      Peak Allocated memory 118.5 MB
+      Peak Large allocation bytes 12.0 MB
     [ALLOC_DEFAULT_THREAD]
-      Peak usage frame count: [16.0 MB-32.0 MB]: 6346 frames
+      Peak usage frame count: [16.0 MB-32.0 MB]: 23131 frames
       Requested Block Size 16.0 MB
       Peak Block count 1
-      Peak Allocated memory 30.8 MB
+      Peak Allocated memory 30.9 MB
       Peak Large allocation bytes 16.0 MB
 [ALLOC_TEMP_JOB_1_FRAME]
   Initial Block Size 2.0 MB
@@ -1133,31 +384,31 @@ Memory Statistics:
   Overflow Count (too large) 0
   Overflow Count (full) 0
 [ALLOC_GFX] Dual Thread Allocator
-  Peak main deferred allocation count 11
+  Peak main deferred allocation count 62
     [ALLOC_BUCKET]
       Large Block size 4.0 MB
       Used Block count 1
       Peak Allocated bytes 4.0 MB
       Failed Allocations. Bucket layout:
-        16B: 33 Subsections = 33792 buckets. Failed count: 384623
-        32B: 5 Subsections = 2560 buckets. Failed count: 129663
-        48B: 15 Subsections = 5120 buckets. Failed count: 2516548
-        64B: 169 Subsections = 43264 buckets. Failed count: 1083536
-        80B: 28 Subsections = 5734 buckets. Failed count: 431433
-        96B: 3 Subsections = 512 buckets. Failed count: 28820
-        112B: 2 Subsections = 292 buckets. Failed count: 7909
-        128B: 1 Subsections = 128 buckets. Failed count: 45355
+        16B: 33 Subsections = 33792 buckets. Failed count: 819770
+        32B: 5 Subsections = 2560 buckets. Failed count: 377653
+        48B: 15 Subsections = 5120 buckets. Failed count: 4231879
+        64B: 169 Subsections = 43264 buckets. Failed count: 1417715
+        80B: 28 Subsections = 5734 buckets. Failed count: 577815
+        96B: 3 Subsections = 512 buckets. Failed count: 112479
+        112B: 2 Subsections = 292 buckets. Failed count: 6561
+        128B: 1 Subsections = 128 buckets. Failed count: 60014
     [ALLOC_GFX_MAIN]
-      Peak usage frame count: [64.0 KB-128.0 KB]: 1 frames, [2.0 MB-4.0 MB]: 6345 frames
+      Peak usage frame count: [64.0 KB-128.0 KB]: 1 frames, [2.0 MB-4.0 MB]: 23130 frames
       Requested Block Size 16.0 MB
       Peak Block count 1
-      Peak Allocated memory 2.6 MB
+      Peak Allocated memory 2.7 MB
       Peak Large allocation bytes 0 B
     [ALLOC_GFX_THREAD]
-      Peak usage frame count: [1.0 KB-2.0 KB]: 1 frames, [2.0 KB-4.0 KB]: 78 frames, [32.0 KB-64.0 KB]: 1 frames, [64.0 KB-128.0 KB]: 4905 frames, [128.0 KB-256.0 KB]: 1361 frames
+      Peak usage frame count: [1.0 KB-2.0 KB]: 1 frames, [2.0 KB-4.0 KB]: 73 frames, [32.0 KB-64.0 KB]: 1 frames, [64.0 KB-128.0 KB]: 791 frames, [128.0 KB-256.0 KB]: 13577 frames, [256.0 KB-0.5 MB]: 8688 frames
       Requested Block Size 16.0 MB
       Peak Block count 1
-      Peak Allocated memory 236.3 KB
+      Peak Allocated memory 294.1 KB
       Peak Large allocation bytes 0 B
 [ALLOC_CACHEOBJECTS] Dual Thread Allocator
   Peak main deferred allocation count 0
@@ -1166,25 +417,25 @@ Memory Statistics:
       Used Block count 1
       Peak Allocated bytes 4.0 MB
       Failed Allocations. Bucket layout:
-        16B: 33 Subsections = 33792 buckets. Failed count: 384623
-        32B: 5 Subsections = 2560 buckets. Failed count: 129663
-        48B: 15 Subsections = 5120 buckets. Failed count: 2516548
-        64B: 169 Subsections = 43264 buckets. Failed count: 1083536
-        80B: 28 Subsections = 5734 buckets. Failed count: 431433
-        96B: 3 Subsections = 512 buckets. Failed count: 28820
-        112B: 2 Subsections = 292 buckets. Failed count: 7909
-        128B: 1 Subsections = 128 buckets. Failed count: 45355
+        16B: 33 Subsections = 33792 buckets. Failed count: 819770
+        32B: 5 Subsections = 2560 buckets. Failed count: 377653
+        48B: 15 Subsections = 5120 buckets. Failed count: 4231879
+        64B: 169 Subsections = 43264 buckets. Failed count: 1417715
+        80B: 28 Subsections = 5734 buckets. Failed count: 577815
+        96B: 3 Subsections = 512 buckets. Failed count: 112479
+        112B: 2 Subsections = 292 buckets. Failed count: 6561
+        128B: 1 Subsections = 128 buckets. Failed count: 60014
     [ALLOC_CACHEOBJECTS_MAIN]
-      Peak usage frame count: [16.0 MB-32.0 MB]: 1 frames, [64.0 MB-128.0 MB]: 6345 frames
+      Peak usage frame count: [16.0 MB-32.0 MB]: 1 frames, [64.0 MB-128.0 MB]: 23130 frames
       Requested Block Size 4.0 MB
       Peak Block count 26
       Peak Allocated memory 106.3 MB
       Peak Large allocation bytes 17.8 MB
     [ALLOC_CACHEOBJECTS_THREAD]
-      Peak usage frame count: [32.0 KB-64.0 KB]: 6345 frames, [128.0 KB-256.0 KB]: 1 frames
+      Peak usage frame count: [32.0 KB-64.0 KB]: 23130 frames, [128.0 KB-256.0 KB]: 1 frames
       Requested Block Size 4.0 MB
       Peak Block count 1
-      Peak Allocated memory 160.8 KB
+      Peak Allocated memory 160.7 KB
       Peak Large allocation bytes 0 B
 [ALLOC_TYPETREE] Dual Thread Allocator
   Peak main deferred allocation count 0
@@ -1193,22 +444,22 @@ Memory Statistics:
       Used Block count 1
       Peak Allocated bytes 4.0 MB
       Failed Allocations. Bucket layout:
-        16B: 33 Subsections = 33792 buckets. Failed count: 384623
-        32B: 5 Subsections = 2560 buckets. Failed count: 129663
-        48B: 15 Subsections = 5120 buckets. Failed count: 2516548
-        64B: 169 Subsections = 43264 buckets. Failed count: 1083536
-        80B: 28 Subsections = 5734 buckets. Failed count: 431433
-        96B: 3 Subsections = 512 buckets. Failed count: 28820
-        112B: 2 Subsections = 292 buckets. Failed count: 7909
-        128B: 1 Subsections = 128 buckets. Failed count: 45355
+        16B: 33 Subsections = 33792 buckets. Failed count: 819770
+        32B: 5 Subsections = 2560 buckets. Failed count: 377653
+        48B: 15 Subsections = 5120 buckets. Failed count: 4231879
+        64B: 169 Subsections = 43264 buckets. Failed count: 1417715
+        80B: 28 Subsections = 5734 buckets. Failed count: 577815
+        96B: 3 Subsections = 512 buckets. Failed count: 112479
+        112B: 2 Subsections = 292 buckets. Failed count: 6561
+        128B: 1 Subsections = 128 buckets. Failed count: 60014
     [ALLOC_TYPETREE_MAIN]
-      Peak usage frame count: [8.0 KB-16.0 KB]: 1 frames, [32.0 KB-64.0 KB]: 5891 frames, [64.0 KB-128.0 KB]: 454 frames
+      Peak usage frame count: [8.0 KB-16.0 KB]: 1 frames, [32.0 KB-64.0 KB]: 672 frames, [64.0 KB-128.0 KB]: 22458 frames
       Requested Block Size 2.0 MB
       Peak Block count 1
-      Peak Allocated memory 70.4 KB
+      Peak Allocated memory 70.5 KB
       Peak Large allocation bytes 0 B
     [ALLOC_TYPETREE_THREAD]
-      Peak usage frame count: [0-1.0 KB]: 6346 frames
+      Peak usage frame count: [0-1.0 KB]: 23131 frames
       Requested Block Size 2.0 MB
       Peak Block count 0
       Peak Allocated memory 0 B

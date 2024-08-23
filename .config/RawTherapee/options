@@ -136,8 +136,8 @@ CustomProfileBuilderKeys=0
 [GUI]
 Favorites=
 FavoritesCloneTools=false
-WindowWidth=1920
-WindowHeight=1047
+WindowWidth=937
+WindowHeight=1017
 WindowX=0
 WindowY=0
 WindowMonitor=0

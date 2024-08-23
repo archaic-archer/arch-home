@@ -59,9 +59,13 @@
 	"__timestamp": {
 		"2a09fb19b47f46dfb11ebd382f132a8f": "Mon Aug 12 2024 20:55:28 GMT+0530 (India Standard Time)",
 		"calluna": "Mon Aug 12 2024 20:56:39 GMT+0530 (India Standard Time)",
-		"3428aaab2c674c98b3acb789dcfaa548": "Wed Aug 14 2024 21:47:55 GMT+0530 (India Standard Time)",
 		"5d9f109e44ec4c8bbc5495f43b601f25": "Thu Aug 15 2024 18:44:46 GMT+0530 (India Standard Time)",
-		"0584d2013f0149a791e7b9bad0eec102": "Mon Aug 19 2024 00:28:43 GMT+0530 (India Standard Time)"
+		"0584d2013f0149a791e7b9bad0eec102": "Wed Aug 21 2024 18:30:46 GMT+0530 (India Standard Time)",
+		"3428aaab2c674c98b3acb789dcfaa548": "Wed Aug 21 2024 22:16:39 GMT+0530 (India Standard Time)",
+		"cd88d9edc5a748cfa138e467205adcac": "Thu Aug 22 2024 10:59:35 GMT+0530 (India Standard Time)",
+		"b79b8b81ba8c4bf9b4b1154670237131": "Thu Aug 22 2024 10:59:39 GMT+0530 (India Standard Time)",
+		"50118b7f954e450f8823df1614b24e80": "Thu Aug 22 2024 11:00:01 GMT+0530 (India Standard Time)",
+		"caca23a0954f4c1aba1fdd7e277b81e2": "Thu Aug 22 2024 11:22:35 GMT+0530 (India Standard Time)"
 	},
 	"calluna": {
 		"about": {
@@ -119,53 +123,6 @@
 		],
 		"releaseDate": "2019-08-27T14:00:00",
 		"storeUrl": "https://www.epicgames.com/store/product/control"
-	},
-	"3428aaab2c674c98b3acb789dcfaa548": {
-		"about": {
-			"image": {
-				"src": "https://cdn2.unrealengine.com/egs-falloutnewvegas-obsidianentertainment-s2-1200x1600-9185002a877e.jpg",
-				"_type": "Diesel Image"
-			},
-			"developerAttribution": "Obsidian Entertainment",
-			"_type": "Diesel Product About",
-			"publisherAttribution": "Bethesda Softworks",
-			"description": "# Welcome to Vegas. New Vegas.\n\nIt’s the kind of town where you dig your own grave prior to being shot in the head and left for dead… and that’s before things really get ugly. It’s a town of dreamers and desperados being torn apart by warring factions vying for complete control of this desert oasis. It’s a place where the right kind of person with the right kind of weaponry can really make a name for themselves, and make more than an enemy or two along the way.",
-			"shortDescription": "Feel the Heat in New Vegas! Not even nuclear fallout could slow the hustle of Sin City. Explore the vast expanses of the desert wastelands and see the Great Southwest as could only be imagined in Fallout.",
-			"developerLogo": {
-				"_type": "Diesel Image"
-			}
-		},
-		"reqs": [
-			{
-				"_type": "Diesel System Detail Item",
-				"title": "OS",
-				"minimum": "Windows 7/Vista/XP ",
-				"recommended": "Windows 7/Vista/XP "
-			},
-			{
-				"_type": "Diesel System Detail Item",
-				"title": "Processor",
-				"minimum": "Dual Core 2.0GHz",
-				"recommended": "Dual Core 2.0GHz"
-			},
-			{
-				"_type": "Diesel System Detail Item",
-				"title": "Memory",
-				"minimum": "2 GB RAM",
-				"recommended": "2 GB RAM"
-			},
-			{
-				"_type": "Diesel System Detail Item",
-				"title": "Storage",
-				"minimum": "10 GB Free Space"
-			},
-			{
-				"_type": "Diesel System Detail Item",
-				"title": "Graphics",
-				"minimum": "NVIDIA GeForce 6 series, ATI 1300XT series"
-			}
-		],
-		"storeUrl": "https://www.epicgames.com/store/product/fallout-new-vegas"
 	},
 	"5d9f109e44ec4c8bbc5495f43b601f25": {
 		"about": {
@@ -268,5 +225,255 @@
 		],
 		"releaseDate": "2013-09-17T13:00:00",
 		"storeUrl": "https://www.epicgames.com/store/product/grand-theft-auto-v"
+	},
+	"3428aaab2c674c98b3acb789dcfaa548": {
+		"about": {
+			"image": {
+				"src": "https://cdn2.unrealengine.com/egs-falloutnewvegas-obsidianentertainment-s2-1200x1600-9185002a877e.jpg",
+				"_type": "Diesel Image"
+			},
+			"developerAttribution": "Obsidian Entertainment",
+			"_type": "Diesel Product About",
+			"publisherAttribution": "Bethesda Softworks",
+			"description": "# Welcome to Vegas. New Vegas.\n\nIt’s the kind of town where you dig your own grave prior to being shot in the head and left for dead… and that’s before things really get ugly. It’s a town of dreamers and desperados being torn apart by warring factions vying for complete control of this desert oasis. It’s a place where the right kind of person with the right kind of weaponry can really make a name for themselves, and make more than an enemy or two along the way.",
+			"shortDescription": "Feel the Heat in New Vegas! Not even nuclear fallout could slow the hustle of Sin City. Explore the vast expanses of the desert wastelands and see the Great Southwest as could only be imagined in Fallout.",
+			"developerLogo": {
+				"_type": "Diesel Image"
+			}
+		},
+		"reqs": [
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "OS",
+				"minimum": "Windows 7/Vista/XP ",
+				"recommended": "Windows 7/Vista/XP "
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Processor",
+				"minimum": "Dual Core 2.0GHz",
+				"recommended": "Dual Core 2.0GHz"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Memory",
+				"minimum": "2 GB RAM",
+				"recommended": "2 GB RAM"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Storage",
+				"minimum": "10 GB Free Space"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Graphics",
+				"minimum": "NVIDIA GeForce 6 series, ATI 1300XT series"
+			}
+		],
+		"storeUrl": "https://www.epicgames.com/store/product/fallout-new-vegas"
+	},
+	"cd88d9edc5a748cfa138e467205adcac": {
+		"about": {
+			"image": {
+				"src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fhue%2Fhome%2FEGS_Hue_FiddleSticks_S4-510x680-bcdd99a2911633e169813a658111b8058a7bde85.jpg",
+				"_type": "Diesel Image"
+			},
+			"developerAttribution": "Fiddle Sticks",
+			"_type": "Diesel Product About",
+			"publisherAttribution": "Curve Digital",
+			"description": "Hue is a vibrant, award-winning puzzle-adventure, where you alter the world by changing its background colour.\n\nYou explore a dangerous grey land, unearthing coloured fragments on a journey to find your missing mother.\n\nAs obstacles match the background, they disappear, creating new and exciting puzzles - full of peril, mystery… and colours unseen.\n\n+ Unique colour-matching mechanic, offering a new twist on the classic adventure game.\n\n+ A heartfelt story that touches on themes of love, loss, existence and remorse.\n\n+ A world full of lively characters to talk to, each with their own personality and story.\n\n+ Stark silhouetted art style with bright, bold colours.\n\n+ Over 30 original music tracks, composed exclusively for Hue. \n\n+ Professionally voiced narration by Anna Acton and Matthew Wade, some of the UK’s best television talent.\n\n+ Full colourblind support, using symbols as a colour aid.\n\n+ Razer Chroma, Corsair RGB plus many more coloured LED devices supported on Windows\n\n# Metro\nOne of the most original and engrossing platform puzzlers of recent years\n\n# Forbes\nOverall, the game is amazing. Beautiful and brilliant, sophisticated and simple, challenging and compelling.\n\n# Twinfinite\nHue is easily one of the best additions to the genre in a very long time.",
+			"shortDescription": "Hue is a vibrant, award-winning puzzle-adventure, where you alter the world by changing its background color. Includes full colorblind support, using symbols as a color aid",
+			"title": "Hue",
+			"developerLogo": {
+				"_type": "Diesel Image"
+			}
+		},
+		"reqs": [
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "OS",
+				"minimum": "Windows XP SP3/Vista with SP2/7/8/8.1/10 x86 or x64",
+				"recommended": "Windows XP SP3/Vista with SP2/7/8/8.1/10 x86 or x64"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Processor",
+				"minimum": "Intel Core2 Duo E4300 (2 * 1800) or equivalent | AMD Athlon 64 X2 5000+ (2 * 2600) or equivalent",
+				"recommended": "Intel Core 2 Duo E7300 (2 * 2660) or equivalent | AMD Athlon 64 X2 6000+ (2 * 3000) or equivalent"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Memory",
+				"minimum": "2048MB",
+				"recommended": "4096MB"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Storage",
+				"minimum": "400MB",
+				"recommended": "400MB"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Graphics",
+				"minimum": "GeForce GT 610 (1024 MB) or equivalent | Radeon HD 6450 (512 MB) or equivalent",
+				"recommended": "GeForce GTX 560 Ti (1024 MB) or equivalent | Radeon HD 2900 XT (1024 MB) or equivalent"
+			}
+		],
+		"releaseDate": "2020-03-31T04:00:00",
+		"storeUrl": "https://www.epicgames.com/store/product/hue"
+	},
+	"b79b8b81ba8c4bf9b4b1154670237131": {
+		"about": {
+			"description": "Become Atom Eve and take control of your own path as one of the most powerful superheroes in the Invincible universe! Unravel a mystery and balance the dangers and responsibilities of being a superhero with the relatable challenges of everyday life.",
+			"shortDescription": ""
+		},
+		"reqs": [
+			{
+				"minimum": "Windows 7/8/10 64 bit",
+				"recommended": "Windows 7/8/10 64 bit",
+				"title": "OS version"
+			},
+			{
+				"minimum": "3.0 GHz Intel Core i5 or AMD FX",
+				"recommended": "3.5 GHz Intel Core i5 or AMD FX",
+				"title": "CPU"
+			},
+			{
+				"minimum": "8 GB",
+				"recommended": "8 GB",
+				"title": "Memory"
+			},
+			{
+				"minimum": "nVidia GTS 660 or AMD Radeon HD 7870 with 2 GB RAM",
+				"recommended": "nVidia GTS 960 or AMD Radeon HD 7990 with 4 GB RAM",
+				"title": "GPU"
+			},
+			{
+				"minimum": "DirectX 11",
+				"recommended": "DirectX 11",
+				"title": "DirectX"
+			},
+			{
+				"minimum": "2 GB",
+				"recommended": "2 GB",
+				"title": "Storage"
+			}
+		],
+		"storeUrl": "https://www.epicgames.com/store/product/atom-eve-ff090d"
+	},
+	"50118b7f954e450f8823df1614b24e80": {
+		"about": {
+			"image": {
+				"src": "https://cdn2.unrealengine.com/fgss04-keyart-storefrontimageportrait-1200x1600-1200x1600-ef38aea922c2.jpg",
+				"_type": "Diesel Image"
+			},
+			"developerAttribution": "Mediatonic",
+			"_type": "Diesel Product About",
+			"publisherAttribution": "Epic Games",
+			"description": "[![MobileBanner](https://cdn2.unrealengine.com/en-pegi-egs-ios-announceimage-pdp-fallguys-3840x632-3840x632-d0942f9e0648.jpg)](http://store.epicgames.com/mobile)\n\n# About\nYou’re invited to dive and dodge your way to victory in the pantheon of clumsy. Rookie or pro? Solo or partied up? Fall Guys delivers ever-evolving, high-concentrated hilarity and fun. Prefer to be the maverick behind the mayhem? Build your very own obstacle course to share with friends or the wider community. \n\nCreate your own Course: Fall Guys Creative is a level editor that allows you to create fiendish custom Rounds and share them with the wider community.\n\nCompetitive & Cooperative: Tumble between competitive free-for-alls and cooperative challenges—or take on the Blunderdome with up to 3 friends!\n\nPlay with Friends: Fall Guys supports cross-play, cross-platform parties and cross-progression via your Epic Games Account.\n\nEver-Evolving Content: Play stays fresh with new collabs and game updates which bring new Costumes, Obstacles, and ways to play.",
+			"shortDescription": "Fall Guys is a free, cross-platform massively multiplayer party royale game. Clumsily compete in absurd obstacle courses with friends or build your very own chaotic course to share with the community.",
+			"title": "Fall Guys",
+			"developerLogo": {
+				"_type": "Diesel Image"
+			}
+		},
+		"reqs": [
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "OS",
+				"minimum": "Windows 10 64bit",
+				"recommended": "Windows 10 64bit"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Processor",
+				"minimum": "Intel Core i5 or AMD equivalent",
+				"recommended": "Intel Core i5 or AMD equivalent"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Memory",
+				"minimum": "8 GB RAM",
+				"recommended": "8 GB RAM"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Storage",
+				"minimum": "2 GB available space",
+				"recommended": "2 GB available space"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Graphics",
+				"minimum": "NVIDIA GTX 660 or AMD Radeon HD 7950",
+				"recommended": "NVIDIA GTX 660 or AMD Radeon HD 7950"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Other",
+				"minimum": "Broadband Internet connection",
+				"recommended": "Broadband Internet connection"
+			}
+		],
+		"storeUrl": "https://www.epicgames.com/store/product/fall-guys"
+	},
+	"caca23a0954f4c1aba1fdd7e277b81e2": {
+		"about": {
+			"image": {
+				"src": "https://cdn2.unrealengine.com/egs-tombraidergameoftheyearedition-crystaldynamics-s2-1200x1600-26dd67d1b871.jpg",
+				"_type": "Diesel Image"
+			},
+			"developerAttribution": "Crystal Dynamics",
+			"_type": "Diesel Product About",
+			"publisherAttribution": "Crystal Dynamics",
+			"description": "Tomb Raider is a critically acclaimed action adventure that explores the intense and gritty origin story of Lara Croft and her ascent from a young woman to a hardened survivor. Armed only with raw instincts and the ability to push beyond the limits of human endurance, Lara must fight to unravel the dark history of a forgotten island to escape its relentless hold. The Game of the Year edition includes the Tomb of the Lost Adventurer, 6 single player outfits for Lara and  4 characters. ",
+			"shortDescription": "Armed only with raw instincts and the ability to push beyond the limits of human endurance, Lara must fight to unravel the dark history of a forgotten island to escape its relentless hold.",
+			"title": "Tomb Raider GOTY",
+			"developerLogo": {
+				"_type": "Diesel Image"
+			}
+		},
+		"reqs": [
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "OS",
+				"minimum": "Windows XP Service Pack 3, Windows Vista,7,8 (32bit/64bit)",
+				"recommended": "Windows Vista, Windows 7 or Windows 8"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Processor",
+				"minimum": "Dual core CPU: AMD Athlon64 X2 2.1 Ghz (4050+), Intel Core2 Duo 1.86 Ghz (E6300)",
+				"recommended": "Quad core CPU: AMD Phenom II X4 955, Intel Core i5-750"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Memory",
+				"minimum": "1GB Memory (2GB on Vista)",
+				"recommended": "4GB Memory"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Storage",
+				"minimum": "12GB",
+				"recommended": "12GB"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "DirectX",
+				"minimum": "9.0c",
+				"recommended": "11"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Graphics",
+				"minimum": "DirectX 9 graphics card with 512Mb Video RAM: AMD Radeon HD 2600 XT, nVidia 8600",
+				"recommended": "DirectX 11 graphics card with 1GB Video RAM: AMD Radeon HD 5870, nVidia GTX 480"
+			}
+		],
+		"releaseDate": "2021-12-30T10:18:26",
+		"storeUrl": "https://www.epicgames.com/store/product/tomb-raider"
 	}
 }

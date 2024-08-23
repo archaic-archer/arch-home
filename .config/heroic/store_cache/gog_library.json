@@ -18,7 +18,7 @@
 			"app_name": "1491728574",
 			"art_cover": "https://images.gog.com/a557fa41364e6d06bfe3fca629755b8371af04082645186fd6fdd55c70aaf147.jpg?namespace=gamesdb",
 			"art_square": "https://images.gog.com/a763950d7039103bebdcd6ebd92144ee19ddecbbd4d9cdfee4775aadc965fb01.jpg?namespace=gamesdb",
-			"art_background": "https://images.gog.com/cf617036eb8a76b8a3df76d0cb56da6f22b3ea941331a68b95a46fa95bfb6533.webp?namespace=gamesdb",
+			"art_background": "https://images.gog.com/80ff8140366830bc5d427aca3f6e130dd9c1f2ca8bbc3d1f0008fb0ebb9a3ea0.webp?namespace=gamesdb",
 			"cloud_save_enabled": false,
 			"art_icon": "https://images.gog.com/6215b457aefcbe90737be746b9668d04d54141a3b4cd7dd2176ae79cd4d4475b.jpg?namespace=gamesdb",
 			"extra": {
@@ -64,7 +64,7 @@
 					"Platform"
 				]
 			},
-			"folder_name": "",
+			"folder_name": "Bzzzt Demo",
 			"install": {
 				"is_dlc": false
 			},
@@ -77,6 +77,6 @@
 		}
 	],
 	"__timestamp": {
-		"games": "Mon Aug 19 2024 00:28:34 GMT+0530 (India Standard Time)"
+		"games": "Thu Aug 22 2024 11:23:10 GMT+0530 (India Standard Time)"
 	}
 }

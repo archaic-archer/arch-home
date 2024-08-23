@@ -307,7 +307,12 @@
 		"epic_Calluna": "Mon Aug 12 2024 20:56:38 GMT+0530 (India Standard Time)",
 		"epic_5daeb974a22a435988892319b3a4f476": "Wed Aug 14 2024 21:47:51 GMT+0530 (India Standard Time)",
 		"epic_25ad72f164b948ab9e05eb18fab2cda8": "Thu Aug 15 2024 18:44:44 GMT+0530 (India Standard Time)",
-		"epic_9d2d0eb64d5c44529cece33fe2a46482": "Mon Aug 19 2024 00:28:43 GMT+0530 (India Standard Time)"
+		"epic_9d2d0eb64d5c44529cece33fe2a46482": "Mon Aug 19 2024 00:28:43 GMT+0530 (India Standard Time)",
+		"gog_1106508737": "Thu Aug 22 2024 10:52:12 GMT+0530 (India Standard Time)",
+		"epic_Herring": "Thu Aug 22 2024 10:59:27 GMT+0530 (India Standard Time)",
+		"epic_ef50503adc284a8ba65d4dea1ecce91a": "Thu Aug 22 2024 10:59:37 GMT+0530 (India Standard Time)",
+		"epic_0a2d9f6403244d12969e11da6713137b": "Thu Aug 22 2024 11:00:00 GMT+0530 (India Standard Time)",
+		"epic_d6264d56f5ba434e91d4b0a0b056c83a": "Thu Aug 22 2024 11:22:33 GMT+0530 (India Standard Time)"
 	},
 	"epic_Calluna": {
 		"id": "52416816422751305",
@@ -2300,476 +2305,6 @@
 		},
 		"etag": "W/\"b64edb016f47c5ff205c2d9b70960718\""
 	},
-	"gog_1491728574": {
-		"id": "57612625522707877",
-		"game_id": "57612625525066547",
-		"platform_id": "gog",
-		"external_id": "1491728574",
-		"dlcs_ids": [],
-		"dlcs": [],
-		"parent_id": null,
-		"supported_operating_systems": [
-			{
-				"slug": "windows",
-				"name": "Windows"
-			}
-		],
-		"available_languages": [
-			{
-				"code": "en-US"
-			}
-		],
-		"first_release_date": null,
-		"game": {
-			"id": "57612625525066547",
-			"parent_id": null,
-			"dlcs_ids": [],
-			"first_release_date": "2024-07-25T00:00:00+0000",
-			"releases": [
-				{
-					"id": "57612625525066547",
-					"platform_id": "generic",
-					"external_id": "57612625525066547",
-					"release_per_platform_id": "generic_57612625525066547"
-				}
-			],
-			"title": {
-				"*": "Fallout: London",
-				"en-US": "Fallout: London"
-			},
-			"sorting_title": {
-				"*": "Fallout London",
-				"en-US": "Fallout London"
-			},
-			"type": "game",
-			"developers_ids": [
-				"57798181372308317"
-			],
-			"developers": [
-				{
-					"id": "57798181372308317",
-					"name": "Team FOLON®",
-					"slug": "team-folon-r"
-				}
-			],
-			"publishers_ids": [
-				"57798181372308317"
-			],
-			"publishers": [
-				{
-					"id": "57798181372308317",
-					"name": "Team FOLON®",
-					"slug": "team-folon-r"
-				}
-			],
-			"genres_ids": [
-				"51071842242881003",
-				"51141224821260861"
-			],
-			"genres": [
-				{
-					"id": "51071842242881003",
-					"name": {
-						"*": "Role-playing (RPG)",
-						"en-US": "Role-playing (RPG)"
-					},
-					"slug": "role-playing-rpg"
-				},
-				{
-					"id": "51141224821260861",
-					"name": {
-						"*": "Shooter",
-						"en-US": "Shooter"
-					},
-					"slug": "shooter"
-				}
-			],
-			"themes_ids": [],
-			"themes": [],
-			"screenshots": [
-				{
-					"url_format": "https://images.gog.com/7ec3f09e043adc7309c98a8a7bebb8b57f7c4662798b6d9202caad721fc79e2d{formatter}.{ext}?namespace=gamesdb"
-				},
-				{
-					"url_format": "https://images.gog.com/150d5179e719885c1fd2c78e290d41ccd0545396cdafef932d87c451f80f6c27{formatter}.{ext}?namespace=gamesdb"
-				},
-				{
-					"url_format": "https://images.gog.com/1ce21469ece50f09ae7b3e1fb783a3583863c638ec66127b17733d56383212c3{formatter}.{ext}?namespace=gamesdb"
-				},
-				{
-					"url_format": "https://images.gog.com/560273b9769e5101734ba129554fdbc1a23db6b52b8eab73aca121cc9d0f2dfe{formatter}.{ext}?namespace=gamesdb"
-				},
-				{
-					"url_format": "https://images.gog.com/db45558bb8ef3820ddc101b3d465ce54e9c12936eb9974b264004f918220ba5d{formatter}.{ext}?namespace=gamesdb"
-				},
-				{
-					"url_format": "https://images.gog.com/f5d6c3b8f7e3cc18870c46410edf2a83857f6d4df1e117b7f7900bf676c7c2c6{formatter}.{ext}?namespace=gamesdb"
-				},
-				{
-					"url_format": "https://images.gog.com/d06695f57d66597899f632e600c526ff4eabea3391486e2e7d52aa09ebb6d606{formatter}.{ext}?namespace=gamesdb"
-				},
-				{
-					"url_format": "https://images.gog.com/fe9d9d04732d272c04317f4c72ddb0058886ef29e24ca2f530b948ccff43fd95{formatter}.{ext}?namespace=gamesdb"
-				},
-				{
-					"url_format": "https://images.gog.com/4707667c5f9f91def9a02563fd6eaab830f41b36bf0026b32088cb6e57732228{formatter}.{ext}?namespace=gamesdb"
-				},
-				{
-					"url_format": "https://images.gog.com/3259eefe8191c0e5755993a1cbdf899883089be4454d28bf8e8b5e06662e9f7e{formatter}.{ext}?namespace=gamesdb"
-				}
-			],
-			"videos": [
-				{
-					"provider": "youtube",
-					"video_id": "8t2mF_PM11A",
-					"thumbnail_id": "8t2mF_PM11A",
-					"name": "Launch Trailer"
-				}
-			],
-			"artworks": [],
-			"summary": {
-				"*": "There has never been a better time to sample the capital’s delights! Fallout: London lets you explore the wonders of the city 160 years after the bombs have dropped, and 40 years before the events of Fallout 3. You can now reimagine Fallout in a London-centric universe, interacting with a brave new world of London-based locations, stories, factions, creatures, weapons, and gameplay mechanics.",
-				"en-US": "There has never been a better time to sample the capital’s delights! Fallout: London lets you explore the wonders of the city 160 years after the bombs have dropped, and 40 years before the events of Fallout 3. You can now reimagine Fallout in a London-centric universe, interacting with a brave new world of London-based locations, stories, factions, creatures, weapons, and gameplay mechanics."
-			},
-			"visible_in_library": true,
-			"aggregated_rating": null,
-			"game_modes": [],
-			"horizontal_artwork": {
-				"url_format": "https://images.gog.com/cf617036eb8a76b8a3df76d0cb56da6f22b3ea941331a68b95a46fa95bfb6533{formatter}.{ext}?namespace=gamesdb"
-			},
-			"background": {
-				"url_format": "https://images.gog.com/cf617036eb8a76b8a3df76d0cb56da6f22b3ea941331a68b95a46fa95bfb6533{formatter}.{ext}?namespace=gamesdb"
-			},
-			"vertical_cover": {
-				"url_format": "https://images.gog.com/a763950d7039103bebdcd6ebd92144ee19ddecbbd4d9cdfee4775aadc965fb01{formatter}.{ext}?namespace=gamesdb"
-			},
-			"cover": {
-				"url_format": "https://images.gog.com/a763950d7039103bebdcd6ebd92144ee19ddecbbd4d9cdfee4775aadc965fb01{formatter}.{ext}?namespace=gamesdb"
-			},
-			"logo": {
-				"url_format": "https://images.gog.com/a557fa41364e6d06bfe3fca629755b8371af04082645186fd6fdd55c70aaf147{formatter}.{ext}?namespace=gamesdb"
-			},
-			"square_icon": {
-				"url_format": "https://images.gog.com/6215b457aefcbe90737be746b9668d04d54141a3b4cd7dd2176ae79cd4d4475b{formatter}.{ext}?namespace=gamesdb"
-			},
-			"global_popularity_all_time": 0,
-			"global_popularity_current": 0
-		},
-		"title": {
-			"*": "Fallout: London",
-			"en-US": "Fallout: London"
-		},
-		"sorting_title": {
-			"*": "Fallout London",
-			"en-US": "Fallout London"
-		},
-		"type": "game",
-		"summary": {
-			"*": "There has never been a better time to sample the capital’s delights! Fallout: London lets you explore the wonders of the city 160 years after the bombs have dropped, and 40 years before the events of Fallout 3. You can now reimagine Fallout in a London-centric universe, interacting with a brave new world of London-based locations, stories, factions, creatures, weapons, and gameplay mechanics.",
-			"en-US": "There has never been a better time to sample the capital’s delights! Fallout: London lets you explore the wonders of the city 160 years after the bombs have dropped, and 40 years before the events of Fallout 3. You can now reimagine Fallout in a London-centric universe, interacting with a brave new world of London-based locations, stories, factions, creatures, weapons, and gameplay mechanics."
-		},
-		"videos": [],
-		"game_modes": [],
-		"logo": {
-			"url_format": "https://images.gog.com/a557fa41364e6d06bfe3fca629755b8371af04082645186fd6fdd55c70aaf147{formatter}.{ext}?namespace=gamesdb"
-		}
-	},
-	"__timestamp.gog_1491728574": "Mon Aug 19 2024 00:28:34 GMT+0530 (India Standard Time)",
-	"gog_1106508737": {
-		"id": "56949075998261816",
-		"game_id": "53319454471728597",
-		"platform_id": "gog",
-		"external_id": "1106508737",
-		"dlcs_ids": [],
-		"dlcs": [],
-		"parent_id": null,
-		"supported_operating_systems": [
-			{
-				"slug": "windows",
-				"name": "Windows"
-			},
-			{
-				"slug": "linux",
-				"name": "Linux"
-			},
-			{
-				"slug": "osx",
-				"name": "macOS"
-			}
-		],
-		"available_languages": [
-			{
-				"code": "pt-BR"
-			},
-			{
-				"code": "cs-CZ"
-			},
-			{
-				"code": "de-DE"
-			},
-			{
-				"code": "en-US"
-			},
-			{
-				"code": "fr-FR"
-			},
-			{
-				"code": "it-IT"
-			},
-			{
-				"code": "pl-PL"
-			},
-			{
-				"code": "sv-SE"
-			}
-		],
-		"first_release_date": "2023-11-13T00:00:00+0000",
-		"game": {
-			"id": "53319454471728597",
-			"parent_id": null,
-			"dlcs_ids": [],
-			"first_release_date": "2023-11-13T00:00:00+0000",
-			"releases": [
-				{
-					"id": "53319454461450370",
-					"platform_id": "steam",
-					"external_id": "1293170",
-					"release_per_platform_id": "steam_1293170"
-				},
-				{
-					"id": "56502322877792062",
-					"platform_id": "gog",
-					"external_id": "1830367721",
-					"release_per_platform_id": "gog_1830367721"
-				},
-				{
-					"id": "56949075998261816",
-					"platform_id": "gog",
-					"external_id": "1106508737",
-					"release_per_platform_id": "gog_1106508737"
-				},
-				{
-					"id": "53319454471728597",
-					"platform_id": "generic",
-					"external_id": "53319454471728597",
-					"release_per_platform_id": "generic_53319454471728597"
-				}
-			],
-			"title": {
-				"*": "Bzzzt",
-				"en-US": "Bzzzt"
-			},
-			"sorting_title": {
-				"*": "Bzzzt",
-				"en-US": "Bzzzt"
-			},
-			"type": "game",
-			"developers_ids": [
-				"54046603195362070"
-			],
-			"developers": [
-				{
-					"id": "54046603195362070",
-					"name": "KO.DLL",
-					"slug": "ko-dot-dll"
-				}
-			],
-			"publishers_ids": [
-				"51153139547664644"
-			],
-			"publishers": [
-				{
-					"id": "51153139547664644",
-					"name": "CINEMAX, s.r.o.",
-					"slug": "cinemax-sro"
-				}
-			],
-			"genres_ids": [
-				"51071842251704278",
-				"51121492616405278",
-				"51141224662579279"
-			],
-			"genres": [
-				{
-					"id": "51071842251704278",
-					"name": {
-						"*": "Adventure",
-						"en-US": "Adventure"
-					},
-					"slug": "adventure"
-				},
-				{
-					"id": "51121492616405278",
-					"name": {
-						"*": "Indie",
-						"en-US": "Indie"
-					},
-					"slug": "indie"
-				},
-				{
-					"id": "51141224662579279",
-					"name": {
-						"*": "Platform",
-						"en-US": "Platform"
-					},
-					"slug": "platform"
-				}
-			],
-			"themes_ids": [
-				"51071842231533391"
-			],
-			"themes": [
-				{
-					"id": "51071842231533391",
-					"name": {
-						"*": "Action",
-						"en-US": "Action"
-					},
-					"slug": "action"
-				}
-			],
-			"screenshots": [
-				{
-					"url_format": "https://images.gog.com/44d0471bde47aa0af5c5eecbbf54d622cb97d1ae32043e11c559d875ac4a5a58{formatter}.{ext}?namespace=gamesdb"
-				},
-				{
-					"url_format": "https://images.gog.com/5bccf644c961af9510b363f001a69e8f527a1fdb364ef3685193c1bffe995b00{formatter}.{ext}?namespace=gamesdb"
-				},
-				{
-					"url_format": "https://images.gog.com/85fcd978cd2cae5d98490134d1ce393667b93404e4386e18414db8af7dc12654{formatter}.{ext}?namespace=gamesdb"
-				},
-				{
-					"url_format": "https://images.gog.com/37fe70933a0949140bcced4ab927d2fa08c905e9c9ca05c5fdc0048ec7f433ec{formatter}.{ext}?namespace=gamesdb"
-				},
-				{
-					"url_format": "https://images.gog.com/cf79efac0b073ed78502dede62c06d5e9ce46375608a3f5623f79d8822df2778{formatter}.{ext}?namespace=gamesdb"
-				},
-				{
-					"url_format": "https://images.gog.com/5ae53ff2e13e9e3a477d277815e71e698890caea117539667305ec1944b52ab1{formatter}.{ext}?namespace=gamesdb"
-				},
-				{
-					"url_format": "https://images.gog.com/b77953af5b160a5fdc95a7fb57ab6a93295493fcdf6f3b308801b4a2250366d8{formatter}.{ext}?namespace=gamesdb"
-				},
-				{
-					"url_format": "https://images.gog.com/7c0cf71944a390347b0971a18856af09ae7a5a2fa6a921f277f365d45b641a31{formatter}.{ext}?namespace=gamesdb"
-				},
-				{
-					"url_format": "https://images.gog.com/92b6c84505ae9b970805ab621c5c90af805f634d83fdb27cfabfa660d6739bb7{formatter}.{ext}?namespace=gamesdb"
-				},
-				{
-					"url_format": "https://images.gog.com/0518d0d2cd03ec37844ed1d2ec5e14b59e14e7414cc63825ee9a601d0e38bc08{formatter}.{ext}?namespace=gamesdb"
-				},
-				{
-					"url_format": "https://images.gog.com/e162c67647e19d10a56c9bf1af070cfa0953d3707d17ec8efbed1d04ecd78eca{formatter}.{ext}?namespace=gamesdb"
-				},
-				{
-					"url_format": "https://images.gog.com/b414781e0d8593911c91e2f720b907703e4dfdad44cc80345c0d6c467f9d17ad{formatter}.{ext}?namespace=gamesdb"
-				},
-				{
-					"url_format": "https://images.gog.com/78c9f4fff7e4d6991dc8c05998693bd2f5b99c82ad129b7664c04c8f1b9f9efc{formatter}.{ext}?namespace=gamesdb"
-				},
-				{
-					"url_format": "https://images.gog.com/2722ec53d4fb4898ac579f4a4a9efeca83a2f1930e21edd2f2abe7de4a075a57{formatter}.{ext}?namespace=gamesdb"
-				},
-				{
-					"url_format": "https://images.gog.com/ba6baa0a2ab74d4668a65f2ac0de39f3f2a1c6974c22a3c02ad24022aa9ff765{formatter}.{ext}?namespace=gamesdb"
-				},
-				{
-					"url_format": "https://images.gog.com/fd2afab1f6e2cb8aaab8abf8242cd50497a81d8d13c352606f52bfab277215e1{formatter}.{ext}?namespace=gamesdb"
-				},
-				{
-					"url_format": "https://images.gog.com/994dda95fe5d5dc5cce28ef7dff9f5f3121f3ba0e66d74d9c8a9f76e87f55beb{formatter}.{ext}?namespace=gamesdb"
-				},
-				{
-					"url_format": "https://images.gog.com/88bb5b53e9b3269c22f8e2c3a824b9094f987fd50eeb77481ae3b8ad9d71bfc0{formatter}.{ext}?namespace=gamesdb"
-				},
-				{
-					"url_format": "https://images.gog.com/236a4ecdd27e0d1916662cf0697aaf74cc9c80a62455afeaffc2460b19d5049d{formatter}.{ext}?namespace=gamesdb"
-				},
-				{
-					"url_format": "https://images.gog.com/9b1f6540539a04e5bb4969b123e0c8623b34c595e4fed9431f709de14d2aa057{formatter}.{ext}?namespace=gamesdb"
-				}
-			],
-			"videos": [
-				{
-					"provider": "youtube",
-					"video_id": "HjPs5qrgdiA",
-					"thumbnail_id": "HjPs5qrgdiA",
-					"name": "Trailer"
-				}
-			],
-			"artworks": [
-				{
-					"url_format": "https://images.gog.com/16ddb4f7c8f3d36d5e32c7c1777ce56ef4d0af6b0c749b14c118a81ca6574435{formatter}.{ext}?namespace=gamesdb"
-				}
-			],
-			"summary": {
-				"*": "Bzzzt is a fast-paced 2D platformer highly inspired by games from 80's. You become an artificial intelligence ZX8000 and in your newly obtained robotic body, you must prove your abilities in a series of testing chambers filled with deadly traps.",
-				"en-US": "Bzzzt is a fast-paced 2D platformer highly inspired by games from 80's. You become an artificial intelligence ZX8000 and in your newly obtained robotic body, you must prove your abilities in a series of testing chambers filled with deadly traps."
-			},
-			"visible_in_library": true,
-			"aggregated_rating": null,
-			"game_modes": [
-				{
-					"id": "53051895165351137",
-					"name": "Single player",
-					"slug": "single-player"
-				}
-			],
-			"horizontal_artwork": {
-				"url_format": "https://images.gog.com/3d0a47ab113e0c2470ff06659c321e80573471b04bade8f9a7f341f2eaab737c{formatter}.{ext}?namespace=gamesdb"
-			},
-			"background": {
-				"url_format": "https://images.gog.com/3d0a47ab113e0c2470ff06659c321e80573471b04bade8f9a7f341f2eaab737c{formatter}.{ext}?namespace=gamesdb"
-			},
-			"vertical_cover": {
-				"url_format": "https://images.gog.com/c64be80221770b9ad72cb818bc67367133fe28c755947ecf847f7cc2cb3d47f8{formatter}.{ext}?namespace=gamesdb"
-			},
-			"cover": {
-				"url_format": "https://images.gog.com/c64be80221770b9ad72cb818bc67367133fe28c755947ecf847f7cc2cb3d47f8{formatter}.{ext}?namespace=gamesdb"
-			},
-			"logo": {
-				"url_format": "https://images.gog.com/bd1942f44ae66bc398b0b1de7b72fc42e423b46d19505cdcb179740c7d1edf5a{formatter}.{ext}?namespace=gamesdb"
-			},
-			"icon": {
-				"url_format": "https://images.gog.com/0bda166535f7ea790522a0aacbd49d4bc1d0599582933064228da15b36276fa3{formatter}.{ext}?namespace=gamesdb"
-			},
-			"square_icon": {
-				"url_format": "https://images.gog.com/0d291689542ec06758fb66c4134e876a5ada20de43e994c4c930e7144682b64d{formatter}.{ext}?namespace=gamesdb"
-			},
-			"global_popularity_all_time": 0,
-			"global_popularity_current": 0
-		},
-		"title": {
-			"*": "Bzzzt Demo",
-			"en-US": "Bzzzt"
-		},
-		"sorting_title": {
-			"*": "Bzzzt Demo",
-			"en-US": "Bzzzt Demo"
-		},
-		"type": "game",
-		"summary": {
-			"*": "Bzzzt is a fast-paced 2D platformer highly inspired by games from 80's. You become an artificial intelligence ZX8000 and in your newly obtained robotic body, you must prove your abilities in a series of testing chambers filled with deadly traps.",
-			"en-US": "Bzzzt is a fast-paced 2D platformer highly inspired by games from 80's. You become an artificial intelligence ZX8000 and in your newly obtained robotic body, you must prove your abilities in a series of testing chambers filled with deadly traps."
-		},
-		"videos": [],
-		"game_modes": [
-			{
-				"id": "53051895165351137",
-				"name": "Single player",
-				"slug": "single-player"
-			}
-		],
-		"icon": {
-			"url_format": "https://images.gog.com/0bda166535f7ea790522a0aacbd49d4bc1d0599582933064228da15b36276fa3{formatter}.{ext}?namespace=gamesdb"
-		},
-		"logo": {
-			"url_format": "https://images.gog.com/bd1942f44ae66bc398b0b1de7b72fc42e423b46d19505cdcb179740c7d1edf5a{formatter}.{ext}?namespace=gamesdb"
-		},
-		"etag": "W/\"95a0f00bea75f5537ef46fdf948a349c\""
-	},
-	"__timestamp.gog_1106508737": "Mon Aug 19 2024 00:28:34 GMT+0530 (India Standard Time)",
 	"epic_9d2d0eb64d5c44529cece33fe2a46482": {
 		"id": "53333714508302270",
 		"game_id": "51152930335439509",
@@ -3452,5 +2987,2015 @@
 			"slug": "grand-theft-auto"
 		},
 		"etag": "W/\"779eec95911646532fdaf67d78116a05\""
+	},
+	"gog_1491728574": {
+		"id": "57612625522707877",
+		"game_id": "57612625525066547",
+		"platform_id": "gog",
+		"external_id": "1491728574",
+		"dlcs_ids": [],
+		"dlcs": [],
+		"parent_id": null,
+		"supported_operating_systems": [
+			{
+				"slug": "windows",
+				"name": "Windows"
+			}
+		],
+		"available_languages": [
+			{
+				"code": "en-US"
+			}
+		],
+		"first_release_date": null,
+		"game": {
+			"id": "57612625525066547",
+			"parent_id": null,
+			"dlcs_ids": [],
+			"first_release_date": "2024-07-25T00:00:00+0000",
+			"releases": [
+				{
+					"id": "57612625525066547",
+					"platform_id": "generic",
+					"external_id": "57612625525066547",
+					"release_per_platform_id": "generic_57612625525066547"
+				}
+			],
+			"title": {
+				"*": "Fallout: London",
+				"en-US": "Fallout: London"
+			},
+			"sorting_title": {
+				"*": "Fallout London",
+				"en-US": "Fallout London"
+			},
+			"type": "game",
+			"developers_ids": [
+				"57798181372308317"
+			],
+			"developers": [
+				{
+					"id": "57798181372308317",
+					"name": "Team FOLON®",
+					"slug": "team-folon-r"
+				}
+			],
+			"publishers_ids": [
+				"57798181372308317"
+			],
+			"publishers": [
+				{
+					"id": "57798181372308317",
+					"name": "Team FOLON®",
+					"slug": "team-folon-r"
+				}
+			],
+			"genres_ids": [
+				"51071842242881003",
+				"51141224821260861"
+			],
+			"genres": [
+				{
+					"id": "51071842242881003",
+					"name": {
+						"*": "Role-playing (RPG)",
+						"en-US": "Role-playing (RPG)"
+					},
+					"slug": "role-playing-rpg"
+				},
+				{
+					"id": "51141224821260861",
+					"name": {
+						"*": "Shooter",
+						"en-US": "Shooter"
+					},
+					"slug": "shooter"
+				}
+			],
+			"themes_ids": [],
+			"themes": [],
+			"screenshots": [
+				{
+					"url_format": "https://images.gog.com/7ec3f09e043adc7309c98a8a7bebb8b57f7c4662798b6d9202caad721fc79e2d{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/150d5179e719885c1fd2c78e290d41ccd0545396cdafef932d87c451f80f6c27{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/1ce21469ece50f09ae7b3e1fb783a3583863c638ec66127b17733d56383212c3{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/560273b9769e5101734ba129554fdbc1a23db6b52b8eab73aca121cc9d0f2dfe{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/db45558bb8ef3820ddc101b3d465ce54e9c12936eb9974b264004f918220ba5d{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/f5d6c3b8f7e3cc18870c46410edf2a83857f6d4df1e117b7f7900bf676c7c2c6{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/d06695f57d66597899f632e600c526ff4eabea3391486e2e7d52aa09ebb6d606{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/fe9d9d04732d272c04317f4c72ddb0058886ef29e24ca2f530b948ccff43fd95{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/4707667c5f9f91def9a02563fd6eaab830f41b36bf0026b32088cb6e57732228{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/3259eefe8191c0e5755993a1cbdf899883089be4454d28bf8e8b5e06662e9f7e{formatter}.{ext}?namespace=gamesdb"
+				}
+			],
+			"videos": [
+				{
+					"provider": "youtube",
+					"video_id": "8t2mF_PM11A",
+					"thumbnail_id": "8t2mF_PM11A",
+					"name": "Launch Trailer"
+				}
+			],
+			"artworks": [],
+			"summary": {
+				"*": "There has never been a better time to sample the capital’s delights! Fallout: London lets you explore the wonders of the city 160 years after the bombs have dropped, and 40 years before the events of Fallout 3. You can now reimagine Fallout in a London-centric universe, interacting with a brave new world of London-based locations, stories, factions, creatures, weapons, and gameplay mechanics.",
+				"en-US": "There has never been a better time to sample the capital’s delights! Fallout: London lets you explore the wonders of the city 160 years after the bombs have dropped, and 40 years before the events of Fallout 3. You can now reimagine Fallout in a London-centric universe, interacting with a brave new world of London-based locations, stories, factions, creatures, weapons, and gameplay mechanics."
+			},
+			"visible_in_library": true,
+			"aggregated_rating": null,
+			"game_modes": [],
+			"horizontal_artwork": {
+				"url_format": "https://images.gog.com/80ff8140366830bc5d427aca3f6e130dd9c1f2ca8bbc3d1f0008fb0ebb9a3ea0{formatter}.{ext}?namespace=gamesdb"
+			},
+			"background": {
+				"url_format": "https://images.gog.com/80ff8140366830bc5d427aca3f6e130dd9c1f2ca8bbc3d1f0008fb0ebb9a3ea0{formatter}.{ext}?namespace=gamesdb"
+			},
+			"vertical_cover": {
+				"url_format": "https://images.gog.com/a763950d7039103bebdcd6ebd92144ee19ddecbbd4d9cdfee4775aadc965fb01{formatter}.{ext}?namespace=gamesdb"
+			},
+			"cover": {
+				"url_format": "https://images.gog.com/a763950d7039103bebdcd6ebd92144ee19ddecbbd4d9cdfee4775aadc965fb01{formatter}.{ext}?namespace=gamesdb"
+			},
+			"logo": {
+				"url_format": "https://images.gog.com/a557fa41364e6d06bfe3fca629755b8371af04082645186fd6fdd55c70aaf147{formatter}.{ext}?namespace=gamesdb"
+			},
+			"square_icon": {
+				"url_format": "https://images.gog.com/6215b457aefcbe90737be746b9668d04d54141a3b4cd7dd2176ae79cd4d4475b{formatter}.{ext}?namespace=gamesdb"
+			},
+			"global_popularity_all_time": 0,
+			"global_popularity_current": 0
+		},
+		"title": {
+			"*": "Fallout: London",
+			"en-US": "Fallout: London"
+		},
+		"sorting_title": {
+			"*": "Fallout London",
+			"en-US": "Fallout London"
+		},
+		"type": "game",
+		"summary": {
+			"*": "There has never been a better time to sample the capital’s delights! Fallout: London lets you explore the wonders of the city 160 years after the bombs have dropped, and 40 years before the events of Fallout 3. You can now reimagine Fallout in a London-centric universe, interacting with a brave new world of London-based locations, stories, factions, creatures, weapons, and gameplay mechanics.",
+			"en-US": "There has never been a better time to sample the capital’s delights! Fallout: London lets you explore the wonders of the city 160 years after the bombs have dropped, and 40 years before the events of Fallout 3. You can now reimagine Fallout in a London-centric universe, interacting with a brave new world of London-based locations, stories, factions, creatures, weapons, and gameplay mechanics."
+		},
+		"videos": [],
+		"game_modes": [],
+		"logo": {
+			"url_format": "https://images.gog.com/a557fa41364e6d06bfe3fca629755b8371af04082645186fd6fdd55c70aaf147{formatter}.{ext}?namespace=gamesdb"
+		}
+	},
+	"__timestamp.gog_1491728574": "Thu Aug 22 2024 10:16:40 GMT+0530 (India Standard Time)",
+	"gog_1106508737": {
+		"id": "56949075998261816",
+		"game_id": "53319454471728597",
+		"platform_id": "gog",
+		"external_id": "1106508737",
+		"dlcs_ids": [],
+		"dlcs": [],
+		"parent_id": null,
+		"supported_operating_systems": [
+			{
+				"slug": "windows",
+				"name": "Windows"
+			},
+			{
+				"slug": "linux",
+				"name": "Linux"
+			},
+			{
+				"slug": "osx",
+				"name": "macOS"
+			}
+		],
+		"available_languages": [
+			{
+				"code": "pt-BR"
+			},
+			{
+				"code": "cs-CZ"
+			},
+			{
+				"code": "de-DE"
+			},
+			{
+				"code": "en-US"
+			},
+			{
+				"code": "fr-FR"
+			},
+			{
+				"code": "it-IT"
+			},
+			{
+				"code": "pl-PL"
+			},
+			{
+				"code": "sv-SE"
+			}
+		],
+		"first_release_date": "2023-11-13T00:00:00+0000",
+		"game": {
+			"id": "53319454471728597",
+			"parent_id": null,
+			"dlcs_ids": [],
+			"first_release_date": "2023-11-13T00:00:00+0000",
+			"releases": [
+				{
+					"id": "53319454461450370",
+					"platform_id": "steam",
+					"external_id": "1293170",
+					"release_per_platform_id": "steam_1293170"
+				},
+				{
+					"id": "56502322877792062",
+					"platform_id": "gog",
+					"external_id": "1830367721",
+					"release_per_platform_id": "gog_1830367721"
+				},
+				{
+					"id": "56949075998261816",
+					"platform_id": "gog",
+					"external_id": "1106508737",
+					"release_per_platform_id": "gog_1106508737"
+				},
+				{
+					"id": "53319454471728597",
+					"platform_id": "generic",
+					"external_id": "53319454471728597",
+					"release_per_platform_id": "generic_53319454471728597"
+				}
+			],
+			"title": {
+				"*": "Bzzzt",
+				"en-US": "Bzzzt"
+			},
+			"sorting_title": {
+				"*": "Bzzzt",
+				"en-US": "Bzzzt"
+			},
+			"type": "game",
+			"developers_ids": [
+				"54046603195362070"
+			],
+			"developers": [
+				{
+					"id": "54046603195362070",
+					"name": "KO.DLL",
+					"slug": "ko-dot-dll"
+				}
+			],
+			"publishers_ids": [
+				"51153139547664644"
+			],
+			"publishers": [
+				{
+					"id": "51153139547664644",
+					"name": "CINEMAX, s.r.o.",
+					"slug": "cinemax-sro"
+				}
+			],
+			"genres_ids": [
+				"51071842251704278",
+				"51121492616405278",
+				"51141224662579279"
+			],
+			"genres": [
+				{
+					"id": "51071842251704278",
+					"name": {
+						"*": "Adventure",
+						"en-US": "Adventure"
+					},
+					"slug": "adventure"
+				},
+				{
+					"id": "51121492616405278",
+					"name": {
+						"*": "Indie",
+						"en-US": "Indie"
+					},
+					"slug": "indie"
+				},
+				{
+					"id": "51141224662579279",
+					"name": {
+						"*": "Platform",
+						"en-US": "Platform"
+					},
+					"slug": "platform"
+				}
+			],
+			"themes_ids": [
+				"51071842231533391"
+			],
+			"themes": [
+				{
+					"id": "51071842231533391",
+					"name": {
+						"*": "Action",
+						"en-US": "Action"
+					},
+					"slug": "action"
+				}
+			],
+			"screenshots": [
+				{
+					"url_format": "https://images.gog.com/44d0471bde47aa0af5c5eecbbf54d622cb97d1ae32043e11c559d875ac4a5a58{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/5bccf644c961af9510b363f001a69e8f527a1fdb364ef3685193c1bffe995b00{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/85fcd978cd2cae5d98490134d1ce393667b93404e4386e18414db8af7dc12654{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/37fe70933a0949140bcced4ab927d2fa08c905e9c9ca05c5fdc0048ec7f433ec{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/cf79efac0b073ed78502dede62c06d5e9ce46375608a3f5623f79d8822df2778{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/5ae53ff2e13e9e3a477d277815e71e698890caea117539667305ec1944b52ab1{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/b77953af5b160a5fdc95a7fb57ab6a93295493fcdf6f3b308801b4a2250366d8{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/7c0cf71944a390347b0971a18856af09ae7a5a2fa6a921f277f365d45b641a31{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/92b6c84505ae9b970805ab621c5c90af805f634d83fdb27cfabfa660d6739bb7{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/0518d0d2cd03ec37844ed1d2ec5e14b59e14e7414cc63825ee9a601d0e38bc08{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/e162c67647e19d10a56c9bf1af070cfa0953d3707d17ec8efbed1d04ecd78eca{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/b414781e0d8593911c91e2f720b907703e4dfdad44cc80345c0d6c467f9d17ad{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/78c9f4fff7e4d6991dc8c05998693bd2f5b99c82ad129b7664c04c8f1b9f9efc{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/2722ec53d4fb4898ac579f4a4a9efeca83a2f1930e21edd2f2abe7de4a075a57{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/ba6baa0a2ab74d4668a65f2ac0de39f3f2a1c6974c22a3c02ad24022aa9ff765{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/fd2afab1f6e2cb8aaab8abf8242cd50497a81d8d13c352606f52bfab277215e1{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/994dda95fe5d5dc5cce28ef7dff9f5f3121f3ba0e66d74d9c8a9f76e87f55beb{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/88bb5b53e9b3269c22f8e2c3a824b9094f987fd50eeb77481ae3b8ad9d71bfc0{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/236a4ecdd27e0d1916662cf0697aaf74cc9c80a62455afeaffc2460b19d5049d{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/9b1f6540539a04e5bb4969b123e0c8623b34c595e4fed9431f709de14d2aa057{formatter}.{ext}?namespace=gamesdb"
+				}
+			],
+			"videos": [
+				{
+					"provider": "youtube",
+					"video_id": "HjPs5qrgdiA",
+					"thumbnail_id": "HjPs5qrgdiA",
+					"name": "Trailer"
+				}
+			],
+			"artworks": [
+				{
+					"url_format": "https://images.gog.com/16ddb4f7c8f3d36d5e32c7c1777ce56ef4d0af6b0c749b14c118a81ca6574435{formatter}.{ext}?namespace=gamesdb"
+				}
+			],
+			"summary": {
+				"*": "Bzzzt is a fast-paced 2D platformer highly inspired by games from 80's. You become an artificial intelligence ZX8000 and in your newly obtained robotic body, you must prove your abilities in a series of testing chambers filled with deadly traps.",
+				"en-US": "Bzzzt is a fast-paced 2D platformer highly inspired by games from 80's. You become an artificial intelligence ZX8000 and in your newly obtained robotic body, you must prove your abilities in a series of testing chambers filled with deadly traps."
+			},
+			"visible_in_library": true,
+			"aggregated_rating": null,
+			"game_modes": [
+				{
+					"id": "53051895165351137",
+					"name": "Single player",
+					"slug": "single-player"
+				}
+			],
+			"horizontal_artwork": {
+				"url_format": "https://images.gog.com/3d0a47ab113e0c2470ff06659c321e80573471b04bade8f9a7f341f2eaab737c{formatter}.{ext}?namespace=gamesdb"
+			},
+			"background": {
+				"url_format": "https://images.gog.com/3d0a47ab113e0c2470ff06659c321e80573471b04bade8f9a7f341f2eaab737c{formatter}.{ext}?namespace=gamesdb"
+			},
+			"vertical_cover": {
+				"url_format": "https://images.gog.com/c64be80221770b9ad72cb818bc67367133fe28c755947ecf847f7cc2cb3d47f8{formatter}.{ext}?namespace=gamesdb"
+			},
+			"cover": {
+				"url_format": "https://images.gog.com/c64be80221770b9ad72cb818bc67367133fe28c755947ecf847f7cc2cb3d47f8{formatter}.{ext}?namespace=gamesdb"
+			},
+			"logo": {
+				"url_format": "https://images.gog.com/bd1942f44ae66bc398b0b1de7b72fc42e423b46d19505cdcb179740c7d1edf5a{formatter}.{ext}?namespace=gamesdb"
+			},
+			"icon": {
+				"url_format": "https://images.gog.com/0bda166535f7ea790522a0aacbd49d4bc1d0599582933064228da15b36276fa3{formatter}.{ext}?namespace=gamesdb"
+			},
+			"square_icon": {
+				"url_format": "https://images.gog.com/0d291689542ec06758fb66c4134e876a5ada20de43e994c4c930e7144682b64d{formatter}.{ext}?namespace=gamesdb"
+			},
+			"global_popularity_all_time": 0,
+			"global_popularity_current": 0
+		},
+		"title": {
+			"*": "Bzzzt Demo",
+			"en-US": "Bzzzt"
+		},
+		"sorting_title": {
+			"*": "Bzzzt Demo",
+			"en-US": "Bzzzt Demo"
+		},
+		"type": "game",
+		"summary": {
+			"*": "Bzzzt is a fast-paced 2D platformer highly inspired by games from 80's. You become an artificial intelligence ZX8000 and in your newly obtained robotic body, you must prove your abilities in a series of testing chambers filled with deadly traps.",
+			"en-US": "Bzzzt is a fast-paced 2D platformer highly inspired by games from 80's. You become an artificial intelligence ZX8000 and in your newly obtained robotic body, you must prove your abilities in a series of testing chambers filled with deadly traps."
+		},
+		"videos": [],
+		"game_modes": [
+			{
+				"id": "53051895165351137",
+				"name": "Single player",
+				"slug": "single-player"
+			}
+		],
+		"icon": {
+			"url_format": "https://images.gog.com/0bda166535f7ea790522a0aacbd49d4bc1d0599582933064228da15b36276fa3{formatter}.{ext}?namespace=gamesdb"
+		},
+		"logo": {
+			"url_format": "https://images.gog.com/bd1942f44ae66bc398b0b1de7b72fc42e423b46d19505cdcb179740c7d1edf5a{formatter}.{ext}?namespace=gamesdb"
+		},
+		"etag": "W/\"95a0f00bea75f5537ef46fdf948a349c\""
+	},
+	"__timestamp.gog_1106508737": "Thu Aug 22 2024 10:16:40 GMT+0530 (India Standard Time)",
+	"epic_Herring": {
+		"id": "53478017316160827",
+		"game_id": "51152983500988087",
+		"platform_id": "epic",
+		"external_id": "Herring",
+		"dlcs_ids": [],
+		"dlcs": [],
+		"parent_id": null,
+		"supported_operating_systems": [
+			{
+				"slug": "linux",
+				"name": "Linux"
+			},
+			{
+				"slug": "osx",
+				"name": "macOS"
+			},
+			{
+				"slug": "windows",
+				"name": "Windows"
+			}
+		],
+		"available_languages": [
+			{
+				"code": "en-US"
+			}
+		],
+		"first_release_date": null,
+		"game": {
+			"id": "51152983500988087",
+			"parent_id": null,
+			"dlcs_ids": [
+				"52393527482744952"
+			],
+			"first_release_date": "2016-08-30T00:00:00+0000",
+			"releases": [
+				{
+					"id": "51152983504628656",
+					"platform_id": "steam",
+					"external_id": "383270",
+					"release_per_platform_id": "steam_383270"
+				},
+				{
+					"id": "51701633861095986",
+					"platform_id": "xboxone",
+					"external_id": "722916288",
+					"release_per_platform_id": "xboxone_722916288"
+				},
+				{
+					"id": "52048764545531408",
+					"platform_id": "origin",
+					"external_id": "Origin.OFR.50.0003307",
+					"release_per_platform_id": "origin_Origin.OFR.50.0003307"
+				},
+				{
+					"id": "52087229163892946",
+					"platform_id": "psn",
+					"external_id": "CUSA05065_00",
+					"release_per_platform_id": "psn_CUSA05065_00"
+				},
+				{
+					"id": "52098158101529478",
+					"platform_id": "psn",
+					"external_id": "CUSA05091_00",
+					"release_per_platform_id": "psn_CUSA05091_00"
+				},
+				{
+					"id": "52511054841004115",
+					"platform_id": "amazon",
+					"external_id": "2ebae692-5e13-4ee1-a4bd-1f901bac77c6",
+					"release_per_platform_id": "amazon_2ebae692-5e13-4ee1-a4bd-1f901bac77c6"
+				},
+				{
+					"id": "52512109353783046",
+					"platform_id": "humble",
+					"external_id": "2ebae692-5e13-4ee1-a4bd-1f901bac77c6",
+					"release_per_platform_id": "humble_2ebae692-5e13-4ee1-a4bd-1f901bac77c6"
+				},
+				{
+					"id": "52581268314734891",
+					"platform_id": "origin",
+					"external_id": "Origin.OFR.50.0003659",
+					"release_per_platform_id": "origin_Origin.OFR.50.0003659"
+				},
+				{
+					"id": "52626263095275963",
+					"platform_id": "twitch",
+					"external_id": "2ebae692-5e13-4ee1-a4bd-1f901bac77c6",
+					"release_per_platform_id": "twitch_2ebae692-5e13-4ee1-a4bd-1f901bac77c6"
+				},
+				{
+					"id": "52642189383354913",
+					"platform_id": "xboxone",
+					"external_id": "1733126923",
+					"release_per_platform_id": "xboxone_1733126923"
+				},
+				{
+					"id": "52686773117905890",
+					"platform_id": "humble",
+					"external_id": "hue_yogscast_steam",
+					"release_per_platform_id": "humble_hue_yogscast_steam"
+				},
+				{
+					"id": "52833862467681933",
+					"platform_id": "psvita",
+					"external_id": "CUSA05091_00",
+					"release_per_platform_id": "psvita_CUSA05091_00"
+				},
+				{
+					"id": "52884285109043320",
+					"platform_id": "humble",
+					"external_id": "hue_steam",
+					"release_per_platform_id": "humble_hue_steam"
+				},
+				{
+					"id": "52890635995895960",
+					"platform_id": "test",
+					"external_id": "CUSA05091_00",
+					"release_per_platform_id": "test_CUSA05091_00"
+				},
+				{
+					"id": "52952305050945638",
+					"platform_id": "3ds",
+					"external_id": "2ebae692-5e13-4ee1-a4bd-1f901bac77c6",
+					"release_per_platform_id": "3ds_2ebae692-5e13-4ee1-a4bd-1f901bac77c6"
+				},
+				{
+					"id": "52956989921095442",
+					"platform_id": "test",
+					"external_id": "CUSA05065_00",
+					"release_per_platform_id": "test_CUSA05065_00"
+				},
+				{
+					"id": "53478017316160827",
+					"platform_id": "epic",
+					"external_id": "Herring",
+					"release_per_platform_id": "epic_Herring"
+				},
+				{
+					"id": "53496528276246664",
+					"platform_id": "test",
+					"external_id": "Herring",
+					"release_per_platform_id": "test_Herring"
+				},
+				{
+					"id": "54220567344409981",
+					"platform_id": "origin",
+					"external_id": "Origin.OFR.50.0003307@subscription",
+					"release_per_platform_id": "origin_Origin.OFR.50.0003307@subscription"
+				},
+				{
+					"id": "54224347379873161",
+					"platform_id": "humble",
+					"external_id": "hue_bundle_steam",
+					"release_per_platform_id": "humble_hue_bundle_steam"
+				},
+				{
+					"id": "54459710104607119",
+					"platform_id": "test",
+					"external_id": "9a2534ed09162bd19c7196e272768b9a6753d300",
+					"release_per_platform_id": "test_9a2534ed09162bd19c7196e272768b9a6753d300"
+				},
+				{
+					"id": "54474081587329545",
+					"platform_id": "test",
+					"external_id": "6fb7198ce41a8af33f8e2af3615fd84bcc5c2433",
+					"release_per_platform_id": "test_6fb7198ce41a8af33f8e2af3615fd84bcc5c2433"
+				},
+				{
+					"id": "51152983500988087",
+					"platform_id": "generic",
+					"external_id": "51152983500988087",
+					"release_per_platform_id": "generic_51152983500988087"
+				}
+			],
+			"title": {
+				"*": "Hue",
+				"en-US": "Hue"
+			},
+			"sorting_title": {
+				"*": "Hue",
+				"en-US": "Hue"
+			},
+			"type": "game",
+			"developers_ids": [
+				"51152983516466943"
+			],
+			"developers": [
+				{
+					"id": "51152983516466943",
+					"name": "Fiddlesticks",
+					"slug": "fiddlesticks"
+				}
+			],
+			"publishers_ids": [
+				"51141226388263991"
+			],
+			"publishers": [
+				{
+					"id": "51141226388263991",
+					"name": "Curve Digital",
+					"slug": "curve-digital"
+				}
+			],
+			"genres_ids": [
+				"51071842251704278",
+				"51121492616405278",
+				"51141224662579279",
+				"51141224673762034"
+			],
+			"genres": [
+				{
+					"id": "51071842251704278",
+					"name": {
+						"*": "Adventure",
+						"en-US": "Adventure"
+					},
+					"slug": "adventure"
+				},
+				{
+					"id": "51121492616405278",
+					"name": {
+						"*": "Indie",
+						"en-US": "Indie"
+					},
+					"slug": "indie"
+				},
+				{
+					"id": "51141224662579279",
+					"name": {
+						"*": "Platform",
+						"en-US": "Platform"
+					},
+					"slug": "platform"
+				},
+				{
+					"id": "51141224673762034",
+					"name": {
+						"*": "Puzzle",
+						"en-US": "Puzzle"
+					},
+					"slug": "puzzle"
+				}
+			],
+			"themes_ids": [
+				"51071842231533391"
+			],
+			"themes": [
+				{
+					"id": "51071842231533391",
+					"name": {
+						"*": "Action",
+						"en-US": "Action"
+					},
+					"slug": "action"
+				}
+			],
+			"screenshots": [
+				{
+					"url_format": "https://images.gog.com/441fcd03858390553a587e3052df52fecef3838ac1daec316f69d69dc49fc7fc{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/60f0d13cdb039ec082f5f2ef64ed3b30eba621080befa7ca326c0080bbbc4adf{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/edd11f1d1f1aa3ec4473f199d63e811baa9642165e941e746bafe33254a06f59{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/1cda585071fab4c88a9f93a024b472b3fd0cbec6f141c3e6440238e5529012a0{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/a0d5b55c294d55337bcdf778882ffb07f65dfa3ae6e4895fa2878c2409ae446a{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/2b8fe6bc06fd88c7336ace4614a5740d9b04fb39f2b789df02c357e53a3a839d{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/0eb8f00b2cbdc7d52bec48ef386c02eed91efae43495f81b44beb31375555030{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/1a42afb858422b651c90d8002e0827b98a7a1800dd0636cb4334765429029214{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/b9f8fffbecc799206194ec9da4eeb89f3e2af1add2a90b18e6c947f7d0f7e02b{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/e574cca68417d8c18299f7df53d7637fbc2d6d07cf57e782e29de9c6b0ed63c3{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/e9fa52bb0ff771bc3e867aa1dacb2e5d59e2d5abb82fc7e3ae1a1664437365b3{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/1f4506c56d630016f3de7b1608a7730ecaad787e0f55f414a0b03b616e1cf17f{formatter}.{ext}?namespace=gamesdb"
+				}
+			],
+			"videos": [
+				{
+					"provider": "youtube",
+					"video_id": "coKjsUpdAXY",
+					"thumbnail_id": "coKjsUpdAXY",
+					"name": "Trailer"
+				}
+			],
+			"artworks": [
+				{
+					"url_format": "https://images.gog.com/ba44e7c8eac6f2831949decc77b6c924ded189572cb0a5a5599f1a7eaa821592{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/858fc81b063f36c63fc1a2e1de8616f5d0ccc4969d83bb8b99a7feb72eec1931{formatter}.{ext}?namespace=gamesdb"
+				}
+			],
+			"summary": {
+				"*": "Hue is a stark puzzle platformer where you shift the hue of the world, creating rifts when colours collide.\n\nIn this world, everyone sees in grayscale. Anne, a researcher specialising in colour theory, has created a mysterious ring which grants the ability to perceive and alter colour. After a fracas with her research assistant, she disappears into a coloured void. You play as Hue, Anne’s son, as he discovers fragments of his missing mother’s research and learns to perceive and alter colour for the first time.",
+				"en-US": "Hue is a stark puzzle platformer where you shift the hue of the world, creating rifts when colours collide.\n\nIn this world, everyone sees in grayscale. Anne, a researcher specialising in colour theory, has created a mysterious ring which grants the ability to perceive and alter colour. After a fracas with her research assistant, she disappears into a coloured void. You play as Hue, Anne’s son, as he discovers fragments of his missing mother’s research and learns to perceive and alter colour for the first time."
+			},
+			"visible_in_library": true,
+			"aggregated_rating": 77.875,
+			"game_modes": [
+				{
+					"id": "53051895165351137",
+					"name": "Single player",
+					"slug": "single-player"
+				}
+			],
+			"horizontal_artwork": {
+				"url_format": "https://images.gog.com/e022d8a8d6bb3bf2b922302c8eecdf2282e7ecac36448344af5bcde091caa358{formatter}.{ext}?namespace=gamesdb"
+			},
+			"background": {
+				"url_format": "https://images.gog.com/e022d8a8d6bb3bf2b922302c8eecdf2282e7ecac36448344af5bcde091caa358{formatter}.{ext}?namespace=gamesdb"
+			},
+			"vertical_cover": {
+				"url_format": "https://images.gog.com/0e0f0fdfa8d8225e83857111380fb1230242ae441364ad5ffa424aa04ab5e1c6{formatter}.{ext}?namespace=gamesdb"
+			},
+			"cover": {
+				"url_format": "https://images.gog.com/0e0f0fdfa8d8225e83857111380fb1230242ae441364ad5ffa424aa04ab5e1c6{formatter}.{ext}?namespace=gamesdb"
+			},
+			"logo": {
+				"url_format": "https://images.gog.com/0e0f0fdfa8d8225e83857111380fb1230242ae441364ad5ffa424aa04ab5e1c6{formatter}.{ext}?namespace=gamesdb"
+			},
+			"icon": {
+				"url_format": "https://images.gog.com/0e0f0fdfa8d8225e83857111380fb1230242ae441364ad5ffa424aa04ab5e1c6{formatter}.{ext}?namespace=gamesdb"
+			},
+			"square_icon": {
+				"url_format": "https://images.gog.com/858fc81b063f36c63fc1a2e1de8616f5d0ccc4969d83bb8b99a7feb72eec1931{formatter}.{ext}?namespace=gamesdb"
+			},
+			"global_popularity_all_time": 0,
+			"global_popularity_current": 0
+		},
+		"title": {
+			"*": "Hue",
+			"en-US": "Hue"
+		},
+		"sorting_title": {
+			"*": "Hue",
+			"en-US": "Hue"
+		},
+		"type": "game",
+		"summary": {
+			"*": "Hue is a stark puzzle platformer where you shift the hue of the world, creating rifts when colours collide.\n\nIn this world, everyone sees in grayscale. Anne, a researcher specialising in colour theory, has created a mysterious ring which grants the ability to perceive and alter colour. After a fracas with her research assistant, she disappears into a coloured void. You play as Hue, Anne’s son, as he discovers fragments of his missing mother’s research and learns to perceive and alter colour for the first time.",
+			"en-US": "Hue is a stark puzzle platformer where you shift the hue of the world, creating rifts when colours collide.\n\nIn this world, everyone sees in grayscale. Anne, a researcher specialising in colour theory, has created a mysterious ring which grants the ability to perceive and alter colour. After a fracas with her research assistant, she disappears into a coloured void. You play as Hue, Anne’s son, as he discovers fragments of his missing mother’s research and learns to perceive and alter colour for the first time."
+		},
+		"videos": [],
+		"game_modes": [
+			{
+				"id": "53051895165351137",
+				"name": "Single player",
+				"slug": "single-player"
+			}
+		],
+		"icon": {
+			"url_format": "https://images.gog.com/0e0f0fdfa8d8225e83857111380fb1230242ae441364ad5ffa424aa04ab5e1c6{formatter}.{ext}?namespace=gamesdb"
+		},
+		"logo": {
+			"url_format": "https://images.gog.com/0e0f0fdfa8d8225e83857111380fb1230242ae441364ad5ffa424aa04ab5e1c6{formatter}.{ext}?namespace=gamesdb"
+		},
+		"etag": "W/\"d097c36c77f4e27199af8faef00cf5dd\""
+	},
+	"epic_ef50503adc284a8ba65d4dea1ecce91a": {
+		"id": "57045780425501459",
+		"game_id": "56752013126426535",
+		"platform_id": "epic",
+		"external_id": "ef50503adc284a8ba65d4dea1ecce91a",
+		"dlcs_ids": [],
+		"dlcs": [],
+		"parent_id": null,
+		"supported_operating_systems": [
+			{
+				"slug": "windows",
+				"name": "Windows"
+			}
+		],
+		"available_languages": [
+			{
+				"code": "en-US"
+			}
+		],
+		"first_release_date": null,
+		"game": {
+			"id": "56752013126426535",
+			"parent_id": null,
+			"dlcs_ids": [],
+			"first_release_date": "2023-11-14T00:00:00+0000",
+			"releases": [
+				{
+					"id": "56752013129508166",
+					"platform_id": "steam",
+					"external_id": "2060870",
+					"release_per_platform_id": "steam_2060870"
+				},
+				{
+					"id": "57045780425501459",
+					"platform_id": "epic",
+					"external_id": "ef50503adc284a8ba65d4dea1ecce91a",
+					"release_per_platform_id": "epic_ef50503adc284a8ba65d4dea1ecce91a"
+				},
+				{
+					"id": "56752013126426535",
+					"platform_id": "generic",
+					"external_id": "56752013126426535",
+					"release_per_platform_id": "generic_56752013126426535"
+				}
+			],
+			"title": {
+				"*": "Invincible Presents: Atom Eve",
+				"en-US": "Invincible Presents: Atom Eve"
+			},
+			"sorting_title": {
+				"*": "Invincible Presents Atom Eve",
+				"en-US": "Invincible Presents Atom Eve"
+			},
+			"type": "game",
+			"developers_ids": [
+				"51295411757546042"
+			],
+			"developers": [
+				{
+					"id": "51295411757546042",
+					"name": "Terrible Posture Games",
+					"slug": "terrible-posture-games"
+				}
+			],
+			"publishers_ids": [
+				"51499773272695579"
+			],
+			"publishers": [
+				{
+					"id": "51499773272695579",
+					"name": "Skybound Games",
+					"slug": "skybound-games"
+				}
+			],
+			"genres_ids": [
+				"51071842242881003",
+				"51071842251704278",
+				"52744370360062392"
+			],
+			"genres": [
+				{
+					"id": "51071842242881003",
+					"name": {
+						"*": "Role-playing (RPG)",
+						"en-US": "Role-playing (RPG)"
+					},
+					"slug": "role-playing-rpg"
+				},
+				{
+					"id": "51071842251704278",
+					"name": {
+						"*": "Adventure",
+						"en-US": "Adventure"
+					},
+					"slug": "adventure"
+				},
+				{
+					"id": "52744370360062392",
+					"name": {
+						"*": "Visual Novel",
+						"en-US": "Visual Novel"
+					},
+					"slug": "visual-novel"
+				}
+			],
+			"themes_ids": [
+				"51141225463821636",
+				"51141227910729860",
+				"53322125122461403"
+			],
+			"themes": [
+				{
+					"id": "51141225463821636",
+					"name": {
+						"*": "Science fiction",
+						"en-US": "Science fiction"
+					},
+					"slug": "science-fiction"
+				},
+				{
+					"id": "51141227910729860",
+					"name": {
+						"*": "Drama",
+						"en-US": "Drama"
+					},
+					"slug": "drama"
+				},
+				{
+					"id": "53322125122461403",
+					"name": {
+						"*": "Romance",
+						"en-US": "Romance"
+					},
+					"slug": "romance"
+				}
+			],
+			"screenshots": [
+				{
+					"url_format": "https://images.gog.com/e729401fae4ab309cca98b4299aa89a08884bccb4db382b6fd56801ca005f68b{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/c142c9e350f5055c216eb35d69684cbee325483ab0f0aafabe3a1af5791b71bc{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/86200406e81da3d8a392f4aff72293582e5e0bde72ba31e331c21236733aa22f{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/8eddc2a324833dcaf556a6436a095b3f3701a5f734b6b972030b53d99e250e2d{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/ace778daadead017e6a081d2b879ed5b2acef9e1969ff491527e702eaa536ed5{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/4285c3a450d003088338822ebaddff5d4b83cadd291415ed7b3e09269a3ac367{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/b978bcff44b60cbb9f7fdc194ef75e29306c5a941d641665b4bfd16678c369f7{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/85908b7c15e40c6e8f1fadaf1e438625ecdaadce09b9d0313593116a4ccf8e55{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/4d25f6a5a1762ed9f6b95b11e9d6a59234dfc0be03c8f326abe2b883cbcc520a{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/7c9d0294141ecb0a5cc51e55c862fe3ba0efc0a5c4172131b23a0522e95fce46{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/51d2cba6b5f176d98078c33ffb9888c0d4a99130699bf990cfd93df23fbe8555{formatter}.{ext}?namespace=gamesdb"
+				}
+			],
+			"videos": [
+				{
+					"provider": "youtube",
+					"video_id": "aEprU8gDXKU",
+					"thumbnail_id": "aEprU8gDXKU",
+					"name": "Announcement Trailer"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "SrDc5n35Xlc",
+					"thumbnail_id": "SrDc5n35Xlc",
+					"name": "Launch Trailer"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "o6e_L3P7tzQ",
+					"thumbnail_id": "o6e_L3P7tzQ",
+					"name": "Gameplay Trailer"
+				}
+			],
+			"artworks": [
+				{
+					"url_format": "https://images.gog.com/e08f26cd043c9379934090ca7baad0dee88a521e5b18055e055ca01de9267faf{formatter}.{ext}?namespace=gamesdb"
+				}
+			],
+			"summary": {
+				"*": "Become Atom Eve and take control of your own path as one of the most powerful superheroes in the Invincible universe! Unravel a mystery and balance the dangers and responsibilities of being a superhero with the relatable challenges of everyday life.\n\nExperience an original story with striking art directed by Rossi Gifford and creative direction by award-winning writer Jill Murray, and explore the life of Atom Eve in a world filled with beloved characters. Based on the comic book by Robert Kirkman, Cory Walker, and Ryan Ottley.",
+				"en-US": "Become Atom Eve and take control of your own path as one of the most powerful superheroes in the Invincible universe! Unravel a mystery and balance the dangers and responsibilities of being a superhero with the relatable challenges of everyday life.\n\nExperience an original story with striking art directed by Rossi Gifford and creative direction by award-winning writer Jill Murray, and explore the life of Atom Eve in a world filled with beloved characters. Based on the comic book by Robert Kirkman, Cory Walker, and Ryan Ottley."
+			},
+			"visible_in_library": true,
+			"aggregated_rating": 80,
+			"game_modes": [
+				{
+					"id": "53051895165351137",
+					"name": "Single player",
+					"slug": "single-player"
+				}
+			],
+			"horizontal_artwork": {
+				"url_format": "https://images.gog.com/d34da6255e83be15c0c524330e80ce35995f30d82d0335d95852f9cc4dab5e30{formatter}.{ext}?namespace=gamesdb"
+			},
+			"background": {
+				"url_format": "https://images.gog.com/d34da6255e83be15c0c524330e80ce35995f30d82d0335d95852f9cc4dab5e30{formatter}.{ext}?namespace=gamesdb"
+			},
+			"vertical_cover": {
+				"url_format": "https://images.gog.com/ca10a8aa3d9ceae42253d2d78fa11209beda9b27737e357dff2a322299439a12{formatter}.{ext}?namespace=gamesdb"
+			},
+			"cover": {
+				"url_format": "https://images.gog.com/ca10a8aa3d9ceae42253d2d78fa11209beda9b27737e357dff2a322299439a12{formatter}.{ext}?namespace=gamesdb"
+			},
+			"logo": {
+				"url_format": "https://images.gog.com/ca10a8aa3d9ceae42253d2d78fa11209beda9b27737e357dff2a322299439a12{formatter}.{ext}?namespace=gamesdb"
+			},
+			"icon": {
+				"url_format": "https://images.gog.com/ca10a8aa3d9ceae42253d2d78fa11209beda9b27737e357dff2a322299439a12{formatter}.{ext}?namespace=gamesdb"
+			},
+			"square_icon": {
+				"url_format": "https://images.gog.com/e08f26cd043c9379934090ca7baad0dee88a521e5b18055e055ca01de9267faf{formatter}.{ext}?namespace=gamesdb"
+			},
+			"global_popularity_all_time": 0,
+			"global_popularity_current": 0
+		},
+		"title": {
+			"*": "Invincible Presents: Atom Eve",
+			"en-US": "Invincible Presents: Atom Eve"
+		},
+		"sorting_title": {
+			"*": "Invincible Presents Atom Eve",
+			"en-US": "Invincible Presents Atom Eve"
+		},
+		"type": "game",
+		"summary": {
+			"*": "Become Atom Eve and take control of your own path as one of the most powerful superheroes in the Invincible universe! Unravel a mystery and balance the dangers and responsibilities of being a superhero with the relatable challenges of everyday life.\n\nExperience an original story with striking art directed by Rossi Gifford and creative direction by award-winning writer Jill Murray, and explore the life of Atom Eve in a world filled with beloved characters. Based on the comic book by Robert Kirkman, Cory Walker, and Ryan Ottley.",
+			"en-US": "Become Atom Eve and take control of your own path as one of the most powerful superheroes in the Invincible universe! Unravel a mystery and balance the dangers and responsibilities of being a superhero with the relatable challenges of everyday life.\n\nExperience an original story with striking art directed by Rossi Gifford and creative direction by award-winning writer Jill Murray, and explore the life of Atom Eve in a world filled with beloved characters. Based on the comic book by Robert Kirkman, Cory Walker, and Ryan Ottley."
+		},
+		"videos": [],
+		"game_modes": [
+			{
+				"id": "53051895165351137",
+				"name": "Single player",
+				"slug": "single-player"
+			}
+		],
+		"icon": {
+			"url_format": "https://images.gog.com/ca10a8aa3d9ceae42253d2d78fa11209beda9b27737e357dff2a322299439a12{formatter}.{ext}?namespace=gamesdb"
+		},
+		"logo": {
+			"url_format": "https://images.gog.com/ca10a8aa3d9ceae42253d2d78fa11209beda9b27737e357dff2a322299439a12{formatter}.{ext}?namespace=gamesdb"
+		},
+		"etag": "W/\"855a4e8c1cce33deac8d327f00bcd4dc\""
+	},
+	"epic_0a2d9f6403244d12969e11da6713137b": {
+		"id": "55559377005440060",
+		"game_id": "52349418883060962",
+		"platform_id": "epic",
+		"external_id": "0a2d9f6403244d12969e11da6713137b",
+		"dlcs_ids": [],
+		"dlcs": [],
+		"parent_id": null,
+		"supported_operating_systems": [
+			{
+				"slug": "windows",
+				"name": "Windows"
+			}
+		],
+		"available_languages": [
+			{
+				"code": "en-US"
+			}
+		],
+		"first_release_date": null,
+		"game": {
+			"id": "52349418883060962",
+			"parent_id": null,
+			"dlcs_ids": [
+				"53710058460860512",
+				"53710058602419115",
+				"53790838555280612",
+				"54828757893130733"
+			],
+			"first_release_date": "2020-08-04T00:00:00+0000",
+			"releases": [
+				{
+					"id": "52378171615892471",
+					"platform_id": "steam",
+					"external_id": "1097150",
+					"release_per_platform_id": "steam_1097150"
+				},
+				{
+					"id": "53573755400017458",
+					"platform_id": "psn",
+					"external_id": "CUSA17711_00",
+					"release_per_platform_id": "psn_CUSA17711_00"
+				},
+				{
+					"id": "53573756389897124",
+					"platform_id": "psn",
+					"external_id": "CUSA17714_00",
+					"release_per_platform_id": "psn_CUSA17714_00"
+				},
+				{
+					"id": "53573759256795946",
+					"platform_id": "humble",
+					"external_id": "fallguys_ultimateknockout_storefront_steam_nIarM",
+					"release_per_platform_id": "humble_fallguys_ultimateknockout_storefront_steam_nIarM"
+				},
+				{
+					"id": "53699783891095422",
+					"platform_id": "test",
+					"external_id": "CUSA17714_00",
+					"release_per_platform_id": "test_CUSA17714_00"
+				},
+				{
+					"id": "54670877652292623",
+					"platform_id": "psn",
+					"external_id": "CUSA23221_00",
+					"release_per_platform_id": "psn_CUSA23221_00"
+				},
+				{
+					"id": "54680320548808415",
+					"platform_id": "psn",
+					"external_id": "CUSA23220_00",
+					"release_per_platform_id": "psn_CUSA23220_00"
+				},
+				{
+					"id": "54707394755845651",
+					"platform_id": "psn",
+					"external_id": "CUSA27361_00",
+					"release_per_platform_id": "psn_CUSA27361_00"
+				},
+				{
+					"id": "54798431001779252",
+					"platform_id": "psn",
+					"external_id": "CUSA27360_00",
+					"release_per_platform_id": "psn_CUSA27360_00"
+				},
+				{
+					"id": "55295364026620315",
+					"platform_id": "psn",
+					"external_id": "CUSA29236_00",
+					"release_per_platform_id": "psn_CUSA29236_00"
+				},
+				{
+					"id": "55315013096852005",
+					"platform_id": "psn",
+					"external_id": "CUSA29237_00",
+					"release_per_platform_id": "psn_CUSA29237_00"
+				},
+				{
+					"id": "55559377005440060",
+					"platform_id": "epic",
+					"external_id": "0a2d9f6403244d12969e11da6713137b",
+					"release_per_platform_id": "epic_0a2d9f6403244d12969e11da6713137b"
+				},
+				{
+					"id": "55559380001430793",
+					"platform_id": "xboxone",
+					"external_id": "2013614379",
+					"release_per_platform_id": "xboxone_2013614379"
+				},
+				{
+					"id": "55567874062668208",
+					"platform_id": "psn",
+					"external_id": "PPSA04476_00",
+					"release_per_platform_id": "psn_PPSA04476_00"
+				},
+				{
+					"id": "55568651489147430",
+					"platform_id": "psn",
+					"external_id": "PPSA04478_00",
+					"release_per_platform_id": "psn_PPSA04478_00"
+				},
+				{
+					"id": "55754237673195134",
+					"platform_id": "test",
+					"external_id": "PPSA04478_00",
+					"release_per_platform_id": "test_PPSA04478_00"
+				},
+				{
+					"id": "55861215568929785",
+					"platform_id": "xboxone",
+					"external_id": "1827682648",
+					"release_per_platform_id": "xboxone_1827682648"
+				},
+				{
+					"id": "57691609574428909",
+					"platform_id": "epic",
+					"external_id": "FallGuys",
+					"release_per_platform_id": "epic_FallGuys"
+				},
+				{
+					"id": "52349418883060962",
+					"platform_id": "generic",
+					"external_id": "52349418883060962",
+					"release_per_platform_id": "generic_52349418883060962"
+				}
+			],
+			"title": {
+				"*": "Fall Guys",
+				"en-US": "Fall Guys"
+			},
+			"sorting_title": {
+				"*": "Fall Guys",
+				"en-US": "Fall Guys"
+			},
+			"type": "game",
+			"developers_ids": [
+				"51141226898760433"
+			],
+			"developers": [
+				{
+					"id": "51141226898760433",
+					"name": "Mediatonic",
+					"slug": "mediatonic"
+				}
+			],
+			"publishers_ids": [
+				"51141379795580920",
+				"52372461744305993"
+			],
+			"publishers": [
+				{
+					"id": "51141379795580920",
+					"name": "Devolver Digital",
+					"slug": "devolver-digital"
+				},
+				{
+					"id": "52372461744305993",
+					"name": "Epic Games",
+					"slug": "epic-games"
+				}
+			],
+			"genres_ids": [
+				"51121492616405278",
+				"51141224662579279",
+				"51141224676321623",
+				"51141224875811235"
+			],
+			"genres": [
+				{
+					"id": "51121492616405278",
+					"name": {
+						"*": "Indie",
+						"en-US": "Indie"
+					},
+					"slug": "indie"
+				},
+				{
+					"id": "51141224662579279",
+					"name": {
+						"*": "Platform",
+						"en-US": "Platform"
+					},
+					"slug": "platform"
+				},
+				{
+					"id": "51141224676321623",
+					"name": {
+						"*": "Sport",
+						"en-US": "Sport"
+					},
+					"slug": "sport"
+				},
+				{
+					"id": "51141224875811235",
+					"name": {
+						"*": "Racing",
+						"en-US": "Racing"
+					},
+					"slug": "racing"
+				}
+			],
+			"themes_ids": [
+				"51071842231533391",
+				"51141224799400616",
+				"51141226196252910"
+			],
+			"themes": [
+				{
+					"id": "51071842231533391",
+					"name": {
+						"*": "Action",
+						"en-US": "Action"
+					},
+					"slug": "action"
+				},
+				{
+					"id": "51141224799400616",
+					"name": {
+						"*": "Comedy",
+						"en-US": "Comedy"
+					},
+					"slug": "comedy"
+				},
+				{
+					"id": "51141226196252910",
+					"name": {
+						"*": "Party",
+						"en-US": "Party"
+					},
+					"slug": "party"
+				}
+			],
+			"screenshots": [
+				{
+					"url_format": "https://images.gog.com/d4fa3be3bba68951472b13df17d30a125180018a5bf8cb48efe0af9af5e45584{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/07b5a245c40311f1c4d2c5b3febca8d019eb11cfc01d70f7bf1e8d78681a5449{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/b00aa4a01a29c3cf34c7a73a1fddb6bea99479f94f0a0867b075f085b1c6e3f9{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/a91a03fdc539db56fbe79af09668f1d6475c07fe860eca00f9d5d0a0a4ae2646{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/d90ab5a542bcb6e8a0c9bb9a2f5d1532fdde0af1b7ce13c8f0af85bd957c0658{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/081fa1bb1db7d6a7f2f31be94755b01ffcc8b0c2222de4539b0186eebb3da870{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/bdd8e009d5026b1073f513ffe49ec6d90ceaebfc7729fb9bccb3e34c0b7e6169{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/c18e1add0e2dc67fc7457919b5fd7a95dd0e8492cbf2907e56140b5e9f192b3f{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/e9dc8ef63c05251366db3306a912ef8300f85c6ef62c0793431c7e1b143709be{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/d7e5fea3eefd9a544ae9f532be87e74e9fd1d06c9fdb1646fd1ae115629c7946{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/71929215928a2b461255df00a65018bdb13f47fa15e3d0cf8d4ed8dffd4f05a5{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/ff1374024897e8e19b3f49f5e32b768b16ae2037bb63d6bcef9533ceb4e12df4{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/5669d73c71cbb249b1bfbb385f73d752fe0d5e8ecbc63a26bc49b6c6ce49fb0c{formatter}.{ext}?namespace=gamesdb"
+				}
+			],
+			"videos": [
+				{
+					"provider": "youtube",
+					"video_id": "G3uUX86GIn4",
+					"thumbnail_id": "G3uUX86GIn4",
+					"name": "Dev Diary"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "gID34BkfeR0",
+					"thumbnail_id": "gID34BkfeR0",
+					"name": "Dev Diary"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "s1ppcbbGNeE",
+					"thumbnail_id": "s1ppcbbGNeE",
+					"name": "Dev Diary"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "PDmgvRqyhbY",
+					"thumbnail_id": "PDmgvRqyhbY",
+					"name": "Dev Diary"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "AhotrtSZ18M",
+					"thumbnail_id": "AhotrtSZ18M",
+					"name": "Gameplay Trailer"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "lFQLOwUNR8g",
+					"thumbnail_id": "lFQLOwUNR8g",
+					"name": "Trailer"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "Wj3dUvGLjNQ",
+					"thumbnail_id": "Wj3dUvGLjNQ",
+					"name": "Cinematic Trailer"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "2CT7eZ1ydPs",
+					"thumbnail_id": "2CT7eZ1ydPs",
+					"name": "Switch Announcement Trailer"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "nYgeQGQsA9Y",
+					"thumbnail_id": "nYgeQGQsA9Y",
+					"name": "Release Date Trailer"
+				}
+			],
+			"artworks": [
+				{
+					"url_format": "https://images.gog.com/9adb1117a597b6c62eb271a055f7f6e98a50ec465a7bf891b768aac464cd9160{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/cfb6cebdc7d940f02b14fcce50ad76cc6d9804746f5c64cab556d10e3fd0a88a{formatter}.{ext}?namespace=gamesdb"
+				}
+			],
+			"summary": {
+				"*": "Fall Guys flings hordes of contestants together online in a mad dash through round after round of escalating chaos until one victor remains! Battle bizarre obstacles, shove through unruly competitors, and overcome the unbending laws of physics to avoid both humiliation and elimination. Leave your dignity at the door and prepare for hilarious failure in your quest for the crown.",
+				"en-US": "Fall Guys flings hordes of contestants together online in a mad dash through round after round of escalating chaos until one victor remains! Battle bizarre obstacles, shove through unruly competitors, and overcome the unbending laws of physics to avoid both humiliation and elimination. Leave your dignity at the door and prepare for hilarious failure in your quest for the crown."
+			},
+			"visible_in_library": true,
+			"aggregated_rating": 76.6,
+			"game_modes": [
+				{
+					"id": "53051898010278634",
+					"name": "Co-operative",
+					"slug": "co-operative"
+				},
+				{
+					"id": "53051908711988230",
+					"name": "Multiplayer",
+					"slug": "multiplayer"
+				},
+				{
+					"id": "53316265339172328",
+					"name": "Battle Royale",
+					"slug": "battle-royale"
+				}
+			],
+			"horizontal_artwork": {
+				"url_format": "https://images.gog.com/251b67d385f25865a1fbd90c7cbc9829b42567ef151f13890918813cda9fa2eb{formatter}.{ext}?namespace=gamesdb"
+			},
+			"background": {
+				"url_format": "https://images.gog.com/251b67d385f25865a1fbd90c7cbc9829b42567ef151f13890918813cda9fa2eb{formatter}.{ext}?namespace=gamesdb"
+			},
+			"vertical_cover": {
+				"url_format": "https://images.gog.com/718ad73ea9a459cc2fb7e0eefa1cda46c310f353a8e9d7bdca1f1561a70ab6be{formatter}.{ext}?namespace=gamesdb"
+			},
+			"cover": {
+				"url_format": "https://images.gog.com/718ad73ea9a459cc2fb7e0eefa1cda46c310f353a8e9d7bdca1f1561a70ab6be{formatter}.{ext}?namespace=gamesdb"
+			},
+			"logo": {
+				"url_format": "https://images.gog.com/718ad73ea9a459cc2fb7e0eefa1cda46c310f353a8e9d7bdca1f1561a70ab6be{formatter}.{ext}?namespace=gamesdb"
+			},
+			"icon": {
+				"url_format": "https://images.gog.com/718ad73ea9a459cc2fb7e0eefa1cda46c310f353a8e9d7bdca1f1561a70ab6be{formatter}.{ext}?namespace=gamesdb"
+			},
+			"square_icon": {
+				"url_format": "https://images.gog.com/cfb6cebdc7d940f02b14fcce50ad76cc6d9804746f5c64cab556d10e3fd0a88a{formatter}.{ext}?namespace=gamesdb"
+			},
+			"global_popularity_all_time": 0,
+			"global_popularity_current": 0
+		},
+		"title": {
+			"*": "Fall Guys",
+			"en-US": "Fall Guys"
+		},
+		"sorting_title": {
+			"*": "Fall Guys",
+			"en-US": "Fall Guys"
+		},
+		"type": "game",
+		"summary": {
+			"*": "Fall Guys flings hordes of contestants together online in a mad dash through round after round of escalating chaos until one victor remains! Battle bizarre obstacles, shove through unruly competitors, and overcome the unbending laws of physics to avoid both humiliation and elimination. Leave your dignity at the door and prepare for hilarious failure in your quest for the crown.",
+			"en-US": "Fall Guys flings hordes of contestants together online in a mad dash through round after round of escalating chaos until one victor remains! Battle bizarre obstacles, shove through unruly competitors, and overcome the unbending laws of physics to avoid both humiliation and elimination. Leave your dignity at the door and prepare for hilarious failure in your quest for the crown."
+		},
+		"videos": [],
+		"game_modes": [
+			{
+				"id": "53051898010278634",
+				"name": "Co-operative",
+				"slug": "co-operative"
+			},
+			{
+				"id": "53051908711988230",
+				"name": "Multiplayer",
+				"slug": "multiplayer"
+			},
+			{
+				"id": "53316265339172328",
+				"name": "Battle Royale",
+				"slug": "battle-royale"
+			}
+		],
+		"icon": {
+			"url_format": "https://images.gog.com/718ad73ea9a459cc2fb7e0eefa1cda46c310f353a8e9d7bdca1f1561a70ab6be{formatter}.{ext}?namespace=gamesdb"
+		},
+		"logo": {
+			"url_format": "https://images.gog.com/718ad73ea9a459cc2fb7e0eefa1cda46c310f353a8e9d7bdca1f1561a70ab6be{formatter}.{ext}?namespace=gamesdb"
+		},
+		"etag": "W/\"2761e48e34efe23e5e6065be150421bd\""
+	},
+	"epic_d6264d56f5ba434e91d4b0a0b056c83a": {
+		"id": "55058799717782248",
+		"game_id": "51295409855713968",
+		"platform_id": "epic",
+		"external_id": "d6264d56f5ba434e91d4b0a0b056c83a",
+		"dlcs_ids": [],
+		"dlcs": [],
+		"parent_id": null,
+		"supported_operating_systems": [
+			{
+				"slug": "linux",
+				"name": "Linux"
+			},
+			{
+				"slug": "osx",
+				"name": "macOS"
+			},
+			{
+				"slug": "windows",
+				"name": "Windows"
+			}
+		],
+		"available_languages": [
+			{
+				"code": "en-US"
+			}
+		],
+		"first_release_date": null,
+		"game": {
+			"id": "51295409855713968",
+			"parent_id": null,
+			"dlcs_ids": [
+				"52837990753860794",
+				"54246390429919443",
+				"54772949947383211"
+			],
+			"first_release_date": "2013-03-04T00:00:00+0000",
+			"releases": [
+				{
+					"id": "51295409847956014",
+					"platform_id": "steam",
+					"external_id": "203160",
+					"release_per_platform_id": "steam_203160"
+				},
+				{
+					"id": "52075201304721863",
+					"platform_id": "origin",
+					"external_id": "OFB-EAST:109548313",
+					"release_per_platform_id": "origin_OFB-EAST:109548313"
+				},
+				{
+					"id": "52382782951810193",
+					"platform_id": "origin",
+					"external_id": "OFB-EAST:109548314",
+					"release_per_platform_id": "origin_OFB-EAST:109548314"
+				},
+				{
+					"id": "52413857808298589",
+					"platform_id": "uplay",
+					"external_id": "260",
+					"release_per_platform_id": "uplay_260"
+				},
+				{
+					"id": "52686935051219377",
+					"platform_id": "humble",
+					"external_id": "tombraider2013_monthly_steam",
+					"release_per_platform_id": "humble_tombraider2013_monthly_steam"
+				},
+				{
+					"id": "52687041860986341",
+					"platform_id": "humble",
+					"external_id": "tombraider_gotyedition_steam",
+					"release_per_platform_id": "humble_tombraider_gotyedition_steam"
+				},
+				{
+					"id": "52828676939251485",
+					"platform_id": "humble",
+					"external_id": "tombraider2013_steam",
+					"release_per_platform_id": "humble_tombraider2013_steam"
+				},
+				{
+					"id": "52837569332383511",
+					"platform_id": "humble",
+					"external_id": "tombraider2013_squeenixbundle2_steam",
+					"release_per_platform_id": "humble_tombraider2013_squeenixbundle2_steam"
+				},
+				{
+					"id": "52858177730493379",
+					"platform_id": "humble",
+					"external_id": "tombraider_gotyedition_notferal_steam",
+					"release_per_platform_id": "humble_tombraider_gotyedition_notferal_steam"
+				},
+				{
+					"id": "52947348813805351",
+					"platform_id": "humble",
+					"external_id": "tombraider2013_notferal_steam",
+					"release_per_platform_id": "humble_tombraider2013_notferal_steam"
+				},
+				{
+					"id": "52982330719153180",
+					"platform_id": "totalwar",
+					"external_id": "tombraider2013_monthly_steam",
+					"release_per_platform_id": "totalwar_tombraider2013_monthly_steam"
+				},
+				{
+					"id": "52982386306509119",
+					"platform_id": "d2d",
+					"external_id": "tombraider2013_monthly_steam",
+					"release_per_platform_id": "d2d_tombraider2013_monthly_steam"
+				},
+				{
+					"id": "53031905258346843",
+					"platform_id": "humble",
+					"external_id": "tombraider2013_feral_steam",
+					"release_per_platform_id": "humble_tombraider2013_feral_steam"
+				},
+				{
+					"id": "53046274169919815",
+					"platform_id": "humble",
+					"external_id": "tombraider_gotyedition_feral_steam",
+					"release_per_platform_id": "humble_tombraider_gotyedition_feral_steam"
+				},
+				{
+					"id": "53069053055875910",
+					"platform_id": "psn",
+					"external_id": "EP0776-NPEF00011_00-GTOMBRAIEN000001",
+					"release_per_platform_id": "psn_EP0776-NPEF00011_00-GTOMBRAIEN000001"
+				},
+				{
+					"id": "53182241962097175",
+					"platform_id": "gg",
+					"external_id": "203160",
+					"release_per_platform_id": "gg_203160"
+				},
+				{
+					"id": "53274976863229962",
+					"platform_id": "psn",
+					"external_id": "EP0082-NPEB01298_00-TOMBRAIDERDIGITA",
+					"release_per_platform_id": "psn_EP0082-NPEB01298_00-TOMBRAIDERDIGITA"
+				},
+				{
+					"id": "53286531221150998",
+					"platform_id": "test",
+					"external_id": "UP9000-NPUJ00152_00-0000000000000001",
+					"release_per_platform_id": "test_UP9000-NPUJ00152_00-0000000000000001"
+				},
+				{
+					"id": "53912828118499009",
+					"platform_id": "humble",
+					"external_id": "tombraider_gotyedition_row_steam",
+					"release_per_platform_id": "humble_tombraider_gotyedition_row_steam"
+				},
+				{
+					"id": "54348396623395188",
+					"platform_id": "gog",
+					"external_id": "1724969043",
+					"release_per_platform_id": "gog_1724969043"
+				},
+				{
+					"id": "55058799717782248",
+					"platform_id": "epic",
+					"external_id": "d6264d56f5ba434e91d4b0a0b056c83a",
+					"release_per_platform_id": "epic_d6264d56f5ba434e91d4b0a0b056c83a"
+				},
+				{
+					"id": "51295409855713968",
+					"platform_id": "generic",
+					"external_id": "51295409855713968",
+					"release_per_platform_id": "generic_51295409855713968"
+				}
+			],
+			"title": {
+				"*": "Tomb Raider: Game of the Year Edition",
+				"en-US": "Tomb Raider: Game of the Year Edition"
+			},
+			"sorting_title": {
+				"*": "Tomb Raider Game of the Year Edition",
+				"en-US": "Tomb Raider Game of the Year Edition"
+			},
+			"type": "game",
+			"developers_ids": [
+				"51141227315543268"
+			],
+			"developers": [
+				{
+					"id": "51141227315543268",
+					"name": "Crystal Dynamics",
+					"slug": "crystal-dynamics"
+				}
+			],
+			"publishers_ids": [
+				"51141225662415964",
+				"51141227315543268",
+				"51141413950380111"
+			],
+			"publishers": [
+				{
+					"id": "51141225662415964",
+					"name": "Square Enix",
+					"slug": "square-enix"
+				},
+				{
+					"id": "51141227315543268",
+					"name": "Crystal Dynamics",
+					"slug": "crystal-dynamics"
+				},
+				{
+					"id": "51141413950380111",
+					"name": "Feral Interactive",
+					"slug": "feral-interactive"
+				}
+			],
+			"genres_ids": [
+				"51071842251704278",
+				"51141224662579279",
+				"51141224673762034",
+				"51141224821260861"
+			],
+			"genres": [
+				{
+					"id": "51071842251704278",
+					"name": {
+						"*": "Adventure",
+						"en-US": "Adventure"
+					},
+					"slug": "adventure"
+				},
+				{
+					"id": "51141224662579279",
+					"name": {
+						"*": "Platform",
+						"en-US": "Platform"
+					},
+					"slug": "platform"
+				},
+				{
+					"id": "51141224673762034",
+					"name": {
+						"*": "Puzzle",
+						"en-US": "Puzzle"
+					},
+					"slug": "puzzle"
+				},
+				{
+					"id": "51141224821260861",
+					"name": {
+						"*": "Shooter",
+						"en-US": "Shooter"
+					},
+					"slug": "shooter"
+				}
+			],
+			"themes_ids": [
+				"51071842231533391",
+				"51141225990825995",
+				"51141226418224461"
+			],
+			"themes": [
+				{
+					"id": "51071842231533391",
+					"name": {
+						"*": "Action",
+						"en-US": "Action"
+					},
+					"slug": "action"
+				},
+				{
+					"id": "51141225990825995",
+					"name": {
+						"*": "Sandbox",
+						"en-US": "Sandbox"
+					},
+					"slug": "sandbox"
+				},
+				{
+					"id": "51141226418224461",
+					"name": {
+						"*": "Survival",
+						"en-US": "Survival"
+					},
+					"slug": "survival"
+				}
+			],
+			"screenshots": [
+				{
+					"url_format": "https://images.gog.com/874e4561c3dd8053e8cdbb93446874447fdcb5fade2e36462c3a5df367ea1a8b{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/b047844e10d7040ed14d46344e73b3898b71b3e9b921760a42bcb9f7ab586510{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/25c907ec86ac08064810d2c78b55a1e5d49f1343524bfdc939ce63323668e896{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/c361755d25470bc776cf26903a4d492b955f333472ac9f3ef83ff3608902f5de{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/40b89d6232a8d3bfeeb0d7c2527af64f0afc284d774aaa070a3b0b558a41ca1b{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/11b3399378dc75baf08b8674a9417048589e7885e7179e01b9c1ec0888e9814f{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/06d926dafa23aa3d6166ff200d10d62e8e69f282a429b58ba5383a09d746e1b5{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/328be23e247a8b0bdda532ef0f0b7efab6bee73fb5b5e3027a94d74525f40047{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/142c14d6e8141ce07c63818311698cde0adc8c2f7a9dbd138bdd656c39c7f4a6{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/878e8e3bb0929842ba1d921c65848a8de0b4e819266eff9ff5201355744b11e8{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/7ad7967b0a07e80cc376e2d13902e6584d9917f062e865fce714af98e1da0a6f{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/b06f7457b25a62298e50d665cea8884052e339be61312673c5b924e0936dc77c{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/2fa5fa4e8d8e37535126a5c403ab4546bf7f342fc8c2a37a97e187a619478224{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/71e0429920035dd0ac48ccb0255397dc3176431d161d406a4555633d473130b5{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/f9214a7776ee0cde32578593220d8ef248a1130da5ad393e6bda993a148f2327{formatter}.{ext}?namespace=gamesdb"
+				}
+			],
+			"videos": [
+				{
+					"provider": "youtube",
+					"video_id": "1SHwrL6jRLY",
+					"thumbnail_id": "1SHwrL6jRLY",
+					"name": "Survivor Trailer"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "JkBZ6kKeoTI",
+					"thumbnail_id": "JkBZ6kKeoTI",
+					"name": "Gameplay video"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "RN7_8Yholm4",
+					"thumbnail_id": "RN7_8Yholm4",
+					"name": "Turning Point Trailer"
+				}
+			],
+			"artworks": [
+				{
+					"url_format": "https://images.gog.com/893bd2d58959d5dfedce58e6e56d4cd503ec32b3fffa93753ee9843e1c7d2e4e{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/5bc8fb8bbf187fd84681bd8b502fe3ace26c5702849554117b83b7a2820997eb{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/8a8dbd6c6cc43c37043e12f3c8003785620d4ce866977737b4b28f63bae1033e{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/59fed559bd368eab512ffaad4da8349db15d2c798a8057135c28a80036c7b300{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/b7a3be476ab7b28ec3ab946553c1278c6862e02e8a22ce1168774c2debf81351{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/efa55a530b6a40b06354cc54a3c17b631f31f0628b9fc2104d4e513c0daec33d{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/9b950841c6d08b4c6124f1ff2cd3002dd3f16df8638d30b59a76b472a878d82d{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/c8d749726f6fdf130c71c0b13b3f12e5bec5c1dc1a570d022a57b46159a61c1a{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/61adbd58e8c15fb28a27ada3ee3962ccb4a05f6b4336b4f5fbf7aa27b19275a6{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/affb577bc490000d52df4c1f13d88c5f31de58ba61a10b8cd13dc271a2897f09{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/ef5407c781e84e6f3ea96739dd0895fbb9bead89cfd1ec5bd0e5a4cda0a4c03d{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/93c81f3e363048460f0c0d1f06bff006d18317f142c74c9988bed1d904be9e56{formatter}.{ext}?namespace=gamesdb"
+				}
+			],
+			"summary": {
+				"*": "Tomb Raider explores the intense and gritty origin story of Lara Croft and her ascent from a young woman to a hardened survivor. Armed only with raw instincts and the ability to push beyond the limits of human endurance, Lara must fight to unravel the dark history of a forgotten island to escape its relentless hold.",
+				"en-US": "Tomb Raider explores the intense and gritty origin story of Lara Croft and her ascent from a young woman to a hardened survivor. Armed only with raw instincts and the ability to push beyond the limits of human endurance, Lara must fight to unravel the dark history of a forgotten island to escape its relentless hold."
+			},
+			"visible_in_library": true,
+			"aggregated_rating": 84.6429,
+			"game_modes": [
+				{
+					"id": "53051895165351137",
+					"name": "Single player",
+					"slug": "single-player"
+				},
+				{
+					"id": "53051908711988230",
+					"name": "Multiplayer",
+					"slug": "multiplayer"
+				}
+			],
+			"horizontal_artwork": {
+				"url_format": "https://images.gog.com/19c3f0fea64bb07ed55b90ccf3490a79fe194089a7b8cef31ec325fc0a1d95a9{formatter}.{ext}?namespace=gamesdb"
+			},
+			"background": {
+				"url_format": "https://images.gog.com/19c3f0fea64bb07ed55b90ccf3490a79fe194089a7b8cef31ec325fc0a1d95a9{formatter}.{ext}?namespace=gamesdb"
+			},
+			"vertical_cover": {
+				"url_format": "https://images.gog.com/49fdca9e1a5255f1bd4a38708f7d6d0593f352865b60c0a76d22ddab89c2e90c{formatter}.{ext}?namespace=gamesdb"
+			},
+			"cover": {
+				"url_format": "https://images.gog.com/49fdca9e1a5255f1bd4a38708f7d6d0593f352865b60c0a76d22ddab89c2e90c{formatter}.{ext}?namespace=gamesdb"
+			},
+			"logo": {
+				"url_format": "https://images.gog.com/3dab6c3dd33b9ff8b3bf380d2eb47332d8919cd4975b4b3e0e11b99e1dcdae32{formatter}.{ext}?namespace=gamesdb"
+			},
+			"square_icon": {
+				"url_format": "https://images.gog.com/208820963b27073461f2df3b5c1b55c82b5d93cfd0cf67c4344a74a23250c668{formatter}.{ext}?namespace=gamesdb"
+			},
+			"global_popularity_all_time": 0,
+			"global_popularity_current": 0
+		},
+		"title": {
+			"*": "Tomb Raider GAME OF THE YEAR EDITION",
+			"en-US": "Tomb Raider: Game of the Year Edition"
+		},
+		"sorting_title": {
+			"*": "Tomb Raider GAME OF THE YEAR EDITION",
+			"en-US": "Tomb Raider GAME OF THE YEAR EDITION"
+		},
+		"type": "game",
+		"summary": {
+			"*": "Tomb Raider is a critically acclaimed action adventure that explores the intense and gritty origin story of Lara Croft and her ascent from a young woman to a hardened survivor. Armed only with raw instincts and the ability to push beyond the limits of human endurance, Lara must fight to unravel the dark history of a forgotten island to escape its relentless hold. The Game of the Year edition includes the Tomb of the Lost Adventurer, 6 single player outfits for Lara, 8 multiplayer maps, and 4 characters.",
+			"en-US": "Tomb Raider explores the intense and gritty origin story of Lara Croft and her ascent from a young woman to a hardened survivor. Armed only with raw instincts and the ability to push beyond the limits of human endurance, Lara must fight to unravel the dark history of a forgotten island to escape its relentless hold."
+		},
+		"videos": [],
+		"game_modes": [
+			{
+				"id": "53051895165351137",
+				"name": "Single player",
+				"slug": "single-player"
+			},
+			{
+				"id": "53051908711988230",
+				"name": "Multiplayer",
+				"slug": "multiplayer"
+			}
+		],
+		"logo": {
+			"url_format": "https://images.gog.com/3dab6c3dd33b9ff8b3bf380d2eb47332d8919cd4975b4b3e0e11b99e1dcdae32{formatter}.{ext}?namespace=gamesdb"
+		},
+		"etag": "W/\"4cdf48977a16e2c0e744d965be18b55d\""
 	}
 }

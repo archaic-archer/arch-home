@@ -260,10 +260,11 @@ exec blueman-applet
 exec --no-startup-id swaync
 exec /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
 exec --no-startup-id waybar
+exec --no-startup-id waybar -c ~/.config/waybar/config2.jsonc
 exec --no-startup-id nm-applet
 exec --no-startup-id kdeconnect-indicator
-exec --no-startup-id thunderbird
-exec --no-startup-id ~/Applications/tutanota-desktop-linux_4e51841f25dac13c7c144a0ef6145ebb.AppImage
+#exec --no-startup-id thunderbird
+#exec --no-startup-id ~/Applications/tutanota-desktop-linux_4e51841f25dac13c7c144a0ef6145ebb.AppImage
 #exec waypaper --restore
 
 # floating for dialogs
@@ -328,7 +329,7 @@ output eDP-1 {
 }
 
 # restart waybar
-bindsym Ctrl+Shift+alt+w exec "pkill waybar && waybar
+bindsym Ctrl+Shift+alt+w exec "pkill waybar && waybar"
 
 # Open Whatsapp
 set $whatsapp "firefox --new-window web.whatsapp.com"

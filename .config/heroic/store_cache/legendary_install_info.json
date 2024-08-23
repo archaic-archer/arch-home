@@ -2,9 +2,13 @@
 	"__timestamp": {
 		"63a665088eb1480298f1e57943b225d8": "Mon Aug 12 2024 20:55:33 GMT+0530 (India Standard Time)",
 		"Calluna": "Mon Aug 12 2024 20:56:45 GMT+0530 (India Standard Time)",
-		"5daeb974a22a435988892319b3a4f476": "Wed Aug 14 2024 21:48:01 GMT+0530 (India Standard Time)",
 		"25ad72f164b948ab9e05eb18fab2cda8": "Thu Aug 15 2024 18:44:51 GMT+0530 (India Standard Time)",
-		"9d2d0eb64d5c44529cece33fe2a46482": "Mon Aug 19 2024 00:28:50 GMT+0530 (India Standard Time)"
+		"9d2d0eb64d5c44529cece33fe2a46482": "Wed Aug 21 2024 18:31:04 GMT+0530 (India Standard Time)",
+		"5daeb974a22a435988892319b3a4f476": "Wed Aug 21 2024 22:16:55 GMT+0530 (India Standard Time)",
+		"Herring": "Thu Aug 22 2024 10:59:38 GMT+0530 (India Standard Time)",
+		"ef50503adc284a8ba65d4dea1ecce91a": "Thu Aug 22 2024 10:59:43 GMT+0530 (India Standard Time)",
+		"0a2d9f6403244d12969e11da6713137b": "Thu Aug 22 2024 11:00:06 GMT+0530 (India Standard Time)",
+		"d6264d56f5ba434e91d4b0a0b056c83a": "Thu Aug 22 2024 11:22:40 GMT+0530 (India Standard Time)"
 	},
 	"63a665088eb1480298f1e57943b225d8": {
 		"game": {
@@ -99,6 +103,98 @@
 			"num_chunks": 48801,
 			"disk_size": 53238698902,
 			"download_size": 29882128765,
+			"tag_disk_size": [],
+			"tag_download_size": []
+		}
+	},
+	"25ad72f164b948ab9e05eb18fab2cda8": {
+		"game": {
+			"app_name": "25ad72f164b948ab9e05eb18fab2cda8",
+			"title": "CYGNI - All Guns Blazing",
+			"version": "A0.16",
+			"platform_versions": {
+				"Windows": "A0.16"
+			},
+			"cloud_saves_supported": true,
+			"cloud_save_folder": "{AppData}/Cygni/Saved/",
+			"cloud_save_folder_mac": "{AppData}/Cygni/Documents/{EpicID}/",
+			"is_dlc": false,
+			"external_activation": null,
+			"launch_options": [],
+			"command_line": null,
+			"owned_dlc": []
+		},
+		"install": null,
+		"manifest": {
+			"size": 1374425,
+			"type": "binary",
+			"version": 17,
+			"feature_level": 17,
+			"app_name": "25ad72f164b948ab9e05eb18fab2cda8",
+			"launch_exe": "Cygni/Cygni/Binaries/Win64/Cygni-Win64-Shipping.exe",
+			"launch_command": "",
+			"build_version": "A0.16",
+			"build_id": "Sa7Ix4Lqw1L1Gylhi5e8rk2mzb8",
+			"prerequisites": null,
+			"uninstaller": null,
+			"install_tags": [
+				""
+			],
+			"num_files": 209,
+			"num_chunks": 21023,
+			"disk_size": 22049018242,
+			"download_size": 21774660886,
+			"tag_disk_size": [],
+			"tag_download_size": []
+		}
+	},
+	"9d2d0eb64d5c44529cece33fe2a46482": {
+		"game": {
+			"app_name": "9d2d0eb64d5c44529cece33fe2a46482",
+			"title": "Grand Theft Auto V",
+			"version": "1.0.3274.0_v2",
+			"platform_versions": {
+				"Windows": "1.0.3274.0_v2"
+			},
+			"cloud_saves_supported": false,
+			"cloud_save_folder": null,
+			"cloud_save_folder_mac": null,
+			"is_dlc": false,
+			"external_activation": null,
+			"launch_options": [],
+			"command_line": null,
+			"owned_dlc": []
+		},
+		"install": {
+			"platform": "Windows",
+			"version": "1.0.3274.0_v2",
+			"disk_size": 121281363546,
+			"install_path": "/home/hdd2/GTAV",
+			"save_path": null,
+			"synced_egl_guid": "",
+			"install_tags": [],
+			"requires_ovt": false,
+			"installed_dlc": []
+		},
+		"manifest": {
+			"size": 7478590,
+			"type": "binary",
+			"version": 17,
+			"feature_level": 17,
+			"app_name": "9d2d0eb64d5c44529cece33fe2a46482",
+			"launch_exe": "PlayGTAV.exe",
+			"launch_command": "",
+			"build_version": "1.0.3274.0_v2",
+			"build_id": "-n33NvKafLzbXNfgjsxYBNBucns",
+			"prerequisites": null,
+			"uninstaller": null,
+			"install_tags": [
+				""
+			],
+			"num_files": 386,
+			"num_chunks": 115404,
+			"disk_size": 121281363546,
+			"download_size": 119175027164,
 			"tag_disk_size": [],
 			"tag_download_size": []
 		}
@@ -315,54 +411,13 @@
 			]
 		}
 	},
-	"25ad72f164b948ab9e05eb18fab2cda8": {
+	"Herring": {
 		"game": {
-			"app_name": "25ad72f164b948ab9e05eb18fab2cda8",
-			"title": "CYGNI - All Guns Blazing",
-			"version": "A0.16",
+			"app_name": "Herring",
+			"title": "Hue",
+			"version": "1.0",
 			"platform_versions": {
-				"Windows": "A0.16"
-			},
-			"cloud_saves_supported": true,
-			"cloud_save_folder": "{AppData}/Cygni/Saved/",
-			"cloud_save_folder_mac": "{AppData}/Cygni/Documents/{EpicID}/",
-			"is_dlc": false,
-			"external_activation": null,
-			"launch_options": [],
-			"command_line": null,
-			"owned_dlc": []
-		},
-		"install": null,
-		"manifest": {
-			"size": 1374425,
-			"type": "binary",
-			"version": 17,
-			"feature_level": 17,
-			"app_name": "25ad72f164b948ab9e05eb18fab2cda8",
-			"launch_exe": "Cygni/Cygni/Binaries/Win64/Cygni-Win64-Shipping.exe",
-			"launch_command": "",
-			"build_version": "A0.16",
-			"build_id": "Sa7Ix4Lqw1L1Gylhi5e8rk2mzb8",
-			"prerequisites": null,
-			"uninstaller": null,
-			"install_tags": [
-				""
-			],
-			"num_files": 209,
-			"num_chunks": 21023,
-			"disk_size": 22049018242,
-			"download_size": 21774660886,
-			"tag_disk_size": [],
-			"tag_download_size": []
-		}
-	},
-	"9d2d0eb64d5c44529cece33fe2a46482": {
-		"game": {
-			"app_name": "9d2d0eb64d5c44529cece33fe2a46482",
-			"title": "Grand Theft Auto V",
-			"version": "1.0.3274.0_v2",
-			"platform_versions": {
-				"Windows": "1.0.3274.0_v2"
+				"Windows": "1.0"
 			},
 			"cloud_saves_supported": false,
 			"cloud_save_folder": null,
@@ -373,36 +428,156 @@
 			"command_line": null,
 			"owned_dlc": []
 		},
-		"install": {
-			"platform": "Windows",
-			"version": "1.0.3274.0_v2",
-			"disk_size": 121281363546,
-			"install_path": "/home/hdd2/GTAV",
-			"save_path": null,
-			"synced_egl_guid": "",
-			"install_tags": [],
-			"requires_ovt": false,
-			"installed_dlc": []
-		},
+		"install": null,
 		"manifest": {
-			"size": 7478590,
+			"size": 42360,
 			"type": "binary",
 			"version": 17,
 			"feature_level": 17,
-			"app_name": "9d2d0eb64d5c44529cece33fe2a46482",
-			"launch_exe": "PlayGTAV.exe",
+			"app_name": "HerringStaging",
+			"launch_exe": "Hue.exe",
 			"launch_command": "",
-			"build_version": "1.0.3274.0_v2",
-			"build_id": "-n33NvKafLzbXNfgjsxYBNBucns",
+			"build_version": "1.0",
+			"build_id": "UaASiw7XD_ZaEszjgkk0iCKk8W8",
 			"prerequisites": null,
 			"uninstaller": null,
 			"install_tags": [
 				""
 			],
-			"num_files": 386,
-			"num_chunks": 115404,
-			"disk_size": 121281363546,
-			"download_size": 119175027164,
+			"num_files": 332,
+			"num_chunks": 456,
+			"disk_size": 477828681,
+			"download_size": 153646551,
+			"tag_disk_size": [],
+			"tag_download_size": []
+		}
+	},
+	"ef50503adc284a8ba65d4dea1ecce91a": {
+		"game": {
+			"app_name": "ef50503adc284a8ba65d4dea1ecce91a",
+			"title": "Invincible Presents: Atom Eve",
+			"version": "1.0.25523",
+			"platform_versions": {
+				"Windows": "1.0.25523"
+			},
+			"cloud_saves_supported": true,
+			"cloud_save_folder": "{AppData}/../LocalLow/Skybound/atom-eve-game-client/",
+			"cloud_save_folder_mac": null,
+			"is_dlc": false,
+			"external_activation": null,
+			"launch_options": [],
+			"command_line": null,
+			"owned_dlc": []
+		},
+		"install": null,
+		"manifest": {
+			"size": 204364,
+			"type": "binary",
+			"version": 17,
+			"feature_level": 17,
+			"app_name": "ef50503adc284a8ba65d4dea1ecce91a",
+			"launch_exe": "AtomEve.exe",
+			"launch_command": "",
+			"build_version": "1.0.25523",
+			"build_id": "CH5ORzAmhx4f16YgDTYJQD1Ds7w",
+			"prerequisites": null,
+			"uninstaller": null,
+			"install_tags": [
+				""
+			],
+			"num_files": 34,
+			"num_chunks": 3051,
+			"disk_size": 3215736926,
+			"download_size": 2378595593,
+			"tag_disk_size": [],
+			"tag_download_size": []
+		}
+	},
+	"0a2d9f6403244d12969e11da6713137b": {
+		"game": {
+			"app_name": "0a2d9f6403244d12969e11da6713137b",
+			"title": "Fall Guys",
+			"version": "EGS_7528",
+			"platform_versions": {
+				"Windows": "EGS_7528"
+			},
+			"cloud_saves_supported": false,
+			"cloud_save_folder": null,
+			"cloud_save_folder_mac": null,
+			"is_dlc": false,
+			"external_activation": null,
+			"launch_options": [],
+			"command_line": null,
+			"owned_dlc": []
+		},
+		"install": null,
+		"manifest": {
+			"size": 495516,
+			"type": "binary",
+			"version": 17,
+			"feature_level": 17,
+			"app_name": "6639ac64bde54f4b8e6dabbedba80edd",
+			"launch_exe": "RunFallGuys.exe",
+			"launch_command": "",
+			"build_version": "EGS_7528",
+			"build_id": "wKy-BMLkedsl3OIE5wrmkLnlmW4",
+			"prerequisites": {
+				"ids": [
+					"EasyAntiCheatFallGuys"
+				],
+				"name": "",
+				"path": "EasyAntiCheat/EasyAntiCheat_Setup.exe",
+				"args": "install 591 -console"
+			},
+			"uninstaller": null,
+			"install_tags": [
+				""
+			],
+			"num_files": 632,
+			"num_chunks": 6886,
+			"disk_size": 7216496738,
+			"download_size": 6354584445,
+			"tag_disk_size": [],
+			"tag_download_size": []
+		}
+	},
+	"d6264d56f5ba434e91d4b0a0b056c83a": {
+		"game": {
+			"app_name": "d6264d56f5ba434e91d4b0a0b056c83a",
+			"title": "Tomb Raider GAME OF THE YEAR EDITION",
+			"version": "TRAS_15112021_838.0_1224060,275025(132814434654404397)",
+			"platform_versions": {
+				"Windows": "TRAS_15112021_838.0_1224060,275025(132814434654404397)"
+			},
+			"cloud_saves_supported": false,
+			"cloud_save_folder": null,
+			"cloud_save_folder_mac": null,
+			"is_dlc": false,
+			"external_activation": null,
+			"launch_options": [],
+			"command_line": null,
+			"owned_dlc": []
+		},
+		"install": null,
+		"manifest": {
+			"size": 1714354,
+			"type": "binary",
+			"version": 17,
+			"feature_level": 17,
+			"app_name": "9917735b2e4842fa81ba7a7b6212f47f",
+			"launch_exe": "TombRaider.exe",
+			"launch_command": "",
+			"build_version": "TRAS_15112021_838.0_1224060,275025(132814434654404397)",
+			"build_id": "JFeDivprR6bp6X4NTIs4ZfH8AhQ",
+			"prerequisites": null,
+			"uninstaller": null,
+			"install_tags": [
+				""
+			],
+			"num_files": 86,
+			"num_chunks": 25743,
+			"disk_size": 27762941382,
+			"download_size": 23385080274,
 			"tag_disk_size": [],
 			"tag_download_size": []
 		}

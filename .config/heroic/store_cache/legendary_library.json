@@ -547,7 +547,7 @@
 			"folder_name": "FalloutNewVegas",
 			"install": {
 				"executable": "Launcher.exe",
-				"install_path": "/home/hdd2/FalloutNewVegas",
+				"install_path": "/home/esata/FalloutNewVegas",
 				"install_size": "6.68 GiB",
 				"is_dlc": false,
 				"version": "0.0.0.15",
@@ -582,7 +582,7 @@
 			"folder_name": "GTAV",
 			"install": {
 				"executable": "PlayGTAV.exe",
-				"install_path": "/home/hdd2/GTAV",
+				"install_path": "/home/esata/GTAV",
 				"install_size": "112.95 GiB",
 				"is_dlc": false,
 				"version": "1.0.3274.0_v2",
@@ -16805,7 +16805,7 @@
 							"width": 1200
 						}
 					],
-					"lastModifiedDate": "2023-11-27T20:21:13.983Z",
+					"lastModifiedDate": "2024-08-21T01:00:20.651Z",
 					"mainGameItem": {
 						"id": "d916a61ddce3414bac1bbf0049ca6f7a",
 						"namespace": "3b661fd6a9724ac7b6ac6d10d0572511",
@@ -25876,6 +25876,6 @@
 		}
 	],
 	"__timestamp": {
-		"library": "Mon Aug 19 2024 00:29:04 GMT+0530 (India Standard Time)"
+		"library": "Thu Aug 22 2024 11:22:17 GMT+0530 (India Standard Time)"
 	}
 }
