@@ -11,7 +11,7 @@
     "can_run_offline": true,
     "egl_guid": "",
     "executable": "Launcher.exe",
-    "install_path": "/home/esata/FalloutNewVegas",
+    "install_path": "/run/media/pc/Files_N_Backup/FalloutNewVegas",
     "install_size": 7171425052,
     "install_tags": [
       ""
@@ -40,7 +40,7 @@
     "can_run_offline": false,
     "egl_guid": "",
     "executable": "PlayGTAV.exe",
-    "install_path": "/home/esata/GTAV",
+    "install_path": "/run/media/pc/Files_N_Backup/GTAV",
     "install_size": 121281363546,
     "install_tags": [],
     "is_dlc": false,

@@ -8,6 +8,7 @@
     "enableMsync": false,
     "enableFSR": true,
     "enableFsync": true,
+    "maxSharpness": 5,
     "nvidiaPrime": true,
     "offlineMode": false,
     "enviromentOptions": [],

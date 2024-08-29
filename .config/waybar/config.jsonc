@@ -1,22 +1,26 @@
 // -*- mode: jsonc -*-
 [{
-    "layer": "top",
+    "layer": "bottom",
     "output": "",
-    "height": 30, 
+    "height": 34, 
     "spacing": 4,
+    "position": "bottom",
 
     "modules-left": [
         "custom/menu",
-        "sway/workspaces",
+	"custom/app1",
+	"custom/app2",
+	"custom/app3",
+	"custom/app4",
+	"custom/app5",
         "sway/mode",
         "sway/scratchpad"
     ],
-    "modules-center": [
-	"sway/window"
+   "modules-center": [
+	"mpris"
     ],
     "modules-right": [
         "privacy",
-	"mpris",
 //        "idle_inhibitor",
 	"pulseaudio",
         "power-profiles-daemon",
@@ -25,7 +29,7 @@
         "backlight",
         "battery",
         "clock",
-	"keyboard-state",
+//	"keyboard-state",
 	"tray",
         "custom/notification",
     	"custom/powermenu"
@@ -143,25 +147,7 @@
         "on-click": "pavucontrol"
     },
     
-    "sway/workspaces": {
-        "format": "{icon}",
-        "format-icons": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "urgent": ""
-        },
-	"persistent-workspaces": {
-		"1": [], 
-		"2": [], 
-		"3": [], 
-		"4": [], 
-		"5": [] 
-	},
-},
-
+   
   "custom/notification": {
     "tooltip": false,
     "format": "{icon}",
@@ -238,8 +224,33 @@
 //                     },
      	"on-click": "~/.config/rofi/AppMenu/launcher.sh"
 
-    }
-     
+    },
+
+ "custom/app1": {
+		"format": "{}",
+		"tooltip": "zen browser",
+		"on-click": "zen-browser"
+	},
+
+"custom/app2": {
+		"format": "{}",
+		"on-click": "thunar"
+	},
+"custom/app3": {
+		"format": "{}",
+		"on-click": "alacritty"
+	},
+"custom/app4": {
+		"format": "{}",
+		"on-click": "~/Applications/Cider-1.6.3_f94add7ebacee363862f122143da69ec.AppImage"
+	},
+
+"custom/app5": {
+		"format": "{}",
+		"on-click": "~/Applications/tutanota-desktop-linux_4e51841f25dac13c7c144a0ef6145ebb.AppImage"
+	}
+
+    
 
 
 
@@ -249,42 +260,37 @@
 
 // Bottom Bar //
 {
-	"layer": "top",
+	"layer": "bottom",
 	"output":"",
-	"height": 10,
-	"position": "bottom",
-	"mode": "dock",
+	"height": 34,
+	"position": "top",
+
+	"modules-left": [
+		"sway/workspaces"
+			],
+
 	"modules-center": [
-		"custom/app1",
-		"custom/app2",
-		"custom/app3",
-		"custom/app4",
-		"custom/app5"
+		"sway/window"
 	],
 
-"custom/app1": {
-		"format": "  {}",
-		"tooltip": "zen browser",
-		"on-click": "zen-browser"
+ "sway/workspaces": {
+        "format": "{icon}",
+        "format-icons": {
+            "1": "web",
+            "2": "file",
+            "3": "doc",
+            "4": "mail",
+            "5": "term",
+            "urgent": ""
+        },
+	"persistent-workspaces": {
+		"1": [], 
+		"2": [], 
+		"3": [], 
+		"4": [], 
+		"5": [] 
 	},
-
-"custom/app2": {
-		"format": "  {}",
-		"on-click": "thunar"
-	},
-"custom/app3": {
-		"format": "  {}",
-		"on-click": "alacritty"
-	},
-"custom/app4": {
-		"format": "  {}",
-		"on-click": "~/Applications/Cider*"
-	},
-
-"custom/app5": {
-		"format": "  {}",
-		"on-click": ""
-	}
+},
 
 
 }]

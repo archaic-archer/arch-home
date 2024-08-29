@@ -1,5 +1,5 @@
 [window]
-decorations = "Transparent"
+decorations = "transparent"
 opacity = 0.9
 blur = true
 

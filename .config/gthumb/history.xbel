@@ -3,61 +3,71 @@
       xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
       xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
 >
-  <bookmark href="file:///E-SSD/Backup/KEC-Induction" added="2024-08-23T07:14:06.438996Z" modified="2024-08-23T07:14:06.438999Z" visited="2024-08-23T07:14:06.438997Z">
+  <bookmark href="file:///home/pc/Pictures" added="2024-08-27T06:53:37.540775Z" modified="2024-08-27T06:53:37.540778Z" visited="2024-08-27T06:53:37.540776Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <bookmark:applications>
-          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2024-08-23T07:14:06.438998Z" count="1"/>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2024-08-27T06:53:37.540777Z" count="1"/>
         </bookmark:applications>
         <bookmark:private/>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="mtp://Xiaomi_M2101K6P_5ee5bdef/SD%20card/DCIM/WhatsApp%20Images/Sent" added="2024-08-23T07:14:06.439004Z" modified="2024-08-23T07:14:06.439006Z" visited="2024-08-23T07:14:06.439004Z">
+  <bookmark href="file:///E-SSD/Backup/KEC-Induction" added="2024-08-27T06:53:37.540779Z" modified="2024-08-27T06:53:37.540780Z" visited="2024-08-27T06:53:37.540779Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <bookmark:applications>
-          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2024-08-23T07:14:06.439005Z" count="1"/>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2024-08-27T06:53:37.540780Z" count="1"/>
         </bookmark:applications>
         <bookmark:private/>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="mtp://Xiaomi_M2101K6P_5ee5bdef/SD%20card/DCIM/WhatsApp%20Images" added="2024-08-23T07:14:06.439008Z" modified="2024-08-23T07:14:06.439010Z" visited="2024-08-23T07:14:06.439009Z">
+  <bookmark href="mtp://Xiaomi_M2101K6P_5ee5bdef/SD%20card/DCIM/WhatsApp%20Images/Sent" added="2024-08-27T06:53:37.540785Z" modified="2024-08-27T06:53:37.540787Z" visited="2024-08-27T06:53:37.540785Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <bookmark:applications>
-          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2024-08-23T07:14:06.439009Z" count="1"/>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2024-08-27T06:53:37.540786Z" count="1"/>
         </bookmark:applications>
         <bookmark:private/>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/hdd1/Backup/OneDrive_1_5-9-2024/OfficeMobile/Scan%2011%20Jul%2023%20%C2%B7%2011%C2%B702%C2%B722" added="2024-08-23T07:14:06.439011Z" modified="2024-08-23T07:14:06.439013Z" visited="2024-08-23T07:14:06.439011Z">
+  <bookmark href="mtp://Xiaomi_M2101K6P_5ee5bdef/SD%20card/DCIM/WhatsApp%20Images" added="2024-08-27T06:53:37.540788Z" modified="2024-08-27T06:53:37.540790Z" visited="2024-08-27T06:53:37.540788Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <bookmark:applications>
-          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2024-08-23T07:14:06.439012Z" count="1"/>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2024-08-27T06:53:37.540789Z" count="1"/>
         </bookmark:applications>
         <bookmark:private/>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/hdd1/.Takeout/Babaya/Raw" added="2024-08-23T07:14:06.439014Z" modified="2024-08-23T07:14:06.439015Z" visited="2024-08-23T07:14:06.439014Z">
+  <bookmark href="file:///home/hdd1/Backup/OneDrive_1_5-9-2024/OfficeMobile/Scan%2011%20Jul%2023%20%C2%B7%2011%C2%B702%C2%B722" added="2024-08-27T06:53:37.540791Z" modified="2024-08-27T06:53:37.540792Z" visited="2024-08-27T06:53:37.540791Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <bookmark:applications>
-          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2024-08-23T07:14:06.439015Z" count="1"/>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2024-08-27T06:53:37.540792Z" count="1"/>
         </bookmark:applications>
         <bookmark:private/>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/hdd1/.Takeout/Photos%20Scattered/Nani_Ghar" added="2024-08-23T07:14:06.439017Z" modified="2024-08-23T07:14:06.439020Z" visited="2024-08-23T07:14:06.439017Z">
+  <bookmark href="file:///home/hdd1/.Takeout/Babaya/Raw" added="2024-08-27T06:53:37.540793Z" modified="2024-08-27T06:53:37.540795Z" visited="2024-08-27T06:53:37.540793Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <bookmark:applications>
-          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2024-08-23T07:14:06.439018Z" count="1"/>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2024-08-27T06:53:37.540794Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hdd1/.Takeout/Photos%20Scattered/Nani_Ghar" added="2024-08-27T06:53:37.540796Z" modified="2024-08-27T06:53:37.540798Z" visited="2024-08-27T06:53:37.540796Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2024-08-27T06:53:37.540797Z" count="1"/>
         </bookmark:applications>
         <bookmark:private/>
       </metadata>

@@ -202,7 +202,7 @@
     {
       "app_name": "592c359fb0e0413fb46dee2d24448eb4",
       "asset_id": "592c359fb0e0413fb46dee2d24448eb4",
-      "build_version": "9508714",
+      "build_version": "9522713",
       "catalog_item_id": "06bd477f9fbe4259a1421fb3f559aa46",
       "label_name": "Live-Windows",
       "metadata": {},
@@ -256,9 +256,18 @@
       "namespace": "5d9f109e44ec4c8bbc5495f43b601f25"
     },
     {
+      "app_name": "256ba8bdd1ff4c26a0b2d3776d1a1bf6",
+      "asset_id": "256ba8bdd1ff4c26a0b2d3776d1a1bf6",
+      "build_version": "1.16.0.0-1.71290.0.712379",
+      "catalog_item_id": "96571224db9a4dae8414e06050230e51",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "6b0541b5d9aa476cbf407643ab3b1d7d"
+    },
+    {
       "app_name": "fe4168b810314c2fb93f1803e2fe431e",
       "asset_id": "fe4168b810314c2fb93f1803e2fe431e",
-      "build_version": "tortoise_delivery_2813595_2813595",
+      "build_version": "tortoise_delivery_2824359_2824359",
       "catalog_item_id": "f39049d62f8e4db5ab307453983213d0",
       "label_name": "Live-Windows",
       "metadata": {},

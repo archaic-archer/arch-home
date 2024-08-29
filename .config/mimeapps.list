@@ -74,6 +74,7 @@ x-scheme-handler/nntp=userapp-Thunderbird-VWEZN2.desktop;
 x-scheme-handler/snews=userapp-Thunderbird-VWEZN2.desktop;
 x-scheme-handler/webcal=userapp-Thunderbird-AXC3N2.desktop;userapp-Thunderbird-3L8CQ2.desktop;
 x-scheme-handler/webcals=userapp-Thunderbird-AXC3N2.desktop;userapp-Thunderbird-3L8CQ2.desktop;
+application/vnd.openxmlformats-officedocument.wordprocessingml.document=appimagekit_6f5f74613774af8537265ac4c0ec4f51-ONLYOFFICE_Desktop_Editors.desktop;libreoffice-writer.desktop;
 
 [Default Applications]
 application/octet-stream=veracrypt.desktop

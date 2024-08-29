@@ -5,7 +5,7 @@
     "Windows": {
       "app_name": "592c359fb0e0413fb46dee2d24448eb4",
       "asset_id": "592c359fb0e0413fb46dee2d24448eb4",
-      "build_version": "9508714",
+      "build_version": "9522713",
       "catalog_item_id": "06bd477f9fbe4259a1421fb3f559aa46",
       "label_name": "Live-Windows",
       "metadata": {},
@@ -1798,6 +1798,43 @@
         "status": "ACTIVE",
         "title": "mellowyellow BDL19 audience",
         "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-08-27T11:15:51.738Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "mellowyellow BDL20",
+        "developer": "Bungie",
+        "developerId": "o-49lqsefbl6zr5sy3ztak77ej97cuvh",
+        "endOfSupport": false,
+        "entitlementName": "d471a9455b554003b63872cbb755720d",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "d471a9455b554003b63872cbb755720d",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-08-27T11:15:51.738Z",
+        "mainGameItem": {
+          "id": "06bd477f9fbe4259a1421fb3f559aa46",
+          "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+          "unsearchable": false
+        },
+        "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "mellowyellow BDL20",
+        "unsearchable": true
       }
     ],
     "endOfSupport": false,
@@ -1829,7 +1866,7 @@
         "width": 1200
       }
     ],
-    "lastModifiedDate": "2024-06-04T17:00:03.538Z",
+    "lastModifiedDate": "2024-08-27T11:15:51.747Z",
     "namespace": "428115def4ca4deea9d69c99c5a5a99e",
     "releaseInfo": [
       {

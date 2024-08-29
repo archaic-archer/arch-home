@@ -1,10 +1,10 @@
 Launching "Fallout: New Vegas" (legendary)
 Native? No
-Installed in: /home/hdd2/FalloutNewVegas
+Installed in: /run/media/pc/Files_N_Backup/FalloutNewVegas
 
 System Info:
 CPU: 8x Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
-Memory: 12.27 GB (used: 1.08 GB)
+Memory: 12.27 GB (used: 3.88 GB)
 GPUs:
   GPU 0:
     Name: Advanced Micro Devices, Inc. [AMD/ATI] Jet PRO [Radeon R5 M230 / R7 M260DX / Radeon 520/610 Mobile]
@@ -14,7 +14,7 @@ GPUs:
     Name: Intel Corporation UHD Graphics 620
     IDs: D=5917 V=8086 SD=0841 SV=1028
     Driver: i915
-OS: Arch Linux 6.10.4-arch2-1 (linux)
+OS: Arch Linux 6.10.6-arch1-1 (linux)
 
 The current system is not a Steam Deck
 We are not running inside a Flatpak container
@@ -29,7 +29,7 @@ Software Versions:
 
 Game Settings: {
 	"autoInstallDxvk": true,
-	"autoInstallDxvkNvapi": false,
+	"autoInstallDxvkNvapi": true,
 	"autoInstallVkd3d": true,
 	"preferSystemLibs": false,
 	"enableEsync": true,
@@ -43,26 +43,27 @@ Game Settings: {
 	"showFps": false,
 	"showMangohud": true,
 	"useGameMode": true,
-	"useSteamRuntime": true,
-	"battlEyeRuntime": true,
-	"eacRuntime": true,
+	"useSteamRuntime": false,
+	"battlEyeRuntime": false,
+	"eacRuntime": false,
 	"language": "",
 	"beforeLaunchScriptPath": "",
 	"afterLaunchScriptPath": "",
 	"wineVersion": {
-		"bin": "/home/pc/.local/share/Steam/steamapps/common/Proton - Experimental/proton",
-		"name": "Proton - Proton - Experimental",
-		"type": "proton"
+		"bin": "/usr/bin/wine",
+		"name": "Wine Default - wine-9.9 (Staging)",
+		"type": "wine",
+		"wineserver": "/usr/bin/wineserver"
 	},
 	"winePrefix": "/home/pc/Games/Heroic/Prefixes/default/Fallout New Vegas",
 	"wineCrossoverBottle": ""
 }
 
-Game launched at: Mon Aug 12 2024 20:53:44 GMT+0530 (India Standard Time)
+Game launched at: Wed Aug 28 2024 12:08:21 GMT+0530 (India Standard Time)
 
 Winetricks packages: 
 
-Launch Command: HEROIC_APP_NAME=5daeb974a22a435988892319b3a4f476 HEROIC_APP_RUNNER=legendary GAMEID=umu-0 HEROIC_APP_SOURCE=epic STORE=egs DRI_PRIME=1 __NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRARY_NAME=nvidia STEAM_COMPAT_INSTALL_PATH=/home/hdd2/FalloutNewVegas LD_PRELOAD= STEAM_COMPAT_CLIENT_INSTALL_PATH=/home/pc/.steam/steam WINEPREFIX="/home/pc/Games/Heroic/Prefixes/default/Fallout New Vegas" STEAM_COMPAT_DATA_PATH="/home/pc/Games/Heroic/Prefixes/default/Fallout New Vegas" PROTONPATH="/home/pc/.local/share/Steam/steamapps/common/Proton - Experimental" WINE_FULLSCREEN_FSR=1 WINE_FULLSCREEN_FSR_STRENGTH=2 PROTON_DISABLE_NVAPI=1 PROTON_EAC_RUNTIME=/home/pc/.config/heroic/tools/runtimes/eac_runtime PROTON_BATTLEYE_RUNTIME=/home/pc/.config/heroic/tools/runtimes/battleye_runtime STEAM_COMPAT_APP_ID=0 SteamAppId=0 SteamGameId=heroic-FalloutNewVegas PROTON_LOG_DIR=/home/pc /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary launch 5daeb974a22a435988892319b3a4f476 --no-wine --wrapper "/usr/bin/mangohud --dlsym /usr/bin/gamemoderun /home/pc/.local/share/Steam/steamapps/common/SteamLinuxRuntime_sniper/_v2-entry-point -- "/home/pc/.local/share/Steam/steamapps/common/Proton - Experimental/proton" waitforexitandrun" --language en
+Launch Command: HEROIC_APP_NAME=5daeb974a22a435988892319b3a4f476 HEROIC_APP_RUNNER=legendary GAMEID=umu-0 HEROIC_APP_SOURCE=epic STORE=egs DRI_PRIME=1 __NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRARY_NAME=nvidia STEAM_COMPAT_INSTALL_PATH=/run/media/pc/Files_N_Backup/FalloutNewVegas LD_PRELOAD= WINEPREFIX="/home/pc/Games/Heroic/Prefixes/default/Fallout New Vegas" WINEDLLOVERRIDES=winemenubuilder.exe=d WINE_FULLSCREEN_FSR=1 WINE_FULLSCREEN_FSR_STRENGTH=2 WINEESYNC=1 WINEFSYNC=1 DXVK_ENABLE_NVAPI=1 DXVK_NVAPI_ALLOW_OTHER_DRIVERS=1 ORIG_LD_LIBRARY_PATH= /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary launch 5daeb974a22a435988892319b3a4f476 --wine /usr/bin/wine --wrapper "/usr/bin/mangohud --dlsym /usr/bin/gamemoderun" --language en
 
 Game Log:
 [cli] INFO: Logging in...
@@ -70,135 +71,398 @@ Game Log:
 [cli] INFO: Checking for updates...
 [Core] INFO: Getting authentication token...
 [cli] INFO: Launching 5daeb974a22a435988892319b3a4f476...
+ERROR: ld.so: object '/usr/$LIB/mangohud/libMangoHud_dlsym.so' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
+ERROR: ld.so: object '/usr/$LIB/mangohud/libMangoHud_opengl.so' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
 gamemodeauto: 
-ERROR: ld.so: object 'libgamemodeauto.so.0' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
-ERROR: ld.so: object 'libgamemodeauto.so.0' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
-ERROR: ld.so: object 'libgamemodeauto.so.0' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
-ERROR: ld.so: object 'libgamemodeauto.so.0' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
-ERROR: ld.so: object 'libgamemodeauto.so.0' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
-ERROR: ld.so: object 'libgamemodeauto.so.0' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
-ERROR: ld.so: object 'libgamemodeauto.so.0' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
-wine: using kernel write watches, use_kernel_writewatch 1.
-ERROR: ld.so: object 'libgamemodeauto.so.0' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
-fsync: up and running.
-ERROR: ld.so: object 'libgamemodeauto.so.0' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
-wine: using kernel write watches, use_kernel_writewatch 1.
-ERROR: ld.so: object 'libgamemodeauto.so.0' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
-wine: using kernel write watches, use_kernel_writewatch 1.
-ERROR: ld.so: object 'libgamemodeauto.so.0' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
-wine: using kernel write watches, use_kernel_writewatch 1.
-ERROR: ld.so: object 'libgamemodeauto.so.0' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
-wine: using kernel write watches, use_kernel_writewatch 1.
-ERROR: ld.so: object 'libgamemodeauto.so.0' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
-wine: using kernel write watches, use_kernel_writewatch 1.
-ERROR: ld.so: object 'libgamemodeauto.so.0' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
-wine: using kernel write watches, use_kernel_writewatch 1.
-ERROR: ld.so: object 'libgamemodeauto.so.0' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
-wine: using kernel write watches, use_kernel_writewatch 1.
+ERROR: ld.so: object '/usr/$LIB/mangohud/libMangoHud_dlsym.so' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
+ERROR: ld.so: object '/usr/$LIB/mangohud/libMangoHud_opengl.so' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
+gamemodeauto: 
+0170:fixme:ole:CoInitializeSecurity 0000000000000000, -1, 0000000000000000, 0000000000000000, 0, 3, 0000000000000000, 0, 0000000000000000 stub
+0170:fixme:wbemprox:client_security_SetBlanket 00006FFFFE211680, 00000000009D7570, 10, 0, (null), 3, 3, 0000000000000000, 0
+0170:fixme:wbemprox:client_security_Release 00006FFFFE211680
+info:  Game: Launcher.exe
+info:  DXVK: v2.4
+info:  Vulkan: Found vkGetInstanceProcAddr in winevulkan.dll @ 0x6ffffde94020
+info:  Built-in extension providers:
+info:    Platform WSI
+info:    OpenVR
+info:    OpenXR
+info:  OpenVR: could not open registry key, status 2
+info:  OpenVR: Failed to locate module
+info:  Enabled instance extensions:
+info:    VK_EXT_surface_maintenance1
+info:    VK_KHR_get_surface_capabilities2
+info:    VK_KHR_surface
+info:    VK_KHR_win32_surface
 WARNING: radv is not a conformant Vulkan implementation, testing use only.
+info:  AMD Radeon R5 M435 (RADV HAINAN):
+info:    Driver : radv 24.1.6
+info:    Memory Heap[0]: 
+info:      Size: 1792 MiB
+info:      Flags: 0x1
+info:      Memory Type[0]: Property Flags = 0x1
+info:      Memory Type[1]: Property Flags = 0x1
+info:    Memory Heap[1]: 
+info:      Size: 5849 MiB
+info:      Flags: 0x0
+info:      Memory Type[2]: Property Flags = 0x6
+info:      Memory Type[5]: Property Flags = 0xe
+info:      Memory Type[6]: Property Flags = 0xe
+info:    Memory Heap[2]: 
+info:      Size: 256 MiB
+info:      Flags: 0x1
+info:      Memory Type[3]: Property Flags = 0x7
+info:      Memory Type[4]: Property Flags = 0x7
+info:  Intel(R) UHD Graphics 620 (KBL GT2):
+info:    Driver : Intel open-source Mesa driver 24.1.6
+info:    Memory Heap[0]: 
+info:      Size: 5849 MiB
+info:      Flags: 0x1
+info:      Memory Type[0]: Property Flags = 0x1
+info:      Memory Type[1]: Property Flags = 0x7
+info:      Memory Type[2]: Property Flags = 0xf
+info:      Memory Type[3]: Property Flags = 0x1
+info:      Memory Type[4]: Property Flags = 0x7
+info:      Memory Type[5]: Property Flags = 0xf
+warn:  DXGI: Found monitors not associated with any adapter, using fallback
+info:  Adapter LUID 0: 0:3ff
+info:  Game: Launcher.exe
+info:  DXVK: v2.4
+info:  Vulkan: Found vkGetInstanceProcAddr in winevulkan.dll @ 0x6ffffde94020
+info:  Built-in extension providers:
+info:    Platform WSI
+info:    OpenVR
+info:    OpenXR
+info:  OpenVR: could not open registry key, status 2
+info:  OpenVR: Failed to locate module
+info:  Enabled instance extensions:
+info:    VK_EXT_surface_maintenance1
+info:    VK_KHR_get_surface_capabilities2
+info:    VK_KHR_surface
+info:    VK_KHR_win32_surface
 WARNING: radv is not a conformant Vulkan implementation, testing use only.
-ERROR: ld.so: object 'libgamemodeauto.so.0' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
-wine: using kernel write watches, use_kernel_writewatch 1.
-ERROR: ld.so: object 'libgamemodeauto.so.0' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
-wine: using kernel write watches, use_kernel_writewatch 1.
-[S_API] SteamAPI_Init(): SteamAPI_IsSteamRunning() did not locate a running instance of Steam.
-[S_API FAIL] SteamAPI_Init() failed
-ERROR: ld.so: object 'libgamemodeauto.so.0' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
-wine: using kernel write watches, use_kernel_writewatch 1.
+info:  AMD Radeon R5 M435 (RADV HAINAN):
+info:    Driver : radv 24.1.6
+info:    Memory Heap[0]: 
+info:      Size: 1792 MiB
+info:      Flags: 0x1
+info:      Memory Type[0]: Property Flags = 0x1
+info:      Memory Type[1]: Property Flags = 0x1
+info:    Memory Heap[1]: 
+info:      Size: 5849 MiB
+info:      Flags: 0x0
+info:      Memory Type[2]: Property Flags = 0x6
+info:      Memory Type[5]: Property Flags = 0xe
+info:      Memory Type[6]: Property Flags = 0xe
+info:    Memory Heap[2]: 
+info:      Size: 256 MiB
+info:      Flags: 0x1
+info:      Memory Type[3]: Property Flags = 0x7
+info:      Memory Type[4]: Property Flags = 0x7
+info:  Intel(R) UHD Graphics 620 (KBL GT2):
+info:    Driver : Intel open-source Mesa driver 24.1.6
+info:    Memory Heap[0]: 
+info:      Size: 5849 MiB
+info:      Flags: 0x1
+info:      Memory Type[0]: Property Flags = 0x1
+info:      Memory Type[1]: Property Flags = 0x7
+info:      Memory Type[2]: Property Flags = 0xf
+info:      Memory Type[3]: Property Flags = 0x1
+info:      Memory Type[4]: Property Flags = 0x7
+info:      Memory Type[5]: Property Flags = 0xf
+warn:  DXGI: Found monitors not associated with any adapter, using fallback
+info:  Game: Launcher.exe
+info:  DXVK: v2.4
+info:  Vulkan: Found vkGetInstanceProcAddr in winevulkan.dll @ 0x6ffffde94020
+info:  Built-in extension providers:
+info:    Platform WSI
+info:    OpenVR
+info:    OpenXR
+info:  OpenVR: could not open registry key, status 2
+info:  OpenVR: Failed to locate module
+info:  Enabled instance extensions:
+info:    VK_EXT_surface_maintenance1
+info:    VK_KHR_get_surface_capabilities2
+info:    VK_KHR_surface
+info:    VK_KHR_win32_surface
 WARNING: radv is not a conformant Vulkan implementation, testing use only.
+info:  AMD Radeon R5 M435 (RADV HAINAN):
+info:    Driver : radv 24.1.6
+info:    Memory Heap[0]: 
+info:      Size: 1792 MiB
+info:      Flags: 0x1
+info:      Memory Type[0]: Property Flags = 0x1
+info:      Memory Type[1]: Property Flags = 0x1
+info:    Memory Heap[1]: 
+info:      Size: 5849 MiB
+info:      Flags: 0x0
+info:      Memory Type[2]: Property Flags = 0x6
+info:      Memory Type[5]: Property Flags = 0xe
+info:      Memory Type[6]: Property Flags = 0xe
+info:    Memory Heap[2]: 
+info:      Size: 256 MiB
+info:      Flags: 0x1
+info:      Memory Type[3]: Property Flags = 0x7
+info:      Memory Type[4]: Property Flags = 0x7
+info:  Intel(R) UHD Graphics 620 (KBL GT2):
+info:    Driver : Intel open-source Mesa driver 24.1.6
+info:    Memory Heap[0]: 
+info:      Size: 5849 MiB
+info:      Flags: 0x1
+info:      Memory Type[0]: Property Flags = 0x1
+info:      Memory Type[1]: Property Flags = 0x7
+info:      Memory Type[2]: Property Flags = 0xf
+info:      Memory Type[3]: Property Flags = 0x1
+info:      Memory Type[4]: Property Flags = 0x7
+info:      Memory Type[5]: Property Flags = 0xf
+warn:  DXGI: Found monitors not associated with any adapter, using fallback
+info:  Game: Launcher.exe
+info:  DXVK: v2.4
+info:  Vulkan: Found vkGetInstanceProcAddr in winevulkan.dll @ 0x6ffffde94020
+info:  Built-in extension providers:
+info:    Platform WSI
+info:    OpenVR
+info:    OpenXR
+info:  OpenVR: could not open registry key, status 2
+info:  OpenVR: Failed to locate module
+info:  Enabled instance extensions:
+info:    VK_EXT_surface_maintenance1
+info:    VK_KHR_get_surface_capabilities2
+info:    VK_KHR_surface
+info:    VK_KHR_win32_surface
 WARNING: radv is not a conformant Vulkan implementation, testing use only.
+info:  AMD Radeon R5 M435 (RADV HAINAN):
+info:    Driver : radv 24.1.6
+info:    Memory Heap[0]: 
+info:      Size: 1792 MiB
+info:      Flags: 0x1
+info:      Memory Type[0]: Property Flags = 0x1
+info:      Memory Type[1]: Property Flags = 0x1
+info:    Memory Heap[1]: 
+info:      Size: 5849 MiB
+info:      Flags: 0x0
+info:      Memory Type[2]: Property Flags = 0x6
+info:      Memory Type[5]: Property Flags = 0xe
+info:      Memory Type[6]: Property Flags = 0xe
+info:    Memory Heap[2]: 
+info:      Size: 256 MiB
+info:      Flags: 0x1
+info:      Memory Type[3]: Property Flags = 0x7
+info:      Memory Type[4]: Property Flags = 0x7
+info:  Intel(R) UHD Graphics 620 (KBL GT2):
+info:    Driver : Intel open-source Mesa driver 24.1.6
+info:    Memory Heap[0]: 
+info:      Size: 5849 MiB
+info:      Flags: 0x1
+info:      Memory Type[0]: Property Flags = 0x1
+info:      Memory Type[1]: Property Flags = 0x7
+info:      Memory Type[2]: Property Flags = 0xf
+info:      Memory Type[3]: Property Flags = 0x1
+info:      Memory Type[4]: Property Flags = 0x7
+info:      Memory Type[5]: Property Flags = 0xf
+warn:  DXGI: Found monitors not associated with any adapter, using fallback
+info:  Game: Launcher.exe
+info:  DXVK: v2.4
+info:  Vulkan: Found vkGetInstanceProcAddr in winevulkan.dll @ 0x6ffffde94020
+info:  Built-in extension providers:
+info:    Platform WSI
+info:    OpenVR
+info:    OpenXR
+info:  OpenVR: could not open registry key, status 2
+info:  OpenVR: Failed to locate module
+info:  Enabled instance extensions:
+info:    VK_EXT_surface_maintenance1
+info:    VK_KHR_get_surface_capabilities2
+info:    VK_KHR_surface
+info:    VK_KHR_win32_surface
 WARNING: radv is not a conformant Vulkan implementation, testing use only.
+info:  AMD Radeon R5 M435 (RADV HAINAN):
+info:    Driver : radv 24.1.6
+info:    Memory Heap[0]: 
+info:      Size: 1792 MiB
+info:      Flags: 0x1
+info:      Memory Type[0]: Property Flags = 0x1
+info:      Memory Type[1]: Property Flags = 0x1
+info:    Memory Heap[1]: 
+info:      Size: 5849 MiB
+info:      Flags: 0x0
+info:      Memory Type[2]: Property Flags = 0x6
+info:      Memory Type[5]: Property Flags = 0xe
+info:      Memory Type[6]: Property Flags = 0xe
+info:    Memory Heap[2]: 
+info:      Size: 256 MiB
+info:      Flags: 0x1
+info:      Memory Type[3]: Property Flags = 0x7
+info:      Memory Type[4]: Property Flags = 0x7
+info:  Intel(R) UHD Graphics 620 (KBL GT2):
+info:    Driver : Intel open-source Mesa driver 24.1.6
+info:    Memory Heap[0]: 
+info:      Size: 5849 MiB
+info:      Flags: 0x1
+info:      Memory Type[0]: Property Flags = 0x1
+info:      Memory Type[1]: Property Flags = 0x7
+info:      Memory Type[2]: Property Flags = 0xf
+info:      Memory Type[3]: Property Flags = 0x1
+info:      Memory Type[4]: Property Flags = 0x7
+info:      Memory Type[5]: Property Flags = 0xf
+warn:  DXGI: Found monitors not associated with any adapter, using fallback
+info:  Game: Launcher.exe
+info:  DXVK: v2.4
+info:  Vulkan: Found vkGetInstanceProcAddr in winevulkan.dll @ 0x6ffffde94020
+info:  Built-in extension providers:
+info:    Platform WSI
+info:    OpenVR
+info:    OpenXR
+info:  OpenVR: could not open registry key, status 2
+info:  OpenVR: Failed to locate module
+info:  Enabled instance extensions:
+info:    VK_EXT_surface_maintenance1
+info:    VK_KHR_get_surface_capabilities2
+info:    VK_KHR_surface
+info:    VK_KHR_win32_surface
 WARNING: radv is not a conformant Vulkan implementation, testing use only.
+info:  AMD Radeon R5 M435 (RADV HAINAN):
+info:    Driver : radv 24.1.6
+info:    Memory Heap[0]: 
+info:      Size: 1792 MiB
+info:      Flags: 0x1
+info:      Memory Type[0]: Property Flags = 0x1
+info:      Memory Type[1]: Property Flags = 0x1
+info:    Memory Heap[1]: 
+info:      Size: 5849 MiB
+info:      Flags: 0x0
+info:      Memory Type[2]: Property Flags = 0x6
+info:      Memory Type[5]: Property Flags = 0xe
+info:      Memory Type[6]: Property Flags = 0xe
+info:    Memory Heap[2]: 
+info:      Size: 256 MiB
+info:      Flags: 0x1
+info:      Memory Type[3]: Property Flags = 0x7
+info:      Memory Type[4]: Property Flags = 0x7
+info:  Intel(R) UHD Graphics 620 (KBL GT2):
+info:    Driver : Intel open-source Mesa driver 24.1.6
+info:    Memory Heap[0]: 
+info:      Size: 5849 MiB
+info:      Flags: 0x1
+info:      Memory Type[0]: Property Flags = 0x1
+info:      Memory Type[1]: Property Flags = 0x7
+info:      Memory Type[2]: Property Flags = 0xf
+info:      Memory Type[3]: Property Flags = 0x1
+info:      Memory Type[4]: Property Flags = 0x7
+info:      Memory Type[5]: Property Flags = 0xf
+warn:  DXGI: Found monitors not associated with any adapter, using fallback
+ERROR: ld.so: object '/usr/$LIB/mangohud/libMangoHud_dlsym.so' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
+ERROR: ld.so: object '/usr/$LIB/mangohud/libMangoHud_opengl.so' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
+ALSA lib dlmisc.c:339:(snd_dlobj_cache_get0) Cannot open shared library libasound_module_pcm_pipewire.so (/usr/lib32/alsa-lib/libasound_module_pcm_pipewire.so: cannot open shared object file: No such file or directory)
+info:  Game: FalloutNVLauncher.exe
+info:  DXVK: v2.4
+info:  Vulkan: Found vkGetInstanceProcAddr in winevulkan.dll @ 0x7a073830
+info:  Built-in extension providers:
+info:    Platform WSI
+info:    OpenVR
+info:    OpenXR
+info:  OpenVR: could not open registry key, status 2
+info:  OpenVR: Failed to locate module
+info:  Enabled instance extensions:
+info:    VK_EXT_surface_maintenance1
+info:    VK_KHR_get_surface_capabilities2
+info:    VK_KHR_surface
+info:    VK_KHR_win32_surface
 WARNING: radv is not a conformant Vulkan implementation, testing use only.
-WARNING: radv is not a conformant Vulkan implementation, testing use only.
-ERROR: ld.so: object 'libgamemodeauto.so.0' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
-ERROR: ld.so: object '/tmp/pressure-vessel-libs-95Y8R2/${LIB}/libMangoHud_dlsym.so' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
-ERROR: ld.so: object '/tmp/pressure-vessel-libs-95Y8R2/${LIB}/libMangoHud_opengl.so' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
-wine: using kernel write watches, use_kernel_writewatch 1.
-WARNING: radv is not a conformant Vulkan implementation, testing use only.
-ERROR: ld.so: object 'libgamemodeauto.so.0' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
-ERROR: ld.so: object '/tmp/pressure-vessel-libs-95Y8R2/${LIB}/libMangoHud_dlsym.so' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
-ERROR: ld.so: object '/tmp/pressure-vessel-libs-95Y8R2/${LIB}/libMangoHud_opengl.so' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
-wine: using kernel write watches, use_kernel_writewatch 1.
-WARNING: radv is not a conformant Vulkan implementation, testing use only.
-WARNING: radv is not a conformant Vulkan implementation, testing use only.
+ALSA lib dlmisc.c:339:(snd_dlobj_cache_get0) Cannot open shared library libasound_module_pcm_pipewire.so (/usr/lib32/alsa-lib/libasound_module_pcm_pipewire.so: cannot open shared object file: No such file or directory)
+info:  D3D9: VK_FORMAT_D24_UNORM_S8_UINT -> VK_FORMAT_D32_SFLOAT_S8_UINT
+info:  AMD Radeon R5 M435 (RADV HAINAN):
+info:    Driver : radv 24.1.6
+info:    Memory Heap[0]: 
+info:      Size: 1792 MiB
+info:      Flags: 0x1
+info:      Memory Type[0]: Property Flags = 0x1
+info:      Memory Type[1]: Property Flags = 0x1
+info:    Memory Heap[1]: 
+info:      Size: 5849 MiB
+info:      Flags: 0x0
+info:      Memory Type[2]: Property Flags = 0x6
+info:      Memory Type[5]: Property Flags = 0xe
+info:      Memory Type[6]: Property Flags = 0xe
+info:    Memory Heap[2]: 
+info:      Size: 256 MiB
+info:      Flags: 0x1
+info:      Memory Type[3]: Property Flags = 0x7
+info:      Memory Type[4]: Property Flags = 0x7
+info:  Process set as DPI aware
+GetUserDefaultLocaleName=(en-US)
+Detected language (English)
+InitialWorkingDirectory=Z:\run\media\pc\Files_N_Backup\FalloutNewVegas
+BinaryDirectory=Z:\run\media\pc\Files_N_Backup\FalloutNewVegas
+BinaryPath="FalloutNVLauncher.exe"
+ParseCommandLineArguments=0
+EpicLocale=en
+SupportedLanguages.emplace(English)
+SupportedLanguages.emplace(French)
+SupportedLanguages.emplace(German)
+SupportedLanguages.emplace(Italian)
+SupportedLanguages.emplace(Spanish)
+Languages=English, French, German, Italian, Spanish
+IsSupported=1(English)
+FallbackLocalizedGamePath=English
+LocalePath=Fallout New Vegas English
+FallbackLocalePath=Fallout New Vegas English
+pass_through_arguments=1
+Forwarded Arguments=-AUTH_LOGIN=unused -AUTH_PASSWORD=c088ba7653af458eb642de66d1193bb4 -AUTH_TYPE=exchangecode -epicapp=5daeb974a22a435988892319b3a4f476 -epicenv=Prod -EpicPortal -epicusername=Usurper_001 -epicuserid=24262fc87a824d7f81a5963318224d6e -epiclocale=en -epicsandboxid=3428aaab2c674c98b3acb789dcfaa548
+Arguments= -AUTH_LOGIN=unused -AUTH_PASSWORD=c088ba7653af458eb642de66d1193bb4 -AUTH_TYPE=exchangecode -epicapp=5daeb974a22a435988892319b3a4f476 -epicenv=Prod -EpicPortal -epicusername=Usurper_001 -epicuserid=24262fc87a824d7f81a5963318224d6e -epiclocale=en -epicsandboxid=3428aaab2c674c98b3acb789dcfaa548
+EnhancedProcessDetection=1
+ProcessTrackingNames=FalloutNV.exe
+bethnet_enabled=1
+bethnet_product_name=Fallout New Vegas
+bethnet_product_version=1.0.0.0
+bethnet_id=1oyzzFC247Mr5weLqwFm6s20rVEKHSzDv0EMkNTr1CLUhtsFKGb5WoIKsg4xtacHwuAvSRFQ6wRWcokEkel9FXaCSwnAIZBiYBOukpLpMfAxxMpdr2WKQe1QCz6uEkC/HC2NklK/9cLRuN6qTIh3sWtvoL3+KLxBt4fREh1t1VKAWgTyu3EhFbp99G3HUxHMPA==
+Decoding Base64 Key...
+Binary Key:
+֌��P��+���f�ʹ�Q
+,ÿA����"Ԇ�(f�Z�
+�1����/IP�Vr���}v�K	�!�b`����1�1��]�e�A�P>�@�-��R���ѸުL�w�ko���(�A���m�R�Z�q!�}�m�S�<
 
-(wine:14572): GStreamer-WARNING **: 20:54:14.759: Failed to load plugin '/home/pc/.local/share/Steam/steamapps/common/Proton - Experimental/files/lib64/gstreamer-1.0/libgstvideoparsersbad.so': /home/pc/.local/share/Steam/steamapps/common/Proton - Experimental/files/lib64/gstreamer-1.0/libgstvideoparsersbad.so: wrong ELF class: ELFCLASS64
+Decrypted Key:
+O0VsLiU9SXVQSndBbERPZzBZR3xLcV8waywJLWdTSSF3dTlTSkZFZVZVbTJbdmFtdVFlJSJfeHF-cVFvcSJfaGxxfHZuIkoxYF4kJmh0RXl9JFdpJ081SC5cfTMMIgko
+bethnet_id=O0VsLiU9SXVQSndBbERPZzBZR3xLcV8waywJLWdTSSF3dTlTSkZFZVZVbTJbdmFtdVFlJSJfeHF-cVFvcSJfaGxxfHZuIkoxYF4kJmh0RXl9JFdpJ081SC5cfTMMIgko
+bethnet_platform=EPIC
+bethnet_puid_cfg_path=%LOCALAPPDATA%\BethesdaNet\EGS
+bethnet_puid_cfg_file=FalloutNV.cfg
+BDK Engine State Log (Info): BDK Creating
 
-(wine:14572): GStreamer-WARNING **: 20:54:14.759: Failed to load plugin '/home/pc/.local/share/Steam/steamapps/common/Proton - Experimental/files/lib64/gstreamer-1.0/libgstdebug.so': /home/pc/.local/share/Steam/steamapps/common/Proton - Experimental/files/lib64/gstreamer-1.0/libgstdebug.so: wrong ELF class: ELFCLASS64
+BDK Engine State Log (Info): BDK Starting
 
-(wine:14572): GStreamer-WARNING **: 20:54:14.759: Failed to load plugin '/home/pc/.local/share/Steam/steamapps/common/Proton - Experimental/files/lib64/gstreamer-1.0/libgstcoretracers.so': /home/pc/.local/share/Steam/steamapps/common/Proton - Experimental/files/lib64/gstreamer-1.0/libgstcoretracers.so: wrong ELF class: ELFCLASS64
+BDK Engine State Log (Debug): BDK Running
 
-(wine:14572): GStreamer-WARNING **: 20:54:14.759: Failed to load plugin '/home/pc/.local/share/Steam/steamapps/common/Proton - Experimental/files/lib64/gstreamer-1.0/libgstpbtypes.so': /home/pc/.local/share/Steam/steamapps/common/Proton - Experimental/files/lib64/gstreamer-1.0/libgstpbtypes.so: wrong ELF class: ELFCLASS64
+BDK Network Log (Debug): 
+Sending request (1): POST api.bethesda.net/log/v3/collect_logdata
+	Header: X-BNET-Agent: Fallout New Vegas;1.0.0.0;BDK;2.0005.000000;EPIC
+	Header: Accept: application/json
+	Header: X-BNET-Key: O0VsLiU9...
+	Header: Content-Type: application/json
+	Body: { "event_type": "game_start", "environment": "live", "logdata": { "header": { "event_type": "game_start", "environment": "prod", "platform_id": 21, "game_version": "1.0.0.0", "player_ip": null, "server_ip": null, "server_source": null, "server_version": null, "timestamp": 1724827126, "timestamp_ms": 754881, "session_id": "f19e7d00-4418-4c2e-8ea5-b89de679d719", "bdk_version": "2.0005.000000"} , "payload": { "persistent_uuid": "3a4f60f7-78db-4f03-8f0b-4379ed114364", "buid": null, "start_reason": 1} } } 
 
-(wine:14572): GStreamer-WARNING **: 20:54:14.760: Failed to load plugin '/home/pc/.local/share/Steam/steamapps/common/Proton - Experimental/files/lib64/gstreamer-1.0/libgstmpg123.so': /home/pc/.local/share/Steam/steamapps/common/Proton - Experimental/files/lib64/gstreamer-1.0/libgstmpg123.so: wrong ELF class: ELFCLASS64
+BDK Network Log (Debug): Response received (1): HTTP 200
 
-(wine:14572): GStreamer-WARNING **: 20:54:14.760: Failed to load plugin '/home/pc/.local/share/Steam/steamapps/common/Proton - Experimental/files/lib64/gstreamer-1.0/libgstplayback.so': /home/pc/.local/share/Steam/steamapps/common/Proton - Experimental/files/lib64/gstreamer-1.0/libgstplayback.so: wrong ELF class: ELFCLASS64
+BDK Network Log (Debug): 	Body (1): {"code":2000,"message":"success"}
 
-(wine:14572): GStreamer-WARNING **: 20:54:14.760: Failed to load plugin '/home/pc/.local/share/Steam/steamapps/common/Proton - Experimental/files/lib64/gstreamer-1.0/libgstdeinterlace.so': /home/pc/.local/share/Steam/steamapps/common/Proton - Experimental/files/lib64/gstreamer-1.0/libgstdeinterlace.so: wrong ELF class: ELFCLASS64
+ProcessTrackingNameList.emplace(FalloutNV.exe)
+BDK Engine State Log (Info): BDK Stopping
 
-(wine:14572): GStreamer-WARNING **: 20:54:14.760: Failed to load plugin '/home/pc/.local/share/Steam/steamapps/common/Proton - Experimental/files/lib64/gstreamer-1.0/libgstlibav.so': /home/pc/.local/share/Steam/steamapps/common/Proton - Experimental/files/lib64/gstreamer-1.0/libgstlibav.so: wrong ELF class: ELFCLASS64
+BDK Engine State Log (Debug): BDK Terminating
 
-(wine:14572): GStreamer-WARNING **: 20:54:14.760: Failed to load plugin '/home/pc/.local/share/Steam/steamapps/common/Proton - Experimental/files/lib64/gstreamer-1.0/libgstwavparse.so': /home/pc/.local/share/Steam/steamapps/common/Proton - Experimental/files/lib64/gstreamer-1.0/libgstwavparse.so: wrong ELF class: ELFCLASS64
+BDK Network Log (Debug): 
+Sending request (2): POST api.bethesda.net/log/v3/collect_logdata
+	Header: X-BNET-Agent: Fallout New Vegas;1.0.0.0;BDK;2.0005.000000;EPIC
+	Header: Accept: application/json
+	Header: X-BNET-Key: O0VsLiU9...
+	Header: Content-Type: application/json
+	Body: { "event_type": "game_stop", "environment": "live", "logdata": { "header": { "event_type": "game_stop", "environment": "prod", "platform_id": 21, "game_version": "1.0.0.0", "player_ip": null, "server_ip": null, "server_source": null, "server_version": null, "timestamp": 1724827139, "timestamp_ms": 794595, "session_id": "f19e7d00-4418-4c2e-8ea5-b89de679d719", "bdk_version": "2.0005.000000"} , "payload": { "persistent_uuid": "3a4f60f7-78db-4f03-8f0b-4379ed114364", "buid": null, "stop_reason": 1} } } 
 
-(wine:14572): GStreamer-WARNING **: 20:54:14.760: Failed to load plugin '/home/pc/.local/share/Steam/steamapps/common/Proton - Experimental/files/lib64/gstreamer-1.0/libgstximagesink.so': /home/pc/.local/share/Steam/steamapps/common/Proton - Experimental/files/lib64/gstreamer-1.0/libgstximagesink.so: wrong ELF class: ELFCLASS64
+BDK Network Log (Debug): Response received (2): HTTP 200
 
-(wine:14572): GStreamer-WARNING **: 20:54:14.760: Failed to load plugin '/home/pc/.local/share/Steam/steamapps/common/Proton - Experimental/files/lib64/gstreamer-1.0/libgstopus.so': /home/pc/.local/share/Steam/steamapps/common/Proton - Experimental/files/lib64/gstreamer-1.0/libgstopus.so: wrong ELF class: ELFCLASS64
+BDK Network Log (Debug): 	Body (2): {"code":2000,"message":"success"}
 
-(wine:14572): GStreamer-WARNING **: 20:54:14.760: Failed to load plugin '/home/pc/.local/share/Steam/steamapps/common/Proton - Experimental/files/lib64/gstreamer-1.0/libgstaudioresample.so': /home/pc/.local/share/Steam/steamapps/common/Proton - Experimental/files/lib64/gstreamer-1.0/libgstaudioresample.so: wrong ELF class: ELFCLASS64
+BDK Engine State Log (Info): BDK Destroying
 
-(wine:14572): GStreamer-WARNING **: 20:54:14.760: Failed to load plugin '/home/pc/.local/share/Steam/steamapps/common/Proton - Experimental/files/lib64/gstreamer-1.0/libgstvorbis.so': /home/pc/.local/share/Steam/steamapps/common/Proton - Experimental/files/lib64/gstreamer-1.0/libgstvorbis.so: wrong ELF class: ELFCLASS64
-
-(wine:14572): GStreamer-WARNING **: 20:54:14.760: Failed to load plugin '/home/pc/.local/share/Steam/steamapps/common/Proton - Experimental/files/lib64/gstreamer-1.0/libgstmpegtsdemux.so': /home/pc/.local/share/Steam/steamapps/common/Proton - Experimental/files/lib64/gstreamer-1.0/libgstmpegtsdemux.so: wrong ELF class: ELFCLASS64
-
-(wine:14572): GStreamer-WARNING **: 20:54:14.760: Failed to load plugin '/home/pc/.local/share/Steam/steamapps/common/Proton - Experimental/files/lib64/gstreamer-1.0/libgsttheora.so': /home/pc/.local/share/Steam/steamapps/common/Proton - Experimental/files/lib64/gstreamer-1.0/libgsttheora.so: wrong ELF class: ELFCLASS64
-
-(wine:14572): GStreamer-WARNING **: 20:54:14.760: Failed to load plugin '/home/pc/.local/share/Steam/steamapps/common/Proton - Experimental/files/lib64/gstreamer-1.0/libgstvideobox.so': /home/pc/.local/share/Steam/steamapps/common/Proton - Experimental/files/lib64/gstreamer-1.0/libgstvideobox.so: wrong ELF class: ELFCLASS64
-
-(wine:14572): GStreamer-WARNING **: 20:54:14.760: Failed to load plugin '/home/pc/.local/share/Steam/steamapps/common/Proton - Experimental/files/lib64/gstreamer-1.0/libgstdav1d.so': /home/pc/.local/share/Steam/steamapps/common/Proton - Experimental/files/lib64/gstreamer-1.0/libgstdav1d.so: wrong ELF class: ELFCLASS64
-
-(wine:14572): GStreamer-WARNING **: 20:54:14.760: Failed to load plugin '/home/pc/.local/share/Steam/steamapps/common/Proton - Experimental/files/lib64/gstreamer-1.0/libgsthls.so': /home/pc/.local/share/Steam/steamapps/common/Proton - Experimental/files/lib64/gstreamer-1.0/libgsthls.so: wrong ELF class: ELFCLASS64
-
-(wine:14572): GStreamer-WARNING **: 20:54:14.760: Failed to load plugin '/home/pc/.local/share/Steam/steamapps/common/Proton - Experimental/files/lib64/gstreamer-1.0/libgstvideofilter.so': /home/pc/.local/share/Steam/steamapps/common/Proton - Experimental/files/lib64/gstreamer-1.0/libgstvideofilter.so: wrong ELF class: ELFCLASS64
-
-(wine:14572): GStreamer-WARNING **: 20:54:14.760: Failed to load plugin '/home/pc/.local/share/Steam/steamapps/common/Proton - Experimental/files/lib64/gstreamer-1.0/libgstapp.so': /home/pc/.local/share/Steam/steamapps/common/Proton - Experimental/files/lib64/gstreamer-1.0/libgstapp.so: wrong ELF class: ELFCLASS64
-
-(wine:14572): GStreamer-WARNING **: 20:54:14.760: Failed to load plugin '/home/pc/.local/share/Steam/steamapps/common/Proton - Experimental/files/lib64/gstreamer-1.0/libgstautodetect.so': /home/pc/.local/share/Steam/steamapps/common/Proton - Experimental/files/lib64/gstreamer-1.0/libgstautodetect.so: wrong ELF class: ELFCLASS64
-
-(wine:14572): GStreamer-WARNING **: 20:54:14.760: Failed to load plugin '/home/pc/.local/share/Steam/steamapps/common/Proton - Experimental/files/lib64/gstreamer-1.0/libgstavi.so': /home/pc/.local/share/Steam/steamapps/common/Proton - Experimental/files/lib64/gstreamer-1.0/libgstavi.so: wrong ELF class: ELFCLASS64
-
-(wine:14572): GStreamer-WARNING **: 20:54:14.760: Failed to load plugin '/home/pc/.local/share/Steam/steamapps/common/Proton - Experimental/files/lib64/gstreamer-1.0/libgstsoup.so': /home/pc/.local/share/Steam/steamapps/common/Proton - Experimental/files/lib64/gstreamer-1.0/libgstsoup.so: wrong ELF class: ELFCLASS64
-
-(wine:14572): GStreamer-WARNING **: 20:54:14.761: Failed to load plugin '/home/pc/.local/share/Steam/steamapps/common/Proton - Experimental/files/lib64/gstreamer-1.0/libgsttypefindfunctions.so': /home/pc/.local/share/Steam/steamapps/common/Proton - Experimental/files/lib64/gstreamer-1.0/libgsttypefindfunctions.so: wrong ELF class: ELFCLASS64
-
-(wine:14572): GStreamer-WARNING **: 20:54:14.761: Failed to load plugin '/home/pc/.local/share/Steam/steamapps/common/Proton - Experimental/files/lib64/gstreamer-1.0/libgstaudioconvert.so': /home/pc/.local/share/Steam/steamapps/common/Proton - Experimental/files/lib64/gstreamer-1.0/libgstaudioconvert.so: wrong ELF class: ELFCLASS64
-
-(wine:14572): GStreamer-WARNING **: 20:54:14.761: Failed to load plugin '/home/pc/.local/share/Steam/steamapps/common/Proton - Experimental/files/lib64/gstreamer-1.0/libgstmatroska.so': /home/pc/.local/share/Steam/steamapps/common/Proton - Experimental/files/lib64/gstreamer-1.0/libgstmatroska.so: wrong ELF class: ELFCLASS64
-
-(wine:14572): GStreamer-WARNING **: 20:54:14.761: Failed to load plugin '/home/pc/.local/share/Steam/steamapps/common/Proton - Experimental/files/lib64/gstreamer-1.0/libgstogg.so': /home/pc/.local/share/Steam/steamapps/common/Proton - Experimental/files/lib64/gstreamer-1.0/libgstogg.so: wrong ELF class: ELFCLASS64
-
-(wine:14572): GStreamer-WARNING **: 20:54:14.761: Failed to load plugin '/home/pc/.local/share/Steam/steamapps/common/Proton - Experimental/files/lib64/gstreamer-1.0/libgstvpx.so': /home/pc/.local/share/Steam/steamapps/common/Proton - Experimental/files/lib64/gstreamer-1.0/libgstvpx.so: wrong ELF class: ELFCLASS64
-
-(wine:14572): GStreamer-WARNING **: 20:54:14.761: Failed to load plugin '/home/pc/.local/share/Steam/steamapps/common/Proton - Experimental/files/lib64/gstreamer-1.0/libgstid3demux.so': /home/pc/.local/share/Steam/steamapps/common/Proton - Experimental/files/lib64/gstreamer-1.0/libgstid3demux.so: wrong ELF class: ELFCLASS64
-
-(wine:14572): GStreamer-WARNING **: 20:54:14.761: Failed to load plugin '/home/pc/.local/share/Steam/steamapps/common/Proton - Experimental/files/lib64/gstreamer-1.0/libgstcoreelements.so': /home/pc/.local/share/Steam/steamapps/common/Proton - Experimental/files/lib64/gstreamer-1.0/libgstcoreelements.so: wrong ELF class: ELFCLASS64
-
-(wine:14572): GStreamer-WARNING **: 20:54:14.761: Failed to load plugin '/home/pc/.local/share/Steam/steamapps/common/Proton - Experimental/files/lib64/gstreamer-1.0/libgstisomp4.so': /home/pc/.local/share/Steam/steamapps/common/Proton - Experimental/files/lib64/gstreamer-1.0/libgstisomp4.so: wrong ELF class: ELFCLASS64
-
-(wine:14572): GStreamer-WARNING **: 20:54:14.761: Failed to load plugin '/home/pc/.local/share/Steam/steamapps/common/Proton - Experimental/files/lib64/gstreamer-1.0/libgstapetag.so': /home/pc/.local/share/Steam/steamapps/common/Proton - Experimental/files/lib64/gstreamer-1.0/libgstapetag.so: wrong ELF class: ELFCLASS64
-
-(wine:14572): GStreamer-WARNING **: 20:54:14.761: Failed to load plugin '/home/pc/.local/share/Steam/steamapps/common/Proton - Experimental/files/lib64/gstreamer-1.0/libgstaudioparsers.so': /home/pc/.local/share/Steam/steamapps/common/Proton - Experimental/files/lib64/gstreamer-1.0/libgstaudioparsers.so: wrong ELF class: ELFCLASS64
-
-(wine:14572): GStreamer-WARNING **: 20:54:14.761: Failed to load plugin '/home/pc/.local/share/Steam/steamapps/common/Proton - Experimental/files/lib64/gstreamer-1.0/libgstadder.so': /home/pc/.local/share/Steam/steamapps/common/Proton - Experimental/files/lib64/gstreamer-1.0/libgstadder.so: wrong ELF class: ELFCLASS64
-
-(wine:14572): GStreamer-WARNING **: 20:54:14.761: Failed to load plugin '/home/pc/.local/share/Steam/steamapps/common/Proton - Experimental/files/lib64/gstreamer-1.0/libgstvideoconvertscale.so': /home/pc/.local/share/Steam/steamapps/common/Proton - Experimental/files/lib64/gstreamer-1.0/libgstvideoconvertscale.so: wrong ELF class: ELFCLASS64
-
-(wine:14572): GStreamer-WARNING **: 20:54:14.761: Failed to load plugin '/home/pc/.local/share/Steam/steamapps/common/Proton - Experimental/files/lib64/gstreamer-1.0/libgstopengl.so': /home/pc/.local/share/Steam/steamapps/common/Proton - Experimental/files/lib64/gstreamer-1.0/libgstopengl.so: wrong ELF class: ELFCLASS64
-
-(wine:14572): GStreamer-WARNING **: 20:54:14.761: Failed to load plugin '/home/pc/.local/share/Steam/steamapps/common/Proton - Experimental/files/lib64/gstreamer-1.0/libgstnavigationtest.so': /home/pc/.local/share/Steam/steamapps/common/Proton - Experimental/files/lib64/gstreamer-1.0/libgstnavigationtest.so: wrong ELF class: ELFCLASS64
-ERROR: ld.so: object 'libgamemodeauto.so.0' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
-ERROR: ld.so: object '/tmp/pressure-vessel-libs-95Y8R2/${LIB}/libMangoHud_dlsym.so' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
-ERROR: ld.so: object '/tmp/pressure-vessel-libs-95Y8R2/${LIB}/libMangoHud_opengl.so' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
-wine: using kernel write watches, use_kernel_writewatch 1.
-ERROR: ld.so: object 'libgamemodeauto.so.0' from LD_PRELOAD cannot be preloaded (cannot open shared object file): ignored.
 ============= End of log =============

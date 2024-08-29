@@ -1,10 +1,10 @@
 Launching "Grand Theft Auto V" (legendary)
 Native? No
-Installed in: /home/esata/GTAV
+Installed in: /run/media/pc/Files_N_Backup/GTAV
 
 System Info:
 CPU: 8x Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
-Memory: 12.27 GB (used: 1.11 GB)
+Memory: 12.27 GB (used: 2.12 GB)
 GPUs:
   GPU 0:
     Name: Advanced Micro Devices, Inc. [AMD/ATI] Jet PRO [Radeon R5 M230 / R7 M260DX / Radeon 520/610 Mobile]
@@ -36,6 +36,7 @@ Game Settings: {
 	"enableMsync": false,
 	"enableFSR": true,
 	"enableFsync": true,
+	"maxSharpness": 5,
 	"nvidiaPrime": true,
 	"offlineMode": false,
 	"enviromentOptions": [],
@@ -73,11 +74,11 @@ Game Settings: {
 	"DXVKFpsCap": "30"
 }
 
-Game launched at: Thu Aug 22 2024 10:16:58 GMT+0530 (India Standard Time)
+Game launched at: Thu Aug 29 2024 12:24:30 GMT+0530 (India Standard Time)
 
 Winetricks packages: 
 
-Launch Command: HEROIC_APP_NAME=9d2d0eb64d5c44529cece33fe2a46482 HEROIC_APP_RUNNER=legendary GAMEID=umu-0 HEROIC_APP_SOURCE=epic STORE=egs DRI_PRIME=1 __NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRARY_NAME=nvidia STEAM_COMPAT_INSTALL_PATH=/home/esata/GTAV LD_PRELOAD= STEAM_COMPAT_CLIENT_INSTALL_PATH=/home/pc/.steam/steam WINEPREFIX="/home/pc/Games/Heroic/Prefixes/default/Grand Theft Auto V" STEAM_COMPAT_DATA_PATH="/home/pc/Games/Heroic/Prefixes/default/Grand Theft Auto V" PROTONPATH=/home/pc/.config/heroic/tools/proton/Proton-GE-latest WINE_FULLSCREEN_FSR=1 WINE_FULLSCREEN_FSR_STRENGTH=2 PROTON_ENABLE_NVAPI=1 DXVK_NVAPI_ALLOW_OTHER_DRIVERS=1 STEAM_COMPAT_APP_ID=0 SteamAppId=0 SteamGameId=heroic-GTAV PROTON_LOG_DIR=/home/pc /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary launch 9d2d0eb64d5c44529cece33fe2a46482 --no-wine --wrapper "/usr/bin/mangohud --dlsym /usr/bin/gamemoderun "/home/pc/.config/heroic/tools/proton/Proton-GE-latest/proton" waitforexitandrun" --language en
+Launch Command: HEROIC_APP_NAME=9d2d0eb64d5c44529cece33fe2a46482 HEROIC_APP_RUNNER=legendary GAMEID=umu-0 HEROIC_APP_SOURCE=epic STORE=egs DRI_PRIME=1 __NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRARY_NAME=nvidia STEAM_COMPAT_INSTALL_PATH=/run/media/pc/Files_N_Backup/GTAV LD_PRELOAD= STEAM_COMPAT_CLIENT_INSTALL_PATH=/home/pc/.steam/steam WINEPREFIX="/home/pc/Games/Heroic/Prefixes/default/Grand Theft Auto V" STEAM_COMPAT_DATA_PATH="/home/pc/Games/Heroic/Prefixes/default/Grand Theft Auto V" PROTONPATH=/home/pc/.config/heroic/tools/proton/Proton-GE-latest WINE_FULLSCREEN_FSR=1 WINE_FULLSCREEN_FSR_STRENGTH=5 PROTON_ENABLE_NVAPI=1 DXVK_NVAPI_ALLOW_OTHER_DRIVERS=1 STEAM_COMPAT_APP_ID=0 SteamAppId=0 SteamGameId=heroic-GTAV PROTON_LOG_DIR=/home/pc /opt/Heroic/resources/app.asar.unpacked/build/bin/x64/linux/legendary launch 9d2d0eb64d5c44529cece33fe2a46482 --no-wine --wrapper "/usr/bin/mangohud --dlsym /usr/bin/gamemoderun "/home/pc/.config/heroic/tools/proton/Proton-GE-latest/proton" waitforexitandrun" --language en
 
 Game Log:
 [cli] INFO: Logging in...
@@ -87,11 +88,11 @@ Game Log:
 [cli] INFO: Launching 9d2d0eb64d5c44529cece33fe2a46482...
 gamemodeauto: 
 gamemodeauto: 
-[34mProtonFixes[1920] INFO: Running protonfixes[0m
-[34mProtonFixes[1920] INFO: Running checks[0m
-[34mProtonFixes[1920] INFO: All checks successful[0m
-[34mProtonFixes[1920] INFO: Using global defaults for UNKNOWN (0)[0m
-[34mProtonFixes[1920] INFO: No global protonfix found for UNKNOWN (0)[0m
+[34mProtonFixes[4544] INFO: Running protonfixes[0m
+[34mProtonFixes[4544] INFO: Running checks[0m
+[34mProtonFixes[4544] INFO: All checks successful[0m
+[34mProtonFixes[4544] INFO: Using global defaults for UNKNOWN (0)[0m
+[34mProtonFixes[4544] INFO: No global protonfix found for UNKNOWN (0)[0m
 gamemodeauto: 
 wine: using kernel write watches, use_kernel_writewatch 1.
 fsync: up and running.
@@ -120,18 +121,14 @@ wine: using kernel write watches, use_kernel_writewatch 1.
 WARNING: radv is not a conformant Vulkan implementation, testing use only.
 wine: using kernel write watches, use_kernel_writewatch 1.
 wine: using kernel write watches, use_kernel_writewatch 1.
+wine: using kernel write watches, use_kernel_writewatch 1.
+wine: using kernel write watches, use_kernel_writewatch 1.
+wine: using kernel write watches, use_kernel_writewatch 1.
 WARNING: radv is not a conformant Vulkan implementation, testing use only.
 WARNING: radv is not a conformant Vulkan implementation, testing use only.
 wine: using kernel write watches, use_kernel_writewatch 1.
 wine: using kernel write watches, use_kernel_writewatch 1.
-wine: using kernel write watches, use_kernel_writewatch 1.
-wine: using kernel write watches, use_kernel_writewatch 1.
-wine: using kernel write watches, use_kernel_writewatch 1.
-wine: Read access denied for device L"\\??\\D:\\", FS volume label and serial are not available.
-wine: Read access denied for device L"\\??\\E:\\", FS volume label and serial are not available.
 wine: Read access denied for device L"\\??\\Z:\\", FS volume label and serial are not available.
-wine: Read access denied for device L"\\??\\D:\\", FS volume label and serial are not available.
-wine: Read access denied for device L"\\??\\E:\\", FS volume label and serial are not available.
 wine: Read access denied for device L"\\??\\Z:\\", FS volume label and serial are not available.
 wine: using kernel write watches, use_kernel_writewatch 1.
 wine: using kernel write watches, use_kernel_writewatch 1.
@@ -141,28 +138,24 @@ wine: using kernel write watches, use_kernel_writewatch 1.
 WARNING: radv is not a conformant Vulkan implementation, testing use only.
 WARNING: radv is not a conformant Vulkan implementation, testing use only.
 WARNING: radv is not a conformant Vulkan implementation, testing use only.
-WARNING: radv is not a conformant Vulkan implementation, testing use only.
-WARNING: radv is not a conformant Vulkan implementation, testing use only.
-wine: using kernel write watches, use_kernel_writewatch 1.
-wine: using kernel write watches, use_kernel_writewatch 1.
-WARNING: radv is not a conformant Vulkan implementation, testing use only.
-wine: using kernel write watches, use_kernel_writewatch 1.
-WARNING: radv is not a conformant Vulkan implementation, testing use only.
-wine: using kernel write watches, use_kernel_writewatch 1.
-wine: using kernel write watches, use_kernel_writewatch 1.
-wine: using kernel write watches, use_kernel_writewatch 1.
-wine: using kernel write watches, use_kernel_writewatch 1.
-wine: using kernel write watches, use_kernel_writewatch 1.
-wine: using kernel write watches, use_kernel_writewatch 1.
-wine: using kernel write watches, use_kernel_writewatch 1.
-WARNING: radv is not a conformant Vulkan implementation, testing use only.
+ALSA lib seq_hw.c:528:(snd_seq_hw_open) open /dev/snd/seq failed: No such file or directory
 WARNING: radv is not a conformant Vulkan implementation, testing use only.
 WARNING: radv is not a conformant Vulkan implementation, testing use only.
 WARNING: radv is not a conformant Vulkan implementation, testing use only.
 WARNING: radv is not a conformant Vulkan implementation, testing use only.
 WARNING: radv is not a conformant Vulkan implementation, testing use only.
 wine: using kernel write watches, use_kernel_writewatch 1.
+wine: using kernel write watches, use_kernel_writewatch 1.
 WARNING: radv is not a conformant Vulkan implementation, testing use only.
+WARNING: radv is not a conformant Vulkan implementation, testing use only.
+wine: using kernel write watches, use_kernel_writewatch 1.
+wine: using kernel write watches, use_kernel_writewatch 1.
+wine: using kernel write watches, use_kernel_writewatch 1.
+wine: using kernel write watches, use_kernel_writewatch 1.
+wine: using kernel write watches, use_kernel_writewatch 1.
+wine: using kernel write watches, use_kernel_writewatch 1.
+wine: using kernel write watches, use_kernel_writewatch 1.
+wine: using kernel write watches, use_kernel_writewatch 1.
 WARNING: radv is not a conformant Vulkan implementation, testing use only.
 WARNING: radv is not a conformant Vulkan implementation, testing use only.
 WARNING: radv is not a conformant Vulkan implementation, testing use only.
@@ -170,5 +163,17 @@ WARNING: radv is not a conformant Vulkan implementation, testing use only.
 WARNING: radv is not a conformant Vulkan implementation, testing use only.
 WARNING: radv is not a conformant Vulkan implementation, testing use only.
 wine: using kernel write watches, use_kernel_writewatch 1.
-gamemodeauto: 
-============= End of log =============
+WARNING: radv is not a conformant Vulkan implementation, testing use only.
+WARNING: radv is not a conformant Vulkan implementation, testing use only.
+WARNING: radv is not a conformant Vulkan implementation, testing use only.
+WARNING: radv is not a conformant Vulkan implementation, testing use only.
+WARNING: radv is not a conformant Vulkan implementation, testing use only.
+WARNING: radv is not a conformant Vulkan implementation, testing use only.
+WARNING: radv is not a conformant Vulkan implementation, testing use only.
+WARNING: radv is not a conformant Vulkan implementation, testing use only.
+WARNING: radv is not a conformant Vulkan implementation, testing use only.
+WARNING: radv is not a conformant Vulkan implementation, testing use only.
+WARNING: radv is not a conformant Vulkan implementation, testing use only.
+WARNING: radv is not a conformant Vulkan implementation, testing use only.
+WARNING: radv is not a conformant Vulkan implementation, testing use only.
+WARNING: radv is not a conformant Vulkan implementation, testing use only.

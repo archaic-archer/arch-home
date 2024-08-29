@@ -547,7 +547,7 @@
 			"folder_name": "FalloutNewVegas",
 			"install": {
 				"executable": "Launcher.exe",
-				"install_path": "/home/esata/FalloutNewVegas",
+				"install_path": "/run/media/pc/Files_N_Backup/FalloutNewVegas",
 				"install_size": "6.68 GiB",
 				"is_dlc": false,
 				"version": "0.0.0.15",
@@ -582,7 +582,7 @@
 			"folder_name": "GTAV",
 			"install": {
 				"executable": "PlayGTAV.exe",
-				"install_path": "/home/esata/GTAV",
+				"install_path": "/run/media/pc/Files_N_Backup/GTAV",
 				"install_size": "112.95 GiB",
 				"is_dlc": false,
 				"version": "1.0.3274.0_v2",
@@ -3610,6 +3610,228 @@
 			"store_url": "https://www.epicgames.com/store/product/call-of-the-wild-the-angler"
 		},
 		{
+			"app_name": "256ba8bdd1ff4c26a0b2d3776d1a1bf6",
+			"art_cover": "https://cdn1.epicgames.com/item/6b0541b5d9aa476cbf407643ab3b1d7d/EGS_TheCallistoProtocol_StrikingDistanceStudios_S1_2560x1440-b99bb2275f932ed9beedefff5ced3baa",
+			"art_square": "https://cdn1.epicgames.com/item/6b0541b5d9aa476cbf407643ab3b1d7d/EGS_TheCallistoProtocol_StrikingDistanceStudios_S2_1200x1600-1e31eacc92833279f5b7a8d07cd3826c",
+			"cloud_save_enabled": false,
+			"developer": "KRAFTON, Inc.",
+			"extra": {
+				"about": {
+					"description": "The Callisto Protocol",
+					"shortDescription": ""
+				},
+				"reqs": [],
+				"storeUrl": "https://www.epicgames.com/store/product/the-callisto-protocol"
+			},
+			"dlcList": [
+				{
+					"ageGatings": {},
+					"applicationId": "",
+					"categories": [
+						{
+							"path": "audience"
+						},
+						{
+							"path": "public"
+						}
+					],
+					"creationDate": "2022-10-27T20:13:01.588Z",
+					"customAttributes": {},
+					"description": "Season Pass Audience",
+					"developer": "KRAFTON, Inc.",
+					"developerId": "o-s7enmfjrkkvdgtuzmbkeb5yq4rpwge",
+					"endOfSupport": false,
+					"entitlementName": "fa0b16cf0c4c43259f703fa9dc356f5e",
+					"entitlementType": "AUDIENCE",
+					"eulaIds": [
+						"egstore"
+					],
+					"id": "fa0b16cf0c4c43259f703fa9dc356f5e",
+					"itemType": "DURABLE",
+					"keyImages": [],
+					"lastModifiedDate": "2023-12-20T23:59:37.053Z",
+					"mainGameItem": {
+						"id": "96571224db9a4dae8414e06050230e51",
+						"namespace": "6b0541b5d9aa476cbf407643ab3b1d7d",
+						"unsearchable": false
+					},
+					"namespace": "6b0541b5d9aa476cbf407643ab3b1d7d",
+					"releaseInfo": [],
+					"requiresSecureAccount": false,
+					"status": "ACTIVE",
+					"title": "Season Pass Audience",
+					"unsearchable": true
+				},
+				{
+					"ageGatings": {},
+					"applicationId": "",
+					"categories": [
+						{
+							"path": "audience"
+						},
+						{
+							"path": "public"
+						}
+					],
+					"creationDate": "2022-10-27T20:08:31.898Z",
+					"customAttributes": {},
+					"description": "Outer Way Skin Audience",
+					"developer": "KRAFTON, Inc.",
+					"developerId": "o-s7enmfjrkkvdgtuzmbkeb5yq4rpwge",
+					"endOfSupport": false,
+					"entitlementName": "cff9a9f20d1044f3b848a6a588a74572",
+					"entitlementType": "AUDIENCE",
+					"eulaIds": [
+						"egstore"
+					],
+					"id": "cff9a9f20d1044f3b848a6a588a74572",
+					"itemType": "DURABLE",
+					"keyImages": [],
+					"lastModifiedDate": "2023-12-20T23:59:36.888Z",
+					"mainGameItem": {
+						"id": "96571224db9a4dae8414e06050230e51",
+						"namespace": "6b0541b5d9aa476cbf407643ab3b1d7d",
+						"unsearchable": false
+					},
+					"namespace": "6b0541b5d9aa476cbf407643ab3b1d7d",
+					"releaseInfo": [],
+					"requiresSecureAccount": false,
+					"status": "ACTIVE",
+					"title": "Outer Way Skin Audience",
+					"unsearchable": true
+				},
+				{
+					"ageGatings": {},
+					"applicationId": "",
+					"categories": [
+						{
+							"path": "audience"
+						},
+						{
+							"path": "public"
+						}
+					],
+					"creationDate": "2022-10-27T20:09:56.934Z",
+					"customAttributes": {},
+					"description": "DLC 2 Bundle Audience",
+					"developer": "KRAFTON, Inc.",
+					"developerId": "o-s7enmfjrkkvdgtuzmbkeb5yq4rpwge",
+					"endOfSupport": false,
+					"entitlementName": "2b300c75007b48e1b35674302fd2e72f",
+					"entitlementType": "AUDIENCE",
+					"eulaIds": [
+						"egstore"
+					],
+					"id": "2b300c75007b48e1b35674302fd2e72f",
+					"itemType": "DURABLE",
+					"keyImages": [],
+					"lastModifiedDate": "2023-12-20T23:59:36.873Z",
+					"mainGameItem": {
+						"id": "96571224db9a4dae8414e06050230e51",
+						"namespace": "6b0541b5d9aa476cbf407643ab3b1d7d",
+						"unsearchable": false
+					},
+					"namespace": "6b0541b5d9aa476cbf407643ab3b1d7d",
+					"releaseInfo": [],
+					"requiresSecureAccount": false,
+					"status": "ACTIVE",
+					"title": "DLC 2 Bundle Audience",
+					"unsearchable": true
+				},
+				{
+					"ageGatings": {},
+					"applicationId": "",
+					"categories": [
+						{
+							"path": "audience"
+						},
+						{
+							"path": "public"
+						}
+					],
+					"creationDate": "2022-10-27T20:11:53.728Z",
+					"customAttributes": {},
+					"description": "Riot Bundle Audience",
+					"developer": "KRAFTON, Inc.",
+					"developerId": "o-s7enmfjrkkvdgtuzmbkeb5yq4rpwge",
+					"endOfSupport": false,
+					"entitlementName": "f87633f6793e4025a45d4c9b49cc32f0",
+					"entitlementType": "AUDIENCE",
+					"eulaIds": [
+						"egstore"
+					],
+					"id": "f87633f6793e4025a45d4c9b49cc32f0",
+					"itemType": "DURABLE",
+					"keyImages": [],
+					"lastModifiedDate": "2023-12-20T23:59:36.892Z",
+					"mainGameItem": {
+						"id": "96571224db9a4dae8414e06050230e51",
+						"namespace": "6b0541b5d9aa476cbf407643ab3b1d7d",
+						"unsearchable": false
+					},
+					"namespace": "6b0541b5d9aa476cbf407643ab3b1d7d",
+					"releaseInfo": [],
+					"requiresSecureAccount": false,
+					"status": "ACTIVE",
+					"title": "Riot Bundle Audience",
+					"unsearchable": true
+				},
+				{
+					"ageGatings": {},
+					"applicationId": "",
+					"categories": [
+						{
+							"path": "audience"
+						},
+						{
+							"path": "public"
+						}
+					],
+					"creationDate": "2022-10-27T20:12:44.644Z",
+					"customAttributes": {},
+					"description": "Story DLC Bundle Audience",
+					"developer": "KRAFTON, Inc.",
+					"developerId": "o-s7enmfjrkkvdgtuzmbkeb5yq4rpwge",
+					"endOfSupport": false,
+					"entitlementName": "66e0de9a4e224a52b2f0a83cf72ac88f",
+					"entitlementType": "AUDIENCE",
+					"eulaIds": [
+						"egstore"
+					],
+					"id": "66e0de9a4e224a52b2f0a83cf72ac88f",
+					"itemType": "DURABLE",
+					"keyImages": [],
+					"lastModifiedDate": "2023-12-20T23:59:36.880Z",
+					"mainGameItem": {
+						"id": "96571224db9a4dae8414e06050230e51",
+						"namespace": "6b0541b5d9aa476cbf407643ab3b1d7d",
+						"unsearchable": false
+					},
+					"namespace": "6b0541b5d9aa476cbf407643ab3b1d7d",
+					"releaseInfo": [],
+					"requiresSecureAccount": false,
+					"status": "ACTIVE",
+					"title": "Story DLC Bundle Audience",
+					"unsearchable": true
+				}
+			],
+			"folder_name": "TheCallistoProtocol",
+			"install": {
+				"install_size": "0",
+				"is_dlc": false
+			},
+			"is_installed": false,
+			"namespace": "6b0541b5d9aa476cbf407643ab3b1d7d",
+			"is_mac_native": false,
+			"save_folder": "",
+			"title": "The Callisto Protocol",
+			"canRunOffline": false,
+			"isEAManaged": false,
+			"is_linux_native": false,
+			"runner": "legendary",
+			"store_url": "https://www.epicgames.com/store/product/the-callisto-protocol"
+		},
+		{
 			"app_name": "Calluna",
 			"art_cover": "https://cdn1.epicgames.com/item/calluna/Control_Landscape_Image_2560X1440_2560x1440-ec7b2eb03bb70f61d17ed01fa76d95a6",
 			"art_square": "https://cdn1.epicgames.com/item/calluna/Control_Portrait_Storefront_1200X1600_1200x1600-456c920cae7a0aa9b36670cd5e1237a1",
@@ -6126,6 +6348,43 @@
 					"requiresSecureAccount": false,
 					"status": "ACTIVE",
 					"title": "mellowyellow BDL19 audience",
+					"unsearchable": true
+				},
+				{
+					"categories": [
+						{
+							"path": "addons"
+						}
+					],
+					"creationDate": "2024-08-27T11:15:51.738Z",
+					"customAttributes": {
+						"CanRunOffline": {
+							"type": "STRING",
+							"value": "true"
+						}
+					},
+					"description": "mellowyellow BDL20",
+					"developer": "Bungie",
+					"developerId": "o-49lqsefbl6zr5sy3ztak77ej97cuvh",
+					"endOfSupport": false,
+					"entitlementName": "d471a9455b554003b63872cbb755720d",
+					"entitlementType": "EXECUTABLE",
+					"eulaIds": [
+						"egstore"
+					],
+					"id": "d471a9455b554003b63872cbb755720d",
+					"itemType": "DURABLE",
+					"lastModifiedDate": "2024-08-27T11:15:51.738Z",
+					"mainGameItem": {
+						"id": "06bd477f9fbe4259a1421fb3f559aa46",
+						"namespace": "428115def4ca4deea9d69c99c5a5a99e",
+						"unsearchable": false
+					},
+					"namespace": "428115def4ca4deea9d69c99c5a5a99e",
+					"releaseInfo": [],
+					"requiresSecureAccount": false,
+					"status": "ACTIVE",
+					"title": "mellowyellow BDL20",
 					"unsearchable": true
 				}
 			],
@@ -25876,6 +26135,6 @@
 		}
 	],
 	"__timestamp": {
-		"library": "Thu Aug 22 2024 11:22:17 GMT+0530 (India Standard Time)"
+		"library": "Thu Aug 29 2024 12:24:21 GMT+0530 (India Standard Time)"
 	}
 }

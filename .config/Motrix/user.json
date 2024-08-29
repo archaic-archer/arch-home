@@ -10,12 +10,13 @@
 	"history-directories": [
 		"/home/pc",
 		"/home/pc/hdd1/Downloads",
-		"/home/hdd1/Downloads"
+		"/home/hdd1/Downloads",
+		"/home/pc/Downloads"
 	],
 	"keep-seeding": false,
 	"keep-window-state": false,
 	"last-check-update-time": 0,
-	"last-sync-tracker-time": 1723966037523,
+	"last-sync-tracker-time": 1724490980730,
 	"locale": "en-US",
 	"log-level": "warn",
 	"new-task-show-downloading": true,

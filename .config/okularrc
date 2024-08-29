@@ -1,5 +1,7 @@
 [Desktop Entry]
 FullScreen=false
+shouldShowMenuBarComingFromFullScreen=true
+shouldShowToolBarComingFromFullScreen=true
 
 [General]
 LockSidebar=true
@@ -9,26 +11,26 @@ ShowSidebar=false
 ToolBarsMovable=Disabled
 
 [Recent Files]
-File1[$e]=/home/hdd1/shared/Amit/P2271047.pdf
-File10[$e]=/E-SSD/shared/Amit/JD- Amit_Tender and commercial_2024-25.pdf
-File2[$e]=/home/hdd1/P2271050_SAURABH KUMAR.pdf
-File3[$e]=/home/hdd1/Android/Download/17.P2271050_Migration(1).pdf
-File4[$e]=/home/hdd1/Android/Download/17.P2271050_Migration.pdf
-File5[$e]=/home/hdd1/Android/Documents/P2271050_SAURABH KUMAR.pdf
-File6[$e]=/home/hdd1/Backup/Documents/BTech_Marksheets_Merged.pdf
-File7[$e]=$HOME/Downloads/KEC Corporate Presentation_07_May.2024.pdf
-File8[$e]=$HOME/Downloads/Profile.pdf
-File9[$e]=$HOME/Downloads/p2271050-saurabh-kumar.pdf
-Name1[$e]=P2271047.pdf
-Name10[$e]=JD- Amit_Tender and commercial_2024-25.pdf
+File1[$e]=/home/hdd1/Android/Download/17.P2271050_Migration.pdf
+File10[$e]=$HOME/Documents/Amit vishwakarma.pdf
+File2[$e]=/home/hdd1/Android/Documents/P2271050_SAURABH KUMAR.pdf
+File3[$e]=/home/hdd1/Backup/Documents/BTech_Marksheets_Merged.pdf
+File4[$e]=$HOME/Downloads/KEC Corporate Presentation_07_May.2024.pdf
+File5[$e]=$HOME/Downloads/Profile.pdf
+File6[$e]=$HOME/Downloads/p2271050-saurabh-kumar.pdf
+File7[$e]=/E-SSD/shared/Amit/JD- Amit_Tender and commercial_2024-25.pdf
+File8[$e]=/run/media/pc/Files_N_Backup/shared/Amit/P2271047.pdf
+File9[$e]=$HOME/Documents/Amit_Resume.pdf
+Name1[$e]=17.P2271050_Migration.pdf
+Name10[$e]=Amit vishwakarma.pdf
 Name2[$e]=P2271050_SAURABH KUMAR.pdf
-Name3[$e]=17.P2271050_Migration(1).pdf
-Name4[$e]=17.P2271050_Migration.pdf
-Name5[$e]=P2271050_SAURABH KUMAR.pdf
-Name6[$e]=BTech_Marksheets_Merged.pdf
-Name7[$e]=KEC Corporate Presentation_07_May.2024.pdf
-Name8[$e]=Profile.pdf
-Name9[$e]=p2271050-saurabh-kumar.pdf
+Name3[$e]=BTech_Marksheets_Merged.pdf
+Name4[$e]=KEC Corporate Presentation_07_May.2024.pdf
+Name5[$e]=Profile.pdf
+Name6[$e]=p2271050-saurabh-kumar.pdf
+Name7[$e]=JD- Amit_Tender and commercial_2024-25.pdf
+Name8[$e]=P2271047.pdf
+Name9[$e]=Amit_Resume.pdf
 
 [UiSettings]
 ColorScheme=KvArcDark

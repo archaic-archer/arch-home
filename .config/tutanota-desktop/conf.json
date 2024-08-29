@@ -12,10 +12,10 @@
     "scale": 1,
     "fullscreen": false,
     "rect": {
-      "x": 0,
-      "y": 34,
-      "width": 1920,
-      "height": 1046
+      "x": 968,
+      "y": 49,
+      "width": 937,
+      "height": 982
     }
   },
   "appPassSalt": null,
@@ -126,7 +126,7 @@
     }
   ],
   "selectedTheme": "auto:light|dark",
-  "sseInfo": "AanHMjGR50Pyf8k2PbZkcb538CHgXoHuYL+MBUSUhTYMQNmZ8gENk54V445/+R0Zu6YLb0qrMReuqqDio7jS2Huxdp8FCLL4QA5vS7q2a7/8u+22R3q/a1K0z5rLzVogcZV3IrhVPVYL0hU8ZPShzuW/fJkS31d3w+5zWpGgZv7iyzDp79FFl19M20f68ixcVJDhz2W7kJa503+NA0Qyx/DsibufajQc83ZZkBBJIVwwpr0YClYgCj19BPr4FLpwrEZ1j011zM6+/XPfrpdy2FVOfMmk2G/+PPuYHdulgsnslyBz3T2UxMINlYVEkTTV/0Jgo2KjheaTU/HmK9lZ+tI8CR8xdgl9hdRyYi7HEVoV8GFEN8W5aHQe3djBcGIhl3n7CsKBHA3OOEJZBESkQH86GBWrDUxyYJcN/TujpsWeQFIyIscxslLMtnS8/nDZk+yDOY3ryBQ3uT9nn4KVwJR0NBrzjbMpPEkb/29xQfaEV+iplXLSeqJN859c4YPrz8L12Uk2a7TsmRLjVIkMecGPckPpgr4rr/vkuvf9ivEwPIeVTD3yHpgHSroMjPLqnYpTcMEokQxP1PvsnlyHchDLZuyGV+gyqqN6+Bg/RwmlklubJWVX5uz8wzVy5UsfvNf9YXa2eYN4T3JpUFKmAvVDKpZnodrPcOGWUg5NX+r+FeJnPU1Hqrr+ZRSLvoK1mR1M1kfIy2XAYJNiXffFXqCa3AGN72nFQTxuU3K/NF5Yj35S7Me/3NUvrSRgsKPhFw==",
+  "sseInfo": "ASLjkdGoLqf3v+uQAGhaTb9jQSUGsQNlVnnU41i3vSNbfWmZ33PRji+Nw7EJhWVQFF7xcWJfMhwl5TTOz+axTkbuvxW3Ql0w5OP2elvQr6LwHUWkfgFxQDHgsUnObg5wdVz+da7lNFBZTHtszWOW37MkXprLALQTloizUBN5G/GUsY31/DpliKHYLZ20gHWNbITs/Jj3ENZbq3v9y8FwR5zPNY3+0dfCGmu8tjyvCD+2RG6ORi7qLdAL900Ze/erbDsb751Ei6xhA3L0dq3bM2a3LPqH9YbDl5D8jaht+6XQR9gbN2D44NofJ5MNkoycOcSdK3Ru+kupT8ggRkvj/VOo56V7K8qHVQOqnqaQqpXq3TCmUhc6nab5Gw233DjpEKNBjpRPKNR8AK6t0y3OrDovMO+6GZiobS70dlNuGRCPuUPEOytqhXJoNLNx38IItf9U8uolfsZglvKmdnC5dBeQHIVwKbA/ZOGNNj9novOBoA1Scpl+VaUuqXwUtwSyYCiuPukzIsDQ54ZOG96o2YjG03Bq5DfF2L1U1OF8zoO/a5nPokP0gafIupwCtVjBoikKHrrlzskBbPfo48QVyAqTOK2IuYr9+1nTnbLLzrAFdM/li9Jr6GEaBZptbGoTItLypxLss3kZSTbIILqeHccYZUxQ7ReGeMGDXxfzKZe80XIUIxyqGruky9VhFSO3o4EoxCiNOtub5mcn0VFx+61DVVkrhwsSCDpdXuaAL98IVZb+DtVY5HdGMoB1pNS8cCODnpfeSxQAAMpRzgEXSW9+qPDiGmtDqNPYeXUGHzoJQH62p9Q4dIfom8CxuJP3zre6mMHN6MUrcFQbadDk4Uc7ibWt/fLE7C3xeT0LdiRe5QbGgTM4ha/vnN6VpFDLgYmRbKeqpstBuduroo/mkXNULmwN8/ppjInurONC63+Hx8KCrm794nWZcik5qremrsw+H6K+8/GdcQSSbcBTqlI3l071vLvTvnJ5h4ysR9kS4ZVUMD+5WfyDZw30DsZuSw==",
   "extendedNotificationMode": {
     "L_nsjny----1": "1"
   },
@@ -172,6 +172,6 @@
       "user": "L_nsjny----1"
     }
   ],
-  "lastMissedNotificationCheckTime": 1724326308103,
-  "lastProcessedNotificationId": "O4tgxif-----"
+  "lastMissedNotificationCheckTime": 1724935203155,
+  "lastProcessedNotificationId": "O5T-gVM----9"
 }
