@@ -9,8 +9,8 @@ AdjusterMaxDelay=200
 MultiUser=true
 Language=English (US)
 LanguageAutoDetect=true
-Theme=RawTherapee-GTK3-20_
-Version=5.10
+Theme=RawTherapee
+Version=5.11
 DarkFramesPath=
 FlatFieldsPath=
 CameraProfilesPath=
@@ -50,11 +50,11 @@ SameThumbSize=0
 MaxPreviewHeight=250
 MaxPreviewWidth=800
 MaxCacheEntries=20000
-ParseExtensions=3fr;arw;arq;cr2;cr3;crf;crw;dcr;dng;fff;iiq;jpg;jpeg;kdc;mef;mos;mrw;nef;nrw;orf;ori;pef;png;raf;raw;rw2;rwl;rwz;sr2;srf;srw;tif;tiff;x3f;
-ParseExtensionsEnabled=1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;0;1;0;1;1;1;1;1;1;1;1;1;1;1;
+ParseExtensions=3fr;arq;arw;cr2;cr3;crf;crw;dcr;dng;fff;iiq;jpeg;jpg;jxl;kdc;mef;mos;mrw;nef;nrw;orf;ori;pef;png;raf;raw;rw2;rwl;rwz;sr2;srf;srw;tif;tiff;x3f;
+ParseExtensionsEnabled=1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;0;1;0;1;1;1;1;1;1;1;1;1;1;1;
 ThumbnailArrangement=2
 ThumbnailInterpolation=1
-FavoriteDirs=
+FavoriteDirs=/run/media/pc/Files_N_Backup;
 RenameTemplates=
 RenameUseTemplates=false
 ThumbnailZoomRatios=0.20000000000000001;0.29999999999999999;0.45000000000000001;0.59999999999999998;0.80000000000000004;1;
@@ -69,9 +69,14 @@ menuGroupFileOperations=true
 menuGroupProfileOperations=true
 menuGroupExtProg=true
 MaxRecentFolders=15
-RecentFolders=/home/pc/Pictures;
+RecentFolders=/home/pc/Pictures;/run/media/pc/Ventoy;/run/media/pc/Files_N_Backup;
+ThumbnailRankColorMode=procparams
 SortMethod=0
 SortDescending=false
+BrowseRecursive=false
+BrowseRecursiveDepth=10
+BrowseRecursiveMaxDirs=100
+BrowseRecursiveFollowLinks=true
 
 [Clipping Indication]
 HighlightThreshold=253
@@ -112,11 +117,11 @@ TiffFloatBatch=false
 TiffUncompressedBatch=true
 SaveProcParamsBatch=true
 PathTemplate=%p1/converted/%f
-PathFolder=
+PathFolder=/home/pc/Pictures
 AutoSuffix=true
 ForceFormatOpts=true
 SaveMethodNum=0
-UsePathTemplate=true
+UsePathTemplate=false
 LastSaveAsPath=
 OverwriteOutputFile=false
 
@@ -136,8 +141,8 @@ CustomProfileBuilderKeys=0
 [GUI]
 Favorites=
 FavoritesCloneTools=false
-WindowWidth=937
-WindowHeight=1017
+WindowWidth=1920
+WindowHeight=1012
 WindowX=0
 WindowY=0
 WindowMonitor=0
@@ -161,20 +166,19 @@ ToolPanelWidth=400
 BrowserToolPanelWidth=465
 BrowserToolPanelHeight=570
 BrowserToolPanelOpened=true
-EditorFilmStripOpened=true
+EditorFilmStripOpened=false
 BrowserDirPanelOpened=true
 HistoryPanelWidth=330
 FontFamily=default
 FontSize=10
 CPFontFamily=default
 CPFontSize=8
-PseudoHiDPISupport=false
 LastPreviewScale=5
 LastShowAllExif=false
 PanAccelFactor=5
 RememberZoomAndPan=true
 LastCropSize=1
-ShowHistory=true
+ShowHistory=false
 ShowFilePanelState=0
 ShowInfo=true
 MainNBVertical=true
@@ -182,7 +186,7 @@ ShowClippedHighlights=false
 ShowClippedShadows=false
 FrameColor=0
 ProcessingQueueEnbled=false
-ToolPanelsExpanded=0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;
+ToolPanelsExpanded=0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;1;0;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;
 ToolPanelsExpandedAutoSave=true
 MultiDisplayMode=0
 CutOverlayBrush=0;0;0;0.66700000000000004;
@@ -208,13 +212,18 @@ HistogramWorking=false
 CurveBBoxPosition=1
 Showtooltip=false
 Complexity=2
+Spotmet=0
 InspectorWindow=false
 ZoomOnScroll=true
+MaxZoom=8
 
 [Crop Settings]
 PPI=600
 GuidesMode=2
 AutoFit=false
+
+[Raw Decoder]
+EnableLibRaw=true
 
 [Color Management]
 PrinterProfile=
@@ -255,6 +264,7 @@ Itcwb_powponder=0.14999999999999999
 ClutsDirectory=./cluts
 Previewselection=5
 Cbdlsensi=1
+Basecorlog=0.12
 
 [Wavelet]
 Edghi=3

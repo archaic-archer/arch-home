@@ -1,6 +1,3 @@
-2024/08/29-18:10:00.759 2e425 Reusing MANIFEST /home/pc/.config/tutanota-desktop/IndexedDB/asset_app_0.indexeddb.leveldb/MANIFEST-000001
-2024/08/29-18:10:00.759 2e425 Recovering log #30
-2024/08/29-18:10:00.803 2e425 Reusing old log /home/pc/.config/tutanota-desktop/IndexedDB/asset_app_0.indexeddb.leveldb/000030.log 
-2024/08/29-18:10:07.129 2e425 Level-0 table #35: started
-2024/08/29-18:10:07.160 2e425 Level-0 table #35: 1401958 bytes OK
-2024/08/29-18:10:07.163 2e425 Delete type=0 #30
+2024/09/01-14:20:45.670 17db Reusing MANIFEST /home/pc/.config/tutanota-desktop/IndexedDB/asset_app_0.indexeddb.leveldb/MANIFEST-000001
+2024/09/01-14:20:45.671 17db Recovering log #38
+2024/09/01-14:20:45.718 17db Reusing old log /home/pc/.config/tutanota-desktop/IndexedDB/asset_app_0.indexeddb.leveldb/000038.log 

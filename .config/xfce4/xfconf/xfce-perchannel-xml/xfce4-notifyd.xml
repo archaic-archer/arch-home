@@ -2,4 +2,18 @@
 
 <channel name="xfce4-notifyd" version="1.0">
   <property name="log-max-size-enabled" type="bool" value="true"/>
+  <property name="applications" type="empty">
+    <property name="known_applications" type="array">
+      <value type="string" value="Firefox"/>
+      <value type="string" value="org.kde.kdeconnect.daemon"/>
+      <value type="string" value="org.qbittorrent.qBittorrent"/>
+      <value type="string" value="tutanota-desktop"/>
+      <value type="string" value="Xfce volume control"/>
+    </property>
+  </property>
+  <property name="do-not-disturb" type="bool" value="false"/>
+  <property name="date-time-custom-format" type="string" value="%a %H:%M:%S"/>
+  <property name="min-width-enabled" type="bool" value="false"/>
+  <property name="min-width" type="uint" value="150"/>
+  <property name="expire-timeout" type="int" value="3"/>
 </channel>

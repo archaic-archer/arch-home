@@ -1,3 +1,5 @@
-2024/08/29-12:23:43.534 dcc Reusing MANIFEST /home/pc/.config/heroic/Local Storage/leveldb/MANIFEST-000001
-2024/08/29-12:23:43.562 dcc Recovering log #3
-2024/08/29-12:23:43.565 dcc Reusing old log /home/pc/.config/heroic/Local Storage/leveldb/000003.log 
+2024/08/31-17:51:04.782 23f31 Reusing MANIFEST /home/pc/.config/heroic/Local Storage/leveldb/MANIFEST-000001
+2024/08/31-17:51:04.808 23f31 Recovering log #3
+2024/08/31-17:51:04.812 23f31 Level-0 table #3: started
+2024/08/31-17:51:04.819 23f31 Level-0 table #3: 27996 bytes OK
+2024/08/31-17:51:04.827 23f31 Delete type=0 #3

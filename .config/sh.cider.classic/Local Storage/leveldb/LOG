@@ -1,22 +1,5 @@
-2024/08/28-23:05:47.713 20b38 Reusing MANIFEST /home/pc/.config/sh.cider.classic/Local Storage/leveldb/MANIFEST-000001
-2024/08/28-23:05:47.752 20b38 Recovering log #315
-2024/08/28-23:05:47.756 20b38 Level-0 table #318: started
-2024/08/28-23:05:47.762 20b38 Level-0 table #318: 15830 bytes OK
-2024/08/28-23:05:47.762 20b38 Recovering log #317
-2024/08/28-23:05:47.762 20b38 Reusing old log /home/pc/.config/sh.cider.classic/Local Storage/leveldb/000317.log 
-2024/08/28-23:05:47.765 20b38 Delete type=0 #315
-2024/08/28-23:06:56.097 20b38 Level-0 table #320: started
-2024/08/28-23:06:56.102 20b38 Level-0 table #320: 16487 bytes OK
-2024/08/28-23:06:56.106 20b38 Delete type=0 #317
-2024/08/28-23:07:49.698 20b38 Level-0 table #322: started
-2024/08/28-23:07:49.707 20b38 Level-0 table #322: 131172 bytes OK
-2024/08/28-23:07:49.710 20b38 Delete type=0 #319
-2024/08/28-23:07:49.710 20b38 Compacting 4@0 + 1@1 files
-2024/08/28-23:07:49.717 20b38 Generated table #323@0: 11 keys, 131881 bytes
-2024/08/28-23:07:49.717 20b38 Compacted 4@0 + 1@1 files => 131881 bytes
-2024/08/28-23:07:49.719 20b38 compacted to: files[ 0 1 1 0 0 0 0 ]
-2024/08/28-23:07:49.719 20b38 Delete type=2 #314
-2024/08/28-23:07:49.719 20b38 Delete type=2 #322
-2024/08/28-23:07:49.719 20b38 Delete type=2 #320
-2024/08/28-23:07:49.719 20b38 Delete type=2 #318
-2024/08/28-23:07:49.720 20b38 Delete type=2 #316
+2024/08/31-22:59:31.754 47352 Reusing MANIFEST /home/pc/.config/sh.cider.classic/Local Storage/leveldb/MANIFEST-000001
+2024/08/31-22:59:31.808 47352 Recovering log #334
+2024/08/31-22:59:31.815 47352 Level-0 table #337: started
+2024/08/31-22:59:31.824 47352 Level-0 table #337: 13677 bytes OK
+2024/08/31-22:59:31.828 47352 Delete type=0 #334

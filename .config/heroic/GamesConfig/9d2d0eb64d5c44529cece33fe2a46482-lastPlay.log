@@ -4,17 +4,17 @@ Installed in: /run/media/pc/Files_N_Backup/GTAV
 
 System Info:
 CPU: 8x Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
-Memory: 12.27 GB (used: 2.12 GB)
+Memory: 12.26 GB (used: 2.16 GB)
 GPUs:
   GPU 0:
     Name: Advanced Micro Devices, Inc. [AMD/ATI] Jet PRO [Radeon R5 M230 / R7 M260DX / Radeon 520/610 Mobile]
     IDs: D=6665 V=1002 SD=0841 SV=1028
-    Driver: amdgpu
+    Driver: radeon
   GPU 1:
     Name: Intel Corporation UHD Graphics 620
     IDs: D=5917 V=8086 SD=0841 SV=1028
     Driver: i915
-OS: Arch Linux 6.10.6-arch1-1 (linux)
+OS: Arch Linux 6.10.7-zen1-1-zen (linux)
 
 The current system is not a Steam Deck
 We are not running inside a Flatpak container
@@ -74,7 +74,7 @@ Game Settings: {
 	"DXVKFpsCap": "30"
 }
 
-Game launched at: Thu Aug 29 2024 12:24:30 GMT+0530 (India Standard Time)
+Game launched at: Sat Aug 31 2024 17:51:11 GMT+0530 (India Standard Time)
 
 Winetricks packages: 
 
@@ -88,11 +88,11 @@ Game Log:
 [cli] INFO: Launching 9d2d0eb64d5c44529cece33fe2a46482...
 gamemodeauto: 
 gamemodeauto: 
-[34mProtonFixes[4544] INFO: Running protonfixes[0m
-[34mProtonFixes[4544] INFO: Running checks[0m
-[34mProtonFixes[4544] INFO: All checks successful[0m
-[34mProtonFixes[4544] INFO: Using global defaults for UNKNOWN (0)[0m
-[34mProtonFixes[4544] INFO: No global protonfix found for UNKNOWN (0)[0m
+[34mProtonFixes[147655] INFO: Running protonfixes[0m
+[34mProtonFixes[147655] INFO: Running checks[0m
+[34mProtonFixes[147655] INFO: All checks successful[0m
+[34mProtonFixes[147655] INFO: Using global defaults for UNKNOWN (0)[0m
+[34mProtonFixes[147655] INFO: No global protonfix found for UNKNOWN (0)[0m
 gamemodeauto: 
 wine: using kernel write watches, use_kernel_writewatch 1.
 fsync: up and running.
@@ -103,8 +103,6 @@ wine: using kernel write watches, use_kernel_writewatch 1.
 wine: using kernel write watches, use_kernel_writewatch 1.
 wine: using kernel write watches, use_kernel_writewatch 1.
 wine: using kernel write watches, use_kernel_writewatch 1.
-WARNING: radv is not a conformant Vulkan implementation, testing use only.
-WARNING: radv is not a conformant Vulkan implementation, testing use only.
 wine: using kernel write watches, use_kernel_writewatch 1.
 wine: using kernel write watches, use_kernel_writewatch 1.
 [S_API] SteamAPI_Init(): SteamAPI_IsSteamRunning() did not locate a running instance of Steam.
@@ -115,17 +113,31 @@ ERROR: ld.so: object '/usr/$LIB/mangohud/libMangoHud_opengl.so' from LD_PRELOAD 
 wine: using kernel write watches, use_kernel_writewatch 1.
 wine: using kernel write watches, use_kernel_writewatch 1.
 wine: using kernel write watches, use_kernel_writewatch 1.
-WARNING: radv is not a conformant Vulkan implementation, testing use only.
+wine: using kernel write watches, use_kernel_writewatch 1.
+wine: setpriority 3 for pid -1 failed: 3
+wine: setpriority 3 for pid -1 failed: 3
+wine: setpriority 3 for pid -1 failed: 3
+wine: using kernel write watches, use_kernel_writewatch 1.
+wine: setpriority 3 for pid -1 failed: 3
+wine: setpriority 3 for pid -1 failed: 3
+wine: setpriority 3 for pid -1 failed: 3
+wine: setpriority 3 for pid -1 failed: 3
+wine: setpriority 3 for pid -1 failed: 3
+wine: setpriority 3 for pid -1 failed: 3
+wine: setpriority 3 for pid -1 failed: 3
 wine: using kernel write watches, use_kernel_writewatch 1.
 wine: using kernel write watches, use_kernel_writewatch 1.
-WARNING: radv is not a conformant Vulkan implementation, testing use only.
 wine: using kernel write watches, use_kernel_writewatch 1.
 wine: using kernel write watches, use_kernel_writewatch 1.
 wine: using kernel write watches, use_kernel_writewatch 1.
-wine: using kernel write watches, use_kernel_writewatch 1.
-wine: using kernel write watches, use_kernel_writewatch 1.
-WARNING: radv is not a conformant Vulkan implementation, testing use only.
-WARNING: radv is not a conformant Vulkan implementation, testing use only.
+wine: setpriority 0 for pid -1 failed: 3
+wine: setpriority 0 for pid -1 failed: 3
+wine: setpriority 0 for pid -1 failed: 3
+wine: setpriority 0 for pid -1 failed: 3
+wine: setpriority 0 for pid -1 failed: 3
+wine: setpriority 0 for pid -1 failed: 3
+wine: setpriority 0 for pid -1 failed: 3
+wine: setpriority 0 for pid -1 failed: 3
 wine: using kernel write watches, use_kernel_writewatch 1.
 wine: using kernel write watches, use_kernel_writewatch 1.
 wine: Read access denied for device L"\\??\\Z:\\", FS volume label and serial are not available.
@@ -134,46 +146,188 @@ wine: using kernel write watches, use_kernel_writewatch 1.
 wine: using kernel write watches, use_kernel_writewatch 1.
 wine: using kernel write watches, use_kernel_writewatch 1.
 wine: using kernel write watches, use_kernel_writewatch 1.
+wine: setpriority -10 for pid -1 failed: 3
 wine: using kernel write watches, use_kernel_writewatch 1.
-WARNING: radv is not a conformant Vulkan implementation, testing use only.
-WARNING: radv is not a conformant Vulkan implementation, testing use only.
-WARNING: radv is not a conformant Vulkan implementation, testing use only.
+wine: setpriority -10 for pid -1 failed: 3
+wine: setpriority -2 for pid -1 failed: 3
+wine: setpriority -2 for pid -1 failed: 3
+wine: setpriority -2 for pid -1 failed: 3
+wine: setpriority -2 for pid -1 failed: 3
+wine: setpriority -2 for pid -1 failed: 3
+wine: setpriority -2 for pid -1 failed: 3
+wine: setpriority 2 for pid -1 failed: 3
+wine: setpriority -10 for pid -1 failed: 3
+wine: setpriority 2 for pid -1 failed: 3
+wine: setpriority -10 for pid -1 failed: 3
+wine: setpriority 3 for pid -1 failed: 3
+wine: setpriority -1 for pid -1 failed: 3
+wine: setpriority 3 for pid -1 failed: 3
+wine: setpriority 3 for pid -1 failed: 3
+wine: setpriority 3 for pid -1 failed: 3
+wine: setpriority 3 for pid -1 failed: 3
+wine: setpriority 3 for pid -1 failed: 3
+ac_compute_device_uuid's output is based on invalid pci bus info.
+wine: setpriority 3 for pid -1 failed: 3
 ALSA lib seq_hw.c:528:(snd_seq_hw_open) open /dev/snd/seq failed: No such file or directory
-WARNING: radv is not a conformant Vulkan implementation, testing use only.
-WARNING: radv is not a conformant Vulkan implementation, testing use only.
-WARNING: radv is not a conformant Vulkan implementation, testing use only.
-WARNING: radv is not a conformant Vulkan implementation, testing use only.
-WARNING: radv is not a conformant Vulkan implementation, testing use only.
+wine: setpriority -1 for pid -1 failed: 3
+wine: setpriority -2 for pid -1 failed: 3
+wine: setpriority -1 for pid -1 failed: 3
+wine: setpriority -1 for pid -1 failed: 3
+wine: setpriority -1 for pid -1 failed: 3
+wine: setpriority -1 for pid -1 failed: 3
+wine: setpriority -1 for pid -1 failed: 3
+wine: setpriority -10 for pid -1 failed: 3
+wine: setpriority -10 for pid -1 failed: 3
+wine: setpriority -10 for pid -1 failed: 3
+wine: setpriority -10 for pid -1 failed: 3
+wine: setpriority 2 for pid -1 failed: 3
+wine: setpriority 2 for pid -1 failed: 3
+wine: setpriority 2 for pid -1 failed: 3
+wine: setpriority 3 for pid -1 failed: 3
+wine: setpriority 3 for pid -1 failed: 3
+wine: setpriority 3 for pid -1 failed: 3
+wine: setpriority 3 for pid -1 failed: 3
+wine: setpriority 2 for pid -1 failed: 3
+wine: setpriority -10 for pid -1 failed: 3
+wine: using kernel write watches, use_kernel_writewatch 1.
+wine: setpriority -1 for pid -1 failed: 3
+wine: setpriority -1 for pid -1 failed: 3
+wine: setpriority -1 for pid -1 failed: 3
+wine: setpriority -1 for pid -1 failed: 3
+wine: setpriority 2 for pid -1 failed: 3
+wine: setpriority 3 for pid -1 failed: 3
+wine: setpriority 3 for pid -1 failed: 3
+wine: using kernel write watches, use_kernel_writewatch 1.
+wine: setpriority 3 for pid -1 failed: 3
+wine: setpriority -1 for pid -1 failed: 3
+wine: setpriority -1 for pid -1 failed: 3
+wine: setpriority -1 for pid -1 failed: 3
+wine: setpriority -1 for pid -1 failed: 3
+wine: setpriority -2 for pid -1 failed: 3
+wine: setpriority 3 for pid -1 failed: 3
+wine: setpriority 3 for pid -1 failed: 3
+wine: setpriority 3 for pid -1 failed: 3
+wine: setpriority 3 for pid -1 failed: 3
+wine: setpriority 3 for pid -1 failed: 3
+wine: setpriority 3 for pid -1 failed: 3
 wine: using kernel write watches, use_kernel_writewatch 1.
 wine: using kernel write watches, use_kernel_writewatch 1.
-WARNING: radv is not a conformant Vulkan implementation, testing use only.
-WARNING: radv is not a conformant Vulkan implementation, testing use only.
+wine: using kernel write watches, use_kernel_writewatch 1.
+wine: setpriority -2 for pid -1 failed: 3
+wine: setpriority -2 for pid -1 failed: 3
+wine: setpriority -2 for pid -1 failed: 3
+wine: setpriority -2 for pid -1 failed: 3
+wine: setpriority -2 for pid -1 failed: 3
+wine: setpriority -2 for pid -1 failed: 3
+wine: setpriority -2 for pid -1 failed: 3
+wine: setpriority -2 for pid -1 failed: 3
+wine: setpriority -2 for pid -1 failed: 3
+wine: setpriority 0 for pid -1 failed: 3
+wine: setpriority 0 for pid -1 failed: 3
+wine: setpriority 0 for pid -1 failed: 3
+wine: setpriority 0 for pid -1 failed: 3
+wine: setpriority 0 for pid -1 failed: 3
+wine: setpriority 2 for pid -1 failed: 3
+wine: using kernel write watches, use_kernel_writewatch 1.
+wine: using kernel write watches, use_kernel_writewatch 1.
+wine: using kernel write watches, use_kernel_writewatch 1.
+wine: using kernel write watches, use_kernel_writewatch 1.
+wine: Read access denied for device L"\\??\\Z:\\", FS volume label and serial are not available.
 wine: using kernel write watches, use_kernel_writewatch 1.
 wine: using kernel write watches, use_kernel_writewatch 1.
 wine: using kernel write watches, use_kernel_writewatch 1.
 wine: using kernel write watches, use_kernel_writewatch 1.
 wine: using kernel write watches, use_kernel_writewatch 1.
 wine: using kernel write watches, use_kernel_writewatch 1.
+wine: setpriority -10 for pid -1 failed: 3
+wine: setpriority -2 for pid -1 failed: 3
+wine: setpriority -2 for pid -1 failed: 3
+wine: setpriority -2 for pid -1 failed: 3
+wine: setpriority -2 for pid -1 failed: 3
+wine: setpriority -2 for pid -1 failed: 3
+wine: setpriority -2 for pid -1 failed: 3
+wine: setpriority 2 for pid -1 failed: 3
+ac_compute_device_uuid's output is based on invalid pci bus info.
+ALSA lib seq_hw.c:528:(snd_seq_hw_open) open /dev/snd/seq failed: No such file or directory
+wine: setpriority -10 for pid -1 failed: 3
+wine: setpriority 2 for pid -1 failed: 3
+wine: setpriority -10 for pid -1 failed: 3
+wine: setpriority 3 for pid -1 failed: 3
+wine: setpriority -1 for pid -1 failed: 3
+wine: setpriority 3 for pid -1 failed: 3
+wine: setpriority 3 for pid -1 failed: 3
+wine: setpriority 3 for pid -1 failed: 3
+wine: setpriority 3 for pid -1 failed: 3
+wine: setpriority 3 for pid -1 failed: 3
+wine: setpriority 3 for pid -1 failed: 3
+wine: setpriority -1 for pid -1 failed: 3
+wine: setpriority -2 for pid -1 failed: 3
+wine: setpriority -1 for pid -1 failed: 3
+wine: setpriority -1 for pid -1 failed: 3
+wine: setpriority -1 for pid -1 failed: 3
+wine: setpriority -1 for pid -1 failed: 3
+wine: setpriority -1 for pid -1 failed: 3
+wine: setpriority -1 for pid -1 failed: 3
+wine: setpriority -10 for pid -1 failed: 3
+wine: setpriority -10 for pid -1 failed: 3
+wine: setpriority -10 for pid -1 failed: 3
+wine: setpriority -10 for pid -1 failed: 3
+wine: setpriority -10 for pid -1 failed: 3
+wine: setpriority 2 for pid -1 failed: 3
+wine: setpriority -10 for pid -1 failed: 3
+wine: setpriority 2 for pid -1 failed: 3
+wine: setpriority 2 for pid -1 failed: 3
+wine: setpriority 3 for pid -1 failed: 3
+wine: setpriority 3 for pid -1 failed: 3
+wine: setpriority 3 for pid -1 failed: 3
+wine: setpriority 3 for pid -1 failed: 3
+wine: setpriority 2 for pid -1 failed: 3
+wine: setpriority -10 for pid -1 failed: 3
+wine: using kernel write watches, use_kernel_writewatch 1.
+wine: setpriority -1 for pid -1 failed: 3
+wine: setpriority -1 for pid -1 failed: 3
+wine: setpriority -1 for pid -1 failed: 3
+wine: setpriority -1 for pid -1 failed: 3
+wine: setpriority 2 for pid -1 failed: 3
+wine: setpriority 3 for pid -1 failed: 3
+wine: setpriority 3 for pid -1 failed: 3
+wine: setpriority 3 for pid -1 failed: 3
+wine: setpriority -1 for pid -1 failed: 3
+wine: setpriority -1 for pid -1 failed: 3
+wine: setpriority -1 for pid -1 failed: 3
+wine: setpriority -1 for pid -1 failed: 3
+wine: setpriority -2 for pid -1 failed: 3
+wine: setpriority 3 for pid -1 failed: 3
+wine: setpriority 3 for pid -1 failed: 3
+wine: setpriority 3 for pid -1 failed: 3
+wine: setpriority 3 for pid -1 failed: 3
+wine: setpriority 3 for pid -1 failed: 3
+wine: setpriority 3 for pid -1 failed: 3
+wine: using kernel write watches, use_kernel_writewatch 1.
+wine: setpriority -2 for pid -1 failed: 3
+wine: setpriority -2 for pid -1 failed: 3
+wine: setpriority -2 for pid -1 failed: 3
+wine: setpriority -2 for pid -1 failed: 3
+wine: setpriority -2 for pid -1 failed: 3
+wine: setpriority -2 for pid -1 failed: 3
+wine: setpriority -2 for pid -1 failed: 3
+wine: setpriority -2 for pid -1 failed: 3
+wine: setpriority -2 for pid -1 failed: 3
 wine: using kernel write watches, use_kernel_writewatch 1.
 wine: using kernel write watches, use_kernel_writewatch 1.
-WARNING: radv is not a conformant Vulkan implementation, testing use only.
-WARNING: radv is not a conformant Vulkan implementation, testing use only.
-WARNING: radv is not a conformant Vulkan implementation, testing use only.
-WARNING: radv is not a conformant Vulkan implementation, testing use only.
-WARNING: radv is not a conformant Vulkan implementation, testing use only.
-WARNING: radv is not a conformant Vulkan implementation, testing use only.
 wine: using kernel write watches, use_kernel_writewatch 1.
-WARNING: radv is not a conformant Vulkan implementation, testing use only.
-WARNING: radv is not a conformant Vulkan implementation, testing use only.
-WARNING: radv is not a conformant Vulkan implementation, testing use only.
-WARNING: radv is not a conformant Vulkan implementation, testing use only.
-WARNING: radv is not a conformant Vulkan implementation, testing use only.
-WARNING: radv is not a conformant Vulkan implementation, testing use only.
-WARNING: radv is not a conformant Vulkan implementation, testing use only.
-WARNING: radv is not a conformant Vulkan implementation, testing use only.
-WARNING: radv is not a conformant Vulkan implementation, testing use only.
-WARNING: radv is not a conformant Vulkan implementation, testing use only.
-WARNING: radv is not a conformant Vulkan implementation, testing use only.
-WARNING: radv is not a conformant Vulkan implementation, testing use only.
-WARNING: radv is not a conformant Vulkan implementation, testing use only.
-WARNING: radv is not a conformant Vulkan implementation, testing use only.
+wine: setpriority 0 for pid -1 failed: 3
+wine: setpriority 0 for pid -1 failed: 3
+wine: setpriority 0 for pid -1 failed: 3
+wine: setpriority 0 for pid -1 failed: 3
+wine: setpriority 0 for pid -1 failed: 3
+wine: setpriority 2 for pid -1 failed: 3
+wine: using kernel write watches, use_kernel_writewatch 1.
+wine: using kernel write watches, use_kernel_writewatch 1.
+wine: using kernel write watches, use_kernel_writewatch 1.
+wine: using kernel write watches, use_kernel_writewatch 1.
+wine: using kernel write watches, use_kernel_writewatch 1.
+wine: setpriority 2 for pid -1 failed: 3
+wine: using kernel write watches, use_kernel_writewatch 1.
+gamemodeauto: 
+============= End of log =============

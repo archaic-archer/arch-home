@@ -3,7 +3,11 @@ Version=202
 ViewPropsTimestamp=2024,8,14,13,11,21.278
 
 [IconsMode]
+IconSize=48
+MaximumTextLines=2
 PreviewSize=48
+UseSystemFont=false
+ViewFont=Serif,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
 
 [KFileDialog Settings]
 Places Icons Auto-resize=false
@@ -12,3 +16,6 @@ Places Icons Static Size=22
 [MainWindow]
 MenuBar=Disabled
 ToolBarsMovable=Disabled
+
+[PreviewSettings]
+Plugins=svgthumbnail,ebookthumbnail,djvuthumbnail,audiothumbnail,windowsimagethumbnail,opendocumentthumbnail,jpegthumbnail,cursorthumbnail,imagethumbnail,appimagethumbnail,exrthumbnail,comicbookthumbnail,directorythumbnail,windowsexethumbnail,kraorathumbnail

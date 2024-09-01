@@ -1,0 +1,24 @@
+[Desktop Entry]
+Name=Tuta Mail (240.240816.0.802)
+Exec=/home/pc/Applications/tutanota-desktop-linux_4e51841f25dac13c7c144a0ef6145ebb.AppImage --no-sandbox %U
+Terminal=false
+Type=Application
+Icon=appimagekit_d1e2d1c8310fa8c62718d9acd4b880bf_tutanota-desktop
+StartupWMClass=tutanota-desktop
+X-AppImage-Version=240.240816.0.802
+Comment=The desktop client for Tutanota, the secure e-mail service.
+MimeType=x-scheme-handler/mailto;
+Categories=Network;
+TryExec=/home/pc/Applications/tutanota-desktop-linux_4e51841f25dac13c7c144a0ef6145ebb.AppImage
+X-AppImage-Old-Icon=tutanota-desktop
+X-AppImage-Old-Name=Tuta Mail
+X-AppImage-Identifier=d1e2d1c8310fa8c62718d9acd4b880bf
+Actions=AppImageLauncher-Remove-AppImage;
+X-AppImageLauncher-Version=2.2.0 (git commit d9d4c73), built on 2022-09-08 14:49:51 UTC
+X-XFCE-Source=file:///home/pc/.local/share/applications/appimagekit_d1e2d1c8310fa8c62718d9acd4b880bf-Tuta_Mail.desktop
+
+[Desktop Action AppImageLauncher-Remove-AppImage]
+Name=Delete this AppImage
+Icon=AppImageLauncher
+Exec=/usr/lib/x86_64-linux-gnu/appimagelauncher/remove "/home/pc/Applications/tutanota-desktop-linux_4e51841f25dac13c7c144a0ef6145ebb.AppImage"
+Name[en]=Delete this AppImage

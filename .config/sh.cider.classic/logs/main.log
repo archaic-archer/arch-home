@@ -1687,3 +1687,121 @@
 [2024-08-28 23:05:49.493] [info]  remote broadcasted
 [2024-08-28 23:05:53.444] [error] (node:133929) [node-fetch#buffer] DeprecationWarning: Please use 'response.arrayBuffer()' instead of 'response.buffer()'
 (Use `cider --trace-deprecation ...` to show where the warning was created)
+[2024-08-31 17:45:19.412] [info]  [AppEvents] App started
+[2024-08-31 17:45:19.556] [info]  [PluginHandler] Loaded plugins: []
+[2024-08-31 17:45:21.777] [info]  [AppEvents] App ready
+[2024-08-31 17:45:21.777] [info]  [Cider] Application is Ready. Creating Window.
+[2024-08-31 17:45:21.778] [info]  aa
+[2024-08-31 17:45:21.778] [info]  [Cider] Creating Window.
+[2024-08-31 17:45:21.786] [info]  Setting up handlers for local files
+[2024-08-31 17:45:21.790] [info]  [Connect] Auth URL: https://connect.cidercollective.dev/callback/discord?app=cider&appPort=9000
+[2024-08-31 17:45:21.945] [info]  WebSocketServer started on port: 26369
+[2024-08-31 17:45:21.975] [info]  [Cider][Widevine] Status: {
+  oimompecagnajdejgnnjijobebaeigek: {
+    status: 'new',
+    title: 'Widevine Content Decryption Module',
+    version: '4.10.2710.0'
+  }
+}
+[2024-08-31 17:45:22.037] [info]  {
+  auxAttributes: {
+    amdSwitchable: true,
+    canSupportThreadedTextureMailbox: false,
+    glImplementationParts: '(gl=none,angle=none)',
+    glResetNotificationStrategy: 0,
+    inProcessGpu: true,
+    initializationTime: 0,
+    isAsan: false,
+    isClangCoverage: false,
+    jpegDecodeAcceleratorSupported: false,
+    optimus: false,
+    passthroughCmdDecoder: false,
+    sandboxed: false,
+    subpixelFontRendering: true,
+    targetCpuBits: 64,
+    visibilityCallbackCallCount: 0
+  },
+  gpuDevice: [
+    {
+      active: true,
+      cudaComputeCapabilityMajor: 0,
+      deviceId: 26213,
+      gpuPreference: 0,
+      vendorId: 4098
+    },
+    {
+      active: false,
+      cudaComputeCapabilityMajor: 0,
+      deviceId: 22807,
+      gpuPreference: 0,
+      vendorId: 32902
+    }
+  ]
+}
+[2024-08-31 17:45:22.038] [info]  From here can you check for real changes, the initial scan has been completed.
+[2024-08-31 17:45:22.038] [info]  Cider client port: 9000
+[2024-08-31 17:45:22.041] [info]  Cider remote port: 6942
+[2024-08-31 17:45:22.043] [info]  remote broadcasted
+[2024-08-31 17:45:30.947] [error] (node:144322) [node-fetch#buffer] DeprecationWarning: Please use 'response.arrayBuffer()' instead of 'response.buffer()'
+(Use `cider --trace-deprecation ...` to show where the warning was created)
+[2024-08-31 17:46:00.193] [error] [lastfm] [album.getInfo] Error: Album not found
+[2024-08-31 17:49:10.276] [error] [lastfm] [album.getInfo] Error: Album not found
+[2024-08-31 17:49:31.524] [error] [lastfm] [album.getInfo] Error: Album not found
+[2024-08-31 22:59:31.064] [info]  [AppEvents] App started
+[2024-08-31 22:59:31.118] [info]  [PluginHandler] Loaded plugins: []
+[2024-08-31 22:59:33.307] [info]  [AppEvents] App ready
+[2024-08-31 22:59:33.307] [info]  [Cider] Application is Ready. Creating Window.
+[2024-08-31 22:59:33.307] [info]  aa
+[2024-08-31 22:59:33.308] [info]  [Cider] Creating Window.
+[2024-08-31 22:59:33.316] [info]  Setting up handlers for local files
+[2024-08-31 22:59:33.320] [info]  [Connect] Auth URL: https://connect.cidercollective.dev/callback/discord?app=cider&appPort=9000
+[2024-08-31 22:59:33.479] [info]  WebSocketServer started on port: 26369
+[2024-08-31 22:59:33.526] [info]  [Cider][Widevine] Status: {
+  oimompecagnajdejgnnjijobebaeigek: {
+    status: 'new',
+    title: 'Widevine Content Decryption Module',
+    version: '4.10.2710.0'
+  }
+}
+[2024-08-31 22:59:33.613] [info]  {
+  auxAttributes: {
+    amdSwitchable: true,
+    canSupportThreadedTextureMailbox: false,
+    glImplementationParts: '(gl=none,angle=none)',
+    glResetNotificationStrategy: 0,
+    inProcessGpu: true,
+    initializationTime: 0,
+    isAsan: false,
+    isClangCoverage: false,
+    jpegDecodeAcceleratorSupported: false,
+    optimus: false,
+    passthroughCmdDecoder: false,
+    sandboxed: false,
+    subpixelFontRendering: true,
+    targetCpuBits: 64,
+    visibilityCallbackCallCount: 0
+  },
+  gpuDevice: [
+    {
+      active: true,
+      cudaComputeCapabilityMajor: 0,
+      deviceId: 26213,
+      gpuPreference: 0,
+      vendorId: 4098
+    },
+    {
+      active: false,
+      cudaComputeCapabilityMajor: 0,
+      deviceId: 22807,
+      gpuPreference: 0,
+      vendorId: 32902
+    }
+  ]
+}
+[2024-08-31 22:59:33.615] [info]  From here can you check for real changes, the initial scan has been completed.
+[2024-08-31 22:59:33.616] [info]  Cider client port: 9000
+[2024-08-31 22:59:33.621] [info]  Cider remote port: 6942
+[2024-08-31 22:59:33.624] [info]  remote broadcasted
+[2024-08-31 22:59:46.193] [error] (node:291655) [node-fetch#buffer] DeprecationWarning: Please use 'response.arrayBuffer()' instead of 'response.buffer()'
+(Use `cider --trace-deprecation ...` to show where the warning was created)
+[2024-09-01 00:09:40.821] [warn]  Cider exited.

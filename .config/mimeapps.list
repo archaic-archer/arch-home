@@ -1,6 +1,6 @@
 [Added Associations]
 application/octet-stream=veracrypt.desktop;
-application/pdf=okular-3.desktop;okular-2.desktop;okular.desktop;okularApplication_pdf.desktop;mupdf.desktop;brave-browser.desktop;libreoffice-draw.desktop;
+application/pdf=libreoffice-draw.desktop;okular-3.desktop;okular-2.desktop;okular.desktop;okularApplication_pdf.desktop;mupdf.desktop;brave-browser.desktop;
 application/rss+xml=userapp-Thunderbird-VX5YN2.desktop;
 application/x-bittorrent=org.qbittorrent.qBittorrent.desktop;
 application/x-executable=libreoffice-writer.desktop;
@@ -65,8 +65,8 @@ video/x-ogm+ogg=vlc.desktop;
 video/x-theora=vlc.desktop;
 video/x-theora+ogg=vlc.desktop;
 x-scheme-handler/feed=userapp-Thunderbird-VX5YN2.desktop;
-x-scheme-handler/http=firefox.desktop;
-x-scheme-handler/https=firefox.desktop;
+x-scheme-handler/http=xfce4-web-browser.desktop;
+x-scheme-handler/https=xfce4-web-browser.desktop;
 x-scheme-handler/mailto=userapp-Thunderbird-C4YPN2.desktop;userapp-Evolution-1E2XP2.desktop;userapp-Thunderbird-9CZDQ2.desktop;
 x-scheme-handler/mid=userapp-Thunderbird-C4YPN2.desktop;userapp-Thunderbird-9CZDQ2.desktop;
 x-scheme-handler/news=userapp-Thunderbird-VWEZN2.desktop;
@@ -144,8 +144,8 @@ video/x-ogm+ogg=vlc.desktop;
 video/x-theora=vlc.desktop;
 video/x-theora+ogg=vlc.desktop;
 x-scheme-handler/feed=userapp-Thunderbird-VX5YN2.desktop
-x-scheme-handler/http=firefox.desktop;
-x-scheme-handler/https=firefox.desktop;
+x-scheme-handler/http=xfce4-web-browser.desktop
+x-scheme-handler/https=xfce4-web-browser.desktop
 x-scheme-handler/magnet=appimagekit_6593763888842627da96245a56fbaae7-Motrix.desktop
 x-scheme-handler/mailto=userapp-Thunderbird-9CZDQ2.desktop
 x-scheme-handler/mid=userapp-Thunderbird-9CZDQ2.desktop
@@ -159,3 +159,4 @@ x-scheme-handler/webcals=userapp-Thunderbird-3L8CQ2.desktop
 
 [Removed Associations]
 application/x-bittorrent=appimagekit_6593763888842627da96245a56fbaae7-Motrix.desktop;
+

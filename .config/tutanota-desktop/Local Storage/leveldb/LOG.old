@@ -1,3 +1,13 @@
-2024/08/28-12:50:52.397 821 Reusing MANIFEST /home/pc/.config/tutanota-desktop/Local Storage/leveldb/MANIFEST-000001
-2024/08/28-12:50:52.402 821 Recovering log #7
-2024/08/28-12:50:52.406 821 Reusing old log /home/pc/.config/tutanota-desktop/Local Storage/leveldb/000007.log 
+2024/08/31-21:52:56.012 3e9e1 Reusing MANIFEST /home/pc/.config/tutanota-desktop/Local Storage/leveldb/MANIFEST-000001
+2024/08/31-21:52:56.018 3e9e1 Recovering log #10
+2024/08/31-21:52:56.020 3e9e1 Level-0 table #12: started
+2024/08/31-21:52:56.047 3e9e1 Level-0 table #12: 18036 bytes OK
+2024/08/31-21:52:56.050 3e9e1 Delete type=0 #10
+2024/08/31-21:52:56.051 3e9e2 Compacting 4@0 + 0@1 files
+2024/08/31-21:52:56.073 3e9e2 Generated table #14@0: 3 keys, 2648 bytes
+2024/08/31-21:52:56.073 3e9e2 Compacted 4@0 + 0@1 files => 2648 bytes
+2024/08/31-21:52:56.075 3e9e2 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/08/31-21:52:56.076 3e9e2 Delete type=2 #9
+2024/08/31-21:52:56.076 3e9e2 Delete type=2 #12
+2024/08/31-21:52:56.076 3e9e2 Delete type=2 #6
+2024/08/31-21:52:56.076 3e9e2 Delete type=2 #3

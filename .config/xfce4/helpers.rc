@@ -1,2 +1,4 @@
 TerminalEmulator=alacritty
 FileBrowser=thunar
+WebBrowser=custom-WebBrowser
+

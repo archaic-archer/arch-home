@@ -1,0 +1,24 @@
+[Desktop Entry]
+Name=Cider (1.6.3)
+Exec=/home/pc/Applications/Cider-1.6.3_f94add7ebacee363862f122143da69ec.AppImage --no-sandbox %U
+Terminal=false
+Type=Application
+Icon=appimagekit_e79c36fd8a2d028fad7bf0ad3f8ee344_cider
+StartupWMClass=Cider
+X-AppImage-Version=1.6.3
+Comment=A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind.
+MimeType=x-scheme-handler/ame;x-scheme-handler/cider;x-scheme-handler/itms;x-scheme-handler/itmss;x-scheme-handler/musics;x-scheme-handler/music;
+Categories=AudioVideo;
+TryExec=/home/pc/Applications/Cider-1.6.3_f94add7ebacee363862f122143da69ec.AppImage
+X-AppImage-Old-Icon=cider
+X-AppImage-Old-Name=Cider
+X-AppImage-Identifier=e79c36fd8a2d028fad7bf0ad3f8ee344
+Actions=AppImageLauncher-Remove-AppImage;
+X-AppImageLauncher-Version=2.2.0 (git commit d9d4c73), built on 2022-09-08 14:49:51 UTC
+X-XFCE-Source=file:///home/pc/.local/share/applications/appimagekit_e79c36fd8a2d028fad7bf0ad3f8ee344-Cider.desktop
+
+[Desktop Action AppImageLauncher-Remove-AppImage]
+Name=Delete this AppImage
+Icon=AppImageLauncher
+Exec=/usr/lib/x86_64-linux-gnu/appimagelauncher/remove "/home/pc/Applications/Cider-1.6.3_f94add7ebacee363862f122143da69ec.AppImage"
+Name[en]=Delete this AppImage
