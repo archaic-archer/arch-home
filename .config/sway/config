@@ -274,7 +274,7 @@ for_window [app_id="ibus-ui-emojier"] floating enable
 for_window [app_id="engrampa"] floating enable
 for_window [app_id="waypaper"] floating enable
 for_window [class="zoom"] floating enable
-
+for_window [class="Gddccontrol"] floating enable
 # make all apps floating
  #for_window [class=".*"] floating enable
  #for_window [app_id=".*"] floating enable

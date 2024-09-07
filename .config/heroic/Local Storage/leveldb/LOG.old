@@ -1,3 +1,3 @@
-2024/08/29-12:23:43.534 dcc Reusing MANIFEST /home/pc/.config/heroic/Local Storage/leveldb/MANIFEST-000001
-2024/08/29-12:23:43.562 dcc Recovering log #3
-2024/08/29-12:23:43.565 dcc Reusing old log /home/pc/.config/heroic/Local Storage/leveldb/000003.log 
+2024/09/07-16:37:59.521 12727 Reusing MANIFEST /home/pc/.config/heroic/Local Storage/leveldb/MANIFEST-000001
+2024/09/07-16:37:59.548 12727 Recovering log #4
+2024/09/07-16:37:59.550 12727 Reusing old log /home/pc/.config/heroic/Local Storage/leveldb/000004.log 

@@ -32,7 +32,7 @@
 					"Shooter"
 				]
 			},
-			"folder_name": "Fallout London",
+			"folder_name": "",
 			"install": {
 				"is_dlc": false
 			},
@@ -64,7 +64,7 @@
 					"Platform"
 				]
 			},
-			"folder_name": "Bzzzt Demo",
+			"folder_name": "",
 			"install": {
 				"is_dlc": false
 			},
@@ -77,6 +77,6 @@
 		}
 	],
 	"__timestamp": {
-		"games": "Sat Aug 31 2024 17:51:08 GMT+0530 (India Standard Time)"
+		"games": "Sat Sep 07 2024 18:05:15 GMT+0530 (India Standard Time)"
 	}
 }

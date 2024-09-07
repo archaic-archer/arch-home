@@ -1,10 +1,10 @@
 {
 	"general-logs": {
-		"currentLogFile": "/home/pc/.config/heroic/logs/2024-08-31T12_21_04-heroic.log",
-		"lastLogFile": "/home/pc/.config/heroic/logs/2024-08-29T06_53_43-heroic.log",
-		"legendaryLogFile": "/home/pc/.config/heroic/logs/2024-08-31T12_21_04-legendary.log",
-		"gogdlLogFile": "/home/pc/.config/heroic/logs/2024-08-31T12_21_04-gogdl.log",
-		"nileLogFile": "/home/pc/.config/heroic/logs/2024-08-31T12_21_04-nile.log"
+		"currentLogFile": "/home/pc/.config/heroic/logs/2024-09-07T12_35_12-heroic.log",
+		"lastLogFile": "/home/pc/.config/heroic/logs/2024-09-07T11_07_59-heroic.log",
+		"legendaryLogFile": "/home/pc/.config/heroic/logs/2024-09-07T12_35_12-legendary.log",
+		"gogdlLogFile": "/home/pc/.config/heroic/logs/2024-09-07T12_35_12-gogdl.log",
+		"nileLogFile": "/home/pc/.config/heroic/logs/2024-09-07T12_35_12-nile.log"
 	},
 	"userHome": "/home/pc",
 	"language": "en",
@@ -17,7 +17,7 @@
 		"x": 0,
 		"y": 34,
 		"width": 1920,
-		"height": 1012,
+		"height": 1046,
 		"maximized": true
 	},
 	"settings": {
@@ -68,6 +68,18 @@
 			{
 				"appName": "9d2d0eb64d5c44529cece33fe2a46482",
 				"title": "Grand Theft Auto V"
+			},
+			{
+				"appName": "agEcsNzT3EDWpMS87p4WaR",
+				"title": "Stray"
+			},
+			{
+				"appName": "ksjgEJEMptCzzvKa6Vshvn",
+				"title": "stray"
+			},
+			{
+				"appName": "gaazxXnKzsf7WxyeGRmaDD",
+				"title": "Stray"
 			},
 			{
 				"appName": "5daeb974a22a435988892319b3a4f476",

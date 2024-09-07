@@ -147,7 +147,12 @@
     "anticheats": [
       "Vanguard"
     ],
-    "notes": [],
+    "notes": [
+      [
+        "Possibly playable through a macOS VM",
+        null
+      ]
+    ],
     "updates": [
       {
         "name": "Vanguard developer claims Linux has \"too much attack surface\".",
@@ -162,7 +167,7 @@
       }
     },
     "slug": "valorant",
-    "dateChanged": "2024-01-26T01:27:56.161Z"
+    "dateChanged": "2024-09-01T22:22:14.140Z"
   },
   {
     "url": "https://www.halowaypoint.com/de-de/halo-infinite",
@@ -530,7 +535,7 @@
         "https://store.steampowered.com/news/app/381210/view/3723958226061651097"
       ],
       [
-        "Epic Games Store version might be broken. Steam Recommended.",
+        "Epic Games Store is broken on Linux. Steam Recommended.",
         null
       ]
     ],
@@ -564,7 +569,7 @@
       }
     },
     "slug": "dead-by-daylight",
-    "dateChanged": "2024-04-13T22:01:29.190Z"
+    "dateChanged": "2024-09-01T22:22:14.167Z"
   },
   {
     "url": "http://www.destinythegame.com/",
@@ -1134,6 +1139,10 @@
       [
         "Needed workarounds prior to 3.5",
         ""
+      ],
+      [
+        "Possible 100% CPU Usage bug on Linux, play at your own risk",
+        null
       ]
     ],
     "updates": [
@@ -1155,7 +1164,7 @@
       }
     },
     "slug": "genshin-impact",
-    "dateChanged": "2024-08-01T00:35:00.000Z"
+    "dateChanged": "2024-09-02T22:03:09.321Z"
   },
   {
     "url": "https://www.djmaxrespect.com/",
@@ -2627,8 +2636,8 @@
     "name": "Battlefield 1",
     "logo": "",
     "native": false,
-    "status": "Supported",
-    "reference": "https://www.protondb.com/app/1238840#MzrUkC1o9E",
+    "status": "Denied",
+    "reference": "https://www.ea.com/games/battlefield/battlefield-2042/news/eaac-and-battlefield",
     "anticheats": [
       "FairFight",
       "EA anticheat"
@@ -2639,7 +2648,7 @@
       "steam": "1238840"
     },
     "slug": "battlefield-1",
-    "dateChanged": "2024-08-29T23:39:07.641Z"
+    "dateChanged": "2024-08-30T00:00:00.000Z"
   },
   {
     "url": "",
@@ -3907,7 +3916,7 @@
     "name": "Predator: Hunting Grounds",
     "logo": "",
     "native": false,
-    "status": "Broken",
+    "status": "Running",
     "reference": "",
     "anticheats": [
       "Easy Anti-Cheat"
@@ -3921,7 +3930,7 @@
       }
     },
     "slug": "predator-hunting-grounds",
-    "dateChanged": "2024-01-19T04:40:56.000Z"
+    "dateChanged": "2024-09-01T22:22:14.332Z"
   },
   {
     "url": "",
@@ -4603,7 +4612,7 @@
   },
   {
     "url": "https://www.callofduty.com/blackops4",
-    "name": "Call of Duty: Black Ops 4",
+    "name": "Call of Duty: Black Ops IIII",
     "logo": "",
     "native": false,
     "status": "Supported",
@@ -4615,7 +4624,7 @@
     "updates": [],
     "storeIds": {},
     "slug": "call-of-duty-black-ops-4",
-    "dateChanged": "2024-01-19T04:40:56.000Z"
+    "dateChanged": "2024-09-01T22:22:14.359Z"
   },
   {
     "url": "",
@@ -5266,7 +5275,7 @@
     "native": false,
     "reference": "",
     "anticheats": [
-      "Unknown (Custom)"
+      "KSophon"
     ],
     "notes": [],
     "updates": [
@@ -5284,7 +5293,7 @@
       }
     },
     "slug": "tower-of-fantasy",
-    "dateChanged": "2024-01-19T04:40:56.000Z"
+    "dateChanged": "2024-01-20T04:40:56.000Z"
   },
   {
     "url": "https://www.lostlight.game/",
@@ -7031,12 +7040,12 @@
     "updates": [],
     "notes": [
       [
-        "Speculative, Unreleased",
+        "Unreleased, Speculative",
         null
       ]
     ],
     "storeIds": {},
-    "dateChanged": "2024-04-13T00:38:46.049Z"
+    "dateChanged": "2024-09-01T22:22:14.478Z"
   },
   {
     "url": "",
@@ -8376,22 +8385,6 @@
   },
   {
     "url": "https://snowbreak.amazingseasun.com/",
-    "slug": "snowbreak-containment-zone-row%2Fintl",
-    "name": "Snowbreak: Containment Zone (ROW/INTL)",
-    "logo": "",
-    "native": false,
-    "status": "Running",
-    "reference": "",
-    "anticheats": [
-      "Seasun Protect"
-    ],
-    "updates": [],
-    "notes": [],
-    "storeIds": {},
-    "dateChanged": "2024-07-25T21:21:20.558Z"
-  },
-  {
-    "url": "https://snowbreak.amazingseasun.com/",
     "slug": "snowbreak-containment-zone",
     "name": "Snowbreak: Containment Zone (ROW/INTL)",
     "logo": "",
@@ -9198,5 +9191,235 @@
     "notes": [],
     "storeIds": {},
     "dateChanged": "2024-08-31T00:34:52.421Z"
+  },
+  {
+    "url": "",
+    "slug": "deadlock",
+    "name": "Deadlock",
+    "logo": "",
+    "native": true,
+    "status": "Supported",
+    "reference": "",
+    "anticheats": [
+      "VAC"
+    ],
+    "updates": [],
+    "notes": [
+      [
+        "Unreleased, Working in closed pre-alpha",
+        null
+      ]
+    ],
+    "storeIds": {},
+    "dateChanged": "2024-08-26T20:56:24.259Z"
+  },
+  {
+    "url": "",
+    "slug": "skull-and-bones",
+    "name": "Skull and Bones",
+    "logo": "",
+    "native": false,
+    "status": "Running",
+    "reference": "",
+    "anticheats": [
+      "BattlEye"
+    ],
+    "updates": [],
+    "notes": [],
+    "storeIds": {},
+    "dateChanged": "2024-09-01T22:22:14.556Z"
+  },
+  {
+    "url": "",
+    "slug": "critter-crunch",
+    "name": "Critter Crunch",
+    "logo": "",
+    "native": false,
+    "status": "Running",
+    "reference": "",
+    "anticheats": [
+      "VAC"
+    ],
+    "updates": [],
+    "notes": [],
+    "storeIds": {},
+    "dateChanged": "2024-09-02T22:03:09.735Z"
+  },
+  {
+    "url": "",
+    "slug": "inversion",
+    "name": "Inversion™",
+    "logo": "",
+    "native": false,
+    "status": "Running",
+    "reference": "",
+    "anticheats": [
+      "VAC"
+    ],
+    "updates": [],
+    "notes": [],
+    "storeIds": {},
+    "dateChanged": "2024-09-02T22:03:09.737Z"
+  },
+  {
+    "url": "",
+    "slug": "neotokyo",
+    "name": "NEOTOKYO",
+    "logo": "",
+    "native": false,
+    "status": "Broken",
+    "reference": "",
+    "anticheats": [
+      "VAC"
+    ],
+    "updates": [],
+    "notes": [],
+    "storeIds": {},
+    "dateChanged": "2024-09-02T22:03:09.738Z"
+  },
+  {
+    "url": "",
+    "slug": "warlords-awakening",
+    "name": "Warlords Awakening",
+    "logo": "",
+    "native": false,
+    "status": "Broken",
+    "reference": "",
+    "anticheats": [
+      "nProtect GameGuard"
+    ],
+    "updates": [],
+    "notes": [],
+    "storeIds": {},
+    "dateChanged": "2024-09-04T04:47:09.096Z"
+  },
+  {
+    "url": "",
+    "slug": "infestation-survivor-stories-classic",
+    "name": "Infestation: Survivor Stories Classic",
+    "logo": "",
+    "native": false,
+    "status": "Broken",
+    "reference": "",
+    "anticheats": [
+      "PunkBuster"
+    ],
+    "updates": [],
+    "notes": [],
+    "storeIds": {},
+    "dateChanged": "2024-09-04T22:34:49.721Z"
+  },
+  {
+    "url": "",
+    "slug": "diablo-iii",
+    "name": "Diablo® III",
+    "logo": "",
+    "native": false,
+    "status": "Running",
+    "reference": "",
+    "anticheats": [
+      "Warden"
+    ],
+    "updates": [],
+    "notes": [],
+    "storeIds": {},
+    "dateChanged": "2024-09-05T22:01:18.689Z"
+  },
+  {
+    "url": "",
+    "slug": "soldier-one",
+    "name": "Solider One",
+    "logo": "",
+    "native": false,
+    "status": "Broken",
+    "reference": "",
+    "anticheats": [
+      "SARD"
+    ],
+    "updates": [],
+    "notes": [],
+    "storeIds": {},
+    "dateChanged": "2024-09-05T22:01:18.690Z"
+  },
+  {
+    "url": "",
+    "slug": "3on3-freestyle",
+    "name": "3on3 FreeStyle",
+    "logo": "",
+    "native": false,
+    "status": "Broken",
+    "reference": "",
+    "anticheats": [
+      "XIGNCODE3"
+    ],
+    "updates": [],
+    "notes": [],
+    "storeIds": {},
+    "dateChanged": "2024-09-05T22:01:18.691Z"
+  },
+  {
+    "url": "",
+    "slug": "one-punch-man-a-hero-nobody-knows",
+    "name": "One Punch Man: A Hero Nobody Knows",
+    "logo": "",
+    "native": false,
+    "status": "Broken",
+    "reference": "",
+    "anticheats": [
+      "Easy Anti-Cheat"
+    ],
+    "updates": [],
+    "notes": [],
+    "storeIds": {},
+    "dateChanged": "2024-09-06T20:30:07.639Z"
+  },
+  {
+    "url": "",
+    "slug": "csgo-challengermode",
+    "name": "Counter-Strike: Global Offensive (ChallengerMode)",
+    "logo": "",
+    "native": false,
+    "status": "Broken",
+    "reference": "",
+    "anticheats": [
+      "Arkos"
+    ],
+    "updates": [],
+    "notes": [],
+    "storeIds": {},
+    "dateChanged": "2024-09-06T20:30:07.639Z"
+  },
+  {
+    "url": "",
+    "slug": "blackshot-mercenary-warfare-fps",
+    "name": "BlackShot: Mercenary Warfare FPS",
+    "logo": "",
+    "native": false,
+    "status": "Broken",
+    "reference": "",
+    "anticheats": [
+      "BattlEye",
+      "nProtect GameGuard"
+    ],
+    "updates": [],
+    "notes": [],
+    "storeIds": {},
+    "dateChanged": "2024-09-06T20:30:07.639Z"
+  },
+  {
+    "url": "",
+    "slug": "ring-of-elysium",
+    "name": "Ring of Elysium",
+    "logo": "",
+    "native": false,
+    "status": "Broken",
+    "reference": "",
+    "anticheats": [
+      "TenProtect"
+    ],
+    "updates": [],
+    "notes": [],
+    "storeIds": {},
+    "dateChanged": "2024-09-06T20:30:07.639Z"
   }
 ]

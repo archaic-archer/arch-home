@@ -41,7 +41,7 @@ video/dv=vlc.desktop;
 video/fli=vlc.desktop;
 video/flv=vlc.desktop;
 video/mp2t=vlc.desktop;
-video/mp4=vlc-3.desktop;vlc-2.desktop;vlc.desktop;
+video/mp4=mpv.desktop;vlc-3.desktop;vlc-2.desktop;vlc.desktop;
 video/mp4v-es=vlc.desktop;
 video/mpeg=vlc.desktop;
 video/msvideo=vlc.desktop;
@@ -159,4 +159,3 @@ x-scheme-handler/webcals=userapp-Thunderbird-3L8CQ2.desktop
 
 [Removed Associations]
 application/x-bittorrent=appimagekit_6593763888842627da96245a56fbaae7-Motrix.desktop;
-

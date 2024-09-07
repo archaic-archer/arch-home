@@ -1,422 +1,7 @@
 {
-	"2a09fb19b47f46dfb11ebd382f132a8f": {
-		"about": {
-			"image": {
-				"src": "https://cdn2.unrealengine.com/egs-marvelsguardiansofthegalaxy-eidosmontral-s2-01-03-22-1200x1600-8c92f70a9b28.jpg",
-				"_type": "Diesel Image"
-			},
-			"developerAttribution": "Eidos-Montréal",
-			"_type": "Diesel Product About",
-			"publisherAttribution": "Eidos-Montréal",
-			"description": "![Guardians Image 1](https://cdn2.unrealengine.com/1-marvel-guardians-of-the-galaxy-925f24ac69c5.gif)\n\nFire up Star-Lord’s jet boots for a wild ride across the cosmos in this third-person action-adventure game, a fresh take on Marvel’s Guardians of the Galaxy. With the unpredictable Guardians at your side, blast your way from one explosive situation to another, with original and iconic Marvel characters caught in a struggle for the fate of the universe. You got this. Probably.\n\n# LEAD THE GUARDIANS OF THE GALAXY\n\n![Guardians Image 2](https://cdn2.unrealengine.com/2-lead-the-guardians-of-the-galaxy-5615edff9c45.gif)\n\nYou play as Star-Lord, so nothing’s off-limits with your bold combat style, from Element Blasters and jet boot-powered dropkicks to tag-team beat-downs. With the Guardians fighting at your side, call the shots and overwhelm your opponents with signature attacks. Meanwhile, the consequences of your decisions will range from light-hearted to downright unexpected as your journey unfolds.\n\n# ALL-NEW STORY\n\n![Guardians Image 3](https://cdn2.unrealengine.com/3-all-new-story-7c1bb777db07.gif)\n\nYour newly-formed band of legendary misfits is set to save the universe in this fresh but faithful take on the Guardians of the Galaxy. Somehow, you set off a chain of catastrophic events, leading to a wild ride through mind-blowing worlds inhabited by iconic and original Marvel characters. Turn up the all-star ‘80s mixtape and get ready to kick it.\n\n# FROM MISFITS TO SUPER HEROES\nYou’re the only thing holding the unpredictable Guardians together, so you’ll have to get better at this leadership thing fast. With this offbeat approximation of a family at your side, there will be tears and laughter as you set about tearing into the cosmos together. Whatever’s waiting around the next corner, you know it’s going to be a blast.\n\n# DIGITAL DOWNLOAD BONUS\nBuying the digital version of the game will unlock the Social-Lord Outfit for Star-Lord.",
-			"shortDescription": "You are Star-Lord. The fate of the galaxy and the Guardians is in your hands. Time to show the universe what you’re made of. You got this. Probably.",
-			"title": "Marvel's Guardians of the Galaxy",
-			"developerLogo": {
-				"_type": "Diesel Image"
-			}
-		},
-		"reqs": [
-			{
-				"_type": "Diesel System Detail Item",
-				"title": "OS",
-				"minimum": "Windows® 10 64 bit Build 1903",
-				"recommended": "Windows® 10 64 bit Build 1903"
-			},
-			{
-				"_type": "Diesel System Detail Item",
-				"title": "Processor",
-				"minimum": "AMD Ryzen™ 5 1400 / Intel® Core™ i5-4460",
-				"recommended": "AMD Ryzen™ 5 1600 / Intel® Core™ i7-4790"
-			},
-			{
-				"_type": "Diesel System Detail Item",
-				"title": "Memory",
-				"minimum": "8GB",
-				"recommended": "16GB"
-			},
-			{
-				"_type": "Diesel System Detail Item",
-				"title": "Storage",
-				"minimum": "80GB",
-				"recommended": "80GB"
-			},
-			{
-				"_type": "Diesel System Detail Item",
-				"title": "Direct X",
-				"minimum": "Direct3D 12_0",
-				"recommended": "Direct3D 12_0"
-			},
-			{
-				"_type": "Diesel System Detail Item",
-				"title": "Graphics",
-				"minimum": "NVIDIA® GeForce® GTX 1060 6GB / AMD Radeon™ RX 570",
-				"recommended": "NVIDIA® GeForce® GTX 1660 Super / AMD Radeon™ RX 590"
-			}
-		],
-		"releaseDate": "2021-10-26T15:00:00",
-		"storeUrl": "https://www.epicgames.com/store/product/marvels-guardians-of-the-galaxy"
-	},
 	"__timestamp": {
-		"2a09fb19b47f46dfb11ebd382f132a8f": "Mon Aug 12 2024 20:55:28 GMT+0530 (India Standard Time)",
-		"calluna": "Mon Aug 12 2024 20:56:39 GMT+0530 (India Standard Time)",
-		"5d9f109e44ec4c8bbc5495f43b601f25": "Thu Aug 15 2024 18:44:46 GMT+0530 (India Standard Time)",
-		"cd88d9edc5a748cfa138e467205adcac": "Thu Aug 22 2024 10:59:35 GMT+0530 (India Standard Time)",
-		"b79b8b81ba8c4bf9b4b1154670237131": "Thu Aug 22 2024 10:59:39 GMT+0530 (India Standard Time)",
-		"50118b7f954e450f8823df1614b24e80": "Thu Aug 22 2024 11:00:01 GMT+0530 (India Standard Time)",
-		"caca23a0954f4c1aba1fdd7e277b81e2": "Thu Aug 22 2024 11:22:35 GMT+0530 (India Standard Time)",
-		"3428aaab2c674c98b3acb789dcfaa548": "Wed Aug 28 2024 11:59:31 GMT+0530 (India Standard Time)",
-		"0584d2013f0149a791e7b9bad0eec102": "Thu Aug 29 2024 12:24:15 GMT+0530 (India Standard Time)"
-	},
-	"calluna": {
-		"about": {
-			"image": {
-				"src": "https://cdn2.unrealengine.com/control-portrait-storefront-1200x1600-1200x1600-0f09344b2180.jpg",
-				"_type": "Diesel Image"
-			},
-			"developerAttribution": "Remedy Entertainment",
-			"_type": "Diesel Product About",
-			"publisherAttribution": "505 Games",
-			"description": "After a secretive agency in New York is invaded by an otherworldly threat, you become the new Director struggling to regain Control.\n\nFrom developer Remedy Entertainment, this supernatural 3rd person action-adventure will challenge you to master the combination of supernatural abilities, modifiable loadouts and reactive environments while fighting through a deep and unpredictable world. \n\nControl is Jesse Faden’s story and her personal search for answers as she grows into the role of the Director. The world of Control has its own story, as do the allies Jesse meets along the way. Jesse works with other Bureau agents and discovers strange experiments and secrets.\n\n",
-			"title": "Control",
-			"developerLogo": {
-				"src": "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fcalluna%2Fhome%2FControlRemedy505Logos-795x236-6f9e0c3db9f160af620804bb6eaeb82f033fa6e4.png",
-				"_type": "Diesel Image"
-			}
-		},
-		"reqs": [
-			{
-				"_type": "Diesel System Detail Item",
-				"title": "OS",
-				"minimum": "Windows 7, 64-bit",
-				"recommended": "Windows 10, 64-bit"
-			},
-			{
-				"_type": "Diesel System Detail Item",
-				"title": "Processor",
-				"minimum": "Intel Core i5-4690 / AMD FX 4350",
-				"recommended": "Intel Core i5-7600K / AMD Ryzen 5 1600X"
-			},
-			{
-				"_type": "Diesel System Detail Item",
-				"title": "Graphics Card",
-				"minimum": "NVIDIA GeForce GTX 780 / AMD Radeon R9 280X",
-				"recommended": "NVIDIA GeForce GTX 1660/1060 / AMD Radeon RX 580 AMD | For Ray Tracing: GeForce RTX 2060"
-			},
-			{
-				"_type": "Diesel System Detail Item",
-				"title": "RAM",
-				"minimum": "8 GB",
-				"recommended": "16 GB"
-			},
-			{
-				"_type": "Diesel System Detail Item",
-				"title": "DirectX",
-				"minimum": "DX11",
-				"recommended": "DX11 / DX12"
-			},
-			{
-				"_type": "Diesel System Detail Item",
-				"title": "Additional Features",
-				"minimum": "Widescreen support 21:9 / Remappable controls / Uncapped frame-rate / G-Sync / Freesync support",
-				"recommended": "Widescreen support 21:9 / Remappable controls / Uncapped frame-rate / G-Sync / Freesync support"
-			}
-		],
-		"releaseDate": "2019-08-27T14:00:00",
-		"storeUrl": "https://www.epicgames.com/store/product/control"
-	},
-	"5d9f109e44ec4c8bbc5495f43b601f25": {
-		"about": {
-			"description": "An unrelenting onslaught of eye-popping visuals, ear bursting soundscapes and mind-melting action makes CYGNI the vanguard for the next generation of shoot-em ups. Outgunned, outmanned and out on your own, plunge into a sky full of hell in a last-ditch battle for survival.",
-			"shortDescription": ""
-		},
-		"reqs": [
-			{
-				"minimum": "Windows 10",
-				"recommended": "Windows 11",
-				"title": "OS version"
-			},
-			{
-				"minimum": "AMD R5 1600 / Intel i7 4790",
-				"recommended": "AMD Ryzen 5 5600 / Intel Core i5-12400",
-				"title": "CPU"
-			},
-			{
-				"minimum": "8 GB RAM",
-				"recommended": "16 GB RAM",
-				"title": "Memory"
-			},
-			{
-				"minimum": "NVIDIA GTX Nvidia 1060 / AMD Radeon RX 580 (4GB+ of VRAM)",
-				"recommended": "NVIDIA GeForce RTX 3060 / AMD Radeon RX 6600XT (6GB+ of VRAM)",
-				"title": "GPU"
-			},
-			{
-				"minimum": "DirectX 11",
-				"recommended": "DirectX 11",
-				"title": "DirectX"
-			},
-			{
-				"minimum": "25 GB",
-				"recommended": null,
-				"title": "Storage"
-			},
-			{
-				"minimum": "Gamepad, Joystick",
-				"recommended": null,
-				"title": "Additional input device"
-			}
-		],
-		"storeUrl": "https://www.epicgames.com/store/product/cygni-all-guns-blazing-98f872"
-	},
-	"cd88d9edc5a748cfa138e467205adcac": {
-		"about": {
-			"image": {
-				"src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fhue%2Fhome%2FEGS_Hue_FiddleSticks_S4-510x680-bcdd99a2911633e169813a658111b8058a7bde85.jpg",
-				"_type": "Diesel Image"
-			},
-			"developerAttribution": "Fiddle Sticks",
-			"_type": "Diesel Product About",
-			"publisherAttribution": "Curve Digital",
-			"description": "Hue is a vibrant, award-winning puzzle-adventure, where you alter the world by changing its background colour.\n\nYou explore a dangerous grey land, unearthing coloured fragments on a journey to find your missing mother.\n\nAs obstacles match the background, they disappear, creating new and exciting puzzles - full of peril, mystery… and colours unseen.\n\n+ Unique colour-matching mechanic, offering a new twist on the classic adventure game.\n\n+ A heartfelt story that touches on themes of love, loss, existence and remorse.\n\n+ A world full of lively characters to talk to, each with their own personality and story.\n\n+ Stark silhouetted art style with bright, bold colours.\n\n+ Over 30 original music tracks, composed exclusively for Hue. \n\n+ Professionally voiced narration by Anna Acton and Matthew Wade, some of the UK’s best television talent.\n\n+ Full colourblind support, using symbols as a colour aid.\n\n+ Razer Chroma, Corsair RGB plus many more coloured LED devices supported on Windows\n\n# Metro\nOne of the most original and engrossing platform puzzlers of recent years\n\n# Forbes\nOverall, the game is amazing. Beautiful and brilliant, sophisticated and simple, challenging and compelling.\n\n# Twinfinite\nHue is easily one of the best additions to the genre in a very long time.",
-			"shortDescription": "Hue is a vibrant, award-winning puzzle-adventure, where you alter the world by changing its background color. Includes full colorblind support, using symbols as a color aid",
-			"title": "Hue",
-			"developerLogo": {
-				"_type": "Diesel Image"
-			}
-		},
-		"reqs": [
-			{
-				"_type": "Diesel System Detail Item",
-				"title": "OS",
-				"minimum": "Windows XP SP3/Vista with SP2/7/8/8.1/10 x86 or x64",
-				"recommended": "Windows XP SP3/Vista with SP2/7/8/8.1/10 x86 or x64"
-			},
-			{
-				"_type": "Diesel System Detail Item",
-				"title": "Processor",
-				"minimum": "Intel Core2 Duo E4300 (2 * 1800) or equivalent | AMD Athlon 64 X2 5000+ (2 * 2600) or equivalent",
-				"recommended": "Intel Core 2 Duo E7300 (2 * 2660) or equivalent | AMD Athlon 64 X2 6000+ (2 * 3000) or equivalent"
-			},
-			{
-				"_type": "Diesel System Detail Item",
-				"title": "Memory",
-				"minimum": "2048MB",
-				"recommended": "4096MB"
-			},
-			{
-				"_type": "Diesel System Detail Item",
-				"title": "Storage",
-				"minimum": "400MB",
-				"recommended": "400MB"
-			},
-			{
-				"_type": "Diesel System Detail Item",
-				"title": "Graphics",
-				"minimum": "GeForce GT 610 (1024 MB) or equivalent | Radeon HD 6450 (512 MB) or equivalent",
-				"recommended": "GeForce GTX 560 Ti (1024 MB) or equivalent | Radeon HD 2900 XT (1024 MB) or equivalent"
-			}
-		],
-		"releaseDate": "2020-03-31T04:00:00",
-		"storeUrl": "https://www.epicgames.com/store/product/hue"
-	},
-	"b79b8b81ba8c4bf9b4b1154670237131": {
-		"about": {
-			"description": "Become Atom Eve and take control of your own path as one of the most powerful superheroes in the Invincible universe! Unravel a mystery and balance the dangers and responsibilities of being a superhero with the relatable challenges of everyday life.",
-			"shortDescription": ""
-		},
-		"reqs": [
-			{
-				"minimum": "Windows 7/8/10 64 bit",
-				"recommended": "Windows 7/8/10 64 bit",
-				"title": "OS version"
-			},
-			{
-				"minimum": "3.0 GHz Intel Core i5 or AMD FX",
-				"recommended": "3.5 GHz Intel Core i5 or AMD FX",
-				"title": "CPU"
-			},
-			{
-				"minimum": "8 GB",
-				"recommended": "8 GB",
-				"title": "Memory"
-			},
-			{
-				"minimum": "nVidia GTS 660 or AMD Radeon HD 7870 with 2 GB RAM",
-				"recommended": "nVidia GTS 960 or AMD Radeon HD 7990 with 4 GB RAM",
-				"title": "GPU"
-			},
-			{
-				"minimum": "DirectX 11",
-				"recommended": "DirectX 11",
-				"title": "DirectX"
-			},
-			{
-				"minimum": "2 GB",
-				"recommended": "2 GB",
-				"title": "Storage"
-			}
-		],
-		"storeUrl": "https://www.epicgames.com/store/product/atom-eve-ff090d"
-	},
-	"50118b7f954e450f8823df1614b24e80": {
-		"about": {
-			"image": {
-				"src": "https://cdn2.unrealengine.com/fgss04-keyart-storefrontimageportrait-1200x1600-1200x1600-ef38aea922c2.jpg",
-				"_type": "Diesel Image"
-			},
-			"developerAttribution": "Mediatonic",
-			"_type": "Diesel Product About",
-			"publisherAttribution": "Epic Games",
-			"description": "[![MobileBanner](https://cdn2.unrealengine.com/en-pegi-egs-ios-announceimage-pdp-fallguys-3840x632-3840x632-d0942f9e0648.jpg)](http://store.epicgames.com/mobile)\n\n# About\nYou’re invited to dive and dodge your way to victory in the pantheon of clumsy. Rookie or pro? Solo or partied up? Fall Guys delivers ever-evolving, high-concentrated hilarity and fun. Prefer to be the maverick behind the mayhem? Build your very own obstacle course to share with friends or the wider community. \n\nCreate your own Course: Fall Guys Creative is a level editor that allows you to create fiendish custom Rounds and share them with the wider community.\n\nCompetitive & Cooperative: Tumble between competitive free-for-alls and cooperative challenges—or take on the Blunderdome with up to 3 friends!\n\nPlay with Friends: Fall Guys supports cross-play, cross-platform parties and cross-progression via your Epic Games Account.\n\nEver-Evolving Content: Play stays fresh with new collabs and game updates which bring new Costumes, Obstacles, and ways to play.",
-			"shortDescription": "Fall Guys is a free, cross-platform massively multiplayer party royale game. Clumsily compete in absurd obstacle courses with friends or build your very own chaotic course to share with the community.",
-			"title": "Fall Guys",
-			"developerLogo": {
-				"_type": "Diesel Image"
-			}
-		},
-		"reqs": [
-			{
-				"_type": "Diesel System Detail Item",
-				"title": "OS",
-				"minimum": "Windows 10 64bit",
-				"recommended": "Windows 10 64bit"
-			},
-			{
-				"_type": "Diesel System Detail Item",
-				"title": "Processor",
-				"minimum": "Intel Core i5 or AMD equivalent",
-				"recommended": "Intel Core i5 or AMD equivalent"
-			},
-			{
-				"_type": "Diesel System Detail Item",
-				"title": "Memory",
-				"minimum": "8 GB RAM",
-				"recommended": "8 GB RAM"
-			},
-			{
-				"_type": "Diesel System Detail Item",
-				"title": "Storage",
-				"minimum": "2 GB available space",
-				"recommended": "2 GB available space"
-			},
-			{
-				"_type": "Diesel System Detail Item",
-				"title": "Graphics",
-				"minimum": "NVIDIA GTX 660 or AMD Radeon HD 7950",
-				"recommended": "NVIDIA GTX 660 or AMD Radeon HD 7950"
-			},
-			{
-				"_type": "Diesel System Detail Item",
-				"title": "Other",
-				"minimum": "Broadband Internet connection",
-				"recommended": "Broadband Internet connection"
-			}
-		],
-		"storeUrl": "https://www.epicgames.com/store/product/fall-guys"
-	},
-	"caca23a0954f4c1aba1fdd7e277b81e2": {
-		"about": {
-			"image": {
-				"src": "https://cdn2.unrealengine.com/egs-tombraidergameoftheyearedition-crystaldynamics-s2-1200x1600-26dd67d1b871.jpg",
-				"_type": "Diesel Image"
-			},
-			"developerAttribution": "Crystal Dynamics",
-			"_type": "Diesel Product About",
-			"publisherAttribution": "Crystal Dynamics",
-			"description": "Tomb Raider is a critically acclaimed action adventure that explores the intense and gritty origin story of Lara Croft and her ascent from a young woman to a hardened survivor. Armed only with raw instincts and the ability to push beyond the limits of human endurance, Lara must fight to unravel the dark history of a forgotten island to escape its relentless hold. The Game of the Year edition includes the Tomb of the Lost Adventurer, 6 single player outfits for Lara and  4 characters. ",
-			"shortDescription": "Armed only with raw instincts and the ability to push beyond the limits of human endurance, Lara must fight to unravel the dark history of a forgotten island to escape its relentless hold.",
-			"title": "Tomb Raider GOTY",
-			"developerLogo": {
-				"_type": "Diesel Image"
-			}
-		},
-		"reqs": [
-			{
-				"_type": "Diesel System Detail Item",
-				"title": "OS",
-				"minimum": "Windows XP Service Pack 3, Windows Vista,7,8 (32bit/64bit)",
-				"recommended": "Windows Vista, Windows 7 or Windows 8"
-			},
-			{
-				"_type": "Diesel System Detail Item",
-				"title": "Processor",
-				"minimum": "Dual core CPU: AMD Athlon64 X2 2.1 Ghz (4050+), Intel Core2 Duo 1.86 Ghz (E6300)",
-				"recommended": "Quad core CPU: AMD Phenom II X4 955, Intel Core i5-750"
-			},
-			{
-				"_type": "Diesel System Detail Item",
-				"title": "Memory",
-				"minimum": "1GB Memory (2GB on Vista)",
-				"recommended": "4GB Memory"
-			},
-			{
-				"_type": "Diesel System Detail Item",
-				"title": "Storage",
-				"minimum": "12GB",
-				"recommended": "12GB"
-			},
-			{
-				"_type": "Diesel System Detail Item",
-				"title": "DirectX",
-				"minimum": "9.0c",
-				"recommended": "11"
-			},
-			{
-				"_type": "Diesel System Detail Item",
-				"title": "Graphics",
-				"minimum": "DirectX 9 graphics card with 512Mb Video RAM: AMD Radeon HD 2600 XT, nVidia 8600",
-				"recommended": "DirectX 11 graphics card with 1GB Video RAM: AMD Radeon HD 5870, nVidia GTX 480"
-			}
-		],
-		"releaseDate": "2021-12-30T10:18:26",
-		"storeUrl": "https://www.epicgames.com/store/product/tomb-raider"
-	},
-	"3428aaab2c674c98b3acb789dcfaa548": {
-		"about": {
-			"image": {
-				"src": "https://cdn2.unrealengine.com/egs-falloutnewvegas-obsidianentertainment-s2-1200x1600-9185002a877e.jpg",
-				"_type": "Diesel Image"
-			},
-			"developerAttribution": "Obsidian Entertainment",
-			"_type": "Diesel Product About",
-			"publisherAttribution": "Bethesda Softworks",
-			"description": "# Welcome to Vegas. New Vegas.\n\nIt’s the kind of town where you dig your own grave prior to being shot in the head and left for dead… and that’s before things really get ugly. It’s a town of dreamers and desperados being torn apart by warring factions vying for complete control of this desert oasis. It’s a place where the right kind of person with the right kind of weaponry can really make a name for themselves, and make more than an enemy or two along the way.",
-			"shortDescription": "Feel the Heat in New Vegas! Not even nuclear fallout could slow the hustle of Sin City. Explore the vast expanses of the desert wastelands and see the Great Southwest as could only be imagined in Fallout.",
-			"developerLogo": {
-				"_type": "Diesel Image"
-			}
-		},
-		"reqs": [
-			{
-				"_type": "Diesel System Detail Item",
-				"title": "OS",
-				"minimum": "Windows 7/Vista/XP ",
-				"recommended": "Windows 7/Vista/XP "
-			},
-			{
-				"_type": "Diesel System Detail Item",
-				"title": "Processor",
-				"minimum": "Dual Core 2.0GHz",
-				"recommended": "Dual Core 2.0GHz"
-			},
-			{
-				"_type": "Diesel System Detail Item",
-				"title": "Memory",
-				"minimum": "2 GB RAM",
-				"recommended": "2 GB RAM"
-			},
-			{
-				"_type": "Diesel System Detail Item",
-				"title": "Storage",
-				"minimum": "10 GB Free Space"
-			},
-			{
-				"_type": "Diesel System Detail Item",
-				"title": "Graphics",
-				"minimum": "NVIDIA GeForce 6 series, ATI 1300XT series"
-			}
-		],
-		"storeUrl": "https://www.epicgames.com/store/product/fallout-new-vegas"
+		"0584d2013f0149a791e7b9bad0eec102": "Sat Sep 07 2024 18:48:20 GMT+0530 (India Standard Time)",
+		"2052c58b9f64498386cbbbc85df90bbf": "Sat Sep 07 2024 18:53:35 GMT+0530 (India Standard Time)"
 	},
 	"0584d2013f0149a791e7b9bad0eec102": {
 		"about": {
@@ -475,5 +60,39 @@
 		],
 		"releaseDate": "2013-09-17T13:00:00",
 		"storeUrl": "https://www.epicgames.com/store/product/grand-theft-auto-v"
+	},
+	"2052c58b9f64498386cbbbc85df90bbf": {
+		"about": {
+			"description": "LISA: The Painful - Definitive Edition is the miserable, hilarious RPG of your wildest nightmares. Undertake a relentless journey through the post-apocalyptic wasteland of Olathe. In this world, you will learn that being selfish and heartless is the only way to survive...",
+			"shortDescription": ""
+		},
+		"reqs": [
+			{
+				"minimum": "Microsoft® Windows® XP / Vista / 7 (32-bit/64-bit)",
+				"recommended": "Microsoft® Windows® XP / Vista / 7 (32-bit/64-bit)",
+				"title": "OS version"
+			},
+			{
+				"minimum": "Intel® Pentium® 4 2.0 GHz equivalent or faster processor",
+				"recommended": "Intel® Pentium® 4 2.0 GHz equivalent or faster processor",
+				"title": "CPU"
+			},
+			{
+				"minimum": "512 MB RAM",
+				"recommended": "512 MB RAM",
+				"title": "Memory"
+			},
+			{
+				"minimum": "1024 x 768 pixels or higher desktop resolution",
+				"recommended": "1024 x 768 pixels or higher desktop resolution",
+				"title": "GPU"
+			},
+			{
+				"minimum": "800 MB available space",
+				"recommended": "800 MB available space",
+				"title": "Storage"
+			}
+		],
+		"storeUrl": "https://www.epicgames.com/store/product/lisa-the-painful-0c7e2a"
 	}
 }

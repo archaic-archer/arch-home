@@ -1,26 +1,17 @@
-2024/08/31-17:45:20.159 233d0 Reusing MANIFEST /home/pc/.config/sh.cider.classic/Local Storage/leveldb/MANIFEST-000001
-2024/08/31-17:45:20.221 233d0 Recovering log #321
-2024/08/31-17:45:20.235 233d0 Level-0 table #325: started
-2024/08/31-17:45:20.282 233d0 Level-0 table #325: 130493 bytes OK
-2024/08/31-17:45:20.306 233d0 Delete type=0 #321
-2024/08/31-17:47:22.249 233d0 Level-0 table #328: started
-2024/08/31-17:47:22.254 233d0 Level-0 table #328: 16850 bytes OK
-2024/08/31-17:47:22.258 233d0 Delete type=0 #326
-2024/08/31-17:49:07.451 233d0 Level-0 table #330: started
-2024/08/31-17:49:07.467 233d0 Level-0 table #330: 14769 bytes OK
-2024/08/31-17:49:07.471 233d0 Delete type=0 #327
-2024/08/31-17:49:22.248 233d0 Level-0 table #332: started
-2024/08/31-17:49:22.254 233d0 Level-0 table #332: 11768 bytes OK
-2024/08/31-17:49:22.258 233d0 Delete type=0 #329
-2024/08/31-17:49:22.258 233d0 Compacting 4@0 + 1@1 files
-2024/08/31-17:49:22.262 233d0 Generated table #333@0: 11 keys, 12572 bytes
-2024/08/31-17:49:22.262 233d0 Compacted 4@0 + 1@1 files => 12572 bytes
-2024/08/31-17:49:22.266 233d0 compacted to: files[ 0 1 1 0 0 0 0 ]
-2024/08/31-17:49:22.266 233d0 Delete type=2 #325
-2024/08/31-17:49:22.267 233d0 Delete type=2 #330
-2024/08/31-17:49:22.267 233d0 Delete type=2 #328
-2024/08/31-17:49:22.267 233d0 Delete type=2 #332
-2024/08/31-17:49:22.267 233d0 Delete type=2 #323
-2024/08/31-17:50:22.248 233d0 Level-0 table #335: started
-2024/08/31-17:50:22.252 233d0 Level-0 table #335: 11031 bytes OK
-2024/08/31-17:50:22.254 233d0 Delete type=0 #331
+2024/09/07-17:29:14.720 18fd1 Reusing MANIFEST /home/pc/.config/sh.cider.classic/Local Storage/leveldb/MANIFEST-000001
+2024/09/07-17:29:14.784 18fd1 Recovering log #358
+2024/09/07-17:29:14.811 18fd1 Level-0 table #361: started
+2024/09/07-17:29:14.818 18fd1 Level-0 table #361: 25395 bytes OK
+2024/09/07-17:29:14.843 18fd1 Delete type=0 #358
+2024/09/07-17:29:14.843 18fd0 Compacting 4@0 + 1@1 files
+2024/09/07-17:29:14.870 18fd0 Generated table #363@0: 11 keys, 17381 bytes
+2024/09/07-17:29:14.871 18fd0 Compacted 4@0 + 1@1 files => 17381 bytes
+2024/09/07-17:29:14.873 18fd0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/09/07-17:29:14.873 18fd0 Delete type=2 #361
+2024/09/07-17:29:14.873 18fd0 Delete type=2 #357
+2024/09/07-17:29:14.873 18fd0 Delete type=2 #355
+2024/09/07-17:29:14.873 18fd0 Delete type=2 #353
+2024/09/07-17:29:14.873 18fd0 Delete type=2 #359
+2024/09/07-17:31:58.348 18fd1 Level-0 table #365: started
+2024/09/07-17:31:58.363 18fd1 Level-0 table #365: 17864 bytes OK
+2024/09/07-17:31:58.366 18fd1 Delete type=0 #362

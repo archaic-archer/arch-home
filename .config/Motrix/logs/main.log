@@ -1439,3 +1439,94 @@
 ]
 [2024-08-24 14:46:21.633] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
 [2024-08-24 14:46:21.634] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed
+[2024-09-04 12:01:19.857] [info]  [Motrix] Logger init
+[2024-09-04 12:01:19.874] [warn]  [Motrix] Logger init
+[2024-09-04 12:01:20.041] [info]  [Motrix] handleAppLaunchArgv: [ '/tmp/.mount_MotrixffpOe7/motrix', '--no-sandbox' ]
+[2024-09-04 12:01:20.043] [info]  [Motrix] split argv args: [ '/tmp/.mount_MotrixffpOe7/motrix' ]
+[2024-09-04 12:01:20.043] [info]  [Motrix] split argv extra: { '--no-sandbox': '1' }
+[2024-09-04 12:01:20.044] [info]  [Motrix] openedAtLogin: false
+[2024-09-04 12:01:20.352] [info]  [Motrix] Context.init===> {
+  platform: 'linux',
+  arch: 'x64',
+  'log-path': '/home/pc/.config/Motrix/logs',
+  'session-path': '/home/pc/.config/Motrix/download.session',
+  'engine-path': '/tmp/.mount_MotrixffpOe7/resources/engine',
+  'aria2-bin-path': '/tmp/.mount_MotrixffpOe7/resources/engine/aria2c',
+  'aria2-conf-path': '/tmp/.mount_MotrixffpOe7/resources/engine/aria2.conf'
+}
+[2024-09-04 12:01:21.320] [warn]  [Motrix] auto sync tracker data: [
+  'udp://93.158.213.92:1337/announce\n' +
+    '\n' +
+    'udp://23.134.90.9:1337/announce\n' +
+    '\n' +
+    'udp://185.243.218.213:80/announce\n' +
+    '\n' +
+    'udp://89.234.156.205:451/announce\n' +
+    '\n' +
+    'udp://109.201.134.183:80/announce\n' +
+    '\n' +
+    'udp://23.157.120.14:6969/announce\n' +
+    '\n' +
+    'udp://83.6.101.250:6969/announce\n' +
+    '\n' +
+    'udp://45.9.60.30:6969/announce\n' +
+    '\n' +
+    'udp://186.10.172.11:1337/announce\n' +
+    '\n' +
+    'udp://5.181.156.41:6969/announce\n' +
+    '\n' +
+    'udp://208.83.20.20:6969/announce\n' +
+    '\n' +
+    'http://156.234.201.18:80/announce\n' +
+    '\n' +
+    'http://34.89.51.235:80/announce\n' +
+    '\n' +
+    'http://35.227.59.57:80/announce\n' +
+    '\n' +
+    'udp://23.153.248.83:6969/announce\n' +
+    '\n' +
+    'udp://83.102.180.21:80/announce\n' +
+    '\n',
+  'udp://tracker.opentrackr.org:1337/announce\n' +
+    '\n' +
+    'udp://open.demonii.com:1337/announce\n' +
+    '\n' +
+    'udp://open.stealth.si:80/announce\n' +
+    '\n' +
+    'udp://tracker.torrent.eu.org:451/announce\n' +
+    '\n' +
+    'udp://tracker-udp.gbitt.info:80/announce\n' +
+    '\n' +
+    'udp://explodie.org:6969/announce\n' +
+    '\n' +
+    'udp://wepzone.net:6969/announce\n' +
+    '\n' +
+    'udp://opentracker.io:6969/announce\n' +
+    '\n' +
+    'udp://open.tracker.cl:1337/announce\n' +
+    '\n' +
+    'udp://open.dstud.io:6969/announce\n' +
+    '\n' +
+    'udp://exodus.desync.com:6969/announce\n' +
+    '\n' +
+    'https://tracker.tamersunion.org:443/announce\n' +
+    '\n' +
+    'https://tracker.renfei.net:443/announce\n' +
+    '\n' +
+    'http://tracker1.bt.moack.co.kr:80/announce\n' +
+    '\n' +
+    'http://tracker.renfei.net:8080/announce\n' +
+    '\n' +
+    'http://tracker.ipv6tracker.org:80/announce\n' +
+    '\n' +
+    'http://tr.kxmp.cf:80/announce\n' +
+    '\n' +
+    'udp://tracker2.dler.org:80/announce\n' +
+    '\n' +
+    'udp://tracker.0x7c0.com:6969/announce\n' +
+    '\n' +
+    'udp://retracker01-msk-virt.corbina.net:80/announce\n' +
+    '\n'
+]
+[2024-09-04 12:01:22.188] [warn]  [Motrix] UPnPManager map 21301 failed, error:  UPnP port mapping failed
+[2024-09-04 12:01:22.189] [warn]  [Motrix] UPnPManager map 26701 failed, error:  UPnP port mapping failed

@@ -7,3 +7,4 @@ end
 
 alias Su="yay -Syyu --noconfirm"
 alias bat="upower -i /org/freedesktop/UPower/devices/battery_BAT0"
+alias scr="scrcpy -Sf --window-width=1920 --window-height=1080"

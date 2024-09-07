@@ -5,20 +5,14 @@
     "Windows": {
       "app_name": "0a2d9f6403244d12969e11da6713137b",
       "asset_id": "0a2d9f6403244d12969e11da6713137b",
-      "build_version": "EGS_7528",
+      "build_version": "EGS_7855",
       "catalog_item_id": "38ec4849ea4f4de6aa7b6fb0f2d278e1",
       "label_name": "Live-Windows",
       "metadata": {},
       "namespace": "50118b7f954e450f8823df1614b24e80"
     }
   },
-  "base_urls": [
-    "https://fastly-download.epicgames.com/Builds/Org/o-4m3t3rbr8yw4rpfdlb6yjppdf6ztbf/d42d7101bb7a41c09a810ee418b7d3d0/default",
-    "https://epicgames-download1.akamaized.net/Builds/Org/o-4m3t3rbr8yw4rpfdlb6yjppdf6ztbf/d42d7101bb7a41c09a810ee418b7d3d0/default",
-    "https://download.epicgames.com/Builds/Org/o-4m3t3rbr8yw4rpfdlb6yjppdf6ztbf/d42d7101bb7a41c09a810ee418b7d3d0/default",
-    "https://cloudflare.epicgamescdn.com/Builds/Org/o-4m3t3rbr8yw4rpfdlb6yjppdf6ztbf/d42d7101bb7a41c09a810ee418b7d3d0/default",
-    "https://download2.epicgames.com/Builds/Org/o-4m3t3rbr8yw4rpfdlb6yjppdf6ztbf/d42d7101bb7a41c09a810ee418b7d3d0/default"
-  ],
+  "base_urls": [],
   "metadata": {
     "ageGatings": {},
     "applicationId": "fghi45677JW4O6a40cxsOpscCLcr3Z3j",
@@ -75,24 +69,24 @@
     "keyImages": [
       {
         "height": 1440,
-        "md5": "5bd68fb5fcb955110c87388f072b2fbf",
-        "size": 994479,
+        "md5": "89c8edd4ffe307f5d760f286a28c3404",
+        "size": 2079020,
         "type": "DieselGameBox",
-        "uploadedDate": "2023-09-25T20:00:12.143Z",
-        "url": "https://cdn1.epicgames.com/item/50118b7f954e450f8823df1614b24e80/EGS_FallGuys_Mediatonic_S1_2560x1440-5bd68fb5fcb955110c87388f072b2fbf",
+        "uploadedDate": "2024-08-15T22:38:46.675Z",
+        "url": "https://cdn1.epicgames.com/item/50118b7f954e450f8823df1614b24e80/FGSS04_KeyArt_OfferImageLandscape_2560x1440_2560x1440-89c8edd4ffe307f5d760f286a28c3404",
         "width": 2560
       },
       {
         "height": 1600,
-        "md5": "6ea0c038d654d7b6dc06bf86a1522f21",
-        "size": 982720,
+        "md5": "4bd46574e78464352e1f2c55714701f7",
+        "size": 1218066,
         "type": "DieselGameBoxTall",
-        "uploadedDate": "2023-09-25T20:00:15.680Z",
-        "url": "https://cdn1.epicgames.com/item/50118b7f954e450f8823df1614b24e80/EGS_FallGuys_Mediatonic_S2_1200x1600-6ea0c038d654d7b6dc06bf86a1522f21",
+        "uploadedDate": "2024-08-15T22:38:50.415Z",
+        "url": "https://cdn1.epicgames.com/item/50118b7f954e450f8823df1614b24e80/FGSS04_KeyArt_OfferImagePortrait_1200x1600_1200x1600-4bd46574e78464352e1f2c55714701f7",
         "width": 1200
       }
     ],
-    "lastModifiedDate": "2024-08-08T17:45:39.537Z",
+    "lastModifiedDate": "2024-08-16T11:00:23.968Z",
     "namespace": "50118b7f954e450f8823df1614b24e80",
     "releaseInfo": [
       {

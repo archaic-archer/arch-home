@@ -1,5 +1,8 @@
-2024/08/31-22:59:31.754 47352 Reusing MANIFEST /home/pc/.config/sh.cider.classic/Local Storage/leveldb/MANIFEST-000001
-2024/08/31-22:59:31.808 47352 Recovering log #334
-2024/08/31-22:59:31.815 47352 Level-0 table #337: started
-2024/08/31-22:59:31.824 47352 Level-0 table #337: 13677 bytes OK
-2024/08/31-22:59:31.828 47352 Delete type=0 #334
+2024/09/07-17:42:33.701 1a6d4 Reusing MANIFEST /home/pc/.config/sh.cider.classic/Local Storage/leveldb/MANIFEST-000001
+2024/09/07-17:42:33.739 1a6d4 Recovering log #364
+2024/09/07-17:42:33.743 1a6d4 Level-0 table #367: started
+2024/09/07-17:42:33.769 1a6d4 Level-0 table #367: 19983 bytes OK
+2024/09/07-17:42:33.772 1a6d4 Delete type=0 #364
+2024/09/07-17:52:23.204 1a6d4 Level-0 table #370: started
+2024/09/07-17:52:23.209 1a6d4 Level-0 table #370: 15807 bytes OK
+2024/09/07-17:52:23.213 1a6d4 Delete type=0 #368

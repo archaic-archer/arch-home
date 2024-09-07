@@ -1,10 +1,10 @@
 // -*- mode: jsonc -*-
-[{
+{
     "layer": "bottom",
     "output": "",
     "height": 34, 
     "spacing": 4,
-    "position": "bottom",
+    "position": "top",
 
     "modules-left": [
         "custom/menu",
@@ -14,12 +14,14 @@
 	"custom/app4",
 	"custom/app5",
         "sway/mode",
-        "sway/scratchpad"
+        "sway/scratchpad",
+	"sway/window"
     ],
    "modules-center": [
-	"mpris"
+	"sway/workspaces"
     ],
     "modules-right": [
+	"mpris",
         "privacy",
 //        "idle_inhibitor",
 	"pulseaudio",
@@ -189,7 +191,8 @@
         "format": " ⏻ {}",
         "return-type": "json",
         "max-length": 40,
-     	"on-click": "~/.config/rofi/powermenu/powermenu.sh"	
+     	"on-click": "~/.config/rofi/powermenu/powermenu.sh",	
+     	"on-click-right": "gddccontrol"	
     },
 
  "privacy": {
@@ -248,39 +251,16 @@
 "custom/app5": {
 		"format": "{}",
 		"on-click": "~/Applications/tutanota-desktop-linux_4e51841f25dac13c7c144a0ef6145ebb.AppImage"
-	}
-
-    
-
-
-
-    
-        },
-
-
-// Bottom Bar //
-{
-	"layer": "bottom",
-	"output":"",
-	"height": 34,
-	"position": "top",
-
-	"modules-left": [
-		"sway/workspaces"
-			],
-
-	"modules-center": [
-		"sway/window"
-	],
+	},
 
  "sway/workspaces": {
         "format": "{icon}",
         "format-icons": {
-            "1": "web",
-            "2": "file",
-            "3": "doc",
-            "4": "mail",
-            "5": "term",
+            "1": "1",
+            "2": "2",
+            "3": "3",
+            "4": "4",
+            "5": "5",
             "urgent": ""
         },
 	"persistent-workspaces": {
@@ -289,8 +269,50 @@
 		"3": [], 
 		"4": [], 
 		"5": [] 
-	},
-},
+	}
+}
 
 
-}]
+
+    
+
+
+
+    
+        }
+
+
+// Bottom Bar //
+//{
+//	"layer": "bottom",
+//	"output":"",
+//	"height": 34,
+//	"position": "top",
+//
+//	"modules-left": [
+//			],
+//
+//	"modules-center": [
+//	],
+//
+// "sway/workspaces": {
+//        "format": "{icon}",
+//        "format-icons": {
+//            "1": "web",
+//            "2": "file",
+//           "3": "doc",
+//            "4": "mail",
+//           "5": "term",
+//            "urgent": ""
+//        },
+//	"persistent-workspaces": {
+//		"1": [], 
+//		"2": [], 
+//		"3": [], 
+//		"4": [], 
+//		"5": [] 
+//	},
+//},
+
+
+//}]

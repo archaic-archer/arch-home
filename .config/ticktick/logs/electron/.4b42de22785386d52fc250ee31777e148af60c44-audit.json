@@ -6,11 +6,6 @@
     "auditLog": "/home/pc/.config/ticktick/logs/electron/.4b42de22785386d52fc250ee31777e148af60c44-audit.json",
     "files": [
         {
-            "date": 1721405475836,
-            "name": "/home/pc/.config/ticktick/logs/electron/electron-2024-07-19.log",
-            "hash": "8c0f0f16e00a40ffae7d92d90ed9421d"
-        },
-        {
             "date": 1721573410173,
             "name": "/home/pc/.config/ticktick/logs/electron/electron-2024-07-21.log",
             "hash": "4f4d5200b41fe51bd27499ff4ab6f2aa"
@@ -39,6 +34,11 @@
             "date": 1723182374272,
             "name": "/home/pc/.config/ticktick/logs/electron/electron-2024-08-09.log",
             "hash": "cbb4bc1ef5d79387594cf769d7db770c"
+        },
+        {
+            "date": 1725268608892,
+            "name": "/home/pc/.config/ticktick/logs/electron/electron-2024-09-02.log",
+            "hash": "214994d43675f605c47f83cc24607ffd"
         }
     ]
 }

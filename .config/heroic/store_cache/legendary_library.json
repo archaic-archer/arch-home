@@ -9218,8 +9218,8 @@
 		},
 		{
 			"app_name": "0a2d9f6403244d12969e11da6713137b",
-			"art_cover": "https://cdn1.epicgames.com/item/50118b7f954e450f8823df1614b24e80/EGS_FallGuys_Mediatonic_S1_2560x1440-5bd68fb5fcb955110c87388f072b2fbf",
-			"art_square": "https://cdn1.epicgames.com/item/50118b7f954e450f8823df1614b24e80/EGS_FallGuys_Mediatonic_S2_1200x1600-6ea0c038d654d7b6dc06bf86a1522f21",
+			"art_cover": "https://cdn1.epicgames.com/item/50118b7f954e450f8823df1614b24e80/FGSS04_KeyArt_OfferImageLandscape_2560x1440_2560x1440-89c8edd4ffe307f5d760f286a28c3404",
+			"art_square": "https://cdn1.epicgames.com/item/50118b7f954e450f8823df1614b24e80/FGSS04_KeyArt_OfferImagePortrait_1200x1600_1200x1600-4bd46574e78464352e1f2c55714701f7",
 			"cloud_save_enabled": false,
 			"developer": "EGFG LLC",
 			"extra": {
@@ -19695,43 +19695,6 @@
 					"unsearchable": true
 				},
 				{
-					"categories": [
-						{
-							"path": "addons"
-						}
-					],
-					"creationDate": "2023-03-15T21:42:39.882Z",
-					"customAttributes": {
-						"CanRunOffline": {
-							"type": "STRING",
-							"value": "true"
-						}
-					},
-					"description": "Titanium White Battle Bus",
-					"developer": "Psyonix LLC",
-					"developerId": "o-98larctxyhn55kqjq5xjb9wzjl9hf9",
-					"endOfSupport": false,
-					"entitlementName": "b85069fda94740529275c99a5082839b",
-					"entitlementType": "EXECUTABLE",
-					"eulaIds": [
-						"egstore"
-					],
-					"id": "b85069fda94740529275c99a5082839b",
-					"itemType": "DURABLE",
-					"lastModifiedDate": "2023-11-30T19:24:20.431Z",
-					"mainGameItem": {
-						"id": "530145df28a24424923f5828cc9031a1",
-						"namespace": "9773aa1aa54f4f7b80e44bef04986cea",
-						"unsearchable": false
-					},
-					"namespace": "9773aa1aa54f4f7b80e44bef04986cea",
-					"releaseInfo": [],
-					"requiresSecureAccount": false,
-					"status": "ACTIVE",
-					"title": "Titanium White Battle Bus",
-					"unsearchable": true
-				},
-				{
 					"ageGatings": {},
 					"applicationId": "",
 					"categories": [
@@ -20663,117 +20626,6 @@
 					"requiresSecureAccount": false,
 					"status": "ACTIVE",
 					"title": "Rocket League® - Season 15 Rocketeer Pack audience",
-					"unsearchable": true
-				},
-				{
-					"categories": [
-						{
-							"path": "addons"
-						}
-					],
-					"creationDate": "2024-07-15T22:19:13.942Z",
-					"customAttributes": {
-						"CanRunOffline": {
-							"type": "STRING",
-							"value": "true"
-						}
-					},
-					"description": "Rocket League® - Season 16 Rookie Pack",
-					"developer": "Psyonix LLC",
-					"developerId": "o-98larctxyhn55kqjq5xjb9wzjl9hf9",
-					"endOfSupport": false,
-					"entitlementName": "f65e663f7162479a8815c847b9ac29bc",
-					"entitlementType": "EXECUTABLE",
-					"eulaIds": [
-						"egstore"
-					],
-					"id": "f65e663f7162479a8815c847b9ac29bc",
-					"itemType": "DURABLE",
-					"lastModifiedDate": "2024-07-15T22:19:13.942Z",
-					"mainGameItem": {
-						"id": "530145df28a24424923f5828cc9031a1",
-						"namespace": "9773aa1aa54f4f7b80e44bef04986cea",
-						"unsearchable": false
-					},
-					"namespace": "9773aa1aa54f4f7b80e44bef04986cea",
-					"releaseInfo": [],
-					"requiresSecureAccount": false,
-					"status": "ACTIVE",
-					"title": "Rocket League® - Season 16 Rookie Pack",
-					"unsearchable": true
-				},
-				{
-					"categories": [
-						{
-							"path": "addons"
-						}
-					],
-					"creationDate": "2024-07-15T22:20:58.751Z",
-					"customAttributes": {
-						"CanRunOffline": {
-							"type": "STRING",
-							"value": "true"
-						}
-					},
-					"description": "Rocket League® - Season 16 Elite Pack",
-					"developer": "Psyonix LLC",
-					"developerId": "o-98larctxyhn55kqjq5xjb9wzjl9hf9",
-					"endOfSupport": false,
-					"entitlementName": "4b57c4bc8287484e9691a6a91a774f6b",
-					"entitlementType": "EXECUTABLE",
-					"eulaIds": [
-						"egstore"
-					],
-					"id": "4b57c4bc8287484e9691a6a91a774f6b",
-					"itemType": "DURABLE",
-					"lastModifiedDate": "2024-07-15T22:20:58.751Z",
-					"mainGameItem": {
-						"id": "530145df28a24424923f5828cc9031a1",
-						"namespace": "9773aa1aa54f4f7b80e44bef04986cea",
-						"unsearchable": false
-					},
-					"namespace": "9773aa1aa54f4f7b80e44bef04986cea",
-					"releaseInfo": [],
-					"requiresSecureAccount": false,
-					"status": "ACTIVE",
-					"title": "Rocket League® - Season 16 Elite Pack",
-					"unsearchable": true
-				},
-				{
-					"categories": [
-						{
-							"path": "addons"
-						}
-					],
-					"creationDate": "2024-07-17T18:07:08.949Z",
-					"customAttributes": {
-						"CanRunOffline": {
-							"type": "STRING",
-							"value": "true"
-						}
-					},
-					"description": "Rocket League® - Season 16 Paragon Pack",
-					"developer": "Psyonix LLC",
-					"developerId": "o-98larctxyhn55kqjq5xjb9wzjl9hf9",
-					"endOfSupport": false,
-					"entitlementName": "d0e2f2f2386d470ebb734a74b7743b61",
-					"entitlementType": "EXECUTABLE",
-					"eulaIds": [
-						"egstore"
-					],
-					"id": "d0e2f2f2386d470ebb734a74b7743b61",
-					"itemType": "DURABLE",
-					"lastModifiedDate": "2024-07-17T18:07:08.949Z",
-					"mainGameItem": {
-						"id": "530145df28a24424923f5828cc9031a1",
-						"namespace": "9773aa1aa54f4f7b80e44bef04986cea",
-						"unsearchable": false
-					},
-					"namespace": "9773aa1aa54f4f7b80e44bef04986cea",
-					"releaseInfo": [],
-					"requiresSecureAccount": false,
-					"status": "ACTIVE",
-					"title": "Rocket League® - Season 16 Paragon Pack",
 					"unsearchable": true
 				}
 			],
@@ -26135,6 +25987,6 @@
 		}
 	],
 	"__timestamp": {
-		"library": "Sat Aug 31 2024 19:35:10 GMT+0530 (India Standard Time)"
+		"library": "Sat Sep 07 2024 18:53:20 GMT+0530 (India Standard Time)"
 	}
 }

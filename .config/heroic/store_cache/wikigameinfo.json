@@ -1,152 +1,4 @@
 {
-	"Fallout London": {
-		"pcgamingwiki": null,
-		"applegamingwiki": null,
-		"howlongtobeat": null,
-		"gamesdb": {
-			"steamID": ""
-		},
-		"steamInfo": null,
-		"umuId": null
-	},
-	"__timestamp": {
-		"Fallout London": "Mon Aug 12 2024 20:55:02 GMT+0530 (India Standard Time)",
-		"Marvels Guardians of the Galaxy": "Mon Aug 12 2024 20:55:27 GMT+0530 (India Standard Time)",
-		"Control": "Mon Aug 12 2024 20:56:40 GMT+0530 (India Standard Time)",
-		"Fallout New Vegas": "Wed Aug 14 2024 21:47:57 GMT+0530 (India Standard Time)",
-		"CYGNI - All Guns Blazing": "Thu Aug 15 2024 18:44:49 GMT+0530 (India Standard Time)",
-		"Grand Theft Auto V": "Mon Aug 19 2024 00:28:47 GMT+0530 (India Standard Time)",
-		"Bzzzt Demo": "Thu Aug 22 2024 10:52:15 GMT+0530 (India Standard Time)",
-		"Hue": "Thu Aug 22 2024 10:59:38 GMT+0530 (India Standard Time)",
-		"Invincible Presents Atom Eve": "Thu Aug 22 2024 10:59:39 GMT+0530 (India Standard Time)",
-		"Fall Guys": "Thu Aug 22 2024 11:00:01 GMT+0530 (India Standard Time)",
-		"Tomb Raider GAME OF THE YEAR EDITION": "Thu Aug 22 2024 11:22:35 GMT+0530 (India Standard Time)"
-	},
-	"Marvels Guardians of the Galaxy": {
-		"pcgamingwiki": null,
-		"applegamingwiki": null,
-		"howlongtobeat": null,
-		"gamesdb": {
-			"steamID": "1088850"
-		},
-		"steamInfo": {
-			"compatibilityLevel": "gold",
-			"steamDeckCatagory": 3
-		},
-		"umuId": "umu-1088850"
-	},
-	"Control": {
-		"pcgamingwiki": {
-			"steamID": "",
-			"howLongToBeatID": "",
-			"metacritic": {
-				"score": "",
-				"urlid": ""
-			},
-			"opencritic": {
-				"score": "",
-				"urlid": ""
-			},
-			"igdb": {
-				"score": "",
-				"urlid": ""
-			},
-			"direct3DVersions": [
-				""
-			],
-			"genres": [
-				""
-			],
-			"releaseDate": []
-		},
-		"applegamingwiki": null,
-		"howlongtobeat": null,
-		"gamesdb": {
-			"steamID": "870780"
-		},
-		"steamInfo": {
-			"compatibilityLevel": "platinum",
-			"steamDeckCatagory": 3
-		},
-		"umuId": null
-	},
-	"Fallout New Vegas": {
-		"pcgamingwiki": {
-			"steamID": "22380",
-			"howLongToBeatID": "3351",
-			"metacritic": {
-				"score": "84",
-				"urlid": "fallout-new-vegas"
-			},
-			"opencritic": {
-				"score": "",
-				"urlid": ""
-			},
-			"igdb": {
-				"score": "82",
-				"urlid": "fallout-new-vegas"
-			},
-			"direct3DVersions": [
-				"9.0c"
-			],
-			"genres": [
-				"ARPG",
-				"Openworld",
-				"Shooter"
-			],
-			"releaseDate": [
-				"Windows: October 19, 2010"
-			]
-		},
-		"applegamingwiki": null,
-		"howlongtobeat": null,
-		"gamesdb": {
-			"steamID": "22380"
-		},
-		"steamInfo": {
-			"compatibilityLevel": "gold",
-			"steamDeckCatagory": 2
-		},
-		"umuId": null
-	},
-	"CYGNI - All Guns Blazing": {
-		"pcgamingwiki": {
-			"steamID": "1248080",
-			"howLongToBeatID": "",
-			"metacritic": {
-				"score": "",
-				"urlid": ""
-			},
-			"opencritic": {
-				"score": "",
-				"urlid": ""
-			},
-			"igdb": {
-				"score": "",
-				"urlid": ""
-			},
-			"direct3DVersions": [
-				"11"
-			],
-			"genres": [
-				"Aracde",
-				"Shooter"
-			],
-			"releaseDate": [
-				"Windows: 08/06/2024"
-			]
-		},
-		"applegamingwiki": null,
-		"howlongtobeat": null,
-		"gamesdb": {
-			"steamID": "1248080"
-		},
-		"steamInfo": {
-			"compatibilityLevel": "gold",
-			"steamDeckCatagory": 2
-		},
-		"umuId": null
-	},
 	"Grand Theft Auto V": {
 		"pcgamingwiki": {
 			"steamID": "271590",
@@ -191,26 +43,19 @@
 		},
 		"umuId": "umu-271590"
 	},
-	"Bzzzt Demo": {
-		"pcgamingwiki": null,
-		"applegamingwiki": null,
-		"howlongtobeat": null,
-		"gamesdb": {
-			"steamID": "1293170"
-		},
-		"steamInfo": {
-			"compatibilityLevel": "platinum",
-			"steamDeckCatagory": 3
-		},
-		"umuId": null
+	"__timestamp": {
+		"Grand Theft Auto V": "Mon Sep 02 2024 18:50:32 GMT+0530 (India Standard Time)",
+		"Stray": "Fri Sep 06 2024 21:19:57 GMT+0530 (India Standard Time)",
+		"stray": "Fri Sep 06 2024 21:20:38 GMT+0530 (India Standard Time)",
+		"LISA The Painful - Definitive Edition": "Sat Sep 07 2024 18:53:36 GMT+0530 (India Standard Time)"
 	},
-	"Hue": {
+	"Stray": {
 		"pcgamingwiki": {
-			"steamID": "512070",
+			"steamID": "1920780",
 			"howLongToBeatID": "",
 			"metacritic": {
-				"score": "",
-				"urlid": ""
+				"score": "75",
+				"urlid": "stray-gods-the-roleplaying-musical"
 			},
 			"opencritic": {
 				"score": "",
@@ -224,108 +69,97 @@
 				""
 			],
 			"genres": [
-				""
+				"Adventure",
+				"Quicktimeevents"
 			],
 			"releaseDate": [
-				"Windows: June 6, 2018"
+				"Windows: August 10, 2023"
 			]
 		},
 		"applegamingwiki": null,
 		"howlongtobeat": null,
 		"gamesdb": {
-			"steamID": "383270"
+			"steamID": ""
 		},
 		"steamInfo": {
-			"compatibilityLevel": "platinum",
-			"steamDeckCatagory": 2
-		},
-		"umuId": null
-	},
-	"Invincible Presents Atom Eve": {
-		"pcgamingwiki": {
-			"steamID": "2060870",
-			"howLongToBeatID": "132002",
-			"metacritic": {
-				"score": "",
-				"urlid": ""
-			},
-			"opencritic": {
-				"score": "",
-				"urlid": ""
-			},
-			"igdb": {
-				"score": "",
-				"urlid": ""
-			},
-			"direct3DVersions": [
-				"11.4"
-			],
-			"genres": [
-				"Visualnovel"
-			],
-			"releaseDate": [
-				"Windows: November 14, 2023"
-			]
-		},
-		"applegamingwiki": null,
-		"howlongtobeat": null,
-		"gamesdb": {
-			"steamID": "2060870"
-		},
-		"steamInfo": {
-			"compatibilityLevel": "platinum",
+			"compatibilityLevel": "gold",
 			"steamDeckCatagory": 3
 		},
 		"umuId": null
 	},
-	"Fall Guys": {
+	"stray": {
 		"pcgamingwiki": {
-			"steamID": "1097150",
-			"howLongToBeatID": "68270",
+			"steamID": "1920780",
+			"howLongToBeatID": "",
 			"metacritic": {
-				"score": "80",
-				"urlid": "fall-guys-ultimate-knockout"
+				"score": "75",
+				"urlid": "stray-gods-the-roleplaying-musical"
 			},
 			"opencritic": {
-				"score": "80",
-				"urlid": "9913/fall-guys-ultimate-knockout"
+				"score": "",
+				"urlid": ""
 			},
 			"igdb": {
-				"score": "85",
-				"urlid": "fall-guys-ultimate-knockout"
+				"score": "",
+				"urlid": ""
+			},
+			"direct3DVersions": [
+				""
+			],
+			"genres": [
+				"Adventure",
+				"Quicktimeevents"
+			],
+			"releaseDate": [
+				"Windows: August 10, 2023"
+			]
+		},
+		"applegamingwiki": null,
+		"howlongtobeat": null,
+		"gamesdb": {
+			"steamID": ""
+		},
+		"steamInfo": {
+			"compatibilityLevel": "gold",
+			"steamDeckCatagory": 3
+		},
+		"umuId": null
+	},
+	"LISA The Painful - Definitive Edition": {
+		"pcgamingwiki": {
+			"steamID": "335670",
+			"howLongToBeatID": "129712",
+			"metacritic": {
+				"score": "",
+				"urlid": ""
+			},
+			"opencritic": {
+				"score": "74",
+				"urlid": "15231/lisa-definitive-edition"
+			},
+			"igdb": {
+				"score": "",
+				"urlid": ""
 			},
 			"direct3DVersions": [
 				"11"
 			],
 			"genres": [
-				"Battleroyale",
+				"RPG",
 				"Platform"
 			],
 			"releaseDate": [
-				"Windows: August 4, 2020"
+				"Windows: July 18, 2023"
 			]
 		},
 		"applegamingwiki": null,
 		"howlongtobeat": null,
 		"gamesdb": {
-			"steamID": "1097150"
-		},
-		"steamInfo": {
-			"compatibilityLevel": "silver",
-			"steamDeckCatagory": 1
-		},
-		"umuId": null
-	},
-	"Tomb Raider GAME OF THE YEAR EDITION": {
-		"pcgamingwiki": null,
-		"applegamingwiki": null,
-		"howlongtobeat": null,
-		"gamesdb": {
-			"steamID": "203160"
+			"steamID": ""
 		},
 		"steamInfo": {
 			"compatibilityLevel": "platinum",
-			"steamDeckCatagory": 3
+			"steamDeckCatagory": 2
 		},
 		"umuId": null
 	}

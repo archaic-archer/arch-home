@@ -11,26 +11,26 @@ ShowSidebar=false
 ToolBarsMovable=Disabled
 
 [Recent Files]
-File1[$e]=$HOME/Downloads/Profile.pdf
-File10[$e]=/run/media/pc/Files_N_Backup/Backup/SEMESTER_CONTENT_II-IV/2.SEM_III/9. GC.Project.Governance/Dr. Anand Prakash/PPE 602 Project Governance - SESSION 03 Rovigo Case Study.pdf
-File2[$e]=$HOME/Downloads/p2271050-saurabh-kumar.pdf
-File3[$e]=/E-SSD/shared/Amit/JD- Amit_Tender and commercial_2024-25.pdf
-File4[$e]=/run/media/pc/Files_N_Backup/shared/Amit/P2271047.pdf
-File5[$e]=$HOME/Documents/Amit_Resume.pdf
-File6[$e]=$HOME/Documents/Amit vishwakarma.pdf
-File7[$e]=$HOME/README.md
-File8[$e]=/run/media/pc/Files_N_Backup/Backup/Internship/Internship_Report_SaurabhKumar_NICMAR.pdf
-File9[$e]=$HOME/Documents/Resume_Saurabh_Kr.pdf
-Name1[$e]=Profile.pdf
-Name10[$e]=PPE 602 Project Governance - SESSION 03 Rovigo Case Study.pdf
-Name2[$e]=p2271050-saurabh-kumar.pdf
-Name3[$e]=JD- Amit_Tender and commercial_2024-25.pdf
-Name4[$e]=P2271047.pdf
-Name5[$e]=Amit_Resume.pdf
-Name6[$e]=Amit vishwakarma.pdf
-Name7[$e]=README.md
-Name8[$e]=Internship_Report_SaurabhKumar_NICMAR.pdf
-Name9[$e]=Resume_Saurabh_Kr.pdf
+File1[$e]=$HOME/Documents/Amit_Resume.pdf
+File10[$e]=/run/media/pc/Files_N_Backup/KEC_Appointment_Forms/CompaniesAct2013.pdf
+File2[$e]=$HOME/Documents/Amit vishwakarma.pdf
+File3[$e]=$HOME/README.md
+File4[$e]=/run/media/pc/Files_N_Backup/Backup/Internship/Internship_Report_SaurabhKumar_NICMAR.pdf
+File5[$e]=$HOME/Documents/Resume_Saurabh_Kr.pdf
+File6[$e]=/run/media/pc/Files_N_Backup/Backup/SEMESTER_CONTENT_II-IV/2.SEM_III/9. GC.Project.Governance/Dr. Anand Prakash/PPE 602 Project Governance - SESSION 03 Rovigo Case Study.pdf
+File7[$e]=/run/media/pc/Files_N_Backup/KEC_Appointment_Forms/Form_2.pdf
+File8[$e]=/run/media/pc/Files_N_Backup/KEC_Appointment_Forms/Form_F.pdf
+File9[$e]=/run/media/pc/Files_N_Backup/KEC_Appointment_Forms/RPG_Governance.pdf
+Name1[$e]=Amit_Resume.pdf
+Name10[$e]=CompaniesAct2013.pdf
+Name2[$e]=Amit vishwakarma.pdf
+Name3[$e]=README.md
+Name4[$e]=Internship_Report_SaurabhKumar_NICMAR.pdf
+Name5[$e]=Resume_Saurabh_Kr.pdf
+Name6[$e]=PPE 602 Project Governance - SESSION 03 Rovigo Case Study.pdf
+Name7[$e]=Form_2.pdf
+Name8[$e]=Form_F.pdf
+Name9[$e]=RPG_Governance.pdf
 
 [UiSettings]
 ColorScheme=KvArcDark
