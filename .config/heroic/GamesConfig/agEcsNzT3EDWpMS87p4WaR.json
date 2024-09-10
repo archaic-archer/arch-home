@@ -1,0 +1,34 @@
+{
+  "agEcsNzT3EDWpMS87p4WaR": {
+    "autoInstallDxvk": true,
+    "autoInstallDxvkNvapi": true,
+    "autoInstallVkd3d": true,
+    "preferSystemLibs": false,
+    "enableEsync": true,
+    "enableMsync": false,
+    "enableFSR": false,
+    "enableFsync": true,
+    "launcherArgs": "",
+    "nvidiaPrime": true,
+    "enviromentOptions": [],
+    "wrapperOptions": [],
+    "showFps": false,
+    "showMangohud": true,
+    "useGameMode": true,
+    "battlEyeRuntime": true,
+    "eacRuntime": true,
+    "language": "",
+    "beforeLaunchScriptPath": "",
+    "afterLaunchScriptPath": "",
+    "wineVersion": {
+      "bin": "/usr/bin/wine",
+      "name": "Wine Default - wine-9.10 (Staging)",
+      "type": "wine",
+      "wineserver": "/usr/bin/wineserver"
+    },
+    "winePrefix": "/home/pc/.wine",
+    "wineCrossoverBottle": "Heroic"
+  },
+  "version": "v0",
+  "explicit": true
+}

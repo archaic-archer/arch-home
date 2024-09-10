@@ -1,58 +1,7 @@
 {
 	"__timestamp": {
-		"9d2d0eb64d5c44529cece33fe2a46482": "Sat Sep 07 2024 18:48:29 GMT+0530 (India Standard Time)",
-		"ee6a6b5ad66e4d94abe462ba331ddc4b": "Sat Sep 07 2024 18:53:37 GMT+0530 (India Standard Time)"
-	},
-	"9d2d0eb64d5c44529cece33fe2a46482": {
-		"game": {
-			"app_name": "9d2d0eb64d5c44529cece33fe2a46482",
-			"title": "Grand Theft Auto V",
-			"version": "1.0.3274.0_v2",
-			"platform_versions": {
-				"Windows": "1.0.3274.0_v2"
-			},
-			"cloud_saves_supported": false,
-			"cloud_save_folder": null,
-			"cloud_save_folder_mac": null,
-			"is_dlc": false,
-			"external_activation": null,
-			"launch_options": [],
-			"command_line": null,
-			"owned_dlc": []
-		},
-		"install": {
-			"platform": "Windows",
-			"version": "1.0.3274.0_v2",
-			"disk_size": 121281363546,
-			"install_path": "/run/media/pc/Files_N_Backup/GTAV",
-			"save_path": null,
-			"synced_egl_guid": "",
-			"install_tags": [],
-			"requires_ovt": false,
-			"installed_dlc": []
-		},
-		"manifest": {
-			"size": 7478590,
-			"type": "binary",
-			"version": 17,
-			"feature_level": 17,
-			"app_name": "9d2d0eb64d5c44529cece33fe2a46482",
-			"launch_exe": "PlayGTAV.exe",
-			"launch_command": "",
-			"build_version": "1.0.3274.0_v2",
-			"build_id": "-n33NvKafLzbXNfgjsxYBNBucns",
-			"prerequisites": null,
-			"uninstaller": null,
-			"install_tags": [
-				""
-			],
-			"num_files": 386,
-			"num_chunks": 115404,
-			"disk_size": 121281363546,
-			"download_size": 119175027164,
-			"tag_disk_size": [],
-			"tag_download_size": []
-		}
+		"ee6a6b5ad66e4d94abe462ba331ddc4b": "Sat Sep 07 2024 18:53:37 GMT+0530 (India Standard Time)",
+		"9d2d0eb64d5c44529cece33fe2a46482": "Mon Sep 09 2024 12:26:45 GMT+0530 (India Standard Time)"
 	},
 	"ee6a6b5ad66e4d94abe462ba331ddc4b": {
 		"game": {
@@ -91,6 +40,57 @@
 			"num_chunks": 1480,
 			"disk_size": 1574775093,
 			"download_size": 505394342,
+			"tag_disk_size": [],
+			"tag_download_size": []
+		}
+	},
+	"9d2d0eb64d5c44529cece33fe2a46482": {
+		"game": {
+			"app_name": "9d2d0eb64d5c44529cece33fe2a46482",
+			"title": "Grand Theft Auto V",
+			"version": "1.0.3274.0_v2",
+			"platform_versions": {
+				"Windows": "1.0.3274.0_v2"
+			},
+			"cloud_saves_supported": false,
+			"cloud_save_folder": null,
+			"cloud_save_folder_mac": null,
+			"is_dlc": false,
+			"external_activation": null,
+			"launch_options": [],
+			"command_line": null,
+			"owned_dlc": []
+		},
+		"install": {
+			"platform": "Windows",
+			"version": "1.0.3274.0_v2",
+			"disk_size": 121281363546,
+			"install_path": "/GTAV",
+			"save_path": null,
+			"synced_egl_guid": "",
+			"install_tags": [],
+			"requires_ovt": false,
+			"installed_dlc": []
+		},
+		"manifest": {
+			"size": 7478590,
+			"type": "binary",
+			"version": 17,
+			"feature_level": 17,
+			"app_name": "9d2d0eb64d5c44529cece33fe2a46482",
+			"launch_exe": "PlayGTAV.exe",
+			"launch_command": "",
+			"build_version": "1.0.3274.0_v2",
+			"build_id": "-n33NvKafLzbXNfgjsxYBNBucns",
+			"prerequisites": null,
+			"uninstaller": null,
+			"install_tags": [
+				""
+			],
+			"num_files": 386,
+			"num_chunks": 115404,
+			"disk_size": 121281363546,
+			"download_size": 119175027164,
 			"tag_disk_size": [],
 			"tag_download_size": []
 		}

@@ -331,7 +331,7 @@ output eDP-1 {
 #bindsym Ctrl+Shift+alt+w exec "pkill waybar && waybar"
 
 # Open Whatsapp
-set $whatsapp "firefox --new-window web.whatsapp.com"
+set $whatsapp "zen-browser --new-window web.whatsapp.com"
 bindsym $mod+shift+w  exec $whatsapp
 
 # Open Notification Panel

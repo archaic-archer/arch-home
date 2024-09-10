@@ -686,6 +686,279 @@
 		"epic_9d2d0eb64d5c44529cece33fe2a46482": "Mon Sep 02 2024 18:50:30 GMT+0530 (India Standard Time)",
 		"epic_ee6a6b5ad66e4d94abe462ba331ddc4b": "Sat Sep 07 2024 18:53:31 GMT+0530 (India Standard Time)"
 	},
+	"epic_ee6a6b5ad66e4d94abe462ba331ddc4b": {
+		"id": "57544843046828718",
+		"game_id": "56575277197127277",
+		"platform_id": "epic",
+		"external_id": "ee6a6b5ad66e4d94abe462ba331ddc4b",
+		"dlcs_ids": [],
+		"dlcs": [],
+		"parent_id": null,
+		"supported_operating_systems": [
+			{
+				"slug": "linux",
+				"name": "Linux"
+			},
+			{
+				"slug": "osx",
+				"name": "macOS"
+			},
+			{
+				"slug": "windows",
+				"name": "Windows"
+			}
+		],
+		"available_languages": [
+			{
+				"code": "en-US"
+			}
+		],
+		"first_release_date": null,
+		"game": {
+			"id": "56575277197127277",
+			"parent_id": null,
+			"dlcs_ids": [],
+			"first_release_date": "2023-07-18T00:00:00+0000",
+			"releases": [
+				{
+					"id": "57544843046828718",
+					"platform_id": "epic",
+					"external_id": "ee6a6b5ad66e4d94abe462ba331ddc4b",
+					"release_per_platform_id": "epic_ee6a6b5ad66e4d94abe462ba331ddc4b"
+				},
+				{
+					"id": "57618926509566373",
+					"platform_id": "xboxone",
+					"external_id": "1780556395",
+					"release_per_platform_id": "xboxone_1780556395"
+				},
+				{
+					"id": "57734609156235004",
+					"platform_id": "psn",
+					"external_id": "PPSA06123_00",
+					"release_per_platform_id": "psn_PPSA06123_00"
+				},
+				{
+					"id": "57734609170777798",
+					"platform_id": "psn",
+					"external_id": "CUSA31691_00",
+					"release_per_platform_id": "psn_CUSA31691_00"
+				},
+				{
+					"id": "56575277197127277",
+					"platform_id": "generic",
+					"external_id": "56575277197127277",
+					"release_per_platform_id": "generic_56575277197127277"
+				}
+			],
+			"title": {
+				"*": "Lisa: The Painful - Definitive Edition",
+				"en-US": "Lisa: The Painful - Definitive Edition"
+			},
+			"sorting_title": {
+				"*": "Lisa The Painful Definitive Edition",
+				"en-US": "Lisa The Painful Definitive Edition"
+			},
+			"type": "game",
+			"developers_ids": [
+				"51153196375165037"
+			],
+			"developers": [
+				{
+					"id": "51153196375165037",
+					"name": "Dingaling",
+					"slug": "dingaling"
+				}
+			],
+			"publishers_ids": [
+				"51152883343217863"
+			],
+			"publishers": [
+				{
+					"id": "51152883343217863",
+					"name": "Serenity Forge",
+					"slug": "serenity-forge"
+				}
+			],
+			"genres_ids": [
+				"51071842242881003",
+				"51071842251704278",
+				"51071904337940794",
+				"51121492616405278",
+				"51141224662579279"
+			],
+			"genres": [
+				{
+					"id": "51071842242881003",
+					"name": {
+						"*": "Role-playing (RPG)",
+						"en-US": "Role-playing (RPG)"
+					},
+					"slug": "role-playing-rpg"
+				},
+				{
+					"id": "51071842251704278",
+					"name": {
+						"*": "Adventure",
+						"en-US": "Adventure"
+					},
+					"slug": "adventure"
+				},
+				{
+					"id": "51071904337940794",
+					"name": {
+						"*": "Strategy",
+						"en-US": "Strategy"
+					},
+					"slug": "strategy"
+				},
+				{
+					"id": "51121492616405278",
+					"name": {
+						"*": "Indie",
+						"en-US": "Indie"
+					},
+					"slug": "indie"
+				},
+				{
+					"id": "51141224662579279",
+					"name": {
+						"*": "Platform",
+						"en-US": "Platform"
+					},
+					"slug": "platform"
+				}
+			],
+			"themes_ids": [
+				"51141224799400616",
+				"51141224819961538",
+				"51141226418224461",
+				"51141227910729860"
+			],
+			"themes": [
+				{
+					"id": "51141224799400616",
+					"name": {
+						"*": "Comedy",
+						"en-US": "Comedy"
+					},
+					"slug": "comedy"
+				},
+				{
+					"id": "51141224819961538",
+					"name": {
+						"*": "Horror",
+						"en-US": "Horror"
+					},
+					"slug": "horror"
+				},
+				{
+					"id": "51141226418224461",
+					"name": {
+						"*": "Survival",
+						"en-US": "Survival"
+					},
+					"slug": "survival"
+				},
+				{
+					"id": "51141227910729860",
+					"name": {
+						"*": "Drama",
+						"en-US": "Drama"
+					},
+					"slug": "drama"
+				}
+			],
+			"screenshots": [
+				{
+					"url_format": "https://images.gog.com/2c78a7f80ebba4a6905cc4c94f500ee81c40197dbbf8890d7ea5c7ac03b6d3bb{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/7777e6791e86cea19a7424e050bf3977f564ba56ef131ba99cadec52faf8b2d8{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/ace962b495fb5903c62e297c15c73ede1b6282c31ff179eb89080d265ae8a37d{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/b322726c7aba8e099df86a6797542ee70972ff17a2c666a19c0ce2a4329cf341{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/b0f9477656fc94d150730194e0ce0e42bfae2bc6f64d2b897b8506073292c996{formatter}.{ext}?namespace=gamesdb"
+				}
+			],
+			"videos": [
+				{
+					"provider": "youtube",
+					"video_id": "x_cjf8qVAdQ",
+					"thumbnail_id": "x_cjf8qVAdQ",
+					"name": "Announcement Trailer"
+				}
+			],
+			"artworks": [
+				{
+					"url_format": "https://images.gog.com/ba4ef13e7fa4a2b9e757db2b5e65174028e9e046eaa4940d59cafeca48602c37{formatter}.{ext}?namespace=gamesdb"
+				}
+			],
+			"summary": {
+				"*": "Explore Olathe and its dark and twisted secrets with Lisa: The Definitive Edition, including the original story-driven RPG game Lisa: The Painful and its sequel Lisa: The Joyful",
+				"en-US": "Explore Olathe and its dark and twisted secrets with Lisa: The Definitive Edition, including the original story-driven RPG game Lisa: The Painful and its sequel Lisa: The Joyful"
+			},
+			"visible_in_library": true,
+			"aggregated_rating": 90,
+			"game_modes": [
+				{
+					"id": "53051895165351137",
+					"name": "Single player",
+					"slug": "single-player"
+				}
+			],
+			"horizontal_artwork": {
+				"url_format": "https://images.gog.com/f7d6d657a0abab5db34396a751daf7d25a7c917b3a076a1175ffffd7025059de{formatter}.{ext}?namespace=gamesdb"
+			},
+			"background": {
+				"url_format": "https://images.gog.com/f7d6d657a0abab5db34396a751daf7d25a7c917b3a076a1175ffffd7025059de{formatter}.{ext}?namespace=gamesdb"
+			},
+			"vertical_cover": {
+				"url_format": "https://images.gog.com/15cb77798869175d6c1afa9684bbe12673d539e419534ee87563d1d1744fd040{formatter}.{ext}?namespace=gamesdb"
+			},
+			"cover": {
+				"url_format": "https://images.gog.com/15cb77798869175d6c1afa9684bbe12673d539e419534ee87563d1d1744fd040{formatter}.{ext}?namespace=gamesdb"
+			},
+			"logo": {
+				"url_format": "https://images.gog.com/15cb77798869175d6c1afa9684bbe12673d539e419534ee87563d1d1744fd040{formatter}.{ext}?namespace=gamesdb"
+			},
+			"square_icon": {
+				"url_format": "https://images.gog.com/ba4ef13e7fa4a2b9e757db2b5e65174028e9e046eaa4940d59cafeca48602c37{formatter}.{ext}?namespace=gamesdb"
+			},
+			"global_popularity_all_time": 0,
+			"global_popularity_current": 0
+		},
+		"title": {
+			"*": "LISA: The Painful - Definitive Edition",
+			"en-US": "Lisa: The Painful - Definitive Edition"
+		},
+		"sorting_title": {
+			"*": "LISA The Painful Definitive Edition",
+			"en-US": "LISA The Painful Definitive Edition"
+		},
+		"type": "game",
+		"summary": {
+			"*": "Explore Olathe and its dark and twisted secrets with Lisa: The Definitive Edition, including the original story-driven RPG game Lisa: The Painful and its sequel Lisa: The Joyful",
+			"en-US": "Explore Olathe and its dark and twisted secrets with Lisa: The Definitive Edition, including the original story-driven RPG game Lisa: The Painful and its sequel Lisa: The Joyful"
+		},
+		"videos": [],
+		"game_modes": [
+			{
+				"id": "53051895165351137",
+				"name": "Single player",
+				"slug": "single-player"
+			}
+		],
+		"logo": {
+			"url_format": "https://images.gog.com/15cb77798869175d6c1afa9684bbe12673d539e419534ee87563d1d1744fd040{formatter}.{ext}?namespace=gamesdb"
+		},
+		"etag": "W/\"b1daebb1083006f9cece5d0e8b17220b\""
+	},
 	"gog_1491728574": {
 		"id": "57612625522707877",
 		"game_id": "57612625525066547",
@@ -860,7 +1133,7 @@
 			"url_format": "https://images.gog.com/a557fa41364e6d06bfe3fca629755b8371af04082645186fd6fdd55c70aaf147{formatter}.{ext}?namespace=gamesdb"
 		}
 	},
-	"__timestamp.gog_1491728574": "Sat Sep 07 2024 16:38:02 GMT+0530 (India Standard Time)",
+	"__timestamp.gog_1491728574": "Mon Sep 09 2024 12:25:37 GMT+0530 (India Standard Time)",
 	"gog_1106508737": {
 		"id": "56949075998261816",
 		"game_id": "53319454471728597",
@@ -1155,278 +1428,5 @@
 		},
 		"etag": "W/\"82c6b95f286d155881a5a3640cf68dc5\""
 	},
-	"__timestamp.gog_1106508737": "Sat Sep 07 2024 16:38:02 GMT+0530 (India Standard Time)",
-	"epic_ee6a6b5ad66e4d94abe462ba331ddc4b": {
-		"id": "57544843046828718",
-		"game_id": "56575277197127277",
-		"platform_id": "epic",
-		"external_id": "ee6a6b5ad66e4d94abe462ba331ddc4b",
-		"dlcs_ids": [],
-		"dlcs": [],
-		"parent_id": null,
-		"supported_operating_systems": [
-			{
-				"slug": "linux",
-				"name": "Linux"
-			},
-			{
-				"slug": "osx",
-				"name": "macOS"
-			},
-			{
-				"slug": "windows",
-				"name": "Windows"
-			}
-		],
-		"available_languages": [
-			{
-				"code": "en-US"
-			}
-		],
-		"first_release_date": null,
-		"game": {
-			"id": "56575277197127277",
-			"parent_id": null,
-			"dlcs_ids": [],
-			"first_release_date": "2023-07-18T00:00:00+0000",
-			"releases": [
-				{
-					"id": "57544843046828718",
-					"platform_id": "epic",
-					"external_id": "ee6a6b5ad66e4d94abe462ba331ddc4b",
-					"release_per_platform_id": "epic_ee6a6b5ad66e4d94abe462ba331ddc4b"
-				},
-				{
-					"id": "57618926509566373",
-					"platform_id": "xboxone",
-					"external_id": "1780556395",
-					"release_per_platform_id": "xboxone_1780556395"
-				},
-				{
-					"id": "57734609156235004",
-					"platform_id": "psn",
-					"external_id": "PPSA06123_00",
-					"release_per_platform_id": "psn_PPSA06123_00"
-				},
-				{
-					"id": "57734609170777798",
-					"platform_id": "psn",
-					"external_id": "CUSA31691_00",
-					"release_per_platform_id": "psn_CUSA31691_00"
-				},
-				{
-					"id": "56575277197127277",
-					"platform_id": "generic",
-					"external_id": "56575277197127277",
-					"release_per_platform_id": "generic_56575277197127277"
-				}
-			],
-			"title": {
-				"*": "Lisa: The Painful - Definitive Edition",
-				"en-US": "Lisa: The Painful - Definitive Edition"
-			},
-			"sorting_title": {
-				"*": "Lisa The Painful Definitive Edition",
-				"en-US": "Lisa The Painful Definitive Edition"
-			},
-			"type": "game",
-			"developers_ids": [
-				"51153196375165037"
-			],
-			"developers": [
-				{
-					"id": "51153196375165037",
-					"name": "Dingaling",
-					"slug": "dingaling"
-				}
-			],
-			"publishers_ids": [
-				"51152883343217863"
-			],
-			"publishers": [
-				{
-					"id": "51152883343217863",
-					"name": "Serenity Forge",
-					"slug": "serenity-forge"
-				}
-			],
-			"genres_ids": [
-				"51071842242881003",
-				"51071842251704278",
-				"51071904337940794",
-				"51121492616405278",
-				"51141224662579279"
-			],
-			"genres": [
-				{
-					"id": "51071842242881003",
-					"name": {
-						"*": "Role-playing (RPG)",
-						"en-US": "Role-playing (RPG)"
-					},
-					"slug": "role-playing-rpg"
-				},
-				{
-					"id": "51071842251704278",
-					"name": {
-						"*": "Adventure",
-						"en-US": "Adventure"
-					},
-					"slug": "adventure"
-				},
-				{
-					"id": "51071904337940794",
-					"name": {
-						"*": "Strategy",
-						"en-US": "Strategy"
-					},
-					"slug": "strategy"
-				},
-				{
-					"id": "51121492616405278",
-					"name": {
-						"*": "Indie",
-						"en-US": "Indie"
-					},
-					"slug": "indie"
-				},
-				{
-					"id": "51141224662579279",
-					"name": {
-						"*": "Platform",
-						"en-US": "Platform"
-					},
-					"slug": "platform"
-				}
-			],
-			"themes_ids": [
-				"51141224799400616",
-				"51141224819961538",
-				"51141226418224461",
-				"51141227910729860"
-			],
-			"themes": [
-				{
-					"id": "51141224799400616",
-					"name": {
-						"*": "Comedy",
-						"en-US": "Comedy"
-					},
-					"slug": "comedy"
-				},
-				{
-					"id": "51141224819961538",
-					"name": {
-						"*": "Horror",
-						"en-US": "Horror"
-					},
-					"slug": "horror"
-				},
-				{
-					"id": "51141226418224461",
-					"name": {
-						"*": "Survival",
-						"en-US": "Survival"
-					},
-					"slug": "survival"
-				},
-				{
-					"id": "51141227910729860",
-					"name": {
-						"*": "Drama",
-						"en-US": "Drama"
-					},
-					"slug": "drama"
-				}
-			],
-			"screenshots": [
-				{
-					"url_format": "https://images.gog.com/2c78a7f80ebba4a6905cc4c94f500ee81c40197dbbf8890d7ea5c7ac03b6d3bb{formatter}.{ext}?namespace=gamesdb"
-				},
-				{
-					"url_format": "https://images.gog.com/7777e6791e86cea19a7424e050bf3977f564ba56ef131ba99cadec52faf8b2d8{formatter}.{ext}?namespace=gamesdb"
-				},
-				{
-					"url_format": "https://images.gog.com/ace962b495fb5903c62e297c15c73ede1b6282c31ff179eb89080d265ae8a37d{formatter}.{ext}?namespace=gamesdb"
-				},
-				{
-					"url_format": "https://images.gog.com/b322726c7aba8e099df86a6797542ee70972ff17a2c666a19c0ce2a4329cf341{formatter}.{ext}?namespace=gamesdb"
-				},
-				{
-					"url_format": "https://images.gog.com/b0f9477656fc94d150730194e0ce0e42bfae2bc6f64d2b897b8506073292c996{formatter}.{ext}?namespace=gamesdb"
-				}
-			],
-			"videos": [
-				{
-					"provider": "youtube",
-					"video_id": "x_cjf8qVAdQ",
-					"thumbnail_id": "x_cjf8qVAdQ",
-					"name": "Announcement Trailer"
-				}
-			],
-			"artworks": [
-				{
-					"url_format": "https://images.gog.com/ba4ef13e7fa4a2b9e757db2b5e65174028e9e046eaa4940d59cafeca48602c37{formatter}.{ext}?namespace=gamesdb"
-				}
-			],
-			"summary": {
-				"*": "Explore Olathe and its dark and twisted secrets with Lisa: The Definitive Edition, including the original story-driven RPG game Lisa: The Painful and its sequel Lisa: The Joyful",
-				"en-US": "Explore Olathe and its dark and twisted secrets with Lisa: The Definitive Edition, including the original story-driven RPG game Lisa: The Painful and its sequel Lisa: The Joyful"
-			},
-			"visible_in_library": true,
-			"aggregated_rating": 90,
-			"game_modes": [
-				{
-					"id": "53051895165351137",
-					"name": "Single player",
-					"slug": "single-player"
-				}
-			],
-			"horizontal_artwork": {
-				"url_format": "https://images.gog.com/f7d6d657a0abab5db34396a751daf7d25a7c917b3a076a1175ffffd7025059de{formatter}.{ext}?namespace=gamesdb"
-			},
-			"background": {
-				"url_format": "https://images.gog.com/f7d6d657a0abab5db34396a751daf7d25a7c917b3a076a1175ffffd7025059de{formatter}.{ext}?namespace=gamesdb"
-			},
-			"vertical_cover": {
-				"url_format": "https://images.gog.com/15cb77798869175d6c1afa9684bbe12673d539e419534ee87563d1d1744fd040{formatter}.{ext}?namespace=gamesdb"
-			},
-			"cover": {
-				"url_format": "https://images.gog.com/15cb77798869175d6c1afa9684bbe12673d539e419534ee87563d1d1744fd040{formatter}.{ext}?namespace=gamesdb"
-			},
-			"logo": {
-				"url_format": "https://images.gog.com/15cb77798869175d6c1afa9684bbe12673d539e419534ee87563d1d1744fd040{formatter}.{ext}?namespace=gamesdb"
-			},
-			"square_icon": {
-				"url_format": "https://images.gog.com/ba4ef13e7fa4a2b9e757db2b5e65174028e9e046eaa4940d59cafeca48602c37{formatter}.{ext}?namespace=gamesdb"
-			},
-			"global_popularity_all_time": 0,
-			"global_popularity_current": 0
-		},
-		"title": {
-			"*": "LISA: The Painful - Definitive Edition",
-			"en-US": "Lisa: The Painful - Definitive Edition"
-		},
-		"sorting_title": {
-			"*": "LISA The Painful Definitive Edition",
-			"en-US": "LISA The Painful Definitive Edition"
-		},
-		"type": "game",
-		"summary": {
-			"*": "Explore Olathe and its dark and twisted secrets with Lisa: The Definitive Edition, including the original story-driven RPG game Lisa: The Painful and its sequel Lisa: The Joyful",
-			"en-US": "Explore Olathe and its dark and twisted secrets with Lisa: The Definitive Edition, including the original story-driven RPG game Lisa: The Painful and its sequel Lisa: The Joyful"
-		},
-		"videos": [],
-		"game_modes": [
-			{
-				"id": "53051895165351137",
-				"name": "Single player",
-				"slug": "single-player"
-			}
-		],
-		"logo": {
-			"url_format": "https://images.gog.com/15cb77798869175d6c1afa9684bbe12673d539e419534ee87563d1d1744fd040{formatter}.{ext}?namespace=gamesdb"
-		},
-		"etag": "W/\"b1daebb1083006f9cece5d0e8b17220b\""
-	}
+	"__timestamp.gog_1106508737": "Mon Sep 09 2024 12:25:37 GMT+0530 (India Standard Time)"
 }

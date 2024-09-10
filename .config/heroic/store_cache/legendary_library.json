@@ -582,7 +582,7 @@
 			"folder_name": "GTAV",
 			"install": {
 				"executable": "PlayGTAV.exe",
-				"install_path": "/run/media/pc/Files_N_Backup/GTAV",
+				"install_path": "/HDD/GTAV",
 				"install_size": "112.95 GiB",
 				"is_dlc": false,
 				"version": "1.0.3274.0_v2",
@@ -25987,6 +25987,6 @@
 		}
 	],
 	"__timestamp": {
-		"library": "Sat Sep 07 2024 18:53:20 GMT+0530 (India Standard Time)"
+		"library": "Mon Sep 09 2024 12:48:44 GMT+0530 (India Standard Time)"
 	}
 }
