@@ -1,6 +1,6 @@
 [Added Associations]
 application/octet-stream=veracrypt.desktop;
-application/pdf=libreoffice-draw.desktop;okular-3.desktop;okular-2.desktop;okular.desktop;okularApplication_pdf.desktop;mupdf.desktop;brave-browser.desktop;
+application/pdf=okularApplication_pdf.desktop;libreoffice-draw.desktop;okular-3.desktop;okular-2.desktop;okular.desktop;mupdf.desktop;brave-browser.desktop;
 application/rss+xml=userapp-Thunderbird-VX5YN2.desktop;
 application/x-bittorrent=org.qbittorrent.qBittorrent.desktop;
 application/x-executable=libreoffice-writer.desktop;
@@ -75,6 +75,7 @@ x-scheme-handler/snews=userapp-Thunderbird-VWEZN2.desktop;
 x-scheme-handler/webcal=userapp-Thunderbird-AXC3N2.desktop;userapp-Thunderbird-3L8CQ2.desktop;
 x-scheme-handler/webcals=userapp-Thunderbird-AXC3N2.desktop;userapp-Thunderbird-3L8CQ2.desktop;
 application/vnd.openxmlformats-officedocument.wordprocessingml.document=appimagekit_6f5f74613774af8537265ac4c0ec4f51-ONLYOFFICE_Desktop_Editors.desktop;libreoffice-writer.desktop;
+application/x-zerosize=org.gnome.gThumb.desktop;
 
 [Default Applications]
 application/octet-stream=veracrypt.desktop
@@ -156,6 +157,7 @@ x-scheme-handler/nntp=userapp-Thunderbird-VWEZN2.desktop
 x-scheme-handler/snews=userapp-Thunderbird-VWEZN2.desktop
 x-scheme-handler/webcal=userapp-Thunderbird-3L8CQ2.desktop
 x-scheme-handler/webcals=userapp-Thunderbird-3L8CQ2.desktop
+application/x-zerosize=org.gnome.gThumb.desktop
 
 [Removed Associations]
 application/x-bittorrent=appimagekit_6593763888842627da96245a56fbaae7-Motrix.desktop;

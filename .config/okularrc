@@ -1,5 +1,5 @@
 [Desktop Entry]
-FullScreen=false
+FullScreen=true
 shouldShowMenuBarComingFromFullScreen=true
 shouldShowToolBarComingFromFullScreen=true
 
@@ -8,28 +8,29 @@ LockSidebar=true
 ShowSidebar=false
 
 [MainWindow]
+MenuBar=Disabled
 ToolBarsMovable=Disabled
 
 [Recent Files]
-File1[$e]=$HOME/Documents/Amit_Resume.pdf
-File10[$e]=/run/media/pc/Files_N_Backup/KEC_Appointment_Forms/CompaniesAct2013.pdf
-File2[$e]=$HOME/Documents/Amit vishwakarma.pdf
-File3[$e]=$HOME/README.md
-File4[$e]=/run/media/pc/Files_N_Backup/Backup/Internship/Internship_Report_SaurabhKumar_NICMAR.pdf
-File5[$e]=$HOME/Documents/Resume_Saurabh_Kr.pdf
-File6[$e]=/run/media/pc/Files_N_Backup/Backup/SEMESTER_CONTENT_II-IV/2.SEM_III/9. GC.Project.Governance/Dr. Anand Prakash/PPE 602 Project Governance - SESSION 03 Rovigo Case Study.pdf
-File7[$e]=/run/media/pc/Files_N_Backup/KEC_Appointment_Forms/Form_2.pdf
-File8[$e]=/run/media/pc/Files_N_Backup/KEC_Appointment_Forms/Form_F.pdf
-File9[$e]=/run/media/pc/Files_N_Backup/KEC_Appointment_Forms/RPG_Governance.pdf
-Name1[$e]=Amit_Resume.pdf
-Name10[$e]=CompaniesAct2013.pdf
-Name2[$e]=Amit vishwakarma.pdf
-Name3[$e]=README.md
-Name4[$e]=Internship_Report_SaurabhKumar_NICMAR.pdf
-Name5[$e]=Resume_Saurabh_Kr.pdf
-Name6[$e]=PPE 602 Project Governance - SESSION 03 Rovigo Case Study.pdf
-Name7[$e]=Form_2.pdf
-Name8[$e]=Form_F.pdf
+File1[$e]=$HOME/Downloads/Profile.pdf
+File10[$e]=/HDD/KEC_Appointment_Forms/KEC Corporate Presentation_07_May.2024.pdf
+File2[$e]=$HOME/Downloads/RESIDENCE_SUDHA_BRCCO_2024_11753659.pdf
+File3[$e]=$HOME/Downloads/Amit vishwakarma.pdf
+File4[$e]=/HDD/Backup/Documents/PMI_&_ABC/ABC_ID_SWAYAM.pdf
+File5[$e]=$HOME/Documents/10th_Cert.pdf
+File6[$e]=$HOME/Documents/12th_Cert.pdf
+File7[$e]=$HOME/Documents/Grad_Cert.pdf
+File8[$e]=$HOME/Documents/Resume_Saurabh_Kr.pdf
+File9[$e]=/HDD/KEC_Appointment_Forms/RPG_Governance.pdf
+Name1[$e]=Profile.pdf
+Name10[$e]=KEC Corporate Presentation_07_May.2024.pdf
+Name2[$e]=RESIDENCE_SUDHA_BRCCO_2024_11753659.pdf
+Name3[$e]=Amit vishwakarma.pdf
+Name4[$e]=ABC_ID_SWAYAM.pdf
+Name5[$e]=10th_Cert.pdf
+Name6[$e]=12th_Cert.pdf
+Name7[$e]=Grad_Cert.pdf
+Name8[$e]=Resume_Saurabh_Kr.pdf
 Name9[$e]=RPG_Governance.pdf
 
 [UiSettings]

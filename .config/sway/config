@@ -73,7 +73,7 @@ output * bg /home/pc/Wallpapers/car-on-road.jpg fill
     # Start your launcher
     bindsym $mod+d exec "alacritty -e vim ~/.config/sway/config"
     # Start Browser
-    bindsym $mod+w exec zen-browser
+    bindsym $mod+w exec brave
     # Start File Manager
 
     bindsym $mod+e exec thunar
@@ -262,6 +262,7 @@ exec /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
 #exec --no-startup-id waybar
 exec --no-startup-id nm-applet
 exec --no-startup-id kdeconnect-indicator
+exec --no-startup-id syncthing serve
 #exec --no-startup-id thunderbird
 exec --no-startup-id ~/Applications/tutanota-desktop-linux_4e51841f25dac13c7c144a0ef6145ebb.AppImage
 #exec waypaper --restore
