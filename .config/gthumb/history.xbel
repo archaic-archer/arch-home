@@ -3,81 +3,111 @@
       xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
       xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
 >
-  <bookmark href="file:///home/pc/Pictures" added="2024-09-12T06:16:19.414140Z" modified="2024-09-12T06:16:19.414145Z" visited="2024-09-12T06:16:19.414140Z">
+  <bookmark href="file:///home/pc/Downloads" added="2024-09-20T05:56:46.328596Z" modified="2024-09-20T05:56:46.328599Z" visited="2024-09-20T05:56:46.328597Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <bookmark:applications>
-          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2024-09-12T06:16:19.414143Z" count="1"/>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2024-09-20T05:56:46.328598Z" count="1"/>
         </bookmark:applications>
         <bookmark:private/>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/pc/Pictures/Screenshots" added="2024-09-12T06:16:19.414146Z" modified="2024-09-12T06:16:19.414149Z" visited="2024-09-12T06:16:19.414146Z">
+  <bookmark href="file:///HDD/.Takeout/Babaya" added="2024-09-20T05:56:46.328600Z" modified="2024-09-20T05:56:46.328601Z" visited="2024-09-20T05:56:46.328600Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <bookmark:applications>
-          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2024-09-12T06:16:19.414147Z" count="1"/>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2024-09-20T05:56:46.328601Z" count="1"/>
         </bookmark:applications>
         <bookmark:private/>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///E-SSD/Backup/KEC-Induction" added="2024-09-12T06:16:19.414150Z" modified="2024-09-12T06:16:19.414153Z" visited="2024-09-12T06:16:19.414150Z">
+  <bookmark href="file:///home/pc" added="2024-09-20T05:56:46.328602Z" modified="2024-09-20T05:56:46.328604Z" visited="2024-09-20T05:56:46.328602Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <bookmark:applications>
-          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2024-09-12T06:16:19.414152Z" count="1"/>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2024-09-20T05:56:46.328603Z" count="1"/>
         </bookmark:applications>
         <bookmark:private/>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="mtp://Xiaomi_M2101K6P_5ee5bdef/SD%20card/DCIM/WhatsApp%20Images/Sent" added="2024-09-12T06:16:19.414158Z" modified="2024-09-12T06:16:19.414160Z" visited="2024-09-12T06:16:19.414159Z">
+  <bookmark href="file:///home/pc/Pictures" added="2024-09-20T05:56:46.328604Z" modified="2024-09-20T05:56:46.328605Z" visited="2024-09-20T05:56:46.328604Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <bookmark:applications>
-          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2024-09-12T06:16:19.414160Z" count="1"/>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2024-09-20T05:56:46.328605Z" count="1"/>
         </bookmark:applications>
         <bookmark:private/>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="mtp://Xiaomi_M2101K6P_5ee5bdef/SD%20card/DCIM/WhatsApp%20Images" added="2024-09-12T06:16:19.414162Z" modified="2024-09-12T06:16:19.414163Z" visited="2024-09-12T06:16:19.414162Z">
+  <bookmark href="file:///home/pc/Pictures/Screenshots" added="2024-09-20T05:56:46.328606Z" modified="2024-09-20T05:56:46.328608Z" visited="2024-09-20T05:56:46.328606Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <bookmark:applications>
-          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2024-09-12T06:16:19.414163Z" count="1"/>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2024-09-20T05:56:46.328607Z" count="1"/>
         </bookmark:applications>
         <bookmark:private/>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/hdd1/Backup/OneDrive_1_5-9-2024/OfficeMobile/Scan%2011%20Jul%2023%20%C2%B7%2011%C2%B702%C2%B722" added="2024-09-12T06:16:19.414165Z" modified="2024-09-12T06:16:19.414168Z" visited="2024-09-12T06:16:19.414165Z">
+  <bookmark href="file:///E-SSD/Backup/KEC-Induction" added="2024-09-20T05:56:46.328608Z" modified="2024-09-20T05:56:46.328609Z" visited="2024-09-20T05:56:46.328608Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <bookmark:applications>
-          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2024-09-12T06:16:19.414166Z" count="1"/>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2024-09-20T05:56:46.328609Z" count="1"/>
         </bookmark:applications>
         <bookmark:private/>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/hdd1/.Takeout/Babaya/Raw" added="2024-09-12T06:16:19.414169Z" modified="2024-09-12T06:16:19.414171Z" visited="2024-09-12T06:16:19.414169Z">
+  <bookmark href="mtp://Xiaomi_M2101K6P_5ee5bdef/SD%20card/DCIM/WhatsApp%20Images/Sent" added="2024-09-20T05:56:46.328615Z" modified="2024-09-20T05:56:46.328617Z" visited="2024-09-20T05:56:46.328615Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <bookmark:applications>
-          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2024-09-12T06:16:19.414171Z" count="1"/>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2024-09-20T05:56:46.328616Z" count="1"/>
         </bookmark:applications>
         <bookmark:private/>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/hdd1/.Takeout/Photos%20Scattered/Nani_Ghar" added="2024-09-12T06:16:19.414174Z" modified="2024-09-12T06:16:19.414176Z" visited="2024-09-12T06:16:19.414174Z">
+  <bookmark href="mtp://Xiaomi_M2101K6P_5ee5bdef/SD%20card/DCIM/WhatsApp%20Images" added="2024-09-20T05:56:46.328619Z" modified="2024-09-20T05:56:46.328620Z" visited="2024-09-20T05:56:46.328619Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <bookmark:applications>
-          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2024-09-12T06:16:19.414175Z" count="1"/>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2024-09-20T05:56:46.328620Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hdd1/Backup/OneDrive_1_5-9-2024/OfficeMobile/Scan%2011%20Jul%2023%20%C2%B7%2011%C2%B702%C2%B722" added="2024-09-20T05:56:46.328622Z" modified="2024-09-20T05:56:46.328623Z" visited="2024-09-20T05:56:46.328622Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2024-09-20T05:56:46.328623Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hdd1/.Takeout/Babaya/Raw" added="2024-09-20T05:56:46.328624Z" modified="2024-09-20T05:56:46.328625Z" visited="2024-09-20T05:56:46.328624Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2024-09-20T05:56:46.328625Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/hdd1/.Takeout/Photos%20Scattered/Nani_Ghar" added="2024-09-20T05:56:46.328626Z" modified="2024-09-20T05:56:46.328627Z" visited="2024-09-20T05:56:46.328626Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;gthumb %u&apos;" modified="2024-09-20T05:56:46.328627Z" count="1"/>
         </bookmark:applications>
         <bookmark:private/>
       </metadata>

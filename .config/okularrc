@@ -1,5 +1,5 @@
 [Desktop Entry]
-FullScreen=true
+FullScreen=false
 shouldShowMenuBarComingFromFullScreen=true
 shouldShowToolBarComingFromFullScreen=true
 
@@ -8,30 +8,29 @@ LockSidebar=true
 ShowSidebar=false
 
 [MainWindow]
-MenuBar=Disabled
 ToolBarsMovable=Disabled
 
 [Recent Files]
-File1[$e]=$HOME/Downloads/Profile.pdf
-File10[$e]=/HDD/KEC_Appointment_Forms/KEC Corporate Presentation_07_May.2024.pdf
-File2[$e]=$HOME/Downloads/RESIDENCE_SUDHA_BRCCO_2024_11753659.pdf
-File3[$e]=$HOME/Downloads/Amit vishwakarma.pdf
-File4[$e]=/HDD/Backup/Documents/PMI_&_ABC/ABC_ID_SWAYAM.pdf
-File5[$e]=$HOME/Documents/10th_Cert.pdf
-File6[$e]=$HOME/Documents/12th_Cert.pdf
-File7[$e]=$HOME/Documents/Grad_Cert.pdf
-File8[$e]=$HOME/Documents/Resume_Saurabh_Kr.pdf
-File9[$e]=/HDD/KEC_Appointment_Forms/RPG_Governance.pdf
-Name1[$e]=Profile.pdf
-Name10[$e]=KEC Corporate Presentation_07_May.2024.pdf
-Name2[$e]=RESIDENCE_SUDHA_BRCCO_2024_11753659.pdf
-Name3[$e]=Amit vishwakarma.pdf
-Name4[$e]=ABC_ID_SWAYAM.pdf
-Name5[$e]=10th_Cert.pdf
-Name6[$e]=12th_Cert.pdf
-Name7[$e]=Grad_Cert.pdf
-Name8[$e]=Resume_Saurabh_Kr.pdf
-Name9[$e]=RPG_Governance.pdf
+File1[$e]=$HOME/Downloads/RESIDENCE_SUDHA_BRCCO_2024_11753659.pdf
+File10[$e]=/HDD/Android/Android/media/com.whatsapp/WhatsApp/Media/WhatsApp Documents/Your Bill.pdf
+File2[$e]=$HOME/Downloads/Amit vishwakarma.pdf
+File3[$e]=/HDD/Backup/Documents/PMI_&_ABC/ABC_ID_SWAYAM.pdf
+File4[$e]=$HOME/Documents/10th_Cert.pdf
+File5[$e]=$HOME/Documents/12th_Cert.pdf
+File6[$e]=$HOME/Documents/Grad_Cert.pdf
+File7[$e]=$HOME/Documents/Resume_Saurabh_Kr.pdf
+File8[$e]=/HDD/KEC_Appointment_Forms/RPG_Governance.pdf
+File9[$e]=/HDD/KEC_Appointment_Forms/KEC Corporate Presentation_07_May.2024.pdf
+Name1[$e]=RESIDENCE_SUDHA_BRCCO_2024_11753659.pdf
+Name10[$e]=Your Bill.pdf
+Name2[$e]=Amit vishwakarma.pdf
+Name3[$e]=ABC_ID_SWAYAM.pdf
+Name4[$e]=10th_Cert.pdf
+Name5[$e]=12th_Cert.pdf
+Name6[$e]=Grad_Cert.pdf
+Name7[$e]=Resume_Saurabh_Kr.pdf
+Name8[$e]=RPG_Governance.pdf
+Name9[$e]=KEC Corporate Presentation_07_May.2024.pdf
 
 [UiSettings]
 ColorScheme=KvArcDark

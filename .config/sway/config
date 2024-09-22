@@ -73,7 +73,7 @@ output * bg /home/pc/Wallpapers/car-on-road.jpg fill
     # Start your launcher
     bindsym $mod+d exec "alacritty -e vim ~/.config/sway/config"
     # Start Browser
-    bindsym $mod+w exec brave
+    bindsym $mod+w exec zen-browser
     # Start File Manager
 
     bindsym $mod+e exec thunar
@@ -252,6 +252,10 @@ hide_edge_borders smart
 # Volume Control
 bindsym $mod+F2 exec pactl set-sink-volume @DEFAULT_SINK@ +5% && notify-send "Volume Increased"
 bindsym $mod+F1 exec pactl set-sink-volume @DEFAULT_SINK@ -5% && notify-send "Volume Decreased"
+
+#BENQ Monitor Brightness Control
+bindsym $mod+F6 exec "ddccontrol -r 0x10 -W +5 dev:/dev/i2c-11"
+bindsym $mod+F5 exec "ddccontrol -r 0x10 -W -5 dev:/dev/i2c-11"
 
 
 #startup
